@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[79264],{88885:e=>{e.exports=JSON.parse('{"label":"power apps component frameworkpower-platform","permalink":"/hubv2/blog/tags/power-apps-component-frameworkpower-platform","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);

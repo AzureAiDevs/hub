@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[93983],{18843:e=>{e.exports=JSON.parse('{"label":"app lifecycle management","permalink":"/hubv2/blog/tags/app-lifecycle-management","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);

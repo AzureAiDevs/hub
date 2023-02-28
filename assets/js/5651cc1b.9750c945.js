@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[79623],{78516:e=>{e.exports=JSON.parse('{"label":"powerfx","permalink":"/hubv2/blog/tags/powerfx","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);

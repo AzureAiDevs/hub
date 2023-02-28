@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[18862],{42313:e=>{e.exports=JSON.parse('{"label":"managed environment","permalink":"/hubv2/blog/tags/managed-environment","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);

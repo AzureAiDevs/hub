@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[59796],{73390:e=>{e.exports=JSON.parse('{"permalink":"/hubv2/blog/tags/recap","page":1,"postsPerPage":1,"totalPages":4,"totalCount":4,"nextPage":"/hubv2/blog/tags/recap/page/2","blogDescription":"Jumpstart your #AzureAI with #30Days of content and resources","blogTitle":"#30DaysOfAzureAI"}')}}]);
