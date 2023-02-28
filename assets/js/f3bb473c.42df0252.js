@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[32421],{9344:a=>{a.exports=JSON.parse('{"label":"canvas-apps","permalink":"/hubv2/blog/tags/canvas-apps","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);

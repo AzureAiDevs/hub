@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[35200],{51182:e=>{e.exports=JSON.parse('{"label":"power pages","permalink":"/hubv2/blog/tags/power-pages","allTagsPath":"/hubv2/blog/tags","count":1}')}}]);
