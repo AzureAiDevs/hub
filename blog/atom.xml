@@ -8,105 +8,467 @@
     <subtitle>Azure AI Developer Hub Blog</subtitle>
     <icon>https://azureaidevs.github.io/hubv2/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[It's AI April!]]></title>
-        <id>https://azureaidevs.github.io/hubv2/blog/2023-kickoff</id>
-        <link href="https://azureaidevs.github.io/hubv2/blog/2023-kickoff"/>
-        <updated>2023-03-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the launch of #AiApril https://aka.ms/ai-april - a month-long developer journey that will take you from app development tips, to fusion teams insights, and hands-on tutorials to skill you up on Power Platform, Microsoft Azure!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-ai-april">Welcome to AI April!<a href="#welcome-to-ai-april" class="hash-link" aria-label="Direct link to Welcome to AI April!" title="Direct link to Welcome to AI April!">​</a></h2><p>April, how can it be April already, the year is flying by! April is a great month to start "The Learn New things" resolution we all promised ourselves. It's time to learn some new tricks. Join us for a month of learning, making, and sharing!</p><p>We are excited to announce the <strong>launch of #AiApril</strong>, a month-long developer journey that will take you from integrating AI into your apps, understanding Azure ML, MLOps, Accessibility and AI, and Responsible AI.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-will-we-cover">What will we cover?<a href="#what-will-we-cover" class="hash-link" aria-label="Direct link to What will we cover?" title="Direct link to What will we cover?">​</a></h2><p>Let's talk about what you will learn in our developer journey this month. We have multiple initiatives in mind that can help you <em>learn</em>, <em>engage with experts</em>, <em>contribute to community</em> and <em>watch videos</em> at your own pace.</p><p><img loading="lazy" alt="LCF Banner" src="/hubv2/assets/images/lcf-banner-afd117c7604fa9f2ace6a32a14d7cf15.png" width="1600" height="672" class="img_ev3q"></p><ol><li>The <a href="/hubv2/blog"><strong>#30DaysOfAzureAI</strong></a> blog series helps you <em>learn</em> by reading posts from experts, taking you on a 4-week journey from fundamentals, to integrating AI into your apps, building and managing ML models with Azure ML, understanding and implementing the principles of Responsible AI, and ensure your AI solutions are accessible to all!</li><li>The <a href="/hubv2/docs/intro/"><strong>Dev Workshops</strong></a> page will learning tutorials and resources for all levels, from beginner to advanced. There beginners courses for budding Data Scientists and AI and ML Engineers.</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-can-you-participate">How can you participate?<a href="#how-can-you-participate" class="hash-link" aria-label="Direct link to How can you participate?" title="Direct link to How can you participate?">​</a></h2><p>Want to get started on your Azure AI development journey with us? Here are some actions you can take today:</p><ul><li>1️⃣ <a href="http://aka.ms/ai-april" target="_blank" rel="noopener noreferrer"><strong>Save</strong></a> the page to start your learning on Feb 1, and <a href="https://microsoft.github.io/Low-Code/blog/rss.xml" target="_blank" rel="noopener noreferrer"><strong>Subscribe</strong></a> to the blog in your favorite feed reader for updates.</li><li>2️⃣ <a href="https://aka.ms/ai-april/challenge" target="_blank" rel="noopener noreferrer"><strong>Sign to the Azure AI Developer Newsletter</strong></a>.</li></ul><p>Ready to get started learning about building the next generation AI powered solutions?</p><p>🏁 Let's go</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="unlock-the-potential-of-ai">Unlock the Potential of AI<a href="#unlock-the-potential-of-ai" class="hash-link" aria-label="Direct link to Unlock the Potential of AI" title="Direct link to Unlock the Potential of AI">​</a></h2><p>This keynote video features John Montgomery, Corporate Vice President of Azure AI, Bob Breynaert, Dona Sarkar and Sharon Lo. They discuss the latest developments in AI at Microsoft, including the Azure OpenAI Service. They explore how AI can be used to improve accessibility and the importance of ethics and responsibility when it comes to AI. They also discuss the challenges and opportunities that come with the development of AI. The keynote video provides a comprehensive overview of the latest developments in AI at Microsoft and the implications for the future.</p><iframe width="100%" height="420" src="https://keynote.globalaibootcamp.com/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>]]></content>
-        <author>
-            <name>Dave Glover</name>
-            <uri>https://github.com/gloveboxes</uri>
-        </author>
-        <category label="low-code-february" term="low-code-february"/>
-        <category label="30-days-of-lowcode" term="30-days-of-lowcode"/>
-        <category label="learn-live" term="learn-live"/>
-        <category label="zero-to-hero" term="zero-to-hero"/>
-        <category label="ask-the-expert" term="ask-the-expert"/>
-        <category label="fusion-teams" term="fusion-teams"/>
-        <category label="power-platform" term="power-platform"/>
-        <category label="kickoff" term="kickoff"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1. Hello, Azure OpenAI Service!]]></title>
+        <title type="html"><![CDATA[1. 🧮Kick Starting AI April!]]></title>
         <id>https://azureaidevs.github.io/hubv2/blog/2023-day1</id>
         <link href="https://azureaidevs.github.io/hubv2/blog/2023-day1"/>
-        <updated>2023-04-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at https://aka.ms/ai-april]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Day 01</code> of #30DaysOfAzureAI!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><ul><li>Why OpenAI?</li><li>learn about the Azure OpenAI Service Playground</li></ul><p><img loading="lazy" alt="Post Banner" src="/hubv2/assets/images/30-01-f393b344eaa640f02bc39a709257ccbf.png" width="1001" height="420" class="img_ev3q"></p><p>OpenAI and its disruptive development of generative models are probably the most trending topic in the Tech industry today. With good reason.</p><p>The company indeed aims to promote and develop friendly AI in a way that benefits humanity as a whole. OpenAI also provides a platform for training and deploying AI models, as well as offering pre-trained models that can be fine-tuned for specific tasks.</p><p>It focuses on generative AI models, like GPT-3 (language generation) or DALL-E (image generation based on natural language input).</p>]]></content>
+        <updated>2023-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at [AI April](https://aka.ms/ai-april)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-1-of-30daysofazureai">Welcome to <em>Day 1</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-1-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-1-of-30daysofazureai" title="Direct link to welcome-to-day-1-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at <a href="https://aka.ms/ai-april" target="_blank" rel="noopener noreferrer">AI April</a></p>]]></content>
         <author>
-            <name>Valentina Alto</name>
-            <uri>https://github.com/Valentina-Alto</uri>
-        </author>
-        <category label="low-code-february" term="low-code-february"/>
-        <category label="30-days-of-lowcode" term="30-days-of-lowcode"/>
-        <category label="learn-live" term="learn-live"/>
-        <category label="zero-to-hero" term="zero-to-hero"/>
-        <category label="ask-the-expert" term="ask-the-expert"/>
-        <category label="fusion-teams" term="fusion-teams"/>
-        <category label="power-platform" term="power-platform"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2. Azure Machine Learning!]]></title>
-        <id>https://azureaidevs.github.io/hubv2/blog/2023-day2</id>
-        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day2"/>
-        <updated>2023-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at https://aka.ms/ai-april. Today we talk about what Azure AI means, and how Power Platform can help!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Day 02</code> of #30DaysOfAzureAI!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><ul><li>What is Azure AI?</li><li>How are the Benefits? </li><li>What does Power Platform Provide?</li><li>How can we extend Power Platform?</li><li><strong>Activity</strong>: Join the <a href="https://aka.ms/ai-april/challenge" target="_blank" rel="noopener noreferrer">Cloud Skills Challenge</a></li><li><strong>Resources</strong>: Explore the <a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer">AI April Collection</a></li></ul><p><img loading="lazy" alt="You say Low, I say Code!" src="/hubv2/assets/images/30-02-ab81170656cc54b7b96147d661b72ae8.png" width="1001" height="420" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="you-say-low-i-say-code">You say Low, I say Code!<a href="#you-say-low-i-say-code" class="hash-link" aria-label="Direct link to You say Low, I say Code!" title="Direct link to You say Low, I say Code!">​</a></h2><p>There is a Azure AI revolution underway. We have a surging digital demand with an estimated 500 million more apps that will need to be created in the next 5 years. More and more companies are leveraging Azure AI and no code platforms to bridge this app gap and address workflow and automation needs. In fact, Gartner estimates that 65% of application development will be Azure AI by 2024.</p><p>With Azure AI tools like the Power Platform making it easier for business technologists to develop solutions, you might wonder if there's any room for a code first developer in this Azure AI revolution. Well, the answer is, absolutely there is! In fact, code first developers are a critical piece to the puzzle.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-azure-ai">What is "Azure AI"?<a href="#what-is-azure-ai" class="hash-link" aria-label="Direct link to What is &quot;Azure AI&quot;?" title="Direct link to What is &quot;Azure AI&quot;?">​</a></h2><p>The term "Azure AI" can mean different things to different people when they first hear it. What we mean when we talk about Azure AI is that with tools like Power Apps, you only need to write a small amount of code to get results that would normally take several more lines of code in a traditional programming language.</p><p><img loading="lazy" alt="What is Azure AI" src="/hubv2/assets/images/02_WhatIsLowCode-4f9966b58f106fe0bb5d6d4da968dd5a.png" width="1937" height="1070" class="img_ev3q"></p><p>In canvas-based Power Apps, the Azure AI scripting language used is called <a href="https://aka.ms/LearnPowerFx" target="_blank" rel="noopener noreferrer">Power Fx</a>. This language is based on the Microsoft Excel formula language which meets many business technologists where they are by leveraging the knowledge they already have.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="azure-ai--full-code--no-cliffs">Azure AI + Full Code = No Cliffs<a href="#azure-ai--full-code--no-cliffs" class="hash-link" aria-label="Direct link to Azure AI + Full Code = No Cliffs" title="Direct link to Azure AI + Full Code = No Cliffs">​</a></h2><p>Using low-code tools is key to helping to resolve the existing and impending app gap challenge but that doesn't mean that Azure AI alone can solve every business problem. Azure AI tools like the Power Platform's full potential is unlocked when you combine the Azure AI capabilities with code first development.</p><p>The combination of Azure AI + full code creates what we call a "no cliffs" experience that allows business technologists to easily build solutions with Azure AI while professional developers can leverage full code to augment and extend the platform capabilities. The process of Azure AI developers, IT pros and full code developers working together like this is often referred to as "fusion development".</p><p><img loading="lazy" alt="Fusion Development Process" src="/hubv2/assets/images/02_FusionDevProcess-1d75a4cfd7019909a56ca5ca3499316d.png" width="1937" height="1070" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-does-the-power-platform-provide">What does the Power Platform Provide?<a href="#what-does-the-power-platform-provide" class="hash-link" aria-label="Direct link to What does the Power Platform Provide?" title="Direct link to What does the Power Platform Provide?">​</a></h2><p>The Power Platform gives us a holistic suite of Azure AI tools that work together to help us solve business problems. The key products and components of the Power Platform include:</p><ul><li><strong>Power Apps</strong> for creating custom applications for web and mobile that can be integrated with a variety of systems and services.</li><li><strong>Power Automate</strong> for automation tasks and orchestrating activities across various services</li><li><strong>Power BI</strong> for business analytics and interactive data visualization</li><li><strong>Power Virtual Agents</strong> for creating AI-powered chatbots that can answer questions from your customers and employees</li><li><strong>Power Pages</strong> for secure, enterprise-grade external-facing business websites</li><li><strong>Dataverse</strong> which provides a cloud scale data store with robust security that abstracts away data management complexity from the app maker</li></ul><p><img loading="lazy" alt="Power Platform Overview" src="/hubv2/assets/images/02_PowerPlatformOverview-78e3e950cd1ecb102d264eca0db14efa.png" width="1254" height="581" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-can-we-extend-power-platform-solutions">How can we extend Power Platform solutions?<a href="#how-can-we-extend-power-platform-solutions" class="hash-link" aria-label="Direct link to How can we extend Power Platform solutions?" title="Direct link to How can we extend Power Platform solutions?">​</a></h2><p>You might wondering how you can leverage your code first skills with the Power Platform. Let's take a look at some ways that we can extend our Power Platform solutions with code (many of these concepts will be covered in more detail in later blog posts).</p><ul><li><strong>UI Components</strong> - Leverage the <a href="https://aka.ms/LowCodePCF" target="_blank" rel="noopener noreferrer">Power Apps Component Framework</a> to extend the UI of our applications with custom code.</li><li><strong>Custom Connectors</strong> - Create <a href="https://aka.ms/LowCodeCustomConnectors" target="_blank" rel="noopener noreferrer">custom connectors</a>, which are essentially a wrapper around an API to communicate to our external data sources and services.</li><li><strong>Custom Visuals in Power BI</strong> - Use the open-source SDK to create <a href="https://aka.ms/LowCodeCustomVisuals" target="_blank" rel="noopener noreferrer">custom visuals</a> for your reports and dashboards</li><li><strong>Custom Business Logic</strong> - Extend the <a href="https://aka.ms/LowCodeDataverseAPI" target="_blank" rel="noopener noreferrer">Dataverse API</a> with your own custom API that implements your business logic</li><li><strong>Add CI/CD</strong> - Setup continuous integration and continuous deployment (<a href="https://aka.ms/LowCodeALM" target="_blank" rel="noopener noreferrer">CI/CD</a>) with your Power Platform solutions</li></ul><p><img loading="lazy" alt="Power Platform Pro Dev extensions" src="/hubv2/assets/images/02_Extend-c65dc3a6bde0fa96c118ff6caffce29b.png" width="1266" height="537" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's next?<a href="#whats-next" class="hash-link" aria-label="Direct link to What's next?" title="Direct link to What's next?">​</a></h2><p>In the next series of posts you'll learn more about some of these core concepts and extension points. </p><p>If all of this sounds intriguing and you want to get started on your Azure AI development journey, here are some actions you can take:</p><ul><li>1️⃣ <a href="https://aka.ms/ai-april/devplan" target="_blank" rel="noopener noreferrer"><strong>Sign up</strong></a> for the free Power Apps Developer Plan.</li><li>2️⃣ <a href="https://aka.ms/ai-april/challenge" target="_blank" rel="noopener noreferrer"><strong>Enroll</strong></a> in the Cloud Skills Challenge to learn more about Azure AI and fusion team fundamentals and start climbing that leaderboard!</li><li>3️⃣ <a href="http://aka.ms/ai-april" target="_blank" rel="noopener noreferrer"><strong>Save</strong></a> the page to start your learning on Feb 1, and <a href="https://microsoft.github.io/Low-Code/blog/rss.xml" target="_blank" rel="noopener noreferrer"><strong>Subscribe</strong></a> to the blog in your favorite feed reader for updates.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources">Resources<a href="#resources" class="hash-link" aria-label="Direct link to Resources" title="Direct link to Resources">​</a></h2><ul><li><a href="https://learn.microsoft.com/training/modules/introduction-power-platform//?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Introduction to the Power Platform</a></li><li><a href="https://learn.microsoft.com/power-apps/guidance/fusion-dev-ebook/?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Fusion Development with Power Platform EBook</a></li><li><a href="https://learn.microsoft.com/training/paths/transform-business-applications-with-fusion-development/?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Fusion Development with Power Platform Learning Path</a></li><li><a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer">Learn Collection: AI April</a></li></ul><p><img loading="lazy" alt="Campaign Banner" src="/hubv2/assets/images/30-banner-d9bab2b92d758942447a4cbc50aef715.png" width="1334" height="560" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Beatriz Stollnitz</name>
-            <uri>https://github.com/bstollnitz</uri>
-        </author>
-        <category label="low-code-february" term="low-code-february"/>
-        <category label="30-days-of-lowcode" term="30-days-of-lowcode"/>
-        <category label="learn-live" term="learn-live"/>
-        <category label="zero-to-hero" term="zero-to-hero"/>
-        <category label="ask-the-expert" term="ask-the-expert"/>
-        <category label="fusion-teams" term="fusion-teams"/>
-        <category label="power-platform" term="power-platform"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3. Thinking Responsible AI]]></title>
-        <id>https://azureaidevs.github.io/hubv2/blog/2023-day3</id>
-        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day3"/>
-        <updated>2023-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how you can get onboard with Power Platform by signing up forthe Power Apps Developer Plan!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Day #03</code> of #30DaysOfAzureAI!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><ul><li>Get onboard with Power Platform</li><li>Sign up for the Power Apps Developer Plan</li><li>Get familiar with the tools</li><li><strong>Activity</strong>: Sign up for your <a href="https://aka.ms/ai-april/devplan" target="_blank" rel="noopener noreferrer">Developer Plan</a></li><li><strong>Resources</strong>: Explore the <a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer">AI April Collection</a></li></ul><p><img loading="lazy" alt="Developer Tools and Onboarding" src="/hubv2/assets/images/30-03-a560ed2fce05a72e7049f4d0d3be8b0b.png" width="1001" height="420" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-onboard-with-power-platform">Get onboard with Power Platform!<a href="#get-onboard-with-power-platform" class="hash-link" aria-label="Direct link to Get onboard with Power Platform!" title="Direct link to Get onboard with Power Platform!">​</a></h2><p>I'm excited to announce that now you can create up to 3 developer environments with the Power Apps Developer Plan! Let's take this opportunity to review how to get a free environment to get started.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="sign-up-for-the-power-apps-developer-plan">Sign up for the Power Apps Developer Plan<a href="#sign-up-for-the-power-apps-developer-plan" class="hash-link" aria-label="Direct link to Sign up for the Power Apps Developer Plan" title="Direct link to Sign up for the Power Apps Developer Plan">​</a></h2><p>The Power Apps Developer Plan gives you a free development environment to build and test with Power Apps, Power Automate, and Microsoft Dataverse.
-It just takes a few minutes to get a developer environment for Power Platform:</p><ol><li>Ensure that you have a work account. If you don't,&nbsp;you can <a href="#do-i-need-a-test-tenant">create a test tenant first.</a></li><li>Sign up on the&nbsp;<a href="https://aka.ms/ai-april/devplan" target="_blank" rel="noopener noreferrer">Power Apps Developer Plan website</a>.</li><li>Once the sign up is complete, you will be redirected to your new developer environment.</li></ol><p><img loading="lazy" alt="Power Apps Developer Plan - sign up process" src="/hubv2/assets/images/01 - devplan signup-3afa66fd4f7c0edb8e766ff2cc60b9c0.gif" width="1920" height="1080" class="img_ev3q">
-<em>Power Apps Developer Plan - sign up process</em></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="do-i-need-a-test-tenant">Do I need a test tenant?<a href="#do-i-need-a-test-tenant" class="hash-link" aria-label="Direct link to Do I need a test tenant?" title="Direct link to Do I need a test tenant?">​</a></h3><p>In an ideal world you would use your existing work account to sign up for the Power Apps Developer Plan. If you already have an Azure account, you likely can use the same account to sign up. If this is not possible for any reason, you can create a free test tenant using the <a href="https://learn.microsoft.com/power-platform/developer/create-developer-environment#how-to-create-a-test-tenant" target="_blank" rel="noopener noreferrer">Microsoft 365 Developer Program</a>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-familiar-with-the-tools">Get familiar with the tools<a href="#get-familiar-with-the-tools" class="hash-link" aria-label="Direct link to Get familiar with the tools" title="Direct link to Get familiar with the tools">​</a></h2><p>After the sign up you will be in the <a href="https://make.powerapps.com" target="_blank" rel="noopener noreferrer">https://make.powerapps.com</a> and your environment will be ready to use. You can start creating your first Power App.</p><p>If you would like to create more environments or manage your environment, visit the <a href="https://aka.ms/ppac" target="_blank" rel="noopener noreferrer">Power Platform Administrator Center.</a></p><p><img loading="lazy" alt="Create new environments in the Power Platform Admin Center" src="/hubv2/assets/images/01 - devplan PPAC-86758d335b4009972e36e1e37ae737ff.gif" width="1920" height="1080" class="img_ev3q">
-<em>Create new environments in the Power Platform Admin Center</em></p><p>If you are a code first developer, you can use the Power Platform CLI to manage your environments, create code first components and much more. The best way to get our CLI is to download the <a href="https://learn.microsoft.com/power-platform/developer/cli/introduction" target="_blank" rel="noopener noreferrer">Visual Studio Code extension.</a></p><p><img loading="lazy" alt="Power Platform Tools for Visual Studio Code" src="/hubv2/assets/images/01 - devplan CLI-5d47902f150aef319a6100d7362b1481.gif" width="1920" height="1080" class="img_ev3q">
-<em>Power Platform Tools for Visual Studio Code</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's next?<a href="#whats-next" class="hash-link" aria-label="Direct link to What's next?" title="Direct link to What's next?">​</a></h2><p>Are you a code first developer? To understand how Power Platform can make you more productive and how you can use code to extend the platform, check the <a href="https://learn.microsoft.com/power-platform/developer/get-started" target="_blank" rel="noopener noreferrer">Introduction to Microsoft Power Platform for developers</a>.</p><ul><li><p>For detailed information on the Power Apps Developer plan: <a href="https://learn.microsoft.com/power-apps/maker/developer-plan" target="_blank" rel="noopener noreferrer">Sign up for Power Apps Developer Plan</a></p></li><li><p>For detailed information on licensing: <a href="https://learn.microsoft.com/power-platform/admin/pricing-billing-skus" target="_blank" rel="noopener noreferrer">Licensing overview for Microsoft Power Platform</a></p></li></ul><p>Happy coding 🎉.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources">Resources<a href="#resources" class="hash-link" aria-label="Direct link to Resources" title="Direct link to Resources">​</a></h2><ul><li><a href="https://learn.microsoft.com/training/modules/introduction-power-platform//?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Introduction to the Power Platform</a></li><li><a href="https://learn.microsoft.com/power-apps/guidance/fusion-dev-ebook/?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Fusion Development with Power Platform EBook</a></li><li><a href="https://learn.microsoft.com/training/paths/transform-business-applications-with-fusion-development/?WT.mc_id=power-82212-apdunnam" target="_blank" rel="noopener noreferrer">Fusion Development with Power Platform Learning Path</a></li><li><a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer">Learn Collection: AI April</a></li></ul><p><img loading="lazy" alt="Campaign Banner" src="/hubv2/assets/images/30-banner-d9bab2b92d758942447a4cbc50aef715.png" width="1334" height="560" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Ruth Yakubu</name>
-            <uri>https://github.com/ruyakubu</uri>
-        </author>
-        <category label="low-code-february" term="low-code-february"/>
-        <category label="30-days-of-lowcode" term="30-days-of-lowcode"/>
-        <category label="learn-live" term="learn-live"/>
-        <category label="zero-to-hero" term="zero-to-hero"/>
-        <category label="ask-the-expert" term="ask-the-expert"/>
-        <category label="fusion-teams" term="fusion-teams"/>
-        <category label="power-platform" term="power-platform"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5. Recap - Fundamentals Week ✨]]></title>
-        <id>https://azureaidevs.github.io/hubv2/blog/2023-day5</id>
-        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day5"/>
-        <updated>2023-04-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's recap Week 1 of #30DaysOfAzureAI focused on #PowerPlatform Fundamentals - join us at #AiApril https://aka.ms/ai-april]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Day 05</code> of #30DaysOfAzureAI!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><ul><li><strong>Look Back</strong>: Recap Fundamentals Week</li><li><strong>Self-Study</strong>: Resources to dive deeper</li><li><strong>Look Ahead</strong>: It's Integrations Week!</li><li><strong>Activity</strong>: Sign up for your <a href="https://aka.ms/ai-april/devplan" target="_blank" rel="noopener noreferrer">Developer Plan</a></li><li><strong>Resources</strong>: Explore the <a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer">AI April Collection</a></li></ul><p><img loading="lazy" alt="#30DaysOfAzureAI Week 1 Recap" src="/hubv2/assets/images/30-05-b4d5650de8cc8f3f01300e825742e55c.png" width="1001" height="420" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="look-back-week-1-recap">Look Back: Week 1 Recap<a href="#look-back-week-1-recap" class="hash-link" aria-label="Direct link to Look Back: Week 1 Recap" title="Direct link to Look Back: Week 1 Recap">​</a></h2><p>Wow, AI April is a hit! We've had <strong>40k+ visits</strong> to our website campaign and <strong>1400+ of you</strong> signed up to take the Cloud Skills Challenge and <em>skill yourself on all things low code</em>! This is incredible and we're super honored to have built something that you, the community, have found valuable! We know that we couldn't have gone so far without the support from everyone of you who's reading this blog right now. THANK YOU! ❤️</p><p><img loading="lazy" alt="Week 1 Roadmap" src="/hubv2/assets/images/30-roadmap-week1-b013972e42fa22f38dcb1a566c344cba.png" width="1000" height="563" class="img_ev3q"></p><p>Here are the highlights for week 1. If you're just joining us, welcome!! It's not too late to get started learning and skilling up, with two core activities:</p><ol><li><p><a href="https://aka.ms/ai-april/challenge" target="_blank" rel="noopener noreferrer"><strong>Cloud skills Challenge</strong></a> - gives you a free curated set of learning modules to jumpstart your learning journey into Azure AI and Fusion development. Get building amazing Power Platform solutions using pro-code tools and frameworks. Register now and get on the leaderboard!</p></li><li><p><a href="https://aka.ms/ai-april/blog" target="_blank" rel="noopener noreferrer"><strong>#30DaysOfAzureAI</strong></a> - gives you daily blog posts from experts. We started this week with a look at <strong>Power Platform fundamentals</strong> (core concepts) and ended it with a look at <strong>Developer Stories</strong> celebrating our low-code and code-first developer communities with real-world case studies.</p><ul><li>🥇 First time hearing the term <em>low-code</em> and want to learn how it helps in your day-to-day work? Read <a href="https://microsoft.github.io/Low-Code/blog/2023-day2" target="_blank" rel="noopener noreferrer"><strong>You say Low, I say Code!</strong></a> for a quick introduction.</li><li>🆕 Never used <em>Power Platform before</em>? Read <a href="http://localhost:3000/Low-Code/blog/2023-day3" target="_blank" rel="noopener noreferrer"><strong>DevTools &amp; Onboarding</strong></a> to get full onboarding guidance, and setup your development environment for success!</li><li>🚀 Want to hear stories from your peers, and understand why more and more code-first developers have turned to low-code and embrace the technology in their daily work? Read <a href="https://aka.ms/ai-april/blog/PowerForPros" target="_blank" rel="noopener noreferrer"><strong>Developer Stories</strong></a> posted by our amazing Power Platforms PM team at <a href="https://aka.ms/ai-april/0ToHero" target="_blank" rel="noopener noreferrer"><strong>ZeroToHero</strong>🚀</a>.</li></ul></li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="self-study-resources">Self-Study: Resources<a href="#self-study-resources" class="hash-link" aria-label="Direct link to Self-Study: Resources" title="Direct link to Self-Study: Resources">​</a></h2><p>Don't have the time to follow day by day? Here're 3 self-study materials that you should know about to help you learn at your own pace:</p><ol><li><a href="https://aka.ms/ai-april/collection" target="_blank" rel="noopener noreferrer"><strong>Resource Collection</strong></a>: Bookmark the collection for a 1-stop resource containing all relevant links to documentation and training, as covered in the #30DaysOfAzureAI blogs.</li><li><a href="https://aka.ms/ai-april/workshop" target="_blank" rel="noopener noreferrer"><strong>Hands-on Workshops</strong></a>: learn by doing! These labs help you gain hands-on experience from intro to advanced, whereever you're in the learning path.</li><li><a href="http://localhost:3000/Low-Code/ai-april/Video-Live#ask-the-experts" target="_blank" rel="noopener noreferrer"><strong>Ask The Experts!</strong></a>: get your questions answered! Pick a time that works best for you and enjoy a face to face discussion with our leaderships:<ol><li>🎙 <a href="https://aka.ms/ATE0223/RSVP" target="_blank" rel="noopener noreferrer"><strong>Feb 23, 9AM PST</strong></a> - Join this session for Q&amp;A from the <strong>Powerful Devs Conference</strong> team. The Powerful Devs Conference focuses on showcasing how code first developers can integrate with the Power Platform to innovate faster. We will have experts on hand to answer questions about full code and Azure AI integration.</li><li>🎙 <a href="https://aka.ms/ATE0309/RSVP" target="_blank" rel="noopener noreferrer"><strong>Mar 09, 9AM PST</strong></a> - Join this session for Q&amp;A from the <strong>AI April</strong> team, including authors of this #30DaysOfAzureAI series. We will have experts in code-first integration with the Power Platform live to answer questions related to the content and cloud skills challenge of the AI April event.</li></ol></li><li><a href="https://aka.ms/ai-april/LearnLive" target="_blank" rel="noopener noreferrer"><strong>Learn Live!</strong>:</a> Have questions for Microsoft Learn modules or the cloud skills challenge? Join our <strong>Learn Live</strong> sessions to hear tips and commentary from experts:</li></ol><ul><li>1️⃣ <a href="https://aka.ms/ai-april/LearnLive" target="_blank" rel="noopener noreferrer"><strong>Feb 06</strong></a> - Azure AI as a traditional developer</li><li>2️⃣ <a href="https://aka.ms/ai-april/LearnLive" target="_blank" rel="noopener noreferrer"><strong>Feb 13</strong></a> - Integrate OpenAPI-enabled Web APIs with Azure API Management</li><li>3️⃣ <a href="https://aka.ms/ai-april/LearnLive" target="_blank" rel="noopener noreferrer"><strong>Feb 27</strong></a> - Manage Microsoft Power Platform deployments
-<img loading="lazy" alt="Feb5 Banner" src="/hubv2/assets/images/LearnLive-fd1c85634a15c825a474e1deac2f0b8b.png" width="600" height="338" class="img_ev3q"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="feb-15-powerfuldevs-conf">Feb 15: PowerfulDevs Conf<a href="#feb-15-powerfuldevs-conf" class="hash-link" aria-label="Direct link to Feb 15: PowerfulDevs Conf" title="Direct link to Feb 15: PowerfulDevs Conf">​</a></h2><p>Do you know the <a href="https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi" target="_blank" rel="noopener noreferrer"><strong>Powerful Dev Conf</strong></a> happens in just 10 days, on <strong>Feb 15</strong>? It's a signature 2-hour event where you can hear from many of the experts, including authors from this series, on the features and usage of the Power Platform! Check out the great speaker lineup below and visit <a href="https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi" target="_blank" rel="noopener noreferrer">the site</a> to see the scheduled sessions.</p><p><img loading="lazy" alt="Feb5 Banner" src="/hubv2/assets/images/PowerFulDev-2cbc6093b3f9cd83260b5ab0bd29eeae.png" width="1456" height="1636" class="img_ev3q"></p><div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>REGISTER NOW - IT'S FREE &amp; ONLINE!</div><div class="admonitionContent_S0QG"><ul><li><a href="https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi" target="_blank" rel="noopener noreferrer"><strong>Sign up</strong></a> for a reminder and link to the livestream.</li><li>Then #SaveTheDate and join us <strong>Feb 15</strong></li></ul></div></div><h2 class="anchor anchorWithStickyNavbar_LWe7" id="look-forward-week-2-plan">Look Forward: Week 2 Plan<a href="#look-forward-week-2-plan" class="hash-link" aria-label="Direct link to Look Forward: Week 2 Plan" title="Direct link to Look Forward: Week 2 Plan">​</a></h2><p>Don't forget to bookmark the <a href="https://aka.ms/ai-april/blog" target="_blank" rel="noopener noreferrer"><strong>#30DaysOfAzureAI</strong></a> page and come back tomorrow, where we will cover everything you need to know about Power Platform Backend Integrations in week 2.</p><p>From utilizing built-in connectors to building custom connectors, integrating with backend data source, and creating serverless apps. We will showcase the latest functionalities we have, help you learn with tutorials, demos, and real world best practices that you can apply to your business immediately.</p><p><img loading="lazy" alt="Week 2 Roadmap" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0IAAAFeCAMAAACfC1+PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAD8UExURR9BbjyVdEKmdj+edk3IeCpjcCVVb0rBd0CjdStlcEazdiFHbjJ7ciBDbUGmdTmNcyBGbki6d0vFeCpicEvCdyNObjqSdDF2cTmPdEWxdka0djJ5cTF3ci1pcUOtdjeIc0OqdkSvdShbbyRQb0ChdT2bdS1scT6ddUe4dixncUGldSJKby9zcT+gdDmPcyhebz6fdFdxklBrjjtZgGyDoP///3qOqTRTfKu3yMDJ1sfP2/j5+uPn7YGUrl53l4iass7V37K9zert8dzh6EJfhS1Nd2V9m5amu0lliY+gt/Hz9iZHc52sv3OJpdXb5KSyxLnD0kzEdyZWcAAAAOaeXU8AAABUdFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ctEAAAAJcEhZcwAADsMAAA7DAcdvqGQAABA9SURBVHhe7d1NTxtZFodxI9mspiyxQLPpUZJdFkgjO74xLxY4hgYDDQ18/w8z59x768UvpEn/a6A88/wi2uWyXemFH52qMnH1AAAAAAAAAAAAAAAAAOyEvc8A3mYvV7OiP3jhD3/486Y//VzNiq0rAWxBQoCEhAAJCQESEgIkJARISAiQkBAgISFAQkKAhIQACQkBEhICJCQESEgIkJAQICEhQEJCgISEAAkJARISAiQkBEhICJCQECAhIUBCQoCEhAAJCQESEgIkJARISAiQkBAgISFAQkKAhIQACQkBEhICJCQESEgIkJAQICEhQEJCgISEAAkJARISAiQkBEhICJCQECAhIUBCQoCEhAAJCQESEgIkJARISAiQkBAgISFAQkKAhIQACQkBEhICJCQESEgIkJAQICEhQEJCgISEAAkJARISAiQkBEhICJCQECAhIUBCQoCEhAAJCQESEgIkJARISAiQkBAgISFAQkKAhIQACQkBEhICJCQESEgIkJAQICEhQEJCgISEAAkJARISAiQkBEhICJCQECAhIUBCQoCEhAAJCQESEgIkJARISAiQkBAgISFAQkKAhIQACQkBEhICJCQE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" width="834" height="350" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Dave Glover</name>
+            <name>Dave Glover @dglover</name>
             <uri>https://github.com/gloveboxes</uri>
         </author>
-        <category label="low-code-february" term="low-code-february"/>
-        <category label="30-days-of-lowcode" term="30-days-of-lowcode"/>
-        <category label="learn-live" term="learn-live"/>
-        <category label="zero-to-hero" term="zero-to-hero"/>
-        <category label="ask-the-expert" term="ask-the-expert"/>
-        <category label="fusion-teams" term="fusion-teams"/>
-        <category label="power-platform" term="power-platform"/>
-        <category label="recap" term="recap"/>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="responsible-ai" term="responsible-ai"/>
+        <category label="azure-ai-fundamentals" term="azure-ai-fundamentals"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2. 🧮Introduction to Azure OpenAI]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day2</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day2"/>
+        <updated>2023-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's dive into the Azure OpenAI Service]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-2-of-30daysofazureai">Welcome to <em>Day 2</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-2-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-2-of-30daysofazureai" title="Direct link to welcome-to-day-2-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Let's dive into the Azure OpenAI Service</p><p>To learn more, head over to the <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3. 🧮Explore Conversational AI with Azure OpenAI Playground]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day3</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day3"/>
+        <updated>2023-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Conversational AI with Azure OpenAI Playground]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-3-of-30daysofazureai">Welcome to <em>Day 3</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-3-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-3-of-30daysofazureai" title="Direct link to welcome-to-day-3-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Exploring Conversational AI with Azure OpenAI Playground</p><p>To learn more, head over to the <a href="https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Valentina Alto @altovalentina</name>
+            <uri>https://github.com/Valentina-Alto</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4. 🧮Introduction to Azure's Cognitive Services]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day4</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day4"/>
+        <updated>2023-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Azure's Cognitive Services]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-4-of-30daysofazureai">Welcome to <em>Day 4</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-4-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-4-of-30daysofazureai" title="Direct link to welcome-to-day-4-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Exploring Azure's Cognitive Services</p><p>To learn more, head over to the <a href="https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5. 🧮Azure ML: An Overview of Key Concepts]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day5</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day5"/>
+        <updated>2023-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started with Azure ML: An Overview of Key Concepts]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-5-of-30daysofazureai">Welcome to <em>Day 5</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-5-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-5-of-30daysofazureai" title="Direct link to welcome-to-day-5-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Getting Started with Azure ML: An Overview of Key Concepts</p><p>To learn more, head over to the <a href="https://bea.stollnitz.com/blog/aml-introduction/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Beatriz Stollnitz @beastollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6. 🧮Guide to Responsible AI]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day6</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day6"/>
+        <updated>2023-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Responsible AI: A Guide to the RAI Dashboard and Azure ML]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-6-of-30daysofazureai">Welcome to <em>Day 6</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-6-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-6-of-30daysofazureai" title="Direct link to welcome-to-day-6-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Responsible AI: A Guide to the RAI Dashboard and Azure ML</p><p>To learn more, head over to the <a href="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Ruth Yakubu @ruthieyakubu</name>
+            <uri>https://github.com/ruyakubu</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="responsible-ai" term="responsible-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="app-developers" term="app-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7. 🧮AI for Accessibility]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day7</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day7"/>
+        <updated>2023-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about AI for Accessibility]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-7-of-30daysofazureai">Welcome to <em>Day 7</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-7-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-7-of-30daysofazureai" title="Direct link to welcome-to-day-7-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Learn about AI for Accessibility</p><p>To learn more, head over to the <a href="https://www.microsoft.com/ai/ai-for-accessibility" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Henk Boelman @hboelman</name>
+            <uri>https://github.com/hnky</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="ai-for-accessibility" term="ai-for-accessibility"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8. 🧮Recap - Fundamentals Week✨]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day8</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day8"/>
+        <updated>2023-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[30DaysOfAzureAI Recap - Fundamentals]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-8-of-30daysofazureai">Welcome to <em>Day 8</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-8-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-8-of-30daysofazureai" title="Direct link to welcome-to-day-8-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>30DaysOfAzureAI Recap - Fundamentals</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="responsible-ai" term="responsible-ai"/>
+        <category label="azure-ai-fundamentals" term="azure-ai-fundamentals"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. 🧑‍💻AI-Powered Apps and Azure AI SDKs]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day9</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day9"/>
+        <updated>2023-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploring AI-Powered Apps and Azure AI SDKs]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-9-of-30daysofazureai">Welcome to <em>Day 9</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-9-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-9-of-30daysofazureai" title="Direct link to welcome-to-day-9-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Exploring AI-Powered Apps and Azure AI SDKs</p>]]></content>
+        <author>
+            <name>Arun Chandrasekhar @rcarunmsft</name>
+            <uri>https://github.com/achandmsft</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10. 🧑‍💻Power Apps with Azure OpenAI and Cognitive Search]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day10</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day10"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure OpenAI and Cognitive Search: Boosting App Power]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-10-of-30daysofazureai">Welcome to <em>Day 10</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-10-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-10-of-30daysofazureai" title="Direct link to welcome-to-day-10-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Azure OpenAI and Cognitive Search: Boosting App Power</p>]]></content>
+        <author>
+            <name>Heidi Steen @HeidiSteen</name>
+            <uri>https://github.com/HeidiSteen</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="app-developers" term="app-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11. 🧑‍💻Cross-Platform AI with ONNX and .NET]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day11</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day11"/>
+        <updated>2023-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building Cross-Platform AI Solutions with ONNX and .NET]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-11-of-30daysofazureai">Welcome to <em>Day 11</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-11-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-11-of-30daysofazureai" title="Direct link to welcome-to-day-11-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Building Cross-Platform AI Solutions with ONNX and .NET</p>]]></content>
+        <author>
+            <name>Henk Boelman @hboelman</name>
+            <uri>https://github.com/hnky</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12. 🧑‍💻BERT NLP in JavaScript with ONNX and Excel]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day12</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day12"/>
+        <updated>2023-04-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ONNX Runtime Custom Excel Functions for BERT NLP Tasks in JavaScript]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-12-of-30daysofazureai">Welcome to <em>Day 12</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-12-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-12-of-30daysofazureai" title="Direct link to welcome-to-day-12-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>ONNX Runtime Custom Excel Functions for BERT NLP Tasks in JavaScript</p><p>To learn more, head over to the <a href="https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Cassie Breviu @CassieBreviu</name>
+            <uri>https://github.com/cassiebreviu</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13. 🧑‍💻Copilot's new AI model and capabilities]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day13</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day13"/>
+        <updated>2023-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub CoPilot Upgraded: Faster, More Accurate, and More Secure Code]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-13-of-30daysofazureai">Welcome to <em>Day 13</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-13-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-13-of-30daysofazureai" title="Direct link to welcome-to-day-13-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>GitHub CoPilot Upgraded: Faster, More Accurate, and More Secure Code</p><p>To learn more, head over to the <a href="https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Shuyin Zhao @newmomrules</name>
+            <uri>https://github.com/shuyinzjk</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="copilot" term="copilot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14. 🧑‍💻Power Blazer Apps with Azure OpenAI]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day14</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day14"/>
+        <updated>2023-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building Interactive Web Applications with Microsoft Blazor and Azure OpenAI]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-14-of-30daysofazureai">Welcome to <em>Day 14</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-14-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-14-of-30daysofazureai" title="Direct link to welcome-to-day-14-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Building Interactive Web Applications with Microsoft Blazor and Azure OpenAI</p><p>To learn more, head over to the <a href="https://blazorhelpwebsite.com/ViewBlogPost/2065" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Michael Washington @ADefWebserver</name>
+            <uri>https://github.com/ADefWebserver</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="copilot" term="copilot"/>
+        <category label="open-ai" term="open-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15. 🧑‍💻Recap - AI App Developers✨]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day15</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day15"/>
+        <updated>2023-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[30DaysOfAzureAI Recap for AI App Developers Week]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-15-of-30daysofazureai">Welcome to <em>Day 15</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-15-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-15-of-30daysofazureai" title="Direct link to welcome-to-day-15-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>30DaysOfAzureAI Recap for AI App Developers Week</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16. 🧑🏽‍🔬Scaling Model Dev with Azure ML]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day16</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day16"/>
+        <updated>2023-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure ML: Train and Deploy ML Models at Scale]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-16-of-30daysofazureai">Welcome to <em>Day 16</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-16-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-16-of-30daysofazureai" title="Direct link to welcome-to-day-16-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Azure ML: Train and Deploy ML Models at Scale</p><p>To learn more, head over to the <a href="https://bea.stollnitz.com/blog/aml-command" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Beatriz Stollnitz @beastollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="data-scientist" term="data-scientist"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17. 🧑🏽‍🔬Streamline Model Dev with Azure ML]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day17</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day17"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Streamlining ML Development with Azure ML Components & Pipelines]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-17-of-30daysofazureai">Welcome to <em>Day 17</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-17-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-17-of-30daysofazureai" title="Direct link to welcome-to-day-17-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Streamlining ML Development with Azure ML Components &amp; Pipelines</p><p>To learn more, head over to the <a href="https://bea.stollnitz.com/blog/aml-pipeline/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Beatriz Stollnitz @beastollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="data-scientist" term="data-scientist"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18. 🧑🏽‍🔬Azure ML Managed Online Endpoints]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day18</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day18"/>
+        <updated>2023-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure ML Managed Online Endpoints - A Quickstart]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-18-of-30daysofazureai">Welcome to <em>Day 18</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-18-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-18-of-30daysofazureai" title="Direct link to welcome-to-day-18-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Azure ML Managed Online Endpoints - A Quickstart</p><p>To learn more, head over to the <a href="https://vladiliescu.net/aml-managed-endpoints-quickstart/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Vlad Iliescu @vladiliescu</name>
+            <uri>https://github.com/vladiliescu</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="data-scientist" term="data-scientist"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19. 🧑🏽‍🔬Building Responsible AI in Every Model]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day19</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day19"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building Responsible AI into Every Model]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-19-of-30daysofazureai">Welcome to <em>Day 19</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-19-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-19-of-30daysofazureai" title="Direct link to welcome-to-day-19-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Building Responsible AI into Every Model</p>]]></content>
+        <author>
+            <name>Ruth Yakubu @ruthieyakubu</name>
+            <uri>https://github.com/ruyakubu</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="responsible-ai" term="responsible-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="data-scientist" term="data-scientist"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20. 🧑🏽‍🔬Learn MLOps for the ML Lifecycle]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day20</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day20"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn Live: Start the machine learning lifecycle with MLOps]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-20-of-30daysofazureai">Welcome to <em>Day 20</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-20-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-20-of-30daysofazureai" title="Direct link to welcome-to-day-20-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Learn Live: Start the machine learning lifecycle with MLOps</p><p>To learn more, head over to the <a href="https://learn.microsoft.com/en-us/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Cassie Breviu @CassieBreviu</name>
+            <uri>https://github.com/cassiebreviu</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21. 🧑🏽‍🔬Recap - Machine Learning Week✨]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day21</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day21"/>
+        <updated>2023-04-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[30DaysOfAzureAI Recap for Machine Learning Week]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-21-of-30daysofazureai">Welcome to <em>Day 21</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-21-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-21-of-30daysofazureai" title="Direct link to welcome-to-day-21-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>30DaysOfAzureAI Recap for Machine Learning Week</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="azure-mlops" term="azure-mlops"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22. 🏭MLOps Solution Accelerator Explained]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day22</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day22"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accelerating MLOps with the v2 Solution Accelerator]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-22-of-30daysofazureai">Welcome to <em>Day 22</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-22-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-22-of-30daysofazureai" title="Direct link to welcome-to-day-22-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Accelerating MLOps with the v2 Solution Accelerator</p><p>To learn more, head over to the <a href="https://github.com/Azure/mlops-v2" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Setu Chokshi @setuc</name>
+            <uri>https://github.com/setuc</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="azure-mlops" term="azure-mlops"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23. 🏭Data Science for beginners]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day23</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day23"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foundations of Data Science: Workshops for Beginners]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-23-of-30daysofazureai">Welcome to <em>Day 23</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-23-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-23-of-30daysofazureai" title="Direct link to welcome-to-day-23-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Foundations of Data Science: Workshops for Beginners</p><p>To learn more, head over to the <a href="https://microsoft.github.io/Data-Science-For-Beginners" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Gabriela de Queiroz @gdequeiroz</name>
+            <uri>https://github.com/gdequeiroz</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="workshop" term="workshop"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24. 🏭ML and AI for beginners]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day24</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day24"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[learn about the ML and AI for beginner workshops]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-24-of-30daysofazureai">Welcome to <em>Day 24</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-24-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-24-of-30daysofazureai" title="Direct link to welcome-to-day-24-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>learn about the ML and AI for beginner workshops</p><p>To learn more, head over to the <a href="https://github.com/microsoft/ML-For-Beginners" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Gabriela de Queiroz @gdequeiroz</name>
+            <uri>https://github.com/gdequeiroz</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="workshop" term="workshop"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25. 🏭Build a Patient Registration App]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day25</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day25"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a Patient Registration Web App with Azure Form Recognizer]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-25-of-30daysofazureai">Welcome to <em>Day 25</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-25-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-25-of-30daysofazureai" title="Direct link to welcome-to-day-25-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Building a Patient Registration Web App with Azure Form Recognizer</p><p>To learn more, head over to the <a href="https://newpatiente2e.github.io/docs/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="workshop" term="workshop"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26. 🏭Stable Diffusion on Azure ML]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day26</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day26"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to run Stable Diffusion Web UI on Azure ML compute instances]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-26-of-30daysofazureai">Welcome to <em>Day 26</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-26-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-26-of-30daysofazureai" title="Direct link to welcome-to-day-26-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>How to run Stable Diffusion Web UI on Azure ML compute instances</p><p>To learn more, head over to the <a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/" target="_blank" rel="noopener noreferrer">original post</a>.</p>]]></content>
+        <author>
+            <name>Vlad Iliescu @vladiliescu</name>
+            <uri>https://github.com/vladiliescu</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="ml-engineers" term="ml-engineers"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="workshop" term="workshop"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27. 🏭Optimize Customer Engagement with Azure Personalizer]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day27</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day27"/>
+        <updated>2023-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-27-of-30daysofazureai">Welcome to <em>Day 27</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-27-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-27-of-30daysofazureai" title="Direct link to welcome-to-day-27-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences</p>]]></content>
+        <author>
+            <name>Arafat Tehsin @arafattehsin</name>
+            <uri>https://github.com/arafattehsin</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="workshop" term="workshop"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28. 🏭Continuing the Azure AI Journey✨]]></title>
+        <id>https://azureaidevs.github.io/hubv2/blog/2023-day28</id>
+        <link href="https://azureaidevs.github.io/hubv2/blog/2023-day28"/>
+        <updated>2023-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Continuing the Azure AI Journey]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-day-28-of-30daysofazureai">Welcome to <em>Day 28</em> of 30DaysOfAzureAI!<a href="#welcome-to-day-28-of-30daysofazureai" class="hash-link" aria-label="Direct link to welcome-to-day-28-of-30daysofazureai" title="Direct link to welcome-to-day-28-of-30daysofazureai">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-well-cover">What We'll Cover<a href="#what-well-cover" class="hash-link" aria-label="Direct link to What We'll Cover" title="Direct link to What We'll Cover">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Continuing the Azure AI Journey</p>]]></content>
+        <author>
+            <name>Dave Glover @dglover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <category label="ai-april" term="ai-april"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+        <category label="ml-developers" term="ml-developers"/>
+        <category label="app-developers" term="app-developers"/>
+        <category label="azure-ml" term="azure-ml"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
+        <category label="responsible-ai" term="responsible-ai"/>
+        <category label="azure-ai-fundamentals" term="azure-ai-fundamentals"/>
     </entry>
 </feed>
