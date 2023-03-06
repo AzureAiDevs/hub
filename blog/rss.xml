@@ -143,7 +143,7 @@ In this video segment, Pablo shows us how he used Minecraft's extension
 APIs to integrate a conversational user interaction model to build in
 Minecraft.</p><p>The add-in module, named "conjure", collects a text input that's passed
 to Codex, transforming user intent into actionable code that Minecraft
-understands.</p><iframe width="100%" height="420" src="https://youtu.be/3t3qZu1Dy1k?t=341" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><p>If your application supports plug-in or add-on modules, you can attach a
+understands.</p><iframe width="100%" height="420" src="https://www.youtube.com/embed/3t3qZu1Dy1k?start=341" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe><p>If your application supports plug-in or add-on modules, you can attach a
 module that accepts text prompts as inputs, and then pass that input to
 Codex to interpret the user intent. Codex returns native code that can
 then be processed by your application.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="scenario-two-combine-content-discovery-and-language-understanding-to-create-new-information">Scenario Two: Combine Content Discovery and Language Understanding to Create New Information<a href="#scenario-two-combine-content-discovery-and-language-understanding-to-create-new-information" class="hash-link" aria-label="Direct link to Scenario Two: Combine Content Discovery and Language Understanding to Create New Information" title="Direct link to Scenario Two: Combine Content Discovery and Language Understanding to Create New Information">​</a></h2><p>The next example combines the content discovery capabilities of Azure
@@ -152,7 +152,7 @@ the latest insights and developments by scanning content over large
 volumes of unstructured content from various sources.</p><ul><li><p>Cognitive Search accepts a user query and returns a set of matching
 documents in order of relevance. Instead of returning the results to
 the user, it sends them to GPT-3 for more analysis.</p></li><li><p>GPT-3 takes the documents and composes better answers and insights
-using content from all of them.</p></li></ul><iframe width="100%" height="420" src="https://youtu.be/3t3qZu1Dy1k?t=576" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><p>In this example, the app calls Azure Cognitive Search to discover
+using content from all of them.</p></li></ul><iframe width="100%" height="420" src="https://www.youtube.com/embed/3t3qZu1Dy1k?start=576" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe><p>In this example, the app calls Azure Cognitive Search to discover
 text-based documents related to the user's question. This step finds the
 matches, ranks the documents, and returns the most relevant candidates.</p><p><img loading="lazy" alt="Graphical user interface Description automatically generated" src="/hubv2/assets/images/image3-6cc014422d14871444503a6d89b65d1c.png" width="800" height="445" class="img_ev3q"></p><p>But sometimes the best answer isn't in one document. By adding language
 understanding, the app can use GPT-3 to derive a new answer using the
