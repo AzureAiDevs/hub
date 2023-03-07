@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4457],{10030:e=>{e.exports=JSON.parse('{"permalink":"/hub/blog/tags/azure-ml","page":1,"postsPerPage":1,"totalPages":8,"totalCount":8,"nextPage":"/hub/blog/tags/azure-ml/page/2","blogDescription":"Jumpstart your #AzureAI with #30Days of content and resources","blogTitle":"#30DaysOfAzureAI"}')}}]);

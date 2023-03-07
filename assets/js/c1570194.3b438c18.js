@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1925],{71628:s=>{s.exports=JSON.parse('{"label":"ai-for-accessibility","permalink":"/hub/blog/tags/ai-for-accessibility","allTagsPath":"/hub/blog/tags","count":1}')}}]);
