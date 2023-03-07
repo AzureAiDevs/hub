@@ -53,10 +53,7 @@ Take your machine learning projects to new heights with Azure ML components and 
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
-
-1. Azure ML components and pipelines can help organize machine learning projects.
-2. Two GitHub repositories are available for working with components and pipelines using the CLI or Python SDK.
-3. The MLflow API provides logging support, and the authors encourage frequent testing to streamline the machine learning process.
+- Azure ML components and pipelines
 
 <!-- 
 - Main point 1
@@ -83,18 +80,18 @@ The following is the body of the post. It should be an overview of the post that
 See the Learn More section, if you supplied a canonical link, then will be displayed here.
 -->
 
+## How to train using pipelines and components in Azure ML
 
-This article discusses the benefits of Azure ML components and pipelines in machine learning. It explains how to break down training code into components and connect those components into a pipeline. The author provides two GitHub repositories to illustrate how to work with pipelines and components using the CLI and the Python SDK. The article also emphasizes the importance of organizing work into two steps, i.e., a training step and a test step.
+Check out [today's article](https://bea.stollnitz.com/blog/aml-pipeline/) to take your machine leaning projects to new heights with Azure ML components and pipelines! Learn how to break down your training code into components, and how to connect those components into a pipeline. Organizing your work into steps with components and pipelines will boost your productivity, especially as the complexity of your project increases.
 
-The author also discusses creating Azure ML components as reusable pieces of code with inputs and outputs, which can be defined in their Python file. Inputs and outputs are specified as command-line arguments. The author further highlights that components can help maintain separation in the cloud by organizing training code into two steps with distinct logic. Lastly, the article provides an example of a train component specification that shows the names of the input and output in the component YAML specification match the names of the arguments in the code.
+The goal for today is for you to be able to evaluate the benefits of components and pipelines for your own project, and to understand the technical aspects of implementing them.
 
-The article emphasizes the importance of testing the code frequently to ensure it executes and provides accurate results. It also recommends using the MLflow API because of the great logging support it provides.
 
 ![](image.png)
 
 ## Learn More
 
-To learn more, check out this [article](https://bea.stollnitz.com/blog/aml-pipeline/).
+Read today's [article](https://bea.stollnitz.com/blog/aml-pipeline/).
 
 
 ## Questions?

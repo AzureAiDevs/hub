@@ -53,10 +53,9 @@ Yesterday we talked about using Copilot to build an intelligent Receipt processi
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
-
-- The main concepts in Azure ML to become effective at using the platform. 
-- Understanding these concepts will make working with code samples easier. 
-- The goal is to become more proficient using Azure ML.
+- Why use Azure ML
+- The main resources used to train and deploy models in Azure ML 
+- The four different ways of creating those resources
 
 <!-- 
 - Main point 1
@@ -84,13 +83,15 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## Why Use Azure ML?
+## Introduction to Azure ML
 
-Today's article discusses the benefits of using cloud computing for machine learning projects and introduces the Azure ML platform. Azure ML enables users to train and deploy machine learning models in the cloud, and offers resources including workspaces, datastores, jobs, assets, compute, and endpoints. The article provides an overview of each resource and explains the different ways of creating them using Azure ML Studio, Azure CLI, Python SDK, and REST APIs. The article aims to provide readers with a foundational understanding of Azure ML concepts to follow the code samples in upcoming posts.
+Read [today's article](https://bea.stollnitz.com/blog/aml-introduction/) to understand the benefits of using cloud computing for machine learning projects, and to get an overview of Microsoft's Azure ML platform. Azure ML enables you to train and deploy machine learning models in the cloud, by creating a variety of resources that help tailor the workflow to your needs. Today's article provides an overview of each of those resources, and explains the four different ways of creating them.
+
+The goal for today is for you to get a foundational understanding of Azure ML concepts, so that you'll be able to follow code samples later in the AI April month.
 
 ## Learn More
 
-To learn more, check out this [article](https://bea.stollnitz.com/blog/aml-introduction/).
+Check out today's [article](https://bea.stollnitz.com/blog/aml-introduction/).
 
 
 ## Questions?
