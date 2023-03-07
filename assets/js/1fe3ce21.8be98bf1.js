@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7906],{94481:e=>{e.exports=JSON.parse('[{"label":"azure-ai","permalink":"/hub/newsletter/tags/azure-ai","count":2},{"label":"azure-open-ai","permalink":"/hub/newsletter/tags/azure-open-ai","count":2},{"label":"30-days-of-azure-ai","permalink":"/hub/newsletter/tags/30-days-of-azure-ai","count":2}]')}}]);
