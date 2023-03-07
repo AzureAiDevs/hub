@@ -30,5 +30,16 @@
             <category>azure-open-ai</category>
             <category>30-days-of-azure-ai</category>
         </item>
+        <item>
+            <title><![CDATA[🗞️April 2023 Newsletter]]></title>
+            <link>https://azureaidevs.github.io/hub/newsletter/2023-april</link>
+            <guid>https://azureaidevs.github.io/hub/newsletter/2023-april</guid>
+            <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[What's New in the World for Azure AI Developers]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new-in-the-world-for-azure-ai-developers">What's New in the World for Azure AI Developers<a href="#whats-new-in-the-world-for-azure-ai-developers" class="hash-link" aria-label="Direct link to What's New in the World for Azure AI Developers" title="Direct link to What's New in the World for Azure AI Developers">​</a></h2><p>Subscribe the the Azure AI Developers Newsletter on <a href="https://aka.ms/azure-ai-dev-newsletter" target="_blank" rel="noopener noreferrer">Medium</a>.</p>]]></content:encoded>
+            <category>azure-ai</category>
+            <category>azure-open-ai</category>
+            <category>30-days-of-azure-ai</category>
+        </item>
     </channel>
 </rss>

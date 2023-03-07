@@ -61,4 +61,31 @@
         <category label="azure-open-ai" term="azure-open-ai"/>
         <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[🗞️April 2023 Newsletter]]></title>
+        <id>https://azureaidevs.github.io/hub/newsletter/2023-april</id>
+        <link href="https://azureaidevs.github.io/hub/newsletter/2023-april"/>
+        <updated>2023-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What's New in the World for Azure AI Developers]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new-in-the-world-for-azure-ai-developers">What's New in the World for Azure AI Developers<a href="#whats-new-in-the-world-for-azure-ai-developers" class="hash-link" aria-label="Direct link to What's New in the World for Azure AI Developers" title="Direct link to What's New in the World for Azure AI Developers">​</a></h2><p>Subscribe the the Azure AI Developers Newsletter on <a href="https://aka.ms/azure-ai-dev-newsletter" target="_blank" rel="noopener noreferrer">Medium</a>.</p>]]></content>
+        <author>
+            <name>Dave Glover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <author>
+            <name>Henk Boelman</name>
+            <uri>https://github.com/hnky</uri>
+        </author>
+        <author>
+            <name>Beatriz Stollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <author>
+            <name>Ruth Yakubu</name>
+            <uri>https://github.com/ruyakubu</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
 </feed>
