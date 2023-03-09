@@ -64,7 +64,7 @@ const CampaignFeatures = [
   {
     title: 'Join the conversation',
     Svg: require('@site/static/img/campaign/ama.svg').default,
-    link: "https://github.com/AzureAiDevs/Discussions/discussions",
+    link: "https://github.com/AzureAiDevs/hub/discussions",
     fillColor: "#fe6db6",
     description: (
       <>
@@ -121,7 +121,6 @@ function CampaignHeader() {
         </h1>
         <p>
           Join us for a month-long celebration of Azure AI development.
-          {/* where we'll go from Power Platform Fundamentals, to exploring Fusion Teams and building scalable, serverless apps with Cloud Integrations. Take the Cloud Skills Challenge, read #30DaysOfAzureAI articles from experts, and complete our hands-on workshops. */}
         </p>
         <div className={styles.buttons}>
           <Link
