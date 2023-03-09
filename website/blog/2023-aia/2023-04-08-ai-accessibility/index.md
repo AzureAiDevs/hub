@@ -15,13 +15,21 @@ description: "Learn to build AI for everyone with AI for Accessibility https://a
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day7" />
+  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day7" />
   <meta name="twitter:title" content="Accessible AI Apps for Everyone" />
   <meta name="twitter:description" content="Learn to build AI for everyone with AI for Accessibility https://azureaidevs.github.io/hub/blog/2023-day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day7.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  
+   -->
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day7" />
+  <meta property="og:title" content="Accessible AI Apps for Everyone" />
+  <meta property="og:description" content="Learn to build AI for everyone with AI for Accessibility https://azureaidevs.github.io/hub/blog/2023-day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day7.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
 
   <link rel="canonical" href="https://www.microsoft.com/ai/ai-for-accessibility"  />
 

@@ -15,13 +15,21 @@ description: "Learn about Azure Machine Learning lifecycle and open source tooli
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day20" />
+  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day20" />
   <meta name="twitter:title" content="Learn MLOps for the ML Lifecycle" />
   <meta name="twitter:description" content="Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/blog/2023-day20 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day20.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  
+   -->
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day20" />
+  <meta property="og:title" content="Learn MLOps for the ML Lifecycle" />
+  <meta property="og:description" content="Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/blog/2023-day20 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day20.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
 
   <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops"  />
 

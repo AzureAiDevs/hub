@@ -15,13 +15,21 @@ description: "Learn how to use Copilot to build an intelligent Receipt Recogniti
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
+  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
   <meta name="twitter:title" content="Use Copilot to build a AI Receipt App" />
   <meta name="twitter:description" content="Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day4.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  
+   -->
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
+  <meta property="og:title" content="Use Copilot to build a AI Receipt App" />
+  <meta property="og:description" content="Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day4.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813"  />
 

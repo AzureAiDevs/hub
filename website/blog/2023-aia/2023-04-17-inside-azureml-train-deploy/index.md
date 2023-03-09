@@ -15,13 +15,21 @@ description: "Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day16" />
+  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day16" />
   <meta name="twitter:title" content="Scaling Model Dev with Azure ML" />
   <meta name="twitter:description" content="Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/blog/2023-day16 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day16.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  
+   -->
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day16" />
+  <meta property="og:title" content="Scaling Model Dev with Azure ML" />
+  <meta property="og:description" content="Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/blog/2023-day16 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day16.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
 
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-command"  />
 

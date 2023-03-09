@@ -15,13 +15,21 @@ description: "Get ready to build dynamic, interactive and differentiated experie
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day10" />
+  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day10" />
   <meta name="twitter:title" content="Inside look at Azure OpenAI for Devs" />
   <meta name="twitter:description" content="Get ready to build dynamic, interactive and differentiated experiences with Azure OpenAI https://azureaidevs.github.io/hub/blog/2023-day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day10.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  
+   -->
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day10" />
+  <meta property="og:title" content="Inside look at Azure OpenAI for Devs" />
+  <meta property="og:description" content="Get ready to build dynamic, interactive and differentiated experiences with Azure OpenAI https://azureaidevs.github.io/hub/blog/2023-day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day10.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day10"  />
 
