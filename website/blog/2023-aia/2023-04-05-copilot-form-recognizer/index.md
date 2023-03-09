@@ -1,6 +1,6 @@
 ---
 slug: 2023-day4
-title: "4. 🏁Use Copilot to build a AI Receipt App"
+title: "4. 🏁Build an AI Receipt App with Copilot"
 authors: ['Ruth']
 draft: false
 hide_table_of_contents: false
@@ -16,7 +16,7 @@ description: "Learn how to use Copilot to build an intelligent Receipt Recogniti
 <head>
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
-  <meta property="og:title" content="Use Copilot to build a AI Receipt App" />
+  <meta property="og:title" content="Build an AI Receipt App with Copilot" />
   <meta property="og:description" content="Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day4.png" />
   <meta property="og:type" content="article" />
@@ -29,7 +29,7 @@ description: "Learn how to use Copilot to build an intelligent Receipt Recogniti
 
 - 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/blog/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-use-copilot-to-build-a-ai-receipt-app)
+- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-an-ai-receipt-app-with-copilot)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## Day _4_ of #30DaysOfAzureAI
@@ -105,4 +105,4 @@ To learn more, check out this [article](https://techcommunity.microsoft.com/t5/a
 
 ## Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-use-copilot-to-build-a-ai-receipt-app)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-build-an-ai-receipt-app-with-copilot)
