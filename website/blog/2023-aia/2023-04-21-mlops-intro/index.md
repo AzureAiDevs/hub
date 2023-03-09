@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-In the YouTube video "Learn Live: Start the machine learning lifecycle with MLOps | CLL99," Microsoft experts discuss the importance of MLOps in the machine learning lifecycle. MLOps solves challenges such as standardizing processes, aligning teams, and managing resources. They introduce the Microsoft Learn platform, which provides free resources for learning MLOps and cover the steps of the machine learning lifecycle. They explain how to use MLOps to create and manage models and monitor incidents. They encourage interactive learning through questions in the chat.
+Yesterday we learned about the Azure ML Responsible AI Dashboard. Today is an introduction to Azure MLOps, where you'll learn how to "productionalize" ML models with Azure ML.
 
 ## What we'll cover
 
