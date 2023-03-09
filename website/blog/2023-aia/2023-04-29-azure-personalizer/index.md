@@ -15,6 +15,14 @@ description: "Maximizing Business Results with Azure Personalizer: A Machine Lea
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day27" />
+  <meta name="twitter:title" content="Enhance CX with Azure Personalizer" />
+  <meta name="twitter:description" content="Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/blog/2023-day27 #30DaysOfAzureAI #AzureAiDevs #AI #AzurePersonalizer" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day27.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day27"  />
 
 </head>

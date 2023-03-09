@@ -15,6 +15,14 @@ description: "Building intelligent apps? Then explore the Azure AI Hub for OpenA
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day9" />
+  <meta name="twitter:title" content="Build intelligent Apps w/ Azure AI SDKs" />
+  <meta name="twitter:description" content="Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/blog/2023-day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day9.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://github.com/Azure-Samples/azure-ai"  />
 
 </head>

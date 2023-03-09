@@ -15,6 +15,14 @@ description: "Build Interactive Web Applications with Microsoft Blazor and Azure
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day14" />
+  <meta name="twitter:title" content="Blazor Apps and Azure OpenAI" />
+  <meta name="twitter:description" content="Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/blog/2023-day14 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day14.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://blazorhelpwebsite.com/ViewBlogPost/2065"  />
 
 </head>

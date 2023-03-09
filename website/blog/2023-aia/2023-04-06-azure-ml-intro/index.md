@@ -15,6 +15,14 @@ description: "Learn key Azure ML Concepts with this primer https://azureaidevs.g
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day5" />
+  <meta name="twitter:title" content="Learn key Azure ML Concepts" />
+  <meta name="twitter:description" content="Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/blog/2023-day5 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day5.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-introduction/"  />
 
 </head>

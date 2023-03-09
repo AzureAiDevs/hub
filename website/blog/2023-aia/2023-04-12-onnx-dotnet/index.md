@@ -15,6 +15,14 @@ description: "Building Cross-Platform AI Solutions with ONNX and .NET https://az
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day11" />
+  <meta name="twitter:title" content="Cross-Platform AI with ONNX and .NET" />
+  <meta name="twitter:description" content="Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/blog/2023-day11 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day11.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://youtu.be/h6HWP5jpA5s"  />
 
 </head>

@@ -15,6 +15,14 @@ description: "30DaysOfAzureAI Recap for Azure Machine Learning Week https://azur
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day21" />
+  <meta name="twitter:title" content="Recap: Azure ML Week✨" />
+  <meta name="twitter:description" content="30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/blog/2023-day21 #30DaysOfAzureAI #AzureAiDevs #AI " />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day21.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day21"  />
 
 </head>

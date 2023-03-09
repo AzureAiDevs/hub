@@ -15,6 +15,14 @@ description: "Why you should care about Responsible AI and Microsoft role https:
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day6" />
+  <meta name="twitter:title" content="The Mission of Responsible AI" />
+  <meta name="twitter:description" content="Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/blog/2023-day6 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day6.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://www.microsoft.com/en-us/ai/our-approach"  />
 
 </head>

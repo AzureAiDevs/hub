@@ -15,6 +15,14 @@ description: "Foundations of Data Science: Workshops for Beginners https://azure
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day23" />
+  <meta name="twitter:title" content="Data Science for beginners" />
+  <meta name="twitter:description" content="Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/blog/2023-day23 #30DaysOfAzureAI #AzureAiDevs #AI #DataScience" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day23.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://microsoft.github.io/Data-Science-For-Beginners"  />
 
 </head>

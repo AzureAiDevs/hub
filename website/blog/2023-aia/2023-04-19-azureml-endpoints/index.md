@@ -15,6 +15,14 @@ description: "Azure ML Managed Online Endpoints - A Quickstart https://azureaide
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day18" />
+  <meta name="twitter:title" content="Azure ML Managed Online Endpoints" />
+  <meta name="twitter:description" content="Azure ML Managed Online Endpoints - A Quickstart https://azureaidevs.github.io/hub/blog/2023-day18 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day18.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+
   <link rel="canonical" href="https://vladiliescu.net/aml-managed-endpoints-quickstart/"  />
 
 </head>
