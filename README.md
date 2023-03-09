@@ -9,10 +9,10 @@ Join us for a month-long celebration of Azure AI.
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
 
-* **🏁 Fundamentals** of Azure OpenAI, Azure ML, and Responsible AI
-* **👩‍💻 Build intelligent apps** with Azure AI Services and embedded app models
-* **🧑🏽‍🔬 Building and managing ML models** with Azure ML, MLOps and Responsible AI
-* **🏭 Workshop** your way through beginners content for Data Scientist, AL, ML, MLOps, and two cognitive services workshops.
+* **🏁 Fundamentals** of Azure OpenAI, Azure ML, and Responsible AI. This week is for everyone, no matter your role.
+* **👩‍💻 Build intelligent apps** with Azure AI Services and embedded app models. This week is more for App developers who are looking to build intelligent apps.
+* **🧑🏽‍🔬 Building and managing ML models** with Azure ML, MLOps and Responsible AI. This week is more for Data Scientists and ML Engineers who are looking to build and manage ML models.
+* **🏭 Workshop** your way through beginners content for Data Scientist, AL, ML, MLOps, and two cognitive services workshops. This week is for everyone, no matter your role.
 ![Image showing various technologies used in low code dev](./website/static/img/azure-ai.png)
 
 ---
