@@ -14,10 +14,11 @@ This is the planned roadmap for #30DaysOfAzureAI, a series of daily content post
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
 
-* **Fundamentals** of Azure OpenAI, Azure ML, and Responsible AI
-* **Powering apps** with Azure AI Services and embedded app models
-* **Building and managing ML models** with Azure ML, MLOps and Responsible AI
-* **Workshop** your way through beginners content for Data Scientist, AL, ML, and MLOps
+* **🏁 Fundamentals** of Azure OpenAI, Azure ML, and Responsible AI
+* **👩‍💻 Build intelligent apps** with Azure AI Services and embedded app models
+* **🧑🏽‍🔬 Building and managing ML models** with Azure ML, MLOps and Responsible AI
+* **🏭 Workshop** your way through beginners content for Data Scientist, AL, ML, MLOps, and two cognitive services workshops.
+![Image showing various technologies used in low code dev](../../../static/img/azure-ai.png)
 
 ---
 
