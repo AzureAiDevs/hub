@@ -1,89 +1,113 @@
 Dave:
   name: Dave Glover
-  title: Principal Cloud Advocate @dglover
+  title: Principal Cloud Advocate
   url: https://github.com/gloveboxes
   image_url: https://github.com/gloveboxes.png
+  tag: "@dglover"
+
+
+Meer:
+  name: Meer Alam
+  title: Principal Cloud Advocate
+  url: https://github.com/msdpalam
+  image_url: https://github.com/msdpalam.png
+  tag: "@"
+
 
 Valentina:
-  name: Valentina Alto 
-  title: Data&AI Azure Specialist at Microsoft @altovalentina
+  name: Valentina Alto
+  title: Data&AI Azure Specialist at Microsoft
   url: https://github.com/Valentina-Alto
   image_url: https://github.com/Valentina-Alto.png
+  tag: "@altovalentina"
 
 Bea:
   name: Beatriz Stollnitz
-  title: Principal Cloud Advocate AiMl @beastollnitz
+  title: Principal Cloud Advocate AiMl
   url: https://github.com/bstollnitz
   image_url: https://github.com/bstollnitz.png
+  tag: "@beastollnitz"
 
 Ruth:
   name: Ruth Yakubu
-  title: Principal Cloud Advocate @ruthieyakubu
+  title: Principal Cloud Advocate
   url: https://github.com/ruyakubu
   image_url: https://github.com/ruyakubu.png
+  tag: "@ruthieyakubu"
 
 Heidi:
   name: Heidi Steen
-  title: Senior Content Developer @HeidiSteen
+  title: Senior Content Developer
   url: https://github.com/HeidiSteen
   image_url: https://github.com/HeidiSteen.png
+  tag: "@HeidiSteen"
 
 Cassie:
   name: Cassie Breviu
-  title: Senior Program Manager @CassieBreviu
+  title: Senior Program Manager
   url: https://github.com/cassiebreviu
   image_url: https://github.com/cassiebreviu.png
+  tag: "@CassieBreviu"
 
 Arun:
   name: Arun Chandrasekhar
-  title: Principal Product Manager @rcarunmsft
+  title: Principal Product Manager
   url: https://github.com/achandmsft
   image_url: https://github.com/achandmsft.png
+  tag: "@rcarunmsft"
 
 Henk:
   name: Henk Boelman
-  title: Senior Cloud Advocate @hboelman
+  title: Senior Cloud Advocate
   url: https://github.com/hnky
   image_url: https://github.com/hnky.png
+  tag: "@hboelman"
 
 Setu:
   name: Setu Chokshi
-  title: Senior Cloud Solution Architect @setuc
+  title: Senior Cloud Solution Architect
   url: https://github.com/setuc
   image_url: https://github.com/setuc.png
+  tag: "@setuc"
 
 Shuyin:
   name: Shuyin Zhao
-  title: Senior Director Of Product Management @newmomrules
+  title: Senior Director Of Product Management
   url: https://github.com/shuyinzjk
   image_url: https://github.com/shuyinzjk.png
+  tag: "@newmomrules"
 
 Gabriela:
   name: Gabriela de Queiroz
-  title: Principal Cloud Advocate Mgr @gdequeiroz
+  title: Principal Cloud Advocate Mgr
   url: https://github.com/gdequeiroz
   image_url: https://github.com/gdequeiroz.png
+  tag: "@gdequeiroz"
 
 nitya:
   name: Nitya Narasimhan
-  title: Sr. Cloud Advocate, Illustrator @nitya
+  title: Sr. Cloud Advocate, Illustrator
   url: https://github.com/nitya
   image_url: https://github.com/nitya.png
+  tag: "@nitya"
 
 Vlad:
-  name: Vlad Iliescu 
-  title: Head of AI at Strongbytes and Microsoft MVP @vladiliescu
+  name: Vlad Iliescu
+  title: Head of AI at Strongbytes and Microsoft MVP
   url: https://github.com/vladiliescu
   image_url: https://github.com/vladiliescu.png
+  tag : "@vladiliescu"
 
 Michael:
   name: Michael Washington
-  title:  Founder of BlazorHelpWebsite.com and Microsoft MVP @ADefWebserver
+  title:  Founder of BlazorHelpWebsite.com and Microsoft MVP
   url: https://github.com/ADefWebserver
   image_url: https://github.com/ADefWebserver.png
+  tag: "@ADefWebserver"
 
 Arafat:
   name: Arafat Tehsin
-  title:  Engineering Manager & Microsoft MVP (AI) @arafattehsin
+  title:  Engineering Manager & Microsoft MVP (AI)
   url: https://github.com/arafattehsin
   image_url: https://github.com/arafattehsin.png
+  tag: "@arafattehsin"

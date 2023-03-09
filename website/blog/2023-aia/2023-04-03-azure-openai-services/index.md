@@ -1,7 +1,7 @@
 ---
 slug: 2023-day2
 title: "2. 🏁Unleash the power of Azure OpenAI"
-authors: ['Dave']
+authors: ['Meer']
 draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
