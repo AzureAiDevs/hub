@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Last week was for Azure AI App developers. This week, we switch gears and focus on Azure Machine Learning services for people building and deploying ML models. Today, come along, and learn about training and deploying machine learning models using Azure ML.
+Last week was for Azure AI App developers. This week, we switch gears and focus on Azure Machine Learning services for people building and deploying ML models. If you're a Data Scientist, or an ML or MLOps engineer, then this week is for you. Today, come along, and learn about training and deploying machine learning models using Azure ML.
 
 ## What we'll cover
 
