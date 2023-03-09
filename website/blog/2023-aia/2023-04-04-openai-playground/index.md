@@ -15,14 +15,6 @@ description: "Explore Conversational AI with the Azure OpenAI Service Playground
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day3" />
-  <meta name="twitter:title" content="Explore the Azure OpenAI Playground" />
-  <meta name="twitter:description" content="Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/blog/2023-day3 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day3.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-  
-
   <link rel="canonical" href="https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562"  />
 
 </head>

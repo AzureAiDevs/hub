@@ -15,14 +15,6 @@ description: "30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day8" />
-  <meta name="twitter:title" content="Recap: Azure AI Fundamentals Week✨" />
-  <meta name="twitter:description" content="30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io/hub/blog/2023-day8 #30DaysOfAzureAI #AzureAiDevs #AI " />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day8.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-  
-
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day8"  />
 
 </head>

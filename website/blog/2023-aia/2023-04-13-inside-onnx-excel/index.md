@@ -15,14 +15,6 @@ description: "Run BERT NLP models locally in Excel with ONNX and JavaScript http
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day12" />
-  <meta name="twitter:title" content="Run BERT NLP models locally in Excel" />
-  <meta name="twitter:description" content="Run BERT NLP models locally in Excel with ONNX and JavaScript https://azureaidevs.github.io/hub/blog/2023-day12 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day12.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-  
-
   <link rel="canonical" href="https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html"  />
 
 </head>
