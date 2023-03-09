@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday was an introduction to the Azure Machine Learning. Today is all about understanding why Microsoft is committed to Responsible AI so AI has a positive impact on our lives. So come along, you'll be happy you did.
+Yesterday was an introduction to the Azure Machine Learning. Today is all about understanding why Microsoft is committed to Responsible AI, and why you should be as well. So, come along, you'll be happy you did.
 
 ## What we'll cover
 

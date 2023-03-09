@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday we talked was an introduction to the Azure OpenAI Service. Today we'll dig a bit deeper into the Azure OpenAI Service Playground, so come along, it'll be fun.
+Yesterday we talked was an introduction to the Azure OpenAI Service. Today we'll dig deeper into the Azure OpenAI Service Playground, so come along, it'll be fun.
 
 ## What we'll cover
 

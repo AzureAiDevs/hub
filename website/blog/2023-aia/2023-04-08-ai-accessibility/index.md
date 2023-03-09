@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday we talked about the importance of Responsible AI. Today is about ensuring your intelligent Apps or the ML models you are building are accessible to all.
+Yesterday we talked about the importance of Responsible AI. Today is about ensuring the intelligent apps or the ML models you build are accessible to all.
 
 ## What we'll cover
 
