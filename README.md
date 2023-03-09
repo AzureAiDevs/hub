@@ -90,7 +90,7 @@ Create the Git branch from the command line.
 1. The folder contains an `index.md` file. This is the markdown file that contains the content for the blog post.
 1. Refer to the [Understanding the structure of the index.md file](#understanding-the-structure-of-the-indexmd-file) section below for details on the structure of the file.
 1. If you want to embed a YouTube video, then refer to the [Embedding a YouTube video](#embedding-a-youtube-video) section below.
-1. Ideally add at least one image, it'll help make the content more engaging for the reader. You can add any required images for your post to this folder. ie `website/blog/2023-aia/01-01-2023-rai-mission/rai-mission.png`
+1. Ideally add at least one image, it'll help make the content more engaging for the reader. You can add any required images for your post to your folder. ie `website/blog/2023-aia/01-01-2023-rai-mission/rai-mission.png`
 1. Save your changes, then switch back to the browser to see the changes.
 
 ### Commit your changes
