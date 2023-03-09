@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-This article covers building an Excel add-in that performs NLP tasks using BERT-JS and ONNX Runtime. It explains the benefits of using BERT, a deep learning model from Google, which understands text context and meaning. The article shows how to optimize BERT-JS performance with ONNX Runtime and emphasizes the importance of responsible AI practices in application development to create fair, transparent and trustworthy applications.  Overall, the article provides a step-by-step guide to building the excel add-in.
+Yesterday was all about building cross-platform intelligent apps with .NET MAUI and ONNX. Today is for people looking to extend Excel with BERT-JS and the ONNX Runtime. What? You can do that, yup, follow along to learn more.
 
 ## What we'll cover
 

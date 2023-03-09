@@ -45,7 +45,9 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Welcome to The Azure AI Hub, your go-to destination for Azure AI developers, where we provide curated samples, discussions channels, and suggestions from the community, with a focus on responsible AI to ensure transparency, fairness, and accountability in AI systems.
+Last week was Azure AI fundamentals week, this week, we switch gears and focus on Azure AI App Developers. This week is for folk building intelligent apps that call Azure AI Services or incorporate AI models directly into apps. 
+
+So what better place to start than an introduction to the Azure AI Hub where you'll find loads of samples for using the Azure AI Services SDKs. These samples are invaluable for getting started with Azure Cognitive Services and the Azure OpenAI Service.
 
 ## What we'll cover
 

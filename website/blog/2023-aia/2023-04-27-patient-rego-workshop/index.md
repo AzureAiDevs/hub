@@ -86,7 +86,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-Are you tired of manually filling out paper-based forms? Do you wish there was a way to automate the process? Look no further than Azure Form Recognizer, a new Cognitive Service that uses machine learning to extract text and table data from form documents. In this workshop, you'll learn how to infuse AI technologies into a web-based patient registration system using Azure services such as Azure Static Web Apps, Azure Functions, Azure Cognitive Services, Azure Storage, and Azure Cosmos DB.
+Are you tired of manually filling out paper-based forms? Do you wish there was a way to automate the process? Look no further than Azure Form Recognizer, a new Cognitive Service that uses machine learning to extract text and table data from form documents. In this workshop, you'll learn how to infuse AI technologies into a web-based patient registration system using Azure services such as Azure Static Web apps, Azure Functions, Azure Cognitive Services, Azure Storage, and Azure Cosmos DB.
 
 The goal of the workshop is to improve the patient experience by automating the paper-based patient registration process at a doctor's surgery. You'll learn how to create a custom Azure Form Recognizer model, integrate it with a web app, and define application roles that map to workshop personas such as surgery admin, nurse, and doctor. By the end of the workshop, you'll have a working solution that allows new patients to complete the registration form online, the web app to extract the data, and the surgery admin to verify and add the registration to the doctor's surgery system. Say goodbye to manual form filling and hello to the power of AI technologies with Azure Form Recognizer!
 

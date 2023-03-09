@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-GitHub has improved its AI tool, Copilot, with updated Codex model and Fill-In-the-Middle prompts for code suggestions, as well as a new lightweight client-side model for the VS Code extension. Additionally, they have introduced an AI-based system for preventing vulnerabilities in code that quickly detects insecure coding patterns and provides alternative suggestions. These updates are available to both individual and business users of Copilot and aim to improve the coding speed, accuracy, and security for developers.
+Yesterday was all about creating intelligent Excel Add-ins. Today is a look at Copilot advances to boast your productive, and build better, smarter, safer intelligent apps.
 
 ## What we'll cover
 

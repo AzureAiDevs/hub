@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-The video Machine learning models with ONNX and .NET | .NET Conf 2022 - YouTube" features a presentation by two cloud advocates from Microsoft, Beatriz Stollnitz and Henk Boelman, who demonstrate how to create a machine learning model using ONNX and .NET. The presentation includes a brief introduction to artificial intelligence (AI) and its subsets, with a focus on machine learning and deep learning. The presenters also explain the difference between traditional programming and machine learning, and how the latter can be used to solve problems that are difficult to solve using traditional programming.
+Yesterday was all about the power of OpenAI to create intelligent dynamic apps. Today is for people looking to build cross-platform intelligent apps with .NET MAUI and ONNX.
 
 ## What we'll cover
 
