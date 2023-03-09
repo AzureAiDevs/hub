@@ -90,7 +90,7 @@ Create the Git branch from the command line.
 1. The folder contains an `index.md` file. This is the markdown file that contains the content for the blog post.
 1. Refer to the [Understanding the structure of the index.md file](#understanding-the-structure-of-the-indexmd-file) section below for details on the structure of the file.
 1. If you want to embed a YouTube video, then refer to the [Embedding a YouTube video](#embedding-a-youtube-video) section below.
-1. Ideally add at least one image, it'll help make the content more engaging for the reader. You can add any required images for your post to your folder. ie `website/blog/2023-aia/01-01-2023-rai-mission/rai-mission.png`
+1. Ideally, add at least one image, it'll help make the content more engaging for the reader. You can add any required images for your post to your folder. ie `website/blog/2023-aia/01-01-2023-rai-mission/rai-mission.png`
 1. Save your changes, then switch back to the browser to see the changes.
 
 ### Commit your changes
@@ -109,9 +109,9 @@ Once your changes have been merged into the main repo, you can view them on the 
 
 ## Understanding the structure of the index.md file
 
-The `index.md` file contains the content for the blog post. The file is written in [Markdown](https://www.markdownguide.org/cheat-sheet/). The file contains a number of sections, each of which is described below.
+The `index.md` file contains the content for the blog post. The file is written in [Markdown](https://www.markdownguide.org/cheat-sheet/). The file contains several sections, each of which is described below.
 
-### Front matter
+### Frontmatter
 
 The front matter is the section at the top of the file. It contains the metadata for the blog post. The front matter is written in [YAML](https://yaml.org/). The front matter contains the following properties:
 
@@ -145,7 +145,7 @@ This section should contain a list of the topics that will be covered in the blo
 
 ### The References section
 
-This section should contain a list of the references that were used to write the blog post. The list should be written in Markdown. Include useful links to documentation, blogs, YouTube videos, Learn Modules, Case Studies and other resources.
+This section should contain a list of the references that were used to write the blog post. The list should be written in Markdown. Include useful links to documentation, blogs, YouTube videos, Learn Modules, Case Studies, and other resources.
 
 ### The Body section
 
@@ -153,7 +153,7 @@ This section contains the main content of the blog post. The content should be w
 
 ### The Learn More section
 
-By default this is where the link to your detailed blog will be. If you don't have a detailed blog then you can remove this section.
+By default, this is where the link to your detailed blog will be. If you don't have a detailed blog then you can remove this section.
 
 ---
 
