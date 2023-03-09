@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday was all about creating intelligent Excel Add-ins. Today is a look at Copilot advances to boast your productive, and build better, smarter, safer intelligent apps.
+Yesterday was all about creating intelligent Excel Add-ins. Today is a look at GitHub Copilot advances to boast productivity, and build better, smarter, safer intelligent apps.
 
 ## What we'll cover
 
