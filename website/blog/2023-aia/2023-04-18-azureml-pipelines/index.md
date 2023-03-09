@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Take your machine learning projects to new heights with Azure ML components and pipelines! Learn how to break down code, connect components, and use the CLI or Python SDK. Organize work into two steps with Azure ML components and boost accuracy with frequent testing. Get started with detailed examples and enjoy logging support from the MLflow API. Unleash the full potential of your machine learning projects with this informative article.
+Yesterday we learned about training and deploying machine learning models using Azure ML. Today is all about streamlining ML Development with Azure ML Components & Pipelines.
 
 ## What we'll cover
 
