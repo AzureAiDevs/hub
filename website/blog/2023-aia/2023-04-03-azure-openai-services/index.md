@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Welcome to the first day of the Azure AI fundamentals week. Everyone's being wowed by ChatGPT and generative AI, so what better place to start than an introduction to Azure OpenAI Service.
+Welcome to the first day of the Azure AI fundamentals week. This week is for everyone; you might be an ai app Developer, a Data Scientist, or an ML or MLOps Engineer. The talk of the town is ChatGPT and generative AI, so what better place to start than an introduction to the Azure OpenAI Service.
 
 ## What we'll cover
 
