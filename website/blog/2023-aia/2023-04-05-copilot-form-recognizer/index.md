@@ -1,6 +1,6 @@
 ---
 slug: 2023-day4
-title: "4. 🏁Use CoPilot to build a AI Receipt App"
+title: "4. 🏁Use Copilot to build a AI Receipt App"
 authors: ['Ruth']
 draft: false
 hide_table_of_contents: false
@@ -10,14 +10,14 @@ keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'CoPilot', 'vscode',
 tags: ['azure-ai', 'azure-cognitive-services', '30-days-of-azure-ai']
 
 image: "https://azureaidevs.github.io/hub/img/2023/banner-day4.png"
-description: "Learn how to use CoPilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices"
+description: "Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices"
 ---
 
 <head>
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
-  <meta name="twitter:title" content="Use CoPilot to build a AI Receipt App" />
-  <meta name="twitter:description" content="Learn how to use CoPilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
+  <meta name="twitter:title" content="Use Copilot to build a AI Receipt App" />
+  <meta name="twitter:description" content="Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day4.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -39,7 +39,7 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Learn how to use CoPilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer**
+**Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
