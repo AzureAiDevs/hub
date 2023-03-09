@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-GitHub Copilot is a new tool that uses OpenAI Codex GPT-3 to help developers write code more efficiently and productively. By using natural language, developers can describe what they need to accomplish, and GitHub Copilot will translate that into code in different programming languages such as Python, JavaScript, and more. In this session, we will explore how to use GitHub Copilot to solve business problems using the Azure Form Recognizer API to read the contents of a receipt in Python. The goal of this demonstration is to show how GitHub Copilot can make coding faster and easier.
+Yesterday we talked about using Azure OpenAI Service playground to explore conversational AI. Today we'll explore how you can use GitHub Copilot as your programming buddy to build an intelligent Receipt processing App.
 
 ## What we'll cover
 
