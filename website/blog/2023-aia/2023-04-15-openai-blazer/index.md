@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-The Blazor web framework allows developers to create client-side web applications using .NET and C#. The Blazor Help Website provides a range of resources and tutorials to help developers get started with Blazor, including articles, videos, a community forum, and a library of code samples and demos. This website is an excellent resource for anyone looking to learn about Blazor and how to use it to build real-world applications.
+Yesterday we learned about some of the advances with GitHub Coplit. Today is all about building web assemblies with Microsoft Blazor and how you can call upon the Azure OpenAI service to create a rich, interactive, and intelligent web app. 
 
 ## What we'll cover
 
