@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Microsoft approaches AI development and deployment with a focus on fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability. Microsoft is dedicated to developing AI responsively and invests in research, collaborating with multiple disciplines to deliver cutting-edge advancements in AI, such as large-scale AI models that are sophisticated, intuitive, and based on deep learning and large datasets.
+Yesterday was an introduction to the Azure Machine Learning. Today is all about understanding why Microsoft is committed to Responsible AI so AI has a positive impact on our lives. So come along, you'll be happy you did.
 
 ## What we'll cover
 

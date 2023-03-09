@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-In recent years, OpenAI has become a household name in the tech industry with its development of generative models such as GPT-3 and DALL-E. In this article, we will explore conversational AI models and how to consume them via API directly from OpenAI. We will also delve into how to tune hyperparameters to tailor your models to your use case and needs. By creating an Azure OpenAI instance and utilizing the OpenAI Playground, we will experiment with the available models and learn how to select the right one for our needs. So, get ready to dive into the world of language models and hyperparameters with OpenAI!
+Yesterday we talked was an introduction to the Azure OpenAI Service. Today we'll dig a bit deeper into the Azure OpenAI Service Playground, so come along, it'll be fun.
 
 ## What we'll cover
 

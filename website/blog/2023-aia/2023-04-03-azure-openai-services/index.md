@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Microsoft and OpenAI have partnered to bring OpenAI's advanced natural language processing tools, including GPT-3, to Microsoft's Azure cloud. The Azure OpenAI Service, now in general availability, offers REST API access, security, compliance, and regional availability. The goal is democratize AI and use it to address global challenges. Start by learning about OpenAI's language models and familiarizing with key API concepts.
+Today is the first day of April AI #30DaysOfAzureAI, welcome. Everyone's being wowed by ChatGPT and generative AI, so what better place to start than an introduction to Azure OpenAI Service.
 
 ## What we'll cover
 
