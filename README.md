@@ -68,7 +68,7 @@ Before making any changes, you should build the site locally to test it builds c
 
 ### Create a branch
 
-Depending on your preferred workflow, you can create the branch from the command line or from VS Code.
+Create the Git branch from the command line.
 
 1. From the command window, navigate to the folder where you cloned the repo to your desktop. You should still be in the `website` folder, navigate back to the root folder.
 
@@ -76,7 +76,7 @@ Depending on your preferred workflow, you can create the branch from the command
     cd ..
     ```
 
-1. Create a branch for your changes. The branch name should be in the format `content-name/your-github-username`. For example, `rai-mission-update-<your-github-username>`.
+1. Create a branch for your changes. The branch name should be in the format `content-name/your-github-username`. For example, `rai-mission-update/<your-github-username>`.
 
     ```bash
     git checkout -b content-name/your-github-username
