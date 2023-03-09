@@ -2,7 +2,7 @@
 title: 30 Days Of Azure AI
 ---
 
-# Roadmap for #30Days
+# Roadmap for #30DaysOfAzureAI
 
 ---
 

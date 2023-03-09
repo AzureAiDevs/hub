@@ -31,6 +31,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+---
+
 ## How to Contribute
 
 ### Install Node
@@ -103,6 +105,8 @@ When you are happy with your changes, you can commit them to your branch.
 
 Once your changes have been merged into the main repo, you can view them on the live site.
 
+---
+
 ## Understanding the structure of the index.md file
 
 The `index.md` file contains the content for the blog post. The file is written in [Markdown](https://www.markdownguide.org/cheat-sheet/). The file contains a number of sections, each of which is described below.
@@ -151,6 +155,8 @@ This section contains the main content of the blog post. The content should be w
 
 By default this is where the link to your detailed blog will be. If you don't have a detailed blog then you can remove this section.
 
+---
+
 ## Adding YouTube videos
 
 Adding YouTube videos to the blog post is easy. Simply add the following code to the blog post where you want the video to appear.
@@ -169,6 +175,7 @@ By default, the video will appear a bit small. Change the default width and heig
 width="100%" height="420"
 ```
 
+---
 
 ## Trademarks
 
