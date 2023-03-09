@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/ -->
+<html lang="en" dir="auto"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style data-merge-styles="true"></style><style data-merge-styles="true"></style>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How to run Stable Diffusion Web UI on Azure ML compute instances | Vlad Iliescu</title>
+<meta name="keywords" content="Stable Diffusion, Azure Machine Learning">
+<meta name="description" content="A guide to creating GPU compute instances on Azure ML, installing Stable Diffusion, and running AUTOMATIC1111’s Web UI.">
+<meta name="author" content="">
+<link rel="canonical" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/">
+<meta name="google-site-verification" content="Xv8LT8QHT1WS5H5Eyjf0T1UrB2QDzzoSvex8jbzmrOQ">
+<meta name="msvalidate.01" content="D59A2D5EC74524E757DF47D59E682753">
+<link crossorigin="anonymous" href="https://vladiliescu.net/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
+<script async="" src="./image_files/analytics.js"></script><script defer="" crossorigin="anonymous" src="./image_files/highlight.js" onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://vladiliescu.net/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://vladiliescu.net/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://vladiliescu.net/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://vladiliescu.net/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-89671859-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script><meta property="og:title" content="How to run Stable Diffusion Web UI on Azure ML compute instances">
+<meta property="og:description" content="A guide to creating GPU compute instances on Azure ML, installing Stable Diffusion, and running AUTOMATIC1111’s Web UI.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/">
+<meta property="og:image" content="https://vladiliescu.net/images/stable-diffusion-web-ui-on-azure-ml.jpeg"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2023-01-29T00:00:00+00:00">
+<meta property="article:modified_time" content="2023-01-29T13:36:54+02:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://vladiliescu.net/images/stable-diffusion-web-ui-on-azure-ml.jpeg">
+<meta name="twitter:title" content="How to run Stable Diffusion Web UI on Azure ML compute instances">
+<meta name="twitter:description" content="A guide to creating GPU compute instances on Azure ML, installing Stable Diffusion, and running AUTOMATIC1111’s Web UI.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://vladiliescu.net/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How to run Stable Diffusion Web UI on Azure ML compute instances",
+      "item": "https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to run Stable Diffusion Web UI on Azure ML compute instances",
+  "name": "How to run Stable Diffusion Web UI on Azure ML compute instances",
+  "description": "A guide to creating GPU compute instances on Azure ML, installing Stable Diffusion, and running AUTOMATIC1111\u0026rsquo;s Web UI.",
+  "keywords": [
+    "Stable Diffusion", "Azure Machine Learning"
+  ],
+  "articleBody": "About Ever since I had read Andy Salerno’s post on How to Draw Anything I was fascinated by the idea of using Stable Diffusion to, well, draw anything. Architecture and concept design, people from all over the world, even ultra-wide bathroom layouts.\nAlas, I cannot. You see, I use a Mac. And not one of those fancy, new M-series Macs. Oh no. I use a 2016 MacBook Pro baby, Intel chip, terrible butterfly keyboard and all.\nBut I digress. Bottom line is, I can’t run Stable Diffusion locally, and I’m not a fan of spending credits for each and every image generation (looking at you DreamStudio!). Oh, and I have an Azure subscription, just waiting to be used.\nWell, hello So, you know 🤷🏻‍♂️. I did what any reasonable person would do. I went ahead and created a compute instance on Azure ML, installed Stable Diffusion, and ran AUTOMATIC1111’s Web UI. And it worked, almost as well as I had hoped - so naturally, I wanted to share it with you.\nHere’s how I did it.\nPrerequisites Before we start, let’s make sure you have the right tools available on your machine - to save a lot of clicking through the Azure portal, you’ll need the Azure CLI (install instructions here), and its ML extension (install instructions here).\nOnce you’ve installed the CLI, it’s time to log into Azure and make sure the subscription you want to work with is set as default.\n# Log in with your Azure account az login # Check existing accounts, look for the subscription you want to use # (useful if you have access to several subscriptions) az account list --output table # Set your active subscription az account set --subscription \"\" # Check the accounts list again, make sure that your subscription is active # (IsDefault should be true) az account list --output table Creating the Azure Resources Now, that that’s out the way, let’s create a few resources:\nA new resource group An Azure ML workspace A GPU compute instance The Resource Group First, let’s pick some good names (or just go with my suggestions for everything except the compute name), plus your favorite and/or closest Azure location e.g. westeurope or eastus.\nNOTE: I’m using bash syntax in the snippets below, so if you’re on Windows you’ll need to make a few changes:\nDefine variables using SET, e.g. SET compute=\"rintintin\" Reference variables using %variable_name% instead of ${variable_name}, e.g. az group create --name \"%resource_group%\" --location \"%location%\" compute=\"rintintin\" ml_workspace=\"ml-stable-diffusion\" resource_group=\"rg-stable-diffusion\" location=\"eastus\" Then, create the resource group that will, well, group our Azure resources.\naz group create --name \"${resource_group}\" --location \"${location}\" The Workspace Now, let’s create an ML workspace - you’ll need this to do anything ML-related in Azure. It needs a good name again, and a reference to the resource group you’ve just created.\n# Create an ML workspace az ml workspace create -n \"${ml_workspace}\" -g \"${resource_group}\" Requesting Access to GPU Compute Instances (optional if you’re lucky) This is where things might get a bit hairy, but not for the reasons you expect. Since I’m strongly assuming you want to run Stable Diffusion on a GPU, then the first thing you need to do is make sure you have enough GPU quota. You can check this by going to ml.azure.com/quota and looking for how many GPU cores you have available - the available machine types and their respective costs are here, with some more details here.\nPersonally, I’ve tested Stable Diffusion on a Standard_NC6 (1xTesla K80, 1.17$/hr), Standard_NV6 (1xTesla M60, 1.36$/hr), and Standard_NC6s_v3, the fairest of them all (1xTesla V100, 3.82$/hr). The first two sludged at around 1.3 iterations per second when running checkpoint 1.5, while the V100 ran at 9.5-10.5 it/s, reaching around 12.5 it/s with Meta’s xFormers enabled. If you can get your hands on a V100, I strongly recommend it. 🚀\nAnyways, if you don’t have enough cores available you can request more by clicking the “Request Quota” button. You’ll need to provide some information about your subscription/quota type, and then wait for the request to be approved. One thing to note is the difference between the names of the VMs in the Azure portal, and in the Azure ML portal - you’ll request one thing and get another, for example requesting NCSv3 allows you to use the Standard_NC6s_v3 compute type. The GPU sizes page is your friend on this one but it’s on the frustrating side of things to be honest, hopefully the team will prioritize fixing these discrepancies in the near term.\nRequesting more GPU cores It’s also possible that the request will be denied, most likely due to GPU instances not being available for your specific location. In case this happens, my best advice here is to try again with a different location (eastus is a pretty solid choice here), or GPU instance. And, just so you know, I’ve had requests for older machines such as NCSv2 rejected due to them being phased out, and requests for the newer NCSv3 rejected due to them not being available for subscriptions with included credits, so ymmv.\nOnce you have enough quota you can create a compute instance, which we’ll then use to run the Stable Diffusion Web UI.\nThe Compute Instance First, create a compute.yaml file describing the compute instance:\n$schema: https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json type: computeinstance size: Standard_NC6s_v3 idle_time_before_shutdown: \"PT30M\" schedules: compute_start_stop: - action: stop trigger: type: cron start_time: \"2023-01-01T21:21:07\" time_zone: UTC expression: 0 23 * * * It will create a compute instance of type Standard_NC6s_v3, and shut it down after it’s idle for 30 minutes and also each day at 23:00 UTC+0 (you can never be too careful 🤕). You can, of course, change the size to any other GPU instance. If you’re not sure what GPU instances you have access to, just run az ml compute list-sizes -l --output table and look for instances with GPU in the GPU column.\nRun the next command to create the compute instance, and update the names if needed:\naz ml compute create -f compute.yml -n \"${compute}\" -w \"${ml_workspace}\" -g \"${resource_group}\" This will take a few minutes, so go grab a coffee or something. Once it’s done, you can check the status of the compute instance by running:\naz ml compute show -n \"${compute}\" -w \"${ml_workspace}\" -g \"${resource_group}\" You can also see the instance in Azure Machine Learning Studio, by going to the Workspaces tab, selecting the workspace you’ve just created, then visiting the Compute tab and looking for your compute instance.\nMake sure it’s running, then click its Terminal link to start a new terminal session. It’s time to set up the Stable Diffusion Web UI.\nAUTOMATIC1111’s Stable Diffusion Web UI Setup First, let’s clone the AUTOMATIC1111/stable-diffusion-webui repo and install its dependencies. Remember, all of this is happening on the compute instance, nothing’s running on your local machine.\n# Clone the SD WebUI git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git # Go to the models folder cd stable-diffusion-webui/models/Stable-diffusion/ To be able to download the models, you’ll need to provide a HuggingFace auth token, which you can create here. Then, it’s just a matter of downloading the models - let’s go with RunwayML’s 1.5 checkpoint for now, and later on I’ll show you how to install Stable Diffusion 2.1 as well.\n# Download Stable Diffusion 1.5 checkpoint (requires a HuggingFace auth token) curl -H \"Authorization: Bearer \" https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt --location --output v1-5-pruned-emaonly.ckpt Now, let’s install the web ui’s dependencies - Azure ML compute instances come with Conda pre-installed, so in order to keep things nice and clean we’ll use it to create a new environment.\n# Create a new Conda env with the desired Python version conda create -n a1111-sdwebui python=3.10 -y # Activate the new env conda activate a1111-sdwebui # Go back to the root of the repo.. cd ../.. # ..so we can install the repository's dependencies.. pip install -r requirements_versions.txt # ..which for some reason won't install everything leading to the web ui crashing # while complaining about `undefined symbol: cublasLtGetStatusString, version libcublasLt.so.11` # So, we need to install the missing dependencies directly from conda conda install pytorch=1.13 torchvision=0.14 torchaudio=0.13 pytorch-cuda=11.7 -c pytorch -c nvidia -y # If you want/need an older version, see the alternatives here https://pytorch.org/get-started/previous-versions/ # e.g. I've had success with # conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch -y # Mark everything as a safe directory, # we need this because when first run, # the web ui will try to clone some repos under this directory, # and we'll get a lot of dubious ownership errors, # which we don't really want to be honest git config --global --add safe.directory '*' And that’s pretty much it! 🎉\nNO.WAY. I’ll show you a couple of improvements in a moment, but for now rejoice, and start the Web UI by running the command below (p.s. it will take a while until it downloads all its extra dependencies, so be patient 😉):\n# Don't forget to pick a good userame/password combo, otherwise anyone will be able to access your instance accelerate launch --mixed_precision=bf16 --num_cpu_threads_per_process=6 launch.py --share --gradio-auth : ⚠️ Note that you can only use bf16 (bfloat16) for mixed_precision if you have a beefy enough GPU (read: A100), otherwise you’ll need to set this to fp16, as detailed in this Reddit comment.\nTL;DR: if you have the right hardware, use BF16 :-)\nBoth consume the exact same memory as they encode each number on 16 bits. On recent Nvidia GPU (Ampere generation like A100 and 3090 RTX), tensor cores boost both of them. On older ones (like a V100 or a T4), bfloat16 is not supported so life is easier because you have no choice.\nOnce it finishes downloading the dependencies and loading the model, look for the following line in the logging output Running on public URL: https://.gradio.app. This is the URL you’ll use to access the Web UI (pay attention when sharing it, of course).\nStable Diffusion Web UI And what’s --gradio-auth : bit? Well, it’s a way to protect your instance from unwanted visitors. It’s not the most secure way to do it, but it’s better than nothing, otherwise you risk having people randomly finding your instance and using it to generate all kinds of fun stuff.\nAnd, please make sure to pick a stronger user/pass combo than marco:polo.\n😕 Installing Stable Diffusion 2 We’ll follow the instructions from the webui repo:\n# Go to the models folder cd stable-diffusion-webui/models/Stable-diffusion/ # Download the x768 model, specifically the safetensors versions for increased security and loading speed curl -H \"Authorization: Bearer \" https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors --location --output v2-1_768-ema-pruned.safetensors # and its config as well curl https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/configs/stable-diffusion/v2-inference-v.yaml --output v2-1_768-ema-pruned.yaml Now, you can run the web ui again, and select the v2-1_768-ema-pruned.safetensors model from the dropdown menu - enjoy!\nRunning Faster Remember how I said that you can get about 9-10 iterations per second on a Standard_NC6s_v3 instance? Well, that’s not the best we can do: we can actually get about 12.5 it/s by installing and enabling Meta’s xFormers library.\nAnd the catch? On the one hand, these will not work at all on older GPUs such as Standard_NC6 and Standard_NV6 (I mean it - after installing the library on those machines, I kept on receiving errors about needing compute power \u003e 50 whenever I tried to generate an image, and I hadn’t even enabled them in the web ui; only way I could get the ui to work again was to conda uninstall the thing).\nOn the other hand, things might get a bit non-deterministic, some people seem to be complaining about getting inconsistent generations with the same seeds/settings. I’ve personally had no issues with this, but then again, I wasn’t really paying attention to it. 🤷🏻‍♂️\nHere’s how you can try them out, and possibly get a 20% speed increase at the cost of some determinism here and there:\n# Install xFormers conda install xformers -c xformers/label/dev -y # Enable them in the Web UI accelerate launch --mixed_precision=bf16 --num_cpu_threads_per_process=6 launch.py --share --xformers --gradio-auth : Installing Extensions At some point you’re probably going to want to install some extensions, and you’ll be hit by a very friendly, but firm error message: AssertionError: extension access disabled because of command line flags. What’s happening is that, since you’re not running on localhost and everyone in the whole wide world can in theory access your Web UI, you need to explicitly enable extensions.\nYou can do it by adding the --enable-insecure-extension-access flag to the accelerate launch command as follows. Note that you can simply enable it while installing the extensions, and then disable it after you’re done.\naccelerate launch --mixed_precision=bf16 --num_cpu_threads_per_process=6 launch.py --share --xformers --enable-insecure-extension-access --gradio-auth : Running the Web UI again in the future Next time you want to generate something, just start the machine from the Azure ML portal, jump to the Terminal, conda activate a1111-sdwebui and run your favorite accelerate launch command again.\nConclusion Congratulations 🥳! You now have a fully functional Stable Diffusion Web UI running on an Azure ML GPU compute instance, and you can use it to generate all kinds of images, or even train your own models.\nJust remember to stop your machine whenever you’re not using it 😉.\nIf you have any questions, feel free to reach out to me on Twitter or join the thread here:\nJust posted a guide on using AUTOMATIC1111's Stable Diffusion web UI on Azure ML GPU compute instances.\nIt includes:\n1️⃣ Setting up AML GPU instances using the CLI\n2️⃣ Installing the web ui and checkpoints 1.5 and 2.0\n3️⃣ Speed increases with xFormers\nandhttps://t.co/VfYN7WGCED\n— Vlad Iliescu (@vladiliescu) December 4, 2022 Changelog 2023-01-29 Use variables when creating the Azure resources Schedule the compute instance to stop each day at 23:00 UTC 2023-01-02 Replaced --force-enable-xformers with the improved --xformers launch option Added instructions for downloading the safetensors version of Stable Diffusion 2.1 More info about the difference between fp16 and bf16 for mixed_precision 2022-12-04 Everything ",
+  "wordCount" : "2313",
+  "inLanguage": "en",
+  "image":"https://vladiliescu.net/images/stable-diffusion-web-ui-on-azure-ml.jpeg","datePublished": "2023-01-29T00:00:00Z",
+  "dateModified": "2023-01-29T13:36:54+02:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vlad Iliescu",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://vladiliescu.net/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<header class="header">
+<nav class="nav">
+<div class="logo">
+<a href="https://vladiliescu.net/" accesskey="h" title="Vlad Iliescu (Alt + H)">Vlad Iliescu</a>
+<div class="logo-switches">
+<button id="theme-toggle" accesskey="t" title="(Alt + T)">
+<svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+<svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="12" cy="12" r="5"></circle>
+<line x1="12" y1="1" x2="12" y2="3"></line>
+<line x1="12" y1="21" x2="12" y2="23"></line>
+<line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+<line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+<line x1="1" y1="12" x2="3" y2="12"></line>
+<line x1="21" y1="12" x2="23" y2="12"></line>
+<line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+<line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+</svg>
+</button>
+</div>
+</div>
+<ul id="menu">
+<li>
+<a href="https://vladiliescu.net/search/" title="Search (Alt + /)" accesskey="/">
+<span>Search</span>
+</a>
+</li>
+<li>
+<a href="https://vladiliescu.net/talks/" title="Talks 🎙">
+<span>Talks 🎙</span>
+</a>
+</li>
+<li>
+<a href="https://vladiliescu.net/price-snoop/" title="Apps">
+<span>Apps</span>
+</a>
+</li>
+<li>
+<a href="https://vladiliescu.net/wiki/" title="Wiki 📚">
+<span>Wiki 📚</span>
+</a>
+</li>
+<li>
+<a href="https://vladiliescu.net/archives/" title="Archive">
+<span>Archive</span>
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class="main">
+<article class="post-single">
+<header class="post-header">
+<div class="breadcrumbs"><a href="https://vladiliescu.net/">Home</a>&nbsp;»&nbsp;<a href="https://vladiliescu.net/posts/">Posts</a></div>
+<h1 class="post-title">
+How to run Stable Diffusion Web UI on Azure ML compute instances
+</h1>
+<div class="post-meta"><span title="2023-01-29 00:00:00 +0000 UTC">January 29, 2023</span>&nbsp;·&nbsp;11 min
+</div>
+</header>
+<figure class="entry-cover"><img loading="lazy" src="./image_files/stable-diffusion-web-ui-on-azure-ml.jpeg" alt="">
+</figure><div class="toc">
+<details open="">
+<summary accesskey="c" title="(Alt + C)">
+<span class="details">Table of Contents</span>
+</summary>
+<div class="inner"><nav id="TableOfContents">
+<ul>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#about">About</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#prerequisites">Prerequisites</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#creating-the-azure-resources">Creating the Azure Resources</a>
+<ul>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-resource-group">The Resource Group</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-workspace">The Workspace</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#requesting-access-to-gpu-compute-instances-optional-if-youre-lucky">Requesting Access to GPU Compute Instances (optional if you’re lucky)</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-compute-instance">The Compute Instance</a></li>
+</ul>
+</li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#automatic1111s-stable-diffusion-web-ui-setup">AUTOMATIC1111’s Stable Diffusion Web UI Setup</a>
+<ul>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#installing-stable-diffusion-2">Installing Stable Diffusion 2</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#running-faster">Running Faster</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#installing-extensions">Installing Extensions</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#running-the-web-ui-again-in-the-future">Running the Web UI again in the future</a></li>
+</ul>
+</li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#conclusion">Conclusion</a></li>
+<li><a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#changelog">Changelog</a></li>
+</ul>
+</nav>
+</div>
+</details>
+</div>
+<div class="post-content"><h2 id="about">About<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#about">#</a></h2>
+<p>Ever since I had read Andy Salerno’s post on <a href="https://andys.page/posts/how-to-draw/">How to Draw Anything</a> I was fascinated by the idea of using Stable Diffusion to, well, draw anything. <a href="https://twitter.com/williamcusick/status/1596266400943083521">Architecture and concept design</a>, <a href="https://twitter.com/rainisto/status/1595735627764563969">people from all over the world</a>, even <a href="https://twitter.com/williamcusick/status/1598496531794960385">ultra-wide bathroom layouts</a>.</p>
+<p>Alas, I cannot. You see, I use a Mac. And not one of those fancy, new M-series Macs. Oh no. I use a <strong>2016 MacBook Pro</strong> baby, Intel chip, terrible butterfly keyboard and all.</p>
+<p>But I digress. Bottom line is, I can’t run Stable Diffusion <strong>locally</strong>, and I’m not a fan of spending credits for each and every image generation (looking at you DreamStudio!). Oh, and I have an <strong>Azure subscription</strong>, just waiting to be used.</p>
+<figure class="zoomable">
+<img loading="lazy" src="./image_files/well.jpg"> <figcaption>
+Well, hello
+</figcaption>
+</figure>
+<p>So, you know 🤷🏻‍♂️. I did what any reasonable person would do. I went ahead and created a compute instance on Azure ML, installed Stable Diffusion, and ran AUTOMATIC1111’s Web UI. And it worked, almost as well as I had hoped - so naturally, I wanted to share it with you.</p>
+<p>Here’s how I did it.</p>
+<h2 id="prerequisites">Prerequisites<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#prerequisites">#</a></h2>
+<p>Before we start, let’s make sure you have the right tools available on your machine - to save <strong>a lot</strong> of clicking through the Azure portal, you’ll need the <a href="https://learn.microsoft.com/en-us/cli/azure/what-is-azure-cli">Azure CLI</a> (install instructions <a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">here</a>), and its <a href="https://learn.microsoft.com/en-us/cli/azure/ml">ML extension</a> (install instructions <a href="https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-cli">here</a>).</p>
+<p>Once you’ve installed the CLI, it’s time to log into Azure and make sure the subscription you want to work with is set as default.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Log in with your Azure account</span></span>
+</span></span><span style="display:flex;"><span>az login
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Check existing accounts, look for the subscription you want to use</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># (useful if you have access to several subscriptions)</span></span>
+</span></span><span style="display:flex;"><span>az account list --output table
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Set your active subscription</span></span>
+</span></span><span style="display:flex;"><span>az account <span class="hljs-built_in">set</span> --subscription <span style="color:#e6db74"><span class="hljs-string">"&lt;your-subscription-id&gt;"</span></span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Check the accounts list again, make sure that your subscription is active</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># (IsDefault should be true)</span></span>
+</span></span><span style="display:flex;"><span>az account list --output table
+</span></span></code></pre><button class="copy-code">copy</button></div><h2 id="creating-the-azure-resources">Creating the Azure Resources<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#creating-the-azure-resources">#</a></h2>
+<p>Now, that that’s out the way, let’s create a few resources:</p>
+<ol>
+<li>A new <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group">resource group</a></li>
+<li>An <a href="https://learn.microsoft.com/en-us/azure/machine-learning/concept-workspace">Azure ML workspace</a></li>
+<li>A GPU <a href="https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-instance">compute instance</a></li>
+</ol>
+<h3 id="the-resource-group">The Resource Group<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-resource-group">#</a></h3>
+<p>First, let’s pick some good names (or just go with my suggestions for everything except the compute name), plus your favorite and/or closest Azure location e.g. <code>westeurope</code> or <code>eastus</code>.</p>
+<p>NOTE: I’m using bash syntax in the snippets below, so if you’re on Windows you’ll need to make a few changes:</p>
+<ul>
+<li>Define variables using <code>SET</code>, e.g. <code>SET compute="rintintin"</code></li>
+<li>Reference variables using <code>%variable_name%</code> instead of <code>${variable_name}</code>, e.g. <code>az group create --name "%resource_group%" --location "%location%"</code></li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span>compute<span style="color:#f92672">=</span><span style="color:#e6db74"><span class="hljs-string">"rintintin"</span></span>
+</span></span><span style="display:flex;"><span>ml_workspace<span style="color:#f92672">=</span><span style="color:#e6db74"><span class="hljs-string">"ml-stable-diffusion"</span></span>
+</span></span><span style="display:flex;"><span>resource_group<span style="color:#f92672">=</span><span style="color:#e6db74"><span class="hljs-string">"rg-stable-diffusion"</span></span>
+</span></span><span style="display:flex;"><span>location<span style="color:#f92672">=</span><span style="color:#e6db74"><span class="hljs-string">"eastus"</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><p>Then, create the resource group that will, well, group our Azure resources.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span>az group create --name <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">resource_group</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> --location <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">location</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><h3 id="the-workspace">The Workspace<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-workspace">#</a></h3>
+<p>Now, let’s create an ML workspace - you’ll need this to do anything ML-related in Azure. It needs a good name again, and a reference to the resource group you’ve just created.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Create an ML workspace    </span></span>
+</span></span><span style="display:flex;"><span>az ml workspace create -n <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">ml_workspace</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> -g <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">resource_group</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><h3 id="requesting-access-to-gpu-compute-instances-optional-if-youre-lucky">Requesting Access to GPU Compute Instances (optional if you’re lucky)<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#requesting-access-to-gpu-compute-instances-optional-if-youre-lucky">#</a></h3>
+<p>This is where things might get a bit hairy, but not for the reasons you expect. Since I’m strongly assuming you want to run <strong>Stable Diffusion on a GPU</strong>, then the first thing you need to do is make sure you have enough <strong>GPU quota</strong>. You can check this by going to <a href="https://ml.azure.com/quota">ml.azure.com/quota</a> and looking for how many GPU cores you have available - the available machine types and their respective costs are <a href="https://azure.microsoft.com/en-us/pricing/details/machine-learning/#pricing">here</a>, with some more details <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu">here</a>.</p>
+<p>Personally, I’ve tested Stable Diffusion on a <code>Standard_NC6</code> (<strong>1xTesla K80, 1.17$/hr</strong>), <code>Standard_NV6</code> (<strong>1xTesla M60, 1.36$/hr</strong>), and <code>Standard_NC6s_v3</code>, the fairest of them all (<strong>1xTesla V100, 3.82$/hr</strong>). The first two sludged at around <strong>1.3 iterations per second</strong> when running checkpoint 1.5, while the V100 ran at <strong>9.5-10.5 it/s</strong>, reaching around <strong>12.5 it/s</strong> with Meta’s <a href="https://github.com/facebookresearch/xformers">xFormers</a> enabled. If you can get your hands on a V100, I strongly recommend it. 🚀</p>
+<p>Anyways, if you don’t have enough cores available you can request more by clicking the “Request Quota” button. You’ll need to provide some information about your subscription/quota type, and then wait for the request to be approved. One thing to note is the <strong>difference between the names</strong> of the VMs in the Azure portal, and in the Azure ML portal - you’ll request one thing and get another, for example requesting <code>NCSv3</code> allows you to use the <code>Standard_NC6s_v3</code> compute type. The <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu">GPU sizes</a> page is your friend on this one but it’s on the frustrating side of things to be honest, hopefully the team will prioritize <strong>fixing these discrepancies</strong> in the near term.</p>
+<figure class="zoomable">
+<img loading="lazy" src="./image_files/request-quota.png"> <figcaption>
+Requesting more GPU cores
+</figcaption>
+</figure>
+<p>It’s also possible that the request will be denied, most likely due to GPU instances not being available for your specific location. In case this happens, my best advice here is to try again with a different location (<code>eastus</code> is a pretty solid choice here), or GPU instance. And, just so you know, I’ve had requests for older machines such as <code>NCSv2</code> rejected due to them being phased out, and requests for the newer <code>NCSv3</code> rejected due to them not being available for subscriptions with included credits, so ymmv.</p>
+<p>Once you have enough quota you can create a compute instance, which we’ll then use to run the Stable Diffusion Web UI.</p>
+<h3 id="the-compute-instance">The Compute Instance<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#the-compute-instance">#</a></h3>
+<p>First, create a <code>compute.yaml</code> file describing the compute instance:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml hljs" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672"><span class="hljs-string">$schema</span></span><span class="hljs-string">:</span> <span style="color:#ae81ff"><span class="hljs-string">https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json</span> </span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672"><span class="hljs-attr">type</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-string">computeinstance</span></span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672"><span class="hljs-attr">size</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-string">Standard_NC6s_v3</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672"><span class="hljs-attr">idle_time_before_shutdown</span></span><span class="hljs-attr">:</span> <span style="color:#e6db74"><span class="hljs-string">"PT30M"</span></span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672"><span class="hljs-attr">schedules</span></span><span class="hljs-attr">:</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672"><span class="hljs-attr">compute_start_stop</span></span><span class="hljs-attr">:</span>
+</span></span><span style="display:flex;"><span>      <span class="hljs-bullet">-</span> <span style="color:#f92672"><span class="hljs-attr">action</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-string">stop</span></span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672"><span class="hljs-attr">trigger</span></span><span class="hljs-attr">:</span>
+</span></span><span style="display:flex;"><span>         <span style="color:#f92672"><span class="hljs-attr">type</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-string">cron</span></span>
+</span></span><span style="display:flex;"><span>         <span style="color:#f92672"><span class="hljs-attr">start_time</span></span><span class="hljs-attr">:</span> <span style="color:#e6db74"><span class="hljs-string">"2023-01-01T21:21:07"</span></span>
+</span></span><span style="display:flex;"><span>         <span style="color:#f92672"><span class="hljs-attr">time_zone</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-string">UTC</span></span>
+</span></span><span style="display:flex;"><span>         <span style="color:#f92672"><span class="hljs-attr">expression</span></span><span class="hljs-attr">:</span> <span style="color:#ae81ff"><span class="hljs-number">0</span></span> <span style="color:#ae81ff"><span class="hljs-number">23</span></span> <span class="hljs-string">*</span> <span class="hljs-string">*</span> <span class="hljs-string">*</span>
+</span></span></code></pre><button class="copy-code">copy</button></div><p>It will create a compute instance of type <code>Standard_NC6s_v3</code>, and shut it down after it’s idle for 30 minutes and also each day at 23:00 UTC+0 (you can never be too careful 🤕). You can, of course, change the <code>size</code> to any other GPU instance. If you’re not sure what GPU instances you have access to, just run <code>az ml compute list-sizes -l &lt;location_eg_westus&gt; --output table</code> and look for instances with <code>GPU</code> in the <code>GPU</code> column.</p>
+<p>Run the next command to create the compute instance, and update the names if needed:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span>az ml compute create -f compute.yml -n <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">compute</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> -w <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">ml_workspace</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> -g <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">resource_group</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><p>This will take a few minutes, so go grab a coffee or something. Once it’s done, you can check the status of the compute instance by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span>az ml compute show -n <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">compute</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> -w <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">ml_workspace</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span> -g <span style="color:#e6db74"><span class="hljs-string">"</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">${</span></span></span><span class="hljs-string"><span class="hljs-variable">resource_group</span></span><span style="color:#e6db74"><span class="hljs-string"><span class="hljs-variable">}</span></span></span><span style="color:#e6db74"><span class="hljs-string">"</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><p>You can also see the instance in <a href="https://ml.azure.com/">Azure Machine Learning Studio</a>, by going to the <a href="https://ml.azure.com/workspaces">Workspaces</a> tab, selecting the workspace you’ve just created, then visiting the <code>Compute</code> tab and looking for your compute instance.</p>
+<p>Make sure it’s running, then click its <code>Terminal</code> link to start a new terminal session. It’s time to set up the Stable Diffusion Web UI.</p>
+<h2 id="automatic1111s-stable-diffusion-web-ui-setup">AUTOMATIC1111’s Stable Diffusion Web UI Setup<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#automatic1111s-stable-diffusion-web-ui-setup">#</a></h2>
+<p>First, let’s clone the <code>AUTOMATIC1111/stable-diffusion-webui</code> repo and install its dependencies. Remember, all of this is happening on the compute instance, nothing’s running on your local machine.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Clone the SD WebUI</span></span>
+</span></span><span style="display:flex;"><span>git <span class="hljs-built_in">clone</span> https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Go to the models folder</span></span>
+</span></span><span style="display:flex;"><span><span class="hljs-built_in">cd</span> stable-diffusion-webui/models/Stable-diffusion/
+</span></span></code></pre><button class="copy-code">copy</button></div><p>To be able to download the models, you’ll need to provide a <a href="https://huggingface.co/docs/hub/security-tokens">HuggingFace auth token</a>, which you can create <a href="https://huggingface.co/settings/tokens">here</a>. Then, it’s just a matter of downloading the models - let’s go with RunwayML’s 1.5 checkpoint for now, and later on I’ll show you how to install Stable Diffusion 2.1 as well.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Download Stable Diffusion 1.5 checkpoint (requires a HuggingFace auth token)</span></span>
+</span></span><span style="display:flex;"><span>curl -H <span style="color:#e6db74"><span class="hljs-string">"Authorization: Bearer &lt;your-huggingface-token&gt;"</span></span> https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt --location --output v1-5-pruned-emaonly.ckpt
+</span></span></code></pre><button class="copy-code">copy</button></div><p>Now, let’s install the web ui’s dependencies - Azure ML compute instances come with <a href="https://docs.conda.io/en/latest/">Conda</a> pre-installed, so in order to keep things nice and clean we’ll use it to create a new environment.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Create a new Conda env with the desired Python version</span></span>
+</span></span><span style="display:flex;"><span>conda create -n a1111-sdwebui python<span style="color:#f92672">=</span>3.10 -y
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Activate the new env</span></span>
+</span></span><span style="display:flex;"><span>conda activate a1111-sdwebui
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Go back to the root of the repo..</span></span>
+</span></span><span style="display:flex;"><span><span class="hljs-built_in">cd</span> ../..
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># ..so we can install the repository's dependencies..</span></span>
+</span></span><span style="display:flex;"><span>pip install -r requirements_versions.txt 
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># ..which for some reason won't install everything leading to the web ui crashing </span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># while complaining about `undefined symbol: cublasLtGetStatusString, version libcublasLt.so.11`</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># So, we need to install the missing dependencies directly from conda</span></span>
+</span></span><span style="display:flex;"><span>conda install pytorch<span style="color:#f92672">=</span>1.13 torchvision<span style="color:#f92672">=</span>0.14 torchaudio<span style="color:#f92672">=</span>0.13 pytorch-cuda<span style="color:#f92672">=</span>11.7 -c pytorch -c nvidia -y
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># If you want/need an older version, see the alternatives here https://pytorch.org/get-started/previous-versions/</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># e.g. I've had success with </span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch -y</span></span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Mark everything as a safe directory,</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># we need this because when first run,</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># the web ui will try to clone some repos under this directory, </span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># and we'll get a lot of dubious ownership errors,</span></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># which we don't really want to be honest</span></span>
+</span></span><span style="display:flex;"><span>git config --global --add safe.directory <span style="color:#e6db74"><span class="hljs-string">'*'</span></span>
+</span></span></code></pre><button class="copy-code">copy</button></div><p>And that’s pretty much it! 🎉</p>
+<figure class="zoomable">
+<img loading="lazy" src="./image_files/no-way.gif"> <figcaption>
+NO.WAY.
+</figcaption>
+</figure>
+<p>I’ll show you a couple of improvements in a moment, but for now rejoice, and start the Web UI by running the command below (p.s. it will take a while until it downloads all its extra dependencies, so be patient 😉):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Don't forget to pick a good userame/password combo, otherwise anyone will be able to access your instance</span></span>
+</span></span><span style="display:flex;"><span>accelerate launch --mixed_precision<span style="color:#f92672">=</span>bf16 --num_cpu_threads_per_process<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span> launch.py --share --gradio-auth &lt;user&gt;:&lt;pass&gt;
+</span></span></code></pre><button class="copy-code">copy</button></div><p>⚠️ Note that you can only use <code>bf16</code> (bfloat16) for <code>mixed_precision</code> if you have a beefy enough GPU (read: A100), otherwise you’ll need to set this to <code>fp16</code>, as detailed in <a href="https://www.reddit.com/r/MachineLearning/comments/vndtn8/comment/ie6dr2u/?context=3">this Reddit comment</a>.</p>
+<blockquote>
+<p><strong>TL;DR: if you have the right hardware, use BF16 :-)</strong></p>
+<p>Both consume the exact same memory as they encode each number on 16 bits.
+On recent Nvidia GPU (Ampere generation like A100 and 3090 RTX), tensor cores boost both of them. On older ones (like a V100 or a T4), bfloat16 is not supported so life is easier because you have no choice.</p>
+</blockquote>
+<p>Once it finishes downloading the dependencies and loading the model, look for the following line in the logging output <code>Running on public URL: https://&lt;some-random-hash&gt;.gradio.app</code>. This is the URL you’ll use to access the Web UI (pay attention when sharing it, of course).</p>
+<figure class="zoomable">
+<img loading="lazy" src="./image_files/sd-webui.png"> <figcaption>
+Stable Diffusion Web UI
+</figcaption>
+</figure>
+<p>And what’s <code>--gradio-auth &lt;user&gt;:&lt;pass&gt;</code> bit? Well, it’s a way to protect your instance from unwanted visitors. It’s not the most secure way to do it, but it’s better than nothing, otherwise you risk having people randomly finding your instance and using it to generate all kinds of <a href="https://www.reddit.com/r/StableDiffusion/comments/y52yt0/why_are_there_images_i_never_generated_in_my/">fun stuff</a>.</p>
+<p>And, please make sure to pick a stronger user/pass combo than <code>marco:polo</code>.</p>
+<figure class="zoomable">
+<img loading="lazy" src="./image_files/imagine.png"> <figcaption>
+😕
+</figcaption>
+</figure>
+<h3 id="installing-stable-diffusion-2">Installing Stable Diffusion 2<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#installing-stable-diffusion-2">#</a></h3>
+<p>We’ll follow the instructions from the <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#stable-diffusion-20">webui repo</a>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Go to the models folder</span></span>
+</span></span><span style="display:flex;"><span><span class="hljs-built_in">cd</span> stable-diffusion-webui/models/Stable-diffusion/
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Download the x768 model, specifically the safetensors versions for increased security and loading speed</span></span>
+</span></span><span style="display:flex;"><span>curl -H <span style="color:#e6db74"><span class="hljs-string">"Authorization: Bearer &lt;your-huggingface-token&gt;"</span></span> https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors --location --output v2-1_768-ema-pruned.safetensors
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># and its config as well</span></span>
+</span></span><span style="display:flex;"><span>curl https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/configs/stable-diffusion/v2-inference-v.yaml --output v2-1_768-ema-pruned.yaml
+</span></span></code></pre><button class="copy-code">copy</button></div><p>Now, you can run the web ui again, and select the <code>v2-1_768-ema-pruned.safetensors</code> model from the dropdown menu - enjoy!</p>
+<h3 id="running-faster">Running Faster<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#running-faster">#</a></h3>
+<p>Remember how I said that you can get about 9-10 iterations per second on a <code>Standard_NC6s_v3</code> instance? Well, that’s not the best we can do: we can actually get about 12.5 it/s by installing and enabling Meta’s xFormers library.</p>
+<p>And the catch? On the one hand, these will not work <strong>at all</strong> on older GPUs such as <code>Standard_NC6</code> and <code>Standard_NV6</code> (<strong>I mean it</strong> - after installing the library on those machines, I kept on receiving errors about needing compute power &gt; 50 whenever I tried to generate an image, and I hadn’t even enabled them in the web ui; only way I could get the ui to work again was to <code>conda uninstall</code> the thing).</p>
+<p>On the other hand, things might get a bit <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2705#discussioncomment-4024378">non-deterministic</a>, some people seem to be complaining about getting inconsistent generations with the same seeds/settings. I’ve personally had no issues with this, but then again, I wasn’t really paying attention to it. 🤷🏻‍♂️</p>
+<p>Here’s how you can try them out, and possibly get a <strong>20% speed increase</strong> at the cost of <strong>some determinism</strong> here and there:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Install xFormers</span></span>
+</span></span><span style="display:flex;"><span>conda install xformers -c xformers/label/dev -y
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"><span class="hljs-comment"># Enable them in the Web UI</span></span>
+</span></span><span style="display:flex;"><span>accelerate launch --mixed_precision<span style="color:#f92672">=</span>bf16 --num_cpu_threads_per_process<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span> launch.py --share --xformers  --gradio-auth &lt;user&gt;:&lt;pass&gt;
+</span></span></code></pre><button class="copy-code">copy</button></div><h3 id="installing-extensions">Installing Extensions<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#installing-extensions">#</a></h3>
+<p>At some point you’re probably going to want to install some extensions, and you’ll be hit by a very friendly, but firm error message: <code>AssertionError: extension access disabled because of command line flags</code>. What’s happening is that, since you’re not running on <code>localhost</code> and everyone in the whole wide world can in theory access your Web UI, you need to explicitly enable extensions.</p>
+<p>You can do it by adding the <code>--enable-insecure-extension-access</code> flag to the <code>accelerate launch</code> command as follows. Note that you can simply enable it while installing the extensions, and then disable it after you’re done.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh hljs bash" data-lang="sh"><span style="display:flex;"><span>accelerate launch --mixed_precision<span style="color:#f92672">=</span>bf16 --num_cpu_threads_per_process<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span> launch.py --share --xformers --enable-insecure-extension-access  --gradio-auth &lt;user&gt;:&lt;pass&gt;
+</span></span></code></pre><button class="copy-code">copy</button></div><h3 id="running-the-web-ui-again-in-the-future">Running the Web UI again in the future<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#running-the-web-ui-again-in-the-future">#</a></h3>
+<p>Next time you want to generate something, just start the machine from the Azure ML portal, jump to the Terminal, <code>conda activate a1111-sdwebui</code> and run your favorite <code>accelerate launch</code> command again.</p>
+
+<h2 id="conclusion">Conclusion<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#conclusion">#</a></h2>
+<p>Congratulations 🥳! You now have a fully functional Stable Diffusion Web UI running on an Azure ML GPU compute instance, and you can use it to generate all kinds of images, or even train your own models.</p>
+<p>Just remember to stop your machine whenever you’re not using it 😉.</p>
+<hr>
+<p>If you have any questions, feel free to reach out to me on <a href="https://twitter.com/vladiliescu">Twitter</a> or join the thread here:</p>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Just posted a guide on using AUTOMATIC1111's Stable Diffusion web UI on Azure ML GPU compute instances.<br><br>It includes:<br>1️⃣ Setting up AML GPU instances using the CLI<br>2️⃣ Installing the web ui and checkpoints 1.5 and 2.0<br>3️⃣ Speed increases with xFormers<br><br>and<a href="https://t.co/VfYN7WGCED">https://t.co/VfYN7WGCED</a></p>— Vlad Iliescu (@vladiliescu) <a href="https://twitter.com/vladiliescu/status/1599478251545833472?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote>
+<hr>
+<h2 id="changelog">Changelog<a hidden="" class="anchor" aria-hidden="true" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#changelog">#</a></h2>
+<ul>
+<li><code>2023-01-29</code>
+<ul>
+<li>Use variables when creating the Azure resources</li>
+<li>Schedule the compute instance to stop each day at 23:00 UTC</li>
+</ul>
+</li>
+<li><code>2023-01-02</code>
+<ul>
+<li>Replaced <code>--force-enable-xformers</code> with the improved <code>--xformers</code> launch option</li>
+<li>Added instructions for downloading the safetensors version of Stable Diffusion 2.1</li>
+<li>More info about the difference between <code>fp16</code> and <code>bf16</code> for <code>mixed_precision</code></li>
+</ul>
+</li>
+<li><code>2022-12-04</code>
+<ul>
+<li><strong>Everything</strong></li>
+</ul>
+</li>
+</ul>
+</div>
+<footer class="post-footer">
+<ul class="post-tags">
+<li><a href="https://vladiliescu.net/tags/stable-diffusion/">Stable Diffusion</a></li>
+<li><a href="https://vladiliescu.net/tags/azure-machine-learning/">Azure Machine Learning</a></li>
+</ul>
+<nav class="paginav">
+<a class="prev" href="https://vladiliescu.net/aml-managed-endpoints-quickstart/">
+<span class="title">« Prev</span>
+<br>
+<span>Azure ML Managed Online Endpoints - Quickstart</span>
+</a>
+<a class="next" href="https://vladiliescu.net/cd-for-azure-ml-pipelines/">
+<span class="title">Next »</span>
+<br>
+<span>Continuous Deployment for Azure ML Pipelines with Azure DevOps</span>
+</a>
+</nav>
+</footer>
+</article>
+</main>
+<footer class="footer">
+<span>© 2023 Vlad Iliescu</span>
+</footer>
+<a href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+<path d="M12 6H0l6-6z"></path>
+</svg>
+</a>
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+
+
+<div id="readergpt__shadowRoot" style="font-size: 16px;"></div><div class="glasp-ui-wrapper" id="glasp-ui-wrapper" style="height: 0px; width: 0px;"><iframe name="glasp-tooltip-iframe" id="glasp-tooltip-iframe" frameborder="0" scrolling="no" style="height: 48px; filter: drop-shadow(rgba(0, 0, 0, 0.3) 0px 2px 5px); position: relative; width: 0px !important; display: none;" src="./image_files/saved_resource.html"></iframe><iframe name="glasp-sidebar-iframe" id="glasp-sidebar-iframe" frameborder="0" style="max-width: 300px; height: 100%; background: url(&quot;https://storage.googleapis.com/glasp.co/src/img/loading_200.gif&quot;) center center / 40px no-repeat rgb(255, 255, 255); resize: horizontal; direction: rtl; margin: auto; position: fixed; top: 0px; right: 0px; left: auto; z-index: 2147483647; width: 0px !important; min-width: 0px !important; display: block;" src="./image_files/saved_resource(1).html"></iframe></div></body><editor-card style="position:absolute;top:0px;left:0px;z-index:auto;display: block !important"><div dir="ltr" style="all: initial;"><div style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-palette: initial; font-synthesis: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; bottom: 0px; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: flex; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: column-reverse; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; left: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: 1em; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: fixed; quotes: initial; r: initial; resize: initial; right: 0px; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; top: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"></div><div style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-palette: initial; font-synthesis: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel="stylesheet" href="chrome-extension://gpaiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.css"><div style="all: initial;"></div></div></div></editor-card></html>
