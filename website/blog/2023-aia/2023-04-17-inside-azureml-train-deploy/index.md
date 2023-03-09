@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-This article teaches how to train and deploy machine learning models using Azure ML. It outlines the advantages of using Azure ML and provides three methods of performing tasks: using the CLI, Python SDK, or Studio UI. The article includes two GitHub repos and uses the open-source MLflow framework to run the training code and save the model. The author provides commands to test the model on the dev machine and uses the Fashion MNIST dataset as an example. The article emphasizes the importance of testing code before deploying to the cloud. A valuable resource for ML model training and deployment with Azure ML.
+Last week was for Azure AI App developers. This week, we switch gears and focus on Azure Machine Learning services for people building and deploying ML models. Today, come along, and learn about training and deploying machine learning models using Azure ML.
 
 ## What we'll cover
 
