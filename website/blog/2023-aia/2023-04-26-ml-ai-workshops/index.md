@@ -15,21 +15,13 @@ description: "learn about the ML and AI for beginner workshops https://azureaide
 
 <head>
 
-  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day24" />
-  <meta name="twitter:title" content="ML and AI for beginners" />
-  <meta name="twitter:description" content="learn about the ML and AI for beginner workshops https://azureaidevs.github.io/hub/blog/2023-day24 #30DaysOfAzureAI #AzureAiDevs #AI #MachineLearning" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day24.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-   -->
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day24" />
   <meta property="og:title" content="ML and AI for beginners" />
   <meta property="og:description" content="learn about the ML and AI for beginner workshops https://azureaidevs.github.io/hub/blog/2023-day24 #30DaysOfAzureAI #AzureAiDevs #AI #MachineLearning" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day24.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
-
+  
 
   <link rel="canonical" href="https://github.com/microsoft/ML-For-Beginners"  />
 

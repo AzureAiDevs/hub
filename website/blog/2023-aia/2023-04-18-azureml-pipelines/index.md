@@ -15,21 +15,13 @@ description: "Streamlining ML Development with Azure ML Components & Pipelines h
 
 <head>
 
-  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day17" />
-  <meta name="twitter:title" content="Streamline Model Dev with Azure ML" />
-  <meta name="twitter:description" content="Streamlining ML Development with Azure ML Components & Pipelines https://azureaidevs.github.io/hub/blog/2023-day17 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day17.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-   -->
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day17" />
   <meta property="og:title" content="Streamline Model Dev with Azure ML" />
   <meta property="og:description" content="Streamlining ML Development with Azure ML Components & Pipelines https://azureaidevs.github.io/hub/blog/2023-day17 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day17.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
-
+  
 
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-pipeline/"  />
 

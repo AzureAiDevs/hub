@@ -15,21 +15,13 @@ description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub
 
 <head>
 
-  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day28" />
-  <meta name="twitter:title" content="Continuing your Azure AI Journey✨" />
-  <meta name="twitter:description" content="Continuing your Azure AI Journey https://azureaidevs.github.io/hub/blog/2023-day28 #30DaysOfAzureAI #AzureAiDevs #AI " />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day28.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-   -->
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day28" />
   <meta property="og:title" content="Continuing your Azure AI Journey✨" />
   <meta property="og:description" content="Continuing your Azure AI Journey https://azureaidevs.github.io/hub/blog/2023-day28 #30DaysOfAzureAI #AzureAiDevs #AI " />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day28.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
-
+  
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day28"  />
 

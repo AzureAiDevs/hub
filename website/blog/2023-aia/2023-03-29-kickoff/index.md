@@ -15,21 +15,13 @@ description: "Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilli
 
 <head>
 
-  <!-- <meta name="twitter:url" content="https://azureaidevs.github.io/hub/blog/2023-day1" />
-  <meta name="twitter:title" content="Kick Starting AI April!" />
-  <meta name="twitter:description" content="Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at [AI April](https://aka.ms/ai-april) https://azureaidevs.github.io/hub/blog/2023-day1 #30DaysOfAzureAI #AzureAiDevs #AI " />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day1.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
-   -->
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day1" />
   <meta property="og:title" content="Kick Starting AI April!" />
   <meta property="og:description" content="Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at [AI April](https://aka.ms/ai-april) https://azureaidevs.github.io/hub/blog/2023-day1 #30DaysOfAzureAI #AzureAiDevs #AI " />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day1.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
-
+  
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day1"  />
 
