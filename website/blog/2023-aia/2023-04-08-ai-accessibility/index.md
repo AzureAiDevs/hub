@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday we talked about the importance of Responsible AI. Today is about ensuring the intelligent apps or the ML models you build are accessible to all.
+Yesterday we talked about the importance of Responsible AI. Today is about 6 ways to improve accessibility with Azure AI. There are over one billion people in the world living with disabilities.
 
 ## 🎯 What we'll cover
 
@@ -83,7 +83,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Build accessible AI for everyone
+## 🚌 6 ways to improve accessibility with Azure AI
 
 <!-- Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) -->
 
