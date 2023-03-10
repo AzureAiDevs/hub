@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Transform manual form filling into an automated process with Azure Form Recognizer in this workshop! With Azure services and a focus on improving the patient experience, you'll create a custom model and integrate it into a web-based patient registration system. By the end, you'll have a solution that streamlines the registration process, providing more efficient and accurate data extraction. Don't miss out on harnessing the power of AI with Azure Form Recognizer!
+Yesterday we learned about the Machine Learning for Beginners Curriculum. Today is for AI app Developers and introduces the New Patient Registration workshop. It's a one-hour hands-on lab, and you'll learn how to build an Azure Static Web App that uses the Azure Form Recognizer service.
 
 ## What we'll cover
 
