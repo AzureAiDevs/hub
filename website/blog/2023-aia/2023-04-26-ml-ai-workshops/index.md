@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- Classic Machine Learning.
-- The Scikit-learn Python library.
-- Learn in teams or on your own.
+- Machine Learning for Beginners curriculum.
+- Classic Machine Learning with the Scikit-learn Python library.
+- Introduction to Natural Language Processing and Time Series analysis.
 
 <!-- 
 - Main point 1
