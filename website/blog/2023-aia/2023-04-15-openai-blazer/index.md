@@ -93,9 +93,9 @@ One of the most useful features of the Blazor Help Website is its extensive libr
 
 ![](image.png)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
+Read today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
 
 
 ## Questions?

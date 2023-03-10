@@ -90,9 +90,9 @@ In summary, the article provides a comprehensive guide on how to create the requ
 
 ![](image.jpeg)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
+Read today's [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
 
 
 ## Questions?

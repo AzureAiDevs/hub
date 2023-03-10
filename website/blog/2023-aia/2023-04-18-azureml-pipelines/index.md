@@ -53,6 +53,7 @@ Yesterday we learned about training and deploying machine learning models using 
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
+
 - Azure ML components and pipelines
 
 <!-- 
@@ -80,6 +81,7 @@ The following is the body of the post. It should be an overview of the post that
 See the Learn More section, if you supplied a canonical link, then will be displayed here.
 -->
 
+
 ## How to train using pipelines and components in Azure ML
 
 Check out [today's article](https://bea.stollnitz.com/blog/aml-pipeline/) to take your machine leaning projects to new heights with Azure ML components and pipelines! Learn how to break down your training code into components, and how to connect those components into a pipeline. Organizing your work into steps with components and pipelines will boost your productivity, especially as the complexity of your project increases.
@@ -89,7 +91,7 @@ The goal for today is for you to be able to evaluate the benefits of components 
 
 ![](image.png)
 
-## Learn More
+## Today's reference article
 
 Read today's [article](https://bea.stollnitz.com/blog/aml-pipeline/).
 

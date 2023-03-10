@@ -53,6 +53,7 @@ Yesterday we talked about using Copilot to build an intelligent Receipt processi
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
+
 - Why use Azure ML
 - The main resources used to train and deploy models in Azure ML 
 - The four different ways of creating those resources
@@ -89,9 +90,9 @@ Read [today's article](https://bea.stollnitz.com/blog/aml-introduction/) to unde
 
 The goal for today is for you to get a foundational understanding of Azure ML concepts, so that you'll be able to follow code samples later in the AI April month.
 
-## Learn More
+## Today's reference article
 
-Check out today's [article](https://bea.stollnitz.com/blog/aml-introduction/).
+Read today's [article](https://bea.stollnitz.com/blog/aml-introduction/).
 
 
 ## Questions?

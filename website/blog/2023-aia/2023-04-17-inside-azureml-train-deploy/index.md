@@ -47,13 +47,14 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Last week was for Azure AI App developers. This week, we switch gears and focus on Azure Machine Learning services for people building, deploying, and "productionalizing" ML models. If you're a Data Scientist, or an ML or MLOps engineer, then this week is for you. 
 
-Today, learn about training, deploying and "productionalizing" machine learning models using Azure ML.
+Today, learn about training and deploying machine learning models using Azure ML.
 
 ## What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
  -->
+
 
 - How to train and deploy a machine learning model using Azure ML
 - The three most common methods of creating resources: Azure ML CLI, Python SDK, and Studio UI
@@ -83,16 +84,16 @@ The following is the body of the post. It should be an overview of the post that
 See the Learn More section, if you supplied a canonical link, then will be displayed here.
 -->
 
+
 ## How to train and deploy in Azure ML
 
 If you have a basic understanding of how to train a machine learning model, but you've never used Azure ML before, then you're in the right place. [Today's article](https://bea.stollnitz.com/blog/aml-command) is a hands-on introduction to the most fundamental operations of Azure ML: training and deploying a machine learning model in the cloud. It discusses which resources you need to create, and the three main methods of creating them: the Azure ML CLI, the Python SDK, and the Studio UI.
 
 The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.
 
+## Today's reference article
 
-## Learn More
-
-Check out today's [article](https://bea.stollnitz.com/blog/aml-command).
+Read today's [article](https://bea.stollnitz.com/blog/aml-command).
 
 
 ## Questions?

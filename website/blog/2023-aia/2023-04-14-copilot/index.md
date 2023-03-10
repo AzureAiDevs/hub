@@ -93,9 +93,9 @@ These updates are available on Copilot for Individuals and Copilot for Business 
 
 ![](image.webp)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
+Read today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
 
 
 ## Questions?

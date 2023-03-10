@@ -111,9 +111,9 @@ Microsoft and OpenAI have released Azure OpenAI Service, which brings OpenAI's a
 The goal is to democratise artificial intelligence, as well as using it to help solve global challenges such as climate change, healthcare and education. Satya Nadella, CEO of Microsoft, said: "By bringing together OpenAI's breakthrough technology with new Azure AI supercomputing technologies, our ambition is to democratise AI, while always keeping AI safety front and centre, so everyone can benefit." To get started with the Azure OpenAI Service, users are advised to learn about OpenAI's language models, which include GPT-3, Code and DALL-E 2, and understand key API concepts such as prompts, completions, tokens and models.
 
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
+Read today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
 
 
 ## Questions?

@@ -92,9 +92,9 @@ The goal of the workshop is to improve the patient experience by automating the 
 
 ![](image.png)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://newpatiente2e.github.io/docs/).
+Read today's [article](https://newpatiente2e.github.io/docs/).
 
 
 ## Questions?

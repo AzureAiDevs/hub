@@ -94,9 +94,9 @@ The solution accelerator supports both Azure DevOps and GitHub-based deployments
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5yPDkWCMmtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://github.com/Azure/mlops-v2).
+Read today's [article](https://github.com/Azure/mlops-v2).
 
 
 ## Questions?

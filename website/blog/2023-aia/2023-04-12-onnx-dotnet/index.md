@@ -94,9 +94,9 @@ The presentation concludes with a demo of the .NET Maui application, which uses 
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/h6HWP5jpA5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://youtu.be/h6HWP5jpA5s).
+Read today's [article](https://youtu.be/h6HWP5jpA5s).
 
 
 ## Questions?

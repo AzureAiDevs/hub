@@ -83,9 +83,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://microsoft.github.io/ML-For-Beginners/).
+Read today's [article](https://microsoft.github.io/ML-For-Beginners/).
 
 
 ## Questions?

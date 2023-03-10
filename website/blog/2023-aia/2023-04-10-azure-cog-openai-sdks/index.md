@@ -96,9 +96,9 @@ The Azure AI Hub is a repository designed to be the central hub of samples for A
 The repository provides a range of Azure AI code samples such as using OpenAI to make sense of a large dataset using Query based Summarization in a Python notebook, using Translator to translate documents from and into more than 100 different languages, automating paper-based processes using the New patient registration with Form Recognizer workshop, integrating Speech AI into apps using Speech SDK samples, and extracting structured data from forms, receipts, invoices, and cards using Form Recognizer in various programming languages. There are no prerequisites to using the Azure AI Hub, and 
 developers are encouraged to join the discussions, introduce themselves, and share their thoughts on the samples.
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://github.com/Azure-Samples/azure-ai).
+Read today's [article](https://github.com/Azure-Samples/azure-ai).
 
 
 ## Questions?

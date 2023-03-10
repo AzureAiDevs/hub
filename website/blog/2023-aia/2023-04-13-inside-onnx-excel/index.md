@@ -89,9 +89,9 @@ The article emphasizes the importance of responsible AI in building applications
 
 ![](bert-excel.gif)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
+Read today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
 
 
 ## Questions?

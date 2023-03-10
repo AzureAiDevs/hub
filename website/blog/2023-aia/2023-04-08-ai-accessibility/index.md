@@ -89,9 +89,9 @@ The article also discusses the importance of intersectionality in disability and
 
 ![](ai-for-accessiblity.jpeg)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://www.microsoft.com/ai/ai-for-accessibility).
+Read today's [article](https://www.microsoft.com/ai/ai-for-accessibility).
 
 
 ## Questions?

@@ -91,9 +91,9 @@ To deploy a machine learning model using managed online endpoints, the author su
 
 Overall, the article is a helpful guide for anyone looking to deploy machine learning models using Azure Machine Learning's managed online endpoints.
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
+Read today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 
 
 ## Questions?

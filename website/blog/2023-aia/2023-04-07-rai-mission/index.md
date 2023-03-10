@@ -90,9 +90,9 @@ Microsoft is investing heavily in AI because it believes that it can benefit eve
 
 Microsoft Research has been advancing the foundations of computing for over 30 years, and its researchers collaborate across disciplines, institutions, and geographies to deliver cutting-edge AI advances. Recent efforts have focused on developing large-scale AI models that can process information in increasingly sophisticated ways while also becoming more natural and intuitive to use. Advances in deep learning, coupled with internet-scale datasets and Microsoft Azure's increasingly powerful AI supercomputing resources, have made it possible to create AI models that perform a broad range of tasks across many different applications.
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://www.microsoft.com/en-us/ai/our-approach).
+Read today's [article](https://www.microsoft.com/en-us/ai/our-approach).
 
 
 ## Questions?

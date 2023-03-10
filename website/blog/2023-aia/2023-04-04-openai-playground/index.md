@@ -91,9 +91,9 @@ This article provides an overview of language models and hyperparameters, with a
 
 ![](playground.gif)
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562).
+Read today's [article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562).
 
 
 ## Questions?

@@ -87,9 +87,9 @@ Microsoft has introduced a 10-week, 20-lesson course on Data Science for Beginne
 
 The course includes lessons on defining data science, data science ethics, statistics and probability, working with relational and non-relational data, using Python, data preparation, data visualization, machine learning, and deep learning. There are also optional sketchnotes and supplemental videos, and each lesson includes a challenge, supplemental reading, and post-lesson quiz. Microsoft encourages teachers to use this curriculum and would love feedback in the discussion forum. Students can fork the entire repo and complete the exercises on their own, and to further their study, Microsoft recommends Microsoft Learn.
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://microsoft.github.io/Data-Science-For-Beginners).
+Read today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 
 
 ## Questions?

@@ -90,9 +90,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/MYP3Bmsncq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Learn More
+## Today's reference article
 
-To learn more, check out this [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops).
+Read today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops).
 
 
 ## Questions?
