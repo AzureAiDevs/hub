@@ -32,7 +32,7 @@ description: "Guide to analyzing ML models for Responsible AI issues (Part 1) ht
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/19-debug-models-w/-responsible-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _19_ of #30DaysOfAzureAI
+## 🗓️ Day _19_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Yesterday we learned how to deploy ML models using Azure ML managed online endpoints. In the "Fundamentals" week we learned about the importance of Responsible AI. Today, we get practical, you'll learn about the Azure ML Responsible AI Dashboard and how it can help you build fairer ML models.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Microsoft's approach to using AI responsibly](https://news.microsoft.com/source/features/ai/microsoft-approach-to-ai/#using-ai-responsibly?WT.mc_id=aiml-89446-dglover)
 - [Meeting the AI moment: advancing the future through responsible AI](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence?WT.mc_id=aiml-89446-dglover)
@@ -92,11 +92,11 @@ InterpretML, Fairlearn, DiCE, and EconML are some of the open-source tools that 
 
 The RAI dashboard is available as part of the Responsible AI Toolbox via open source or in the Azure Machine Learning platform. It allows ML engineers to analyze models and make better decisions to produce more responsible AI systems. The dashboard can be accessed through the Azure Machine Learning platform, eliminating the need to use open-source libraries separately to troubleshoot model performance, reliability, or fairness in disparate code instances. The tutorial walks users through creating an Azure Machine Learning workspace and using RAI components for further analysis and debugging of a model trained on the Diabetes Hospital Readmission dataset.
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/19-debug-models-w/-responsible-ai)

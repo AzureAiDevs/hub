@@ -32,7 +32,7 @@ description: "Unleashing the power of AI with Azure OpenAI: A simple guide to ge
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _2_ of #30DaysOfAzureAI
+## 🗓️ Day _2_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Welcome to the first day of the Azure AI fundamentals week. This week is for everyone; you might be an ai app Developer, a Data Scientist, or an ML or MLOps Engineer. The talk of the town is ChatGPT and generative AI, so what better place to start than an introduction to the Azure OpenAI Service.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -73,7 +73,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
@@ -111,11 +111,11 @@ Microsoft and OpenAI have released Azure OpenAI Service, which brings OpenAI's a
 The goal is to democratise artificial intelligence, as well as using it to help solve global challenges such as climate change, healthcare and education. Satya Nadella, CEO of Microsoft, said: "By bringing together OpenAI's breakthrough technology with new Azure AI supercomputing technologies, our ambition is to democratise AI, while always keeping AI safety front and centre, so everyone can benefit." To get started with the Azure OpenAI Service, users are advised to learn about OpenAI's language models, which include GPT-3, Code and DALL-E 2, and understand key API concepts such as prompts, completions, tokens and models.
 
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/2-unleash-the-power-of-azure-openai)

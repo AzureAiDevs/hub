@@ -32,7 +32,7 @@ description: "Get ready to build dynamic, interactive and differentiated experie
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/10-inside-look-at-azure-openai-for-devs)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _10_ of #30DaysOfAzureAI
+## 🗓️ Day _10_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -73,7 +73,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Azure Cognitive Search](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-cognitive-search&WT.mc_id=aiml-89446-dglover)
@@ -202,6 +202,6 @@ for a walkthrough.
 
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/10-inside-look-at-azure-openai-for-devs)

@@ -32,7 +32,7 @@ description: "Learn how to use Copilot to build an intelligent Receipt Recogniti
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-an-ai-receipt-app-with-copilot)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _4_ of #30DaysOfAzureAI
+## 🗓️ Day _4_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Yesterday we talked about using Azure OpenAI Service playground to explore conversational AI. Today we'll explore how you can use GitHub Copilot as your programming buddy to build an intelligent Receipt processing App.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [What is Azure Form Recognizer?](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/overview?view=form-recog-3.0.0&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Learn about Azure Cognitive Services](https://learn.microsoft.com/training/browse/?products=azure-cognitive-services&WT.mc_id=aiml-89446-dglover)
@@ -98,11 +98,11 @@ Be sure to check it out here: [How Copilot helps developers generate code for a 
 
 <!-- The article is about Azure Cognitive Services, which are cloud-based AI services that can be integrated into applications to provide many intelligent features. The services are provided through REST APIs and client library SDKs in different programming languages, and they are divided into five main categories: Vision, Speech, Language, Decision, and Azure OpenAI Service. The article outlines the various services available within each category, and how they can be used to add cognitive features to applications. It also covers topics such as regional availability, language support, security, certifications and compliance, and help and support options. Additionally, the article provides a comprehensive overview of how the services can be used in different development environments. In short, Azure Cognitive Services is a powerful tool for developers to add intelligent features to their applications. -->
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-build-an-ai-receipt-app-with-copilot)

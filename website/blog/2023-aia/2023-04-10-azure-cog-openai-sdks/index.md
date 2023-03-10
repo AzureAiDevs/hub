@@ -32,7 +32,7 @@ description: "Building intelligent apps? Then explore the Azure AI Hub for OpenA
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _9_ of #30DaysOfAzureAI
+## 🗓️ Day _9_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -49,7 +49,7 @@ Last week was Azure AI fundamentals week, this week, we switch gears and focus o
 
 So what better place to start than an introduction to the Azure AI Hub where you'll find loads of samples for using the Azure AI Services SDKs. These samples are invaluable for getting started with Azure Cognitive Services and the Azure OpenAI Service.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -74,7 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Quickstart: Get started generating text using Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/quickstart?pivots=programming-language-studio&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai&WT.mc_id=aiml-89446-dglover)
@@ -96,11 +96,11 @@ The Azure AI Hub is a repository designed to be the central hub of samples for A
 The repository provides a range of Azure AI code samples such as using OpenAI to make sense of a large dataset using Query based Summarization in a Python notebook, using Translator to translate documents from and into more than 100 different languages, automating paper-based processes using the New patient registration with Form Recognizer workshop, integrating Speech AI into apps using Speech SDK samples, and extracting structured data from forms, receipts, invoices, and cards using Form Recognizer in various programming languages. There are no prerequisites to using the Azure AI Hub, and 
 developers are encouraged to join the discussions, introduce themselves, and share their thoughts on the samples.
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://github.com/Azure-Samples/azure-ai).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)

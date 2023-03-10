@@ -32,7 +32,7 @@ description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/28-continuing-your-azure-ai-journey✨)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _28_ of #30DaysOfAzureAI
+## 🗓️ Day _28_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -81,6 +81,6 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/28-continuing-your-azure-ai-journey✨)

@@ -32,7 +32,7 @@ description: "Accelerating MLOps with the v2 Solution Accelerator https://azurea
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/22-mlops-accelerator-explained)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _22_ of #30DaysOfAzureAI
+## 🗓️ Day _22_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -49,7 +49,7 @@ Last week was for Azure ML developers. This week is "Workshop" week; the content
 
 Today, we look at the Azure MLOps (v2) Solution Accelerator and learn how it can help you streamline and automate your machine learning workflows.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -75,7 +75,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Machine learning operations (MLOps)](https://azure.microsoft.com/products/machine-learning/mlops/#features?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/training/paths/introduction-machine-learn-operations?WT.mc_id=aiml-89446-dglover)
@@ -94,11 +94,11 @@ The solution accelerator supports both Azure DevOps and GitHub-based deployments
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5yPDkWCMmtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://github.com/Azure/mlops-v2).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/22-mlops-accelerator-explained)

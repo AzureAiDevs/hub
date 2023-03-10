@@ -32,7 +32,7 @@ description: "Foundations of Data Science: Workshops for Beginners https://azure
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/23-data-science-for-beginners)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _23_ of #30DaysOfAzureAI
+## 🗓️ Day _23_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Yesterday we learned about the Azure MLOps (v2) Solution Accelerator. Today is for folk starting on their Data Science journey. Data Science for Beginners Curriculum is a 10-week, 20-lesson course, so dive in!
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [learn Module: Understand data science for machine learning](https://learn.microsoft.com/training/paths/understand-machine-learning?WT.mc_id=aiml-89446-dglover)
 
@@ -87,11 +87,11 @@ Microsoft has introduced a 10-week, 20-lesson course on Data Science for Beginne
 
 The course includes lessons on defining data science, data science ethics, statistics and probability, working with relational and non-relational data, using Python, data preparation, data visualization, machine learning, and deep learning. There are also optional sketchnotes and supplemental videos, and each lesson includes a challenge, supplemental reading, and post-lesson quiz. Microsoft encourages teachers to use this curriculum and would love feedback in the discussion forum. Students can fork the entire repo and complete the exercises on their own, and to further their study, Microsoft recommends Microsoft Learn.
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/23-data-science-for-beginners)

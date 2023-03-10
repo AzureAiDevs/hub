@@ -32,7 +32,7 @@ description: "Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/16-scaling-model-dev-with-azure-ml)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _16_ of #30DaysOfAzureAI
+## 🗓️ Day _16_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -49,7 +49,7 @@ Last week was for Azure AI App developers. This week, we switch gears and focus 
 
 Today, learn about training and deploying machine learning models using Azure ML.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -73,7 +73,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
@@ -91,11 +91,11 @@ If you have a basic understanding of how to train a machine learning model, but 
 
 The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://bea.stollnitz.com/blog/aml-command).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/16-scaling-model-dev-with-azure-ml)

@@ -32,7 +32,7 @@ description: "GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Co
 - 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/13-copilot's-updated-ai-model)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
-## Day _13_ of #30DaysOfAzureAI
+## 🗓️ Day _13_ of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
@@ -47,7 +47,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Yesterday was all about creating intelligent Excel Add-ins. Today is a look at GitHub Copilot advances to boast productivity, and build better, smarter, safer intelligent apps.
 
-## What we'll cover
+## 🎯 What we'll cover
 
 <!-- README
 The following list is the main points of the post. There should be 3-4 main points.
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### References
+### 📚 References
 
 - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?WT.mc_id=aiml-89446-dglover)
 
@@ -93,11 +93,11 @@ These updates are available on Copilot for Individuals and Copilot for Business 
 
 ![](image.webp)
 
-## Today's reference article
+## 👓 Read today's reference article
 
 Read today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
 
 
-## Questions?
+## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/13-copilot's-updated-ai-model)
