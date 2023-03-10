@@ -1,6 +1,6 @@
 ---
 slug: 2023-day23
-title: "23. 🏭Data Science for beginners"
+title: "23. 🏭Data Science for Beginners"
 authors: ['Bethany']
 draft: false
 hide_table_of_contents: false
@@ -16,7 +16,7 @@ description: "Foundations of Data Science: Workshops for Beginners https://azure
 <head>
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day23" />
-  <meta property="og:title" content="Data Science for beginners" />
+  <meta property="og:title" content="Data Science for Beginners" />
   <meta property="og:description" content="Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/blog/2023-day23 #30DaysOfAzureAI #AzureAiDevs #AI #DataScience" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day23.png" />
   <meta property="og:type" content="article" />
