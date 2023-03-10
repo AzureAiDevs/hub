@@ -23,7 +23,7 @@ description: "Maximizing Business Results with Azure Personalizer: A Machine Lea
   <meta property="og:site_name" content="Azure AI Developer" />
   
 
-  <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day27"  />
+  <link rel="canonical" href="https://tbc"  />
 
 </head>
 
@@ -92,6 +92,9 @@ Azure Personalizer is a service that makes it easy to target content and experie
 
 The [Azure Personalizer Workshop](https://tbc) will help you learn how to use Azure Personalizer to build a personalized experience for your users. You will learn how to create a Personalizer resource, train a model, and deploy a personalized experience.
 
+## 👓 Read today's article
+
+Today's [article](https://tbc).
 
 
 ## 🙋🏾‍♂️ Questions?
