@@ -1,6 +1,6 @@
 ---
 slug: 2023-day20
-title: "20. 🧑🏽‍🔬Learn MLOps for the ML Lifecycle"
+title: "20. 🧑🏽‍🔬Streamline with Azure MLOps"
 authors: ['Cassie']
 draft: false
 hide_table_of_contents: false
@@ -16,7 +16,7 @@ description: "Learn about Azure Machine Learning lifecycle and open source tooli
 <head>
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day20" />
-  <meta property="og:title" content="Learn MLOps for the ML Lifecycle" />
+  <meta property="og:title" content="Streamline with Azure MLOps" />
   <meta property="og:description" content="Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/blog/2023-day20 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day20.png" />
   <meta property="og:type" content="article" />
@@ -29,7 +29,7 @@ description: "Learn about Azure Machine Learning lifecycle and open source tooli
 
 - 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/blog/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/20-learn-mlops-for-the-ml-lifecycle)
+- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/20-streamline-with-azure-mlops)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## 🗓️ Day _20_ of #30DaysOfAzureAI
@@ -100,4 +100,4 @@ Today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-liv
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/20-learn-mlops-for-the-ml-lifecycle)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/20-streamline-with-azure-mlops)
