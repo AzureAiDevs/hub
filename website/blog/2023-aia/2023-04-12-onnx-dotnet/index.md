@@ -92,7 +92,7 @@ Watch [today's video](https://youtu.be/h6HWP5jpA5s) about machine learning model
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/h6HWP5jpA5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://youtu.be/h6HWP5jpA5s).
 

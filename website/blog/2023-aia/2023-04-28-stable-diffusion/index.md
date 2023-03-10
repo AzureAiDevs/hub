@@ -92,7 +92,7 @@ You'll learn about the prerequisites required to create Azure resources and prov
 
 ![](image.jpeg)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
 

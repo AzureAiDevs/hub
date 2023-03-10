@@ -92,7 +92,7 @@ BERT, a deep learning model developed by Google, is designed to understand the c
 
 ![](bert-excel.gif)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
 

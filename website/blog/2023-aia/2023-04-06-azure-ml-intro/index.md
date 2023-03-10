@@ -90,7 +90,7 @@ Read [today's article](https://bea.stollnitz.com/blog/aml-introduction/) to unde
 
 The goal for today is for you to get a foundational understanding of Azure ML concepts, so that you'll be able to follow code samples later in the AI April month.
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://bea.stollnitz.com/blog/aml-introduction/).
 

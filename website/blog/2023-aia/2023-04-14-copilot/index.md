@@ -92,7 +92,7 @@ Additionally, an AI-based vulnerability prevention system has been introduced to
 
 ![](image.webp)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
 

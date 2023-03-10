@@ -92,7 +92,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ![](image.png)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://newpatiente2e.github.io/docs/).
 

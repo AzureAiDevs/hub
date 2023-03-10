@@ -89,7 +89,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 Read [today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065) about Blazor, a new web framework for building single-page applications (SPAs) using .NET and C#. It allows developers to create client-side web applications with the same language and tools used to build server-side applications. You'll also find an extensive library of code samples and demos. These code samples will provide you with practical examples of how to use Blazor and Azure OpenAI to build real-world applications.
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
 

@@ -91,7 +91,7 @@ One of the projects highlighted is NWEA, which is developing math assessments to
 
 ![](ai-for-accessiblity.jpeg)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://www.microsoft.com/ai/ai-for-accessibility).
 

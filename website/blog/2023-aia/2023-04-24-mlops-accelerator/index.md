@@ -98,7 +98,7 @@ MLOps is a set of automated and collaborative workflows that allow teams of mach
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5yPDkWCMmtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://github.com/Azure/mlops-v2).
 

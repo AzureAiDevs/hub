@@ -91,7 +91,7 @@ Read [today's article](https://medium.com/microsoftazure/azure-openai-playground
 
 Learn about the three main categories of models offered by OpenAI: GPT-3, Codex, and Embeddings, and the different models available within each category. You'll learn how to tune hyperparameters to tailor the models to specific use cases, and how to consume the models using OpenAI's APIs.
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562).
 

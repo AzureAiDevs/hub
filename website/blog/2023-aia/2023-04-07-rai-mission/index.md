@@ -91,7 +91,7 @@ Read [today's article](https://www.microsoft.com/en-us/ai/our-approach) to learn
 Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://www.microsoft.com/en-us/ai/our-approach).
 

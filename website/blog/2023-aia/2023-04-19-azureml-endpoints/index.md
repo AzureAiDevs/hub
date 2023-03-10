@@ -91,7 +91,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 Today's artile provides step-by-step instructions for deploying an online endpoint using an inference script that translates API inputs to something the model can handle, invokes the model, and returns formatted results. 
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 

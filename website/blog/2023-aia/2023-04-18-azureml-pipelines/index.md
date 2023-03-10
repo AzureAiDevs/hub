@@ -91,7 +91,7 @@ The goal for today is for you to be able to evaluate the benefits of components 
 
 ![](image.png)
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://bea.stollnitz.com/blog/aml-pipeline/).
 

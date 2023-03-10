@@ -89,7 +89,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 The course covers basic principles of data science, including ethical concepts, data preparation, data visualization, data analysis, real-world use cases of data science, and more.
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 

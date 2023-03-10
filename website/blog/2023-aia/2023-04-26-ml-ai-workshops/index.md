@@ -83,7 +83,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://microsoft.github.io/ML-For-Beginners/).
 

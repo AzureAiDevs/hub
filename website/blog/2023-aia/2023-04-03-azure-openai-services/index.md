@@ -94,7 +94,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 The service is available in the Azure Marketplace and can be deployed to Microsoft's Azure cloud with features such as security, compliance and regional availability. 
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
 

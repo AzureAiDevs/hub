@@ -91,7 +91,7 @@ Read [today's article](https://bea.stollnitz.com/blog/aml-command) is perfect if
 
 The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.ß
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://bea.stollnitz.com/blog/aml-command).
 

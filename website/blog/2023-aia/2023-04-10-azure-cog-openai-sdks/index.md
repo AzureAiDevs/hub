@@ -95,7 +95,7 @@ Read [today's article](https://github.com/Azure-Samples/azure-ai) to learn about
 
 The repository includes a set of best practices and guidelines for developers to follow when building AI solutions. The repository is a one-stop shop for developers to find the latest Azure AI samples, and to learn best practices for building AI solutions.
 
-## 👓 Read today's reference article
+## 👓 Read today's article
 
 Read today's [article](https://github.com/Azure-Samples/azure-ai).
 
