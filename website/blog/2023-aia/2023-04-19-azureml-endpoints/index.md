@@ -84,7 +84,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Get started with Azure Machine Learning's managed online endpoints
+## 🚌 Get started with Azure ML's managed online endpoints
 
 [Today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/) discusses the benefits of using Azure Machine Learning's managed online endpoints and compares them to Azure Container Instances. The author outlines three main reasons why they prefer managed online endpoints: built-in security, native blue/green deployments, and auto-scaling with Azure Monitor.
 
