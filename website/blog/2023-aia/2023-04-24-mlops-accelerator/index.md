@@ -45,7 +45,9 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-The Azure MLOps (v2) Solution Accelerator simplifies MLOps implementation in Azure with an end-to-end, modular approach. It supports Azure DevOps and GitHub, requires an Azure subscription, and can be customized to fit your organization's needs. With a template-based approach to data science, quickstarts, and a deployment guide, you'll be up and running in just a few hours. Join the revolution of streamlined and automated machine learning workflows today!
+Last week was for Azure ML developers. This week is "Workshop" week; the content is for everyone. You might be a student starting your AI or Data Science journey, wanting to learn more about MLOps, or an AI app Developer wanting to work through practical examples.
+
+Today, we look at the Azure MLOps (v2) Solution Accelerator and learn how it can help you streamline and automate your machine learning workflows.
 
 ## What we'll cover
 

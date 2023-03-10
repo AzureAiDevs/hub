@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Microsoft has launched a 10-week, 20-lesson course on Data Science for Beginners! The course is project-based, with pre- and post-lesson quizzes and written instructions. Lessons cover basic data science principles, ethical concepts, data preparation, visualization, and more. Microsoft suggests forming a study group or completing the course on your own, with supplementals and quizzes to enhance learning. Teach feedback is encouraged and Microsoft Learn is recommended for further study. Start learning today!
+Yesterday we learned about the Azure MLOps (v2) Solution Accelerator. Today is for folk starting on their Data Science journey. Data Science for Beginners is a 10-week, 20-lesson course, so dive in!
 
 ## What we'll cover
 
