@@ -137,7 +137,11 @@ description: "Unleashing the power of AI with Azure OpenAI: A simple guide to ge
 
 ### The Day _N_ of #30DaysOfAzureAI section
 
-This should be a short teaser for the blog post. It should be a couple of sentences that describe what the blog post is about and why folk should read it. The content should be written in Markdown.
+Followed by:
+1. The blog post description text
+2. Then a short paragraph mentioning yesterdays blog post and what today's blog post is about. The content should be written in Markdown. For example:
+
+    _Yesterday we talked about using Copilot to build an intelligent Receipt processing app. Today we'll explore Azure Machine Learning._
 
 ### The What we'll cover section
 
