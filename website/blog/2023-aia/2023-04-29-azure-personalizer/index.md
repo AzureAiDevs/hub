@@ -86,7 +86,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Personalise user experiences at scale
+## 🚌 Personalized user experiences at scale
 
 Azure Personalizer is a service that makes it easy to target content and experiences without complex pre-analysis or cleanup of past data. It allows you to personalize user experiences at scale in real time. Azure Personalizer can be used to drive content recommendations, deliver time-sensitive offers, or optimize task routing and assignment.
 

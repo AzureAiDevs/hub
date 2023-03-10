@@ -85,7 +85,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Watch the Learn Live MLOps for the ML Lifecycle Session
+## 🚌 Learn Live MLOps to streamline the ML Lifecycle
 
 [Watch today's video](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops) about MLOps for the ML Lifecycle. The presenters, Cassie and Korey, start with an overview of MLOps, explaining that it is a set of practices and tools that help data scientists and developers work together to build and deploy machine learning models.
 

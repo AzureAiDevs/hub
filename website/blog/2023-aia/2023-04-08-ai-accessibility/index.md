@@ -83,7 +83,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Build Accessible AI for Everyone
+## 🚌 Build accessible AI for everyone
 
 Read [today's article](https://www.microsoft.com/ai/ai-for-accessibility) for an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology.  
 

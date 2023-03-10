@@ -85,7 +85,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Getting started with the Azure OpenAI Service Playground
+## 🚌 Getting started with the Azure OpenAI Playground
 
 Read [today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562) to gain an overview of language models and hyperparameters, with a focus on conversational AI models from OpenAI, and how to use the Azure OpenAI Service Playground to experiment with these models.
 

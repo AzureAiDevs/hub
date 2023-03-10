@@ -84,7 +84,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Why Responsible AI?
+## 🚌 Why Responsible AI is so important
 
 Read [today's article](https://www.microsoft.com/en-us/ai/our-approach) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
 
