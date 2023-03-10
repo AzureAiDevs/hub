@@ -91,8 +91,6 @@ Read [today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065) about Bl
 
 In today's aricle y find an extensive library of code samples and demos. These code samples will provide you with practical examples of how to use Blazor and Azure OpenAI to build real-world applications.
 
-![](image.png)
-
 ## 👓 Read today's reference article
 
 Read today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
