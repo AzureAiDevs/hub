@@ -1,7 +1,7 @@
 ---
 slug: 2023-day24
 title: "24. 🏭Machine Learning for Beginners"
-authors: ['Gabriela']
+authors: ['Bethany']
 draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
