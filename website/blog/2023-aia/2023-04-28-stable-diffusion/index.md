@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-"Unlock the full potential of Stable Diffusion with Azure Machine Learning. Discover the comprehensive guide provided by the author on how to create the ideal environment for running this powerful tool. From code snippets to costs, this guide will take you on a journey of discovery and awe."
+Yesterday we learned about how to build a Patient Registration app with Azure Form Recognizer. Today's your opportunity to be "wowed" by the power of image generative models and run Stable Diffusion on Azure ML. Let's go!
 
 ## 🎯 What we'll cover
 
@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. A comprehensive guide to run Stable Diffusion on Azure Machine Learning, including prerequisites and costs.
-2. Discussion of the author's experience with Stable Diffusion on different GPU types.
-3. A journey to unlock the full potential of Stable Diffusion with Azure Machine Learning.
+- Stable Diffusion on Azure ML.
+- Stable Diffusion on different GPU types.
+- Code snippets to get started with Stable Diffusion on Azure ML.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
@@ -86,7 +86,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Get Creative with Stable Diffusion on Azure ML
 
-[Today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/) is takes you into the fascinating world of Stable Diffusion's image generative model. Stable Diffusion is a generative model that can generate images of faces, animals, and other objects, it's a lot of fun to play with! 
+[Today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/) is takes you into the fascinating world of Stable Diffusion's image generative model. Stable Diffusion is a generative model that can generate images of faces, animals, and other objects, it's a lot of fun to play with, so let your imagination run wild.
 
 You'll learn about the prerequisites required to create Azure resources and provides the code snippets to create a resource group, Azure ML workspace, and a GPU compute instance. 
 
@@ -94,7 +94,7 @@ You'll learn about the prerequisites required to create Azure resources and prov
 
 ## 👓 Read today's article
 
-Read today's [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
+Today's [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
 
 
 ## 🙋🏾‍♂️ Questions?

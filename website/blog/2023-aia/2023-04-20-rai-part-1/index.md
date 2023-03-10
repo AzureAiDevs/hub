@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- The RAI Dashboard is a suite of open-source tools for responsible AI development, including features like model interpretability, error analysis, and counterfactual analysis.
-- The RAI Dashboard is accessible via the Azure Machine Learning platform.
-- RAI components help ML engineers and decision-makers improve AI responsibility.
+- The Azure ML RAI Dashboard.
+- Build fairer and responsible AI models.
+- Tools for responsible AI development, including model interoperability, error analysis, and counterfactual analysis.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Microsoft's approach to using AI responsibly](https://news.microsoft.com/source/features/ai/microsoft-approach-to-ai/#using-ai-responsibly?WT.mc_id=aiml-89446-dglover)
 - [Meeting the AI moment: advancing the future through responsible AI](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence?WT.mc_id=aiml-89446-dglover)
@@ -90,7 +90,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 👓 Read today's article
 
-Read today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948).
+Today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948).
 
 
 ## 🙋🏾‍♂️ Questions?

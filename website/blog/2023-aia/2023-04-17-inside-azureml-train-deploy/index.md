@@ -73,7 +73,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
@@ -93,7 +93,7 @@ The goal for today is for you to have a deep technical understanding of the basi
 
 ## 👓 Read today's article
 
-Read today's [article](https://bea.stollnitz.com/blog/aml-command).
+Today's [article](https://bea.stollnitz.com/blog/aml-command).
 
 
 ## 🙋🏾‍♂️ Questions?

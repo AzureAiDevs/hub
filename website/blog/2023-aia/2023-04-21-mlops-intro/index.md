@@ -54,10 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-The three main points covered are:
-1. Identifying the different steps of the ML lifecycle
-2. Describing how to create and manage machine learning models using MLOps processes
-3. Articulating processes to monitor models and respond to incidents.
+- Azure ML MLOps
+- Practices and tools for managing the machine learning lifecycle.
+- Improving data scientists and developer collaboration.
 
 <!-- 
 - Main point 1
@@ -73,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Machine learning operations (MLOps)](https://azure.microsoft.com/products/machine-learning/mlops/#features?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/training/paths/introduction-machine-learn-operations?WT.mc_id=aiml-89446-dglover)
@@ -88,7 +87,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Watch the Learn Live MLOps for the ML Lifecycle Session
 
-[Watch today's video](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops) about MLOps for the ML Lifecycle. The presenters, Cassie and Korey, start with an overview of MLOps, explaining that it is a set of practices and tools that help data scientists and developers work together to build and deploy machine learning models. 
+[Watch today's video](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops) about MLOps for the ML Lifecycle. The presenters, Cassie and Korey, start with an overview of MLOps, explaining that it is a set of practices and tools that help data scientists and developers work together to build and deploy machine learning models.
 
 Cassie and Korey discuss the benefits of MLOps, including faster time to value, improved collaboration, and increased model quality. They also discuss the challenges of MLOps, including the need for a common language, the need for a common platform, and the need for a common process.
 
@@ -96,7 +95,7 @@ Cassie and Korey discuss the benefits of MLOps, including faster time to value, 
 
 ## 👓 Read today's article
 
-Read today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops).
+Today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops).
 
 
 ## 🙋🏾‍♂️ Questions?

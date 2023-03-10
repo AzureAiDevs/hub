@@ -56,10 +56,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-The three main points of the Azure MLOps (v2) Solution Accelerator are: 
-1. Simplified, end-to-end, and modular approach to MLOps implementation in Azure 
-2. Support for both Azure DevOps and GitHub, with an Azure subscription required 
-3. Customizable design with template-based approach to data science, quickstarts, and a deployment guide to get you up and running quickly. 
+- The Azure ML MLOps Solution Accelerator.
+- Simplified, end-to-end, and modular approach to MLOps.
+- Template-based approach to data science.
 
 <!-- 
 - Main point 1
@@ -75,7 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Machine learning operations (MLOps)](https://azure.microsoft.com/products/machine-learning/mlops/#features?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/training/paths/introduction-machine-learn-operations?WT.mc_id=aiml-89446-dglover)
@@ -92,7 +91,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 [Today's article](https://github.com/Azure/mlops-v2) introduces you to the Azure MLOps (v2) Solution Accelerator. The Azure MLOps (v2) Solution Accelerator is a project designed to simplify the implementation of MLOps in Azure. 
 
-MLOps is a set of automated and collaborative workflows that allow teams of machine learning professionals to quickly and easily deploy their models into production. The solution accelerator provides a modular end-to-end approach based on pattern architectures, with the goals of simplicity, modularity, repeatability, security, collaboration, and enterprise readiness. It achieves these goals with a template-based approach for end-to-end data science, driving operational efficiency at each stage. The solution accelerator is designed to be customizable to fit each organization's unique needs and can be up and running in just a few hours.
+MLOps is a set of automated and collaborative workflows that allow teams of machine learning professionals to quickly and easily deploy their models into production. 
+
+The solution accelerator provides a modular end-to-end approach based on pattern architectures, with the goals of simplicity, modularity, repeatability, security, collaboration, and enterprise readiness. It achieves these goals with a template-based approach for end-to-end data science, driving operational efficiency at each stage. The solution accelerator is designed to be customizable to fit each organization's unique needs and can be up and running in just a few hours.
 
 ## Watch the Azure MLOps (v2) Solution Accelerator Overview Video
 
@@ -100,7 +101,7 @@ MLOps is a set of automated and collaborative workflows that allow teams of mach
 
 ## 👓 Read today's article
 
-Read today's [article](https://github.com/Azure/mlops-v2).
+Today's [article](https://github.com/Azure/mlops-v2).
 
 
 ## 🙋🏾‍♂️ Questions?

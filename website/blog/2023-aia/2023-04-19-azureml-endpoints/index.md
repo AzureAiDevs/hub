@@ -54,10 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-The three main points discussed in the article are:
-1. Built-in security
-2. Native blue/green deployments
-3. Auto-scaling with Azure Monitor
+1. Built-in endpoint security.
+2. Native blue/green deployments.
+3. Auto-scaling with Azure Monitor.
 
 <!-- 
 - Main point 1
@@ -73,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
@@ -93,7 +92,7 @@ Today's artile provides step-by-step instructions for deploying an online endpoi
 
 ## 👓 Read today's article
 
-Read today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
+Today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 
 
 ## 🙋🏾‍♂️ Questions?

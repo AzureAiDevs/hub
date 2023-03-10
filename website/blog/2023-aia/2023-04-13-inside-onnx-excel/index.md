@@ -54,9 +54,8 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. The article provides a guide to building an Excel add-in that performs natural language processing tasks using the BERT model and ONNX Runtime. 
-2. BERT is a deep learning model that is designed to understand the context and meaning of words in text. 
-3. The article includes step-by-step instructions, code examples, and screenshots to help readers follow along.
+- Excel Add-ins with Natural Language Processing using BERT and the ONNX Runtime.
+- Step-by-step instructions and code examples.
 
 <!-- 
 - Main point 1
@@ -72,7 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
 
@@ -89,12 +88,9 @@ Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-ber
 
 BERT, a deep learning model developed by Google, is designed to understand the context and meaning of words in text. By using a transformer-based architecture, BERT can analyze entire sentences or paragraphs rather than processing words one by one. [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
 
-
-![](bert-excel.gif)
-
 ## 👓 Read today's article
 
-Read today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
+Today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
 
 
 ## 🙋🏾‍♂️ Questions?

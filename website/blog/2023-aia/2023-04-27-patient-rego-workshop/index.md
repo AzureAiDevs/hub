@@ -54,9 +54,8 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- Automate the manual form filling process using Azure Form Recognizer
-- Improve the patient experience by integrating a web-based patient registration system
-- Achieve a more efficient and accurate system for data extraction with a custom Azure Form Recognizer model. 
+- Automated form filling with Azure Form Recognizer
+- Integrating Azure Form Recognizer with an Azure Static Web App.
 
 <!-- 
 - Main point 1
@@ -72,7 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Learn Module: Azure Form Recognizer Service](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-form-recognizer&WT.mc_id=aiml-89446-dglover
 - [What is Azure Form Recognizer?](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/overview?view=form-recog-3.0.0&WT.mc_id=aiml-89446-dglover)
@@ -94,7 +93,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 👓 Read today's article
 
-Read today's [article](https://newpatiente2e.github.io/docs/).
+Today's [article](https://newpatiente2e.github.io/docs/).
 
 
 ## 🙋🏾‍♂️ Questions?

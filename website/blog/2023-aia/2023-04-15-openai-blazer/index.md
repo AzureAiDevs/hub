@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- The article covers Microsoft Blazor and Azure OpenAI consumption, including text-davinci-002 model.
-- A guide is provided for setting up the Azure OpenAI service.
-- The article includes code for a Blazor app wrapping the OpenAIClient class and creating a UI. It serves as a comprehensive tutorial for integrating Azure OpenAI into Blazor apps.
+- Microsoft Blazor and Azure OpenAI consumption.
+- Set up guide for Azure OpenAI service.
+- Code for wrapping the OpenAIClient class and creating a UI.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Build beautiful, web apps with Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
@@ -91,7 +91,7 @@ Read [today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065) about Bl
 
 ## 👓 Read today's article
 
-Read today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
+Today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
 
 
 ## 🙋🏾‍♂️ Questions?

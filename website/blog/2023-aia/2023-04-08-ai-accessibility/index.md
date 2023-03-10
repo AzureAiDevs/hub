@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. Overview of AI projects aimed at improving the lives of people with disabilities in education, employment, community, home, and low-cost assistive technology. 
-2. Highlighting specific projects like NWEA and AI4Bharat. 
-3. The importance of FATE considerations in sign language AI and the existence of Microsoft's AI for Accessibility grants. 
+- AI for Accessibility projects.
+- How AI can help people with disabilities.
+- Specific projects like NWEA and AI4Bharat that are making a difference.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [AI for Accessibility](https://www.microsoft.com/ai/ai-for-accessibility)
 
@@ -93,7 +93,7 @@ One of the projects highlighted is NWEA, which is developing math assessments to
 
 ## 👓 Read today's article
 
-Read today's [article](https://www.microsoft.com/ai/ai-for-accessibility).
+Today's [article](https://www.microsoft.com/ai/ai-for-accessibility).
 
 
 ## 🙋🏾‍♂️ Questions?

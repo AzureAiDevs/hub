@@ -1,6 +1,6 @@
 ---
 slug: 2023-day4
-title: "4. 🏁Build an AI Receipt App with Copilot"
+title: "4. 🏁Build an AI receipt app with Copilot"
 authors: ['Ruth']
 draft: false
 hide_table_of_contents: false
@@ -16,7 +16,7 @@ description: "Learn how to use Copilot to build an intelligent Receipt Recogniti
 <head>
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day4" />
-  <meta property="og:title" content="Build an AI Receipt App with Copilot" />
+  <meta property="og:title" content="Build an AI receipt app with Copilot" />
   <meta property="og:description" content="Learn how to use Copilot to build an intelligent Receipt Recognition App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day4.png" />
   <meta property="og:type" content="article" />
@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. GitHub Copilot uses AI to revolutionize programming.
-2. CoPilot increase efficiency and productivity for developers.
-3. A tutorial is provided on how to integrate Python with the Azure Form Recognizer API using GitHub Copilot
+- Why use GitHub Copilot.
+- Build a receipt app with GitHub Copilot and Azure Form Recognizer
+- Copilot increase efficiency and productivity for developers.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [What is Azure Form Recognizer?](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/overview?view=form-recog-3.0.0&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Learn about Azure Cognitive Services](https://learn.microsoft.com/training/browse/?products=azure-cognitive-services&WT.mc_id=aiml-89446-dglover)
@@ -100,7 +100,7 @@ Be sure to check it out here: [How Copilot helps developers generate code for a 
 
 ## 👓 Read today's article
 
-Read today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813).
+Today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813).
 
 
 ## 🙋🏾‍♂️ Questions?

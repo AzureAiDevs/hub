@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- GitHub updated Copilot with improved suggestions and a new Fill-In-the-Middle paradigm.
-- The VS Code extension was updated with a lightweight model and improved acceptance rate.
-- A new AI-based vulnerability prevention system was introduced with language models to provide alternative suggestions. 
+- Copilot's improved suggestions and the new Fill-In-the-Middle paradigm.
+- VS Code extension with a lightweight model and improved acceptance rate.
+- AI-based vulnerability prevention system to provide alternative suggestions. 
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?WT.mc_id=aiml-89446-dglover)
 
@@ -89,12 +89,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 Additionally, an AI-based vulnerability prevention system has been introduced to identify and block insecure coding patterns in real-time. The system uses language models to quickly detect vulnerable patterns, including hardcoded credentials and SQL injections, even in incomplete code fragments. Vulnerable code suggestions are replaced with alternative suggestions.
 
-
-![](image.webp)
-
 ## 👓 Read today's article
 
-Read today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
+Today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/).
 
 
 ## 🙋🏾‍♂️ Questions?

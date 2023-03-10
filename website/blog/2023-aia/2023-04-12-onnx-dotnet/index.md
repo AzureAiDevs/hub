@@ -54,9 +54,8 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. The presentation is about machine learning models with ONNX and .NET, presented by Beatriz Stollnitz and Henk.
-2. They start with a dataset of Lego figures, create a model, and demonstrate how to run it in a .NET Maui application that can run on a mobile phone.
-3. The presentation covers an overview of AI, machine learning, expert systems, and deep learning, and how they relate to traditional programming.
+- Machine learning models with ONNX and .NET.
+- AI, machine learning, expert systems, and deep learning, and how they relate to traditional programming.
 
 <!-- 
 - Main point 1
@@ -72,7 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
 - [.NET Multi-platform App UI](https://dotnet.microsoft.com/apps/maui?WT.mc_id=aiml-89446-dglover)
@@ -94,7 +93,7 @@ Watch [today's video](https://youtu.be/h6HWP5jpA5s) about machine learning model
 
 ## 👓 Read today's article
 
-Read today's [article](https://youtu.be/h6HWP5jpA5s).
+Today's [article](https://youtu.be/h6HWP5jpA5s).
 
 
 ## 🙋🏾‍♂️ Questions?

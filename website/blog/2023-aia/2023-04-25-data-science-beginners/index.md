@@ -54,9 +54,8 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-1. Microsoft's Data Science course is for beginners through project-based lessons and quizzes. 
-2. The course covers basic data science principles, including ethics, preparation and visualization. 
-3. Feedback is encouraged and further study is recommended through Microsoft Learn.
+- Data Science for Beginners curriculum.
+- Data science principles, including ethics, preparation and visualization.
 
 <!-- 
 - Main point 1
@@ -72,7 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [learn Module: Understand data science for machine learning](https://learn.microsoft.com/training/paths/understand-machine-learning?WT.mc_id=aiml-89446-dglover)
 
@@ -91,7 +90,7 @@ The course covers basic principles of data science, including ethical concepts, 
 
 ## 👓 Read today's article
 
-Read today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
+Today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 
 
 ## 🙋🏾‍♂️ Questions?

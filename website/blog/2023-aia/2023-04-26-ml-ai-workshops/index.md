@@ -54,7 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-
+- Classic Machine Learning.
+- The Scikit-learn Python library.
+- Learn in teams or on your own.
 
 <!-- 
 - Main point 1
@@ -70,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Learn Module: Introduction to AI technology](https://learn.microsoft.com/training/modules/introduction-to-ai-technology?WT.mc_id=aiml-89446-dglover)
 
@@ -81,11 +83,17 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
+## 🚌 Get started with Machine Learning for Beginners
 
+[Today's article](https://microsoft.github.io/ML-For-Beginners/) is about the Microsoft Machine Learning for Beginners curriculum, a free 12-week, 26-lesson curriculum all about Machine Learning. 
+
+In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in the [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/) curriculum. Pair these lessons with our [Data Science for Beginners](https://microsoft.github.io/ML-For-Beginners/) curriculum, as well!
+
+What are you waiting for? Get started today!
 
 ## 👓 Read today's article
 
-Read today's [article](https://microsoft.github.io/ML-For-Beginners/).
+Today's [article](https://microsoft.github.io/ML-For-Beginners/).
 
 
 ## 🙋🏾‍♂️ Questions?

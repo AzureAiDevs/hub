@@ -56,10 +56,10 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-The main points of Azure OpenAI Service are:
-1. Access to language models for NLP and deep learning.
-2. Enterprise security and regional availability for business use.
-3. Understanding the language models, naming, and API for maximum benefit. 
+- Azure OpenAI Service.
+- Using large-scale generative AI models.
+- Code generation and reasoning over data.
+- DALL-E 2 model.
 
 <!-- 
 - Main point 1
@@ -75,7 +75,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
@@ -88,7 +88,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Azure OpenAI Service Learning Module
+## 🚌 Intro to Azure OpenAI Service
 
 [Today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706) eases us into the world of the Azure OpenAI Service. The large-scale generative AI models developed by OpenAI can be used in areas such as code generation and reasoning over data, while the DALL-E 2 model can create images from a written description. The service also offers the Codex model, which is capable of generating code from natural language. 
 
@@ -96,7 +96,7 @@ The service is available in the Azure Marketplace and can be deployed to Microso
 
 ## 👓 Read today's article
 
-Read today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
+Today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
 
 
 ## 🙋🏾‍♂️ Questions?

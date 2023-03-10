@@ -45,7 +45,7 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-
+Yesterday we learned about the power of Stable Diffusion and Azure ML. Today's your chance to learn how you can personalixe your users' experience with Azure Personalizer at scale. Time to dive in!
 
 ## 🎯 What we'll cover
 
@@ -54,7 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-
+- Azure Personalizer Cognitive Service.
+- Build a personalized experience for your users.
+- How to create the resources for Azure Personalizer.
 
 <!-- 
 - Main point 1
@@ -70,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Azure Personalizer Cognitive Service](https://azure.microsoft.com/products/cognitive-services/personalizer?WT.mc_id=aiml-89446-dglover)
 - [Azure Cognitive Services](https://azure.microsoft.com/en-au/products/cognitive-services/#overview?WT.mc_id=aiml-89446-dglover)
@@ -84,7 +86,11 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
+## 🚌 Personalise user experiences at scale
 
+Azure Personalizer is a service that makes it easy to target content and experiences without complex pre-analysis or cleanup of past data. It allows you to personalize user experiences at scale in real time. Azure Personalizer can be used to drive content recommendations, deliver time-sensitive offers, or optimize task routing and assignment.
+
+The [Azure Personalizer Workshop](https://tbc) will help you learn how to use Azure Personalizer to build a personalized experience for your users. You will learn how to create a Personalizer resource, train a model, and deploy a personalized experience.
 
 
 

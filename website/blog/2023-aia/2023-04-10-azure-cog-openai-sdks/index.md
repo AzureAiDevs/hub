@@ -56,9 +56,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- The Azure AI Hub is a repository for Azure AI developers with code samples and discussion channels.
-- The hub focuses on promoting responsible AI practices, such as transparency, fairness, and accountability.
-- The Azure AI Hub provides resources for developers to learn and implement responsible AI practices.
+- The Azure AI Hub repo
+- Code samples and discussion channels.
+- Best practices for using the Azure AI SDKs.
 
 <!-- 
 - Main point 1
@@ -74,7 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Quickstart: Get started generating text using Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/quickstart?pivots=programming-language-studio&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai&WT.mc_id=aiml-89446-dglover)
@@ -97,7 +97,7 @@ The repository includes a set of best practices and guidelines for developers to
 
 ## 👓 Read today's article
 
-Read today's [article](https://github.com/Azure-Samples/azure-ai).
+Today's [article](https://github.com/Azure-Samples/azure-ai).
 
 
 ## 🙋🏾‍♂️ Questions?

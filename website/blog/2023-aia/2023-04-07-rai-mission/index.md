@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- Microsoft invests in AI to benefit everyone in organizations, with a focus on responsible AI.
-- Microsoft Research focuses on developing large-scale, sophisticated, and intuitive AI models. 
-- Microsoft recognizes the importance of responsible AI.
+- Microsoft's commitment to Responsible AI.
+- Why you should care deeply about Responsible AI.
+- Microsoft's AI strategy.
 
 <!-- 
 - Main point 1
@@ -72,7 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
-### 📚 References
+## 📚 References
 
 - [Microsoft's approach to using AI responsibly](https://news.microsoft.com/source/features/ai/microsoft-approach-to-ai/#using-ai-responsibly?WT.mc_id=aiml-89446-dglover)
 - [Meeting the AI moment: advancing the future through responsible AI](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence?WT.mc_id=aiml-89446-dglover)
@@ -93,7 +93,7 @@ Microsoft is investing heavily in AI because it believes that it can benefit eve
 
 ## 👓 Read today's article
 
-Read today's [article](https://www.microsoft.com/en-us/ai/our-approach).
+Today's [article](https://www.microsoft.com/en-us/ai/our-approach).
 
 
 ## 🙋🏾‍♂️ Questions?
