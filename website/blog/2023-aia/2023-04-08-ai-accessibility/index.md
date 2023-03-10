@@ -23,7 +23,7 @@ description: "Learn to build AI for everyone with AI for Accessibility https://a
   <meta property="og:site_name" content="Azure AI Developer" />
   
 
-  <link rel="canonical" href="https://www.microsoft.com/ai/ai-for-accessibility"  />
+  <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/"  />
 
 </head>
 
@@ -85,7 +85,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Build accessible AI for everyone
 
-Read [today's article](https://www.microsoft.com/ai/ai-for-accessibility) for an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology.  
+Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) for an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology.  
 
 One of the projects highlighted is NWEA, which is developing math assessments to make them more accessible for students with vision disabilities, improving their access to higher-level math and STEM careers. Another project is AI4Bharat, which aims to improve accessibility for the deaf population in India by creating datasets to advance Indian Sign Language understanding.
 
@@ -93,7 +93,7 @@ One of the projects highlighted is NWEA, which is developing math assessments to
 
 ## 👓 Read today's article
 
-Today's [article](https://www.microsoft.com/ai/ai-for-accessibility).
+Today's [article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/).
 
 
 ## 🙋🏾‍♂️ Questions?

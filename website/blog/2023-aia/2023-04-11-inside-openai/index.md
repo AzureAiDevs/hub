@@ -177,7 +177,7 @@ See how Microsoft integrates OpenAI into applications. You can [catch
 these examples in the video](https://youtu.be/3t3qZu1Dy1k?t=164).
 
 -   Co-Pilot in the [Power
-    Platform](https://learn.microsoft.com/en-us/power-platform/developer/)
+    Platform](https://learn.microsoft.com/power-platform/developer/)
     lets you author Power Fx commands and automation flow without having
     to know or type the syntax.
 
