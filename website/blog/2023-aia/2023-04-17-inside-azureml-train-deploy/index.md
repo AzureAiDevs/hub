@@ -55,11 +55,8 @@ Today, learn about training, deploying and "productionalizing" machine learning 
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
-
-The three main bullet points of this article are:
-1. Outlines the advantages of training models in the cloud using Azure ML
-2. Provides three methods for working with Azure ML: Azure ML CLI, Python SDK, and Studio UI
-3. Covers the use of the open-source MLflow framework to run training code and save the model, with commands to test the model on a dev machine. 
+- How to train and deploy a machine learning model using Azure ML
+- The three most common methods of creating resources: Azure ML CLI, Python SDK, and Studio UI
 
 <!-- 
 - Main point 1
@@ -86,14 +83,16 @@ The following is the body of the post. It should be an overview of the post that
 See the Learn More section, if you supplied a canonical link, then will be displayed here.
 -->
 
+## How to train and deploy in Azure ML
 
-This article discusses how to train and deploy machine learning models using Azure ML. The article outlines the advantages of training and deploying models in the cloud, which include the ability to handle larger datasets and models and the ability to scale to many more inference requests. The article provides three ways to perform tasks using Azure ML: using the Azure ML CLI, the Python SDK, or the Studio UI. Two GitHub repositories are included to help readers train and deploy models using the Azure ML CLI and the Python SDK.
+If you have a basic understanding of how to train a machine learning model, but you've never used Azure ML before, then you're in the right place. [Today's article](https://bea.stollnitz.com/blog/aml-command) is a hands-on introduction to the most fundamental operations of Azure ML: training and deploying a machine learning model in the cloud. It discusses which resources you need to create, and the three main methods of creating them: the Azure ML CLI, the Python SDK, and the Studio UI.
 
-The article then shows how to run the training code and save the model using the open-source MLflow framework, which allows for easy visualization of metrics and testing of the trained model. The author also includes commands to invoke the trained model on the dev machine for testing purposes. The article uses the Fashion MNIST dataset as an example and recommends testing code on the development machine first to reduce overhead before moving to the cloud.
+The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.
+
 
 ## Learn More
 
-To learn more, check out this [article](https://bea.stollnitz.com/blog/aml-command).
+Check out today's [article](https://bea.stollnitz.com/blog/aml-command).
 
 
 ## Questions?
