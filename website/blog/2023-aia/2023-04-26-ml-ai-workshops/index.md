@@ -6,7 +6,7 @@ draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
-keywords: ['ML_Beginners']
+keywords: ['ml-for-beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
 image: "https://azureaidevs.github.io/hub/img/2023/banner-day24.png"
