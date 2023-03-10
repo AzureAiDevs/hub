@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- AI for Accessibility projects.
-- How AI can help people with disabilities.
-- Specific projects like NWEA and AI4Bharat that are making a difference.
+- Microsoft's five-year initiative to address the challenges faced by the one billion people living with disabilities worldwide.
+- Azure AI offers a range of accessibility solutions to help organizations create more inclusive experiences for their users.
+- Microsoft and Azure AI have developed several accessible experiences, including speech-to-text transcription and captioning, content reading, translation services, facial recognition, and image captioning.
 
 <!-- 
 - Main point 1
@@ -85,11 +85,13 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Build accessible AI for everyone
 
-Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) for an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology.  
+<!-- Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) -->
 
-One of the projects highlighted is NWEA, which is developing math assessments to make them more accessible for students with vision disabilities, improving their access to higher-level math and STEM careers. Another project is AI4Bharat, which aims to improve accessibility for the deaf population in India by creating datasets to advance Indian Sign Language understanding.
+There are over one billion people in the world living with disabilities, and many face barriers to employment, education, and societal inclusion. 
 
-![](ai-for-accessiblity.jpeg)
+Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative]([Microsoft launched a new five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace)) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
+
+The initiative focuses on three priorities: developing more accessible technology, using this technology to create job opportunities for people with disabilities, and building a more inclusive workplace. 
 
 ## 👓 Read today's article
 
