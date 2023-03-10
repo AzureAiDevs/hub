@@ -54,9 +54,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- Stable Diffusion on Azure ML.
-- Stable Diffusion on different GPU types.
-- Code snippets to get started with Stable Diffusion on Azure ML.
+- The Azure ML resources necessary for running Stable Diffusion.
+- Installing and configuring Stable Diffusion Web UI on Azure ML GPU Compute Instances.
+- Tips and tricks for improving the performance and security of your installation.
 
 <!-- 
 - Main point 1
@@ -86,9 +86,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Get creative with Stable Diffusion on Azure ML
 
-[Today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/) is takes you into the fascinating world of Stable Diffusion's image generative model. Stable Diffusion is a generative model that can generate images of faces, animals, and other objects, it's a lot of fun to play with, so let your imagination run wild.
+[Today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/) takes you into the fascinating world of Stable Diffusion's image generative model - a model that can generate images of faces, animals, anything really. It's a lot of fun to play with, so let your imagination run wild.
 
-You'll learn about the prerequisites required to create Azure resources and provides the code snippets to create a resource group, Azure ML workspace, and a GPU compute instance. 
+You'll learn about the prerequisites required to run Stable Diffusion Web UI in Azure ML, and get access to custom code snippets that will help you get started. You'll also find out how to configure the Web UI to run on a GPU compute instance, and how to optimize your installation for prolonged usage.
 
 ![](image.jpeg)
 
