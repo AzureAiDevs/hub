@@ -83,9 +83,11 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-The article provides an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology. One of the projects highlighted is NWEA, which is developing math assessments to make them more accessible for students with vision disabilities, improving their access to higher-level math and STEM careers. Another project is AI4Bharat, which aims to improve accessibility for the deaf population in India by creating datasets to advance Indian Sign Language understanding.
+## 🚌 Build Accessible AI for Everyone
 
-The article also discusses the importance of intersectionality in disability and how technology can be a powerful tool to connect people. Additionally, it highlights the need for FATE (Fairness, Accountability, Transparency, and Ethics) considerations in sign language AI datasets to ensure equitable outcomes in training AI and machine learning. Lastly, the article discusses Microsoft's AI for Accessibility grants, which offer funding, technology, and expertise to individuals and teams passionate about creating a more inclusive world.
+Read [today's article](https://www.microsoft.com/ai/ai-for-accessibility) for an overview of various AI for Accessibility projects that aim to improve the lives of people with disabilities. The projects range from education to employment, community, home, and low-cost assistive technology.  
+
+One of the projects highlighted is NWEA, which is developing math assessments to make them more accessible for students with vision disabilities, improving their access to higher-level math and STEM careers. Another project is AI4Bharat, which aims to improve accessibility for the deaf population in India by creating datasets to advance Indian Sign Language understanding.
 
 ![](ai-for-accessiblity.jpeg)
 

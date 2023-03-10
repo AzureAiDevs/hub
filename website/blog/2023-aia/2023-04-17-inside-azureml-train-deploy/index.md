@@ -85,11 +85,11 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## How to train and deploy in Azure ML
+## 🚌 How to train and deploy in Azure ML
 
-If you have a basic understanding of how to train a machine learning model, but you've never used Azure ML before, then you're in the right place. [Today's article](https://bea.stollnitz.com/blog/aml-command) is a hands-on introduction to the most fundamental operations of Azure ML: training and deploying a machine learning model in the cloud. It discusses which resources you need to create, and the three main methods of creating them: the Azure ML CLI, the Python SDK, and the Studio UI.
+Read [today's article](https://bea.stollnitz.com/blog/aml-command) is perfect if you have a basic understanding of how to train a machine learning model, but you've never used Azure ML before, then you're in the right place. [Today's article](https://bea.stollnitz.com/blog/aml-command) is a hands-on introduction to the most fundamental operations of Azure ML: training and deploying a machine learning model in the cloud. It discusses which resources you need to create, and the three main methods of creating them: the Azure ML CLI, the Python SDK, and the Studio UI.
 
-The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.
+The goal for today is for you to have a deep technical understanding of the basics of Azure ML. The article demonstrates how to train and deploy a simple model, but you'll be able to apply the same concepts to your own ML projects, regardless of their complexity.ß
 
 ## 👓 Read today's reference article
 

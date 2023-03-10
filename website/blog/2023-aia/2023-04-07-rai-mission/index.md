@@ -84,11 +84,12 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## Why Responsible AI?
+## 🚌 Why Responsible AI?
 
-Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability. Microsoft believes that proactive, self-regulatory efforts by responsible companies help pave the way for new laws to ensure that AI is developed and deployed responsibly. Microsoft also believes that democratic law-making processes are necessary to create principled and actionable norms that ensure organizations develop and deploy AI responsibly.
+Read [today's article](https://www.microsoft.com/en-us/ai/our-approach) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
 
-Microsoft Research has been advancing the foundations of computing for over 30 years, and its researchers collaborate across disciplines, institutions, and geographies to deliver cutting-edge AI advances. Recent efforts have focused on developing large-scale AI models that can process information in increasingly sophisticated ways while also becoming more natural and intuitive to use. Advances in deep learning, coupled with internet-scale datasets and Microsoft Azure's increasingly powerful AI supercomputing resources, have made it possible to create AI models that perform a broad range of tasks across many different applications.
+Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+
 
 ## 👓 Read today's reference article
 

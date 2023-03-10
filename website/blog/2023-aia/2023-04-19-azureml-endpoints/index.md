@@ -85,11 +85,11 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-The article discusses the benefits of using Azure Machine Learning's managed online endpoints and compares them to Azure Container Instances. The author outlines three main reasons why they prefer managed online endpoints: built-in security, native blue/green deployments, and auto-scaling with Azure Monitor.
+## 🚌 Get started with Azure Machine Learning's managed online endpoints
 
-To deploy a machine learning model using managed online endpoints, the author suggests using Azure CLI and Azure ML CLI v2 tools. The author provides step-by-step instructions for deploying an online endpoint using an inference script that translates API inputs to something the model can handle, invokes the model, and returns formatted results. The inference script must have two methods: init, which loads the model into memory, and run, which is called when someone invokes the API.
+[Today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/) discusses the benefits of using Azure Machine Learning's managed online endpoints and compares them to Azure Container Instances. The author outlines three main reasons why they prefer managed online endpoints: built-in security, native blue/green deployments, and auto-scaling with Azure Monitor.
 
-Overall, the article is a helpful guide for anyone looking to deploy machine learning models using Azure Machine Learning's managed online endpoints.
+Today's artile provides step-by-step instructions for deploying an online endpoint using an inference script that translates API inputs to something the model can handle, invokes the model, and returns formatted results. 
 
 ## 👓 Read today's reference article
 

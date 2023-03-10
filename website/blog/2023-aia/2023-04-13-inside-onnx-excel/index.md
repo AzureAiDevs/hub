@@ -83,9 +83,12 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-The article "Building an Excel Add-in with BERT-JS and ONNX Runtime" highlights the importance of using responsible AI in developing applications. The use of BERT-JS and ONNX Runtime enables the creation of an Excel add-in that performs natural language processing tasks within a spreadsheet. BERT, a deep learning model developed by Google, is designed to understand the context and meaning of words in text. By using a transformer-based architecture, BERT can analyze entire sentences or paragraphs rather than processing words one by one. The article provides step-by-step instructions and code examples to help readers follow along in building the add-in.
+## 🚌 Build an Excel Add-in with BERT-JS and ONNX Runtime
 
-The article emphasizes the importance of responsible AI in building applications that use machine learning models. By using ONNX Runtime, the performance of the BERT-JS model can be optimized, resulting in faster and more efficient processing of natural language tasks. Additionally, the article encourages developers to be mindful of potential biases and ethical considerations when building applications that use machine learning models. By considering responsible AI practices, developers can create applications that are fair, transparent, and trustworthy.
+Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) about building an Excel Add-in with BERT-JS and ONNX Runtime".  You'll learn about the use of BERT-JS and ONNX Runtime enables the creation of an Excel add-in that performs natural language processing tasks within a spreadsheet. 
+
+BERT, a deep learning model developed by Google, is designed to understand the context and meaning of words in text. By using a transformer-based architecture, BERT can analyze entire sentences or paragraphs rather than processing words one by one. [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
+
 
 ![](bert-excel.gif)
 
