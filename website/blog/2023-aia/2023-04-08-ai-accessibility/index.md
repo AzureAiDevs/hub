@@ -54,9 +54,8 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-- Microsoft's five-year initiative to address the challenges faced by the one billion people living with disabilities worldwide.
-- Azure AI offers a range of accessibility solutions to help organizations create more inclusive experiences for their users.
-- Microsoft and Azure AI have developed several accessible experiences, including speech-to-text transcription and captioning, content reading, translation services, facial recognition, and image captioning.
+- Microsoft's five-year initiative to improve the accessibility of technology.
+- Azure AI accessibility solutions to create more inclusive experiences.
 
 <!-- 
 - Main point 1
@@ -89,7 +88,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 There are over one billion people in the world living with disabilities, and many face barriers to employment, education, and societal inclusion. 
 
-Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative]([Microsoft launched a new five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace)) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
+Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace)) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
 
 The initiative focuses on three priorities: developing more accessible technology, using this technology to create job opportunities for people with disabilities, and building a more inclusive workplace. 
 
