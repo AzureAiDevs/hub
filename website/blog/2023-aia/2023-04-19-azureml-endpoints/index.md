@@ -53,10 +53,9 @@ Yesterday we learned how to streamline ML Development with Azure ML. Today, we'l
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
-
-1. Built-in endpoint security.
-2. Native blue/green deployments.
-3. Auto-scaling with Azure Monitor.
+1. What are Azure ML managed online endpoints.
+2. The three main components of an online endpoint.
+3. How to deploy one or more models under the same endpoint.
 
 <!-- 
 - Main point 1
@@ -88,7 +87,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 [Today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/) discusses the benefits of using Azure Machine Learning's managed online endpoints and compares them to Azure Container Instances. The author outlines three main reasons why they prefer managed online endpoints: built-in security, native blue/green deployments, and auto-scaling with Azure Monitor.
 
-Today's artile provides step-by-step instructions for deploying an online endpoint using an inference script that translates API inputs to something the model can handle, invokes the model, and returns formatted results. 
+Step-by-step instructions are provided for for deploying an online endpoint that translates API inputs to something a machine learning model can handle, invokes the model, and returns formatted results.
 
 ## 👓 Read today's article
 
