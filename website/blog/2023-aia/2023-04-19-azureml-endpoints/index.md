@@ -53,6 +53,7 @@ Yesterday we learned how to streamline ML Development with Azure ML. Today, we'l
 The following list is the main points of the post. There should be 3-4 main points.
  -->
 
+
 1. What are Azure ML managed online endpoints.
 2. The three main components of an online endpoint.
 3. How to deploy one or more models under the same endpoint.
