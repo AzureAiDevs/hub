@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day27.png"
 description: "Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/blog/2023-day27 #30DaysOfAzureAI #AzureAiDevs #AI #AzurePersonalizer"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day27" />
-  <meta property="og:title" content="Enhance CX with Azure Personalizer" />
-  <meta property="og:description" content="Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/blog/2023-day27 #30DaysOfAzureAI #AzureAiDevs #AI #AzurePersonalizer" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day27.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://tbc"  />
 

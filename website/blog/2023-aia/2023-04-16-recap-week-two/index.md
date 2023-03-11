@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day15.png"
 description: "30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/blog/2023-day15 #30DaysOfAzureAI #AzureAiDevs #AI "
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day15" />
-  <meta property="og:title" content="Recap: Azure AI App Developers✨" />
-  <meta property="og:description" content="30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/blog/2023-day15 #30DaysOfAzureAI #AzureAiDevs #AI " />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day15.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/blog/2023-day15"  />
 

@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day7.png"
 description: "Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/blog/2023-day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day7" />
-  <meta property="og:title" content="Improve accessibility w/ Azure AI" />
-  <meta property="og:description" content="Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/blog/2023-day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day7.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/"  />
 

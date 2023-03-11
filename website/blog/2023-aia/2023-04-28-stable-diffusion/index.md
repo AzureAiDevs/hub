@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day26.png"
 description: "How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/blog/2023-day26 #30DaysOfAzureAI #AzureAiDevs #AI AzureML"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day26" />
-  <meta property="og:title" content="Stable Diffusion on Azure ML" />
-  <meta property="og:description" content="How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/blog/2023-day26 #30DaysOfAzureAI #AzureAiDevs #AI AzureML" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day26.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"  />
 

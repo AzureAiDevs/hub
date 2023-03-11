@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day25.png"
 description: "Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day25 #30DaysOfAzureAI #AzureAiDevs #AI #AzureFormRecognizer"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day25" />
-  <meta property="og:title" content="Build a Patient Registration App" />
-  <meta property="og:description" content="Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day25 #30DaysOfAzureAI #AzureAiDevs #AI #AzureFormRecognizer" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day25.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://newpatiente2e.github.io/docs/"  />
 

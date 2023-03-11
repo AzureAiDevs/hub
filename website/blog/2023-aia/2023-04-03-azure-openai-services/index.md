@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day2.png"
 description: "Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/blog/2023-day2 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day2" />
-  <meta property="og:title" content="Unleash the power of Azure OpenAI" />
-  <meta property="og:description" content="Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/blog/2023-day2 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day2.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706"  />
 
