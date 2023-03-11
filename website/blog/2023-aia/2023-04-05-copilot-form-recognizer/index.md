@@ -1,6 +1,6 @@
 ---
 slug: 2023-day4
-title: "4. 🏁Build an AI receipt app with Copilot"
+title: "4. 🏁Build an AI receipts app with Copilot"
 authors: ['Ruth']
 draft: false
 hide_table_of_contents: false
@@ -10,7 +10,7 @@ keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'CoPilot', 'vscode',
 tags: ['azure-ai', 'azure-cognitive-services', '30-days-of-azure-ai']
 
 image: "https://azureaidevs.github.io/hub/img/2023/banner-day4.png"
-description: "Learn how to use Copilot to build an intelligent Receipt App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices"
+description: "Learn how to use Copilot to build an intelligent Receipts App powered by Azure Form Recognizer https://azureaidevs.github.io/hub/blog/2023-day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices"
 ---
 
 <head>  
@@ -21,7 +21,7 @@ description: "Learn how to use Copilot to build an intelligent Receipt App power
 
 - 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/blog/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-an-ai-receipt-app-with-copilot)
+- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-an-ai-receipts-app-with-copilot)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## 🗓️ Day _4_ of #30DaysOfAzureAI
@@ -31,7 +31,7 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Learn how to use Copilot to build an intelligent Receipt App powered by Azure Form Recognizer**
+**Learn how to use Copilot to build an intelligent Receipts App powered by Azure Form Recognizer**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
@@ -92,4 +92,4 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-b
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-build-an-ai-receipt-app-with-copilot)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-build-an-ai-receipts-app-with-copilot)
