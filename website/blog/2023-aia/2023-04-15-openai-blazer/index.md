@@ -1,6 +1,6 @@
 ---
 slug: 2023-day14
-title: "14. 🧑‍💻Blazor Apps and Azure OpenAI"
+title: "14. 🧑‍💻Blazor apps and Azure OpenAI"
 authors: ['Michael']
 draft: false
 hide_table_of_contents: false

@@ -1,6 +1,6 @@
 ---
 slug: 2023-day9
-title: "9. 🧑‍💻Build intelligent Apps w/ Azure AI SDKs"
+title: "9. 🧑‍💻Build intelligent apps w/ Azure AI SDKs"
 authors: ['Arun']
 draft: false
 hide_table_of_contents: false
