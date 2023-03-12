@@ -96,12 +96,12 @@ const config = {
           {to: '/blog', label: '#30DaysOfAzureAI', position: 'left'},          
           {to: '/newsletter', label: 'Newsletter', position: 'left'},
           // {to: 'https://aka.ms/ai-april/videos', label: 'Video', position: 'right'},
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: 'Workshops',
-          }
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'right',
+          //   label: 'Workshops',
+          // }
         ],
       },
 
