@@ -10,7 +10,7 @@ const CampaignFeatures = [
     title: '#30DaysOfAzureAI',
     Svg: require('@site/static/img/campaign/30days.svg').default,
     fillColor: "#f25022",
-    link: "/ai-april/30Days",
+    link: "/hub/ai-april/30Days",
     description: (
       <>
       Join us on a #30Day journey covering Azure OpenAI and Cognitive Services, Azure ML, MLOps, and AI App integration!
@@ -76,7 +76,7 @@ const CampaignFeatures = [
     title: 'Humans in AI',
     Svg: require('@site/static/img/campaign/humans-in-ai.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
-    link: "../humans-in-ai",
+    link: "/hub/humans-in-ai",
     fillColor: "#fe6db6",
     description: (
       <>
