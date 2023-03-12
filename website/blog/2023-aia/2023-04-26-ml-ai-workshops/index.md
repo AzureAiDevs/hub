@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day24.png"
 description: "Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/blog/2023-day24 #30DaysOfAzureAI #AzureAiDevs #AI #MachineLearning"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day24" />
-  <meta property="og:title" content="Machine Learning for Beginners" />
-  <meta property="og:description" content="Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/blog/2023-day24 #30DaysOfAzureAI #AzureAiDevs #AI #MachineLearning" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day24.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://microsoft.github.io/ML-For-Beginners/"  />
 

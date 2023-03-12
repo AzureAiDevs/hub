@@ -94,14 +94,14 @@ const config = {
           // {to: 'https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi', label: '🎙 #PowerfulDevs', position: 'left'},
           // {to: 'https://aka.ms/ai-april/collection', label: 'Collection', position: 'right'},
           {to: '/blog', label: '#30DaysOfAzureAI', position: 'left'},          
-          {to: '/newsletter', label: 'Newsletter', position: 'left'},
+          {to: '/newsletter', label: '#Newsletter', position: 'left'},
           // {to: 'https://aka.ms/ai-april/videos', label: 'Video', position: 'right'},
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: 'Workshops',
-          }
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'right',
+          //   label: 'Workshops',
+          // }
         ],
       },
 

@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day14.png"
 description: "Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/blog/2023-day14 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day14" />
-  <meta property="og:title" content="Blazor Apps and Azure OpenAI" />
-  <meta property="og:description" content="Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/blog/2023-day14 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day14.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://blazorhelpwebsite.com/ViewBlogPost/2065"  />
 

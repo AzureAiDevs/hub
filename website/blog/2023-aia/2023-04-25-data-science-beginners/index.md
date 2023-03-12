@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day23.png"
 description: "Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/blog/2023-day23 #30DaysOfAzureAI #AzureAiDevs #AI #DataScience"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day23" />
-  <meta property="og:title" content="Data Science for Beginners" />
-  <meta property="og:description" content="Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/blog/2023-day23 #30DaysOfAzureAI #AzureAiDevs #AI #DataScience" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day23.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://microsoft.github.io/Data-Science-For-Beginners"  />
 

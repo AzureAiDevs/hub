@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day13.png"
 description: "GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/blog/2023-day13 #30DaysOfAzureAI #AzureAiDevs #AI #Copilot"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day13" />
-  <meta property="og:title" content="Copilot's updated AI model" />
-  <meta property="og:description" content="GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/blog/2023-day13 #30DaysOfAzureAI #AzureAiDevs #AI #Copilot" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day13.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/"  />
 

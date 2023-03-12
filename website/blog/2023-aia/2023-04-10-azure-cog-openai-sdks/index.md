@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day9.png"
 description: "Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/blog/2023-day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day9" />
-  <meta property="og:title" content="Build intelligent Apps w/ Azure AI SDKs" />
-  <meta property="og:description" content="Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/blog/2023-day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day9.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://github.com/Azure-Samples/azure-ai"  />
 

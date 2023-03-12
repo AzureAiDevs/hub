@@ -3,6 +3,10 @@
 
 ---
 
+## Published location
+
+[The #AiApril Developer Community Hub](https://aka.ms/ai-april)
+
 ## #30DaysOfAzureAI
 
 Join us for a month-long celebration of Azure AI.

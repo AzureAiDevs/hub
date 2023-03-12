@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day5.png"
 description: "Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/blog/2023-day5 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day5" />
-  <meta property="og:title" content="Learn key Azure ML Concepts" />
-  <meta property="og:description" content="Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/blog/2023-day5 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day5.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-introduction/"  />
 

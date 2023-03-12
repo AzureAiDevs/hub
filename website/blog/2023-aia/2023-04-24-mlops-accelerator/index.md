@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day22.png"
 description: "Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/blog/2023-day22 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day22" />
-  <meta property="og:title" content="MLOps Accelerator Explained" />
-  <meta property="og:description" content="Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/blog/2023-day22 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day22.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://github.com/Azure/mlops-v2"  />
 

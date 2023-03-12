@@ -13,15 +13,7 @@ image: "https://azureaidevs.github.io/hub/img/2023/banner-day6.png"
 description: "Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/blog/2023-day6 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics"
 ---
 
-<head>
-
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/blog/2023-day6" />
-  <meta property="og:title" content="The Mission of Responsible AI" />
-  <meta property="og:description" content="Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/blog/2023-day6 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023/banner-day6.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-  
+<head>  
 
   <link rel="canonical" href="https://www.microsoft.com/ai/our-approach"  />
 

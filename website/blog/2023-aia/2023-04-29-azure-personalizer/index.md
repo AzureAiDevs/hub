@@ -29,7 +29,7 @@ description: "Maximizing Business Results with Azure Personalizer: A Machine Lea
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
-  <link rel="canonical" href="https://tbc"  />
+  <link rel="canonical" href="https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1/"  />
 
 </head>
 
