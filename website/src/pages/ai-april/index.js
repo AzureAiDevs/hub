@@ -76,6 +76,7 @@ const CampaignFeatures = [
     title: 'Humans in AI',
     Svg: require('@site/static/img/campaign/community.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
+    link: "../hub/humans-in-ai",
     fillColor: "#fe6db6",
     description: (
       <>
