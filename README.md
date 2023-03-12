@@ -3,6 +3,10 @@
 
 ---
 
+## Published location
+
+[#AiApril #30DaysOfAzureAI](https://ai-april)
+
 ## #30DaysOfAzureAI
 
 Join us for a month-long celebration of Azure AI.
