@@ -10,7 +10,7 @@ const CampaignFeatures = [
     title: '#30DaysOfAzureAI',
     Svg: require('@site/static/img/campaign/30days.svg').default,
     fillColor: "#f25022",
-    link: "/hub/ai-april/30Days",
+    link: "/ai-april/30Days",
     description: (
       <>
       Join us on a #30Day journey covering Azure OpenAI and Cognitive Services, Azure ML, MLOps, and AI App integration!
