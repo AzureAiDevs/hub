@@ -5,7 +5,7 @@
 
 ## Published location
 
-[#AiApril #30DaysOfAzureAI](https://ai-april)
+[The #AiApril Developer Community Hub](https://aka.ms/ai-april)
 
 ## #30DaysOfAzureAI
 
