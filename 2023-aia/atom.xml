@@ -500,25 +500,4 @@ for a walkthrough.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-que
         <category label="workshop" term="workshop"/>
         <category label="azure-cognitive-services" term="azure-cognitive-services"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[28. 🏭Continuing your Azure AI Journey✨]]></title>
-        <id>https://azureaidevs.github.io/hub/2023-aia/day28</id>
-        <link href="https://azureaidevs.github.io/hub/2023-aia/day28"/>
-        <updated>2023-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28 #30DaysOfAzureAI #AzureAiDevs #AI]]></summary>
-        <content type="html"><![CDATA[<ul><li>📧 <a href="https://aka.ms/azure-ai-dev-newsletter" target="_blank" rel="noopener noreferrer">Sign up for the Azure AI Developer Newsletter</a></li><li>📰 <a href="https://azureaidevs.github.io/hub/2023-aia/rss.xml" target="_blank" rel="noopener noreferrer">Subscribe to the #30DaysOfAzureAI RSS feed</a></li><li>📌 <a href="https://github.com/AzureAiDevs/hub/discussions/categories/28-continuing-your-azure-ai-journey%E2%9C%A8" target="_blank" rel="noopener noreferrer">Ask a question about this post on GitHub Discussions</a></li><li>💡 <a href="https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content" target="_blank" rel="noopener noreferrer">Suggest a topic for a future post</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-day-28-of-30daysofazureai">🗓️ Day <em>28</em> of #30DaysOfAzureAI<a href="#️-day-28-of-30daysofazureai" class="hash-link" aria-label="Direct link to ️-day-28-of-30daysofazureai" title="Direct link to ️-day-28-of-30daysofazureai">​</a></h2><p><strong>Continuing your Azure AI Journey</strong></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-what-well-cover">🎯 What we'll cover<a href="#-what-well-cover" class="hash-link" aria-label="Direct link to 🎯 What we'll cover" title="Direct link to 🎯 What we'll cover">​</a></h2><p><img loading="lazy" alt="Image banner for day 28" src="/hub/assets/images/banner-day28-d182a611b7d050f1c812fd8f52add2c5.png" width="834" height="350" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-questions">🙋🏾‍♂️ Questions?<a href="#️-questions" class="hash-link" aria-label="Direct link to 🙋🏾‍♂️ Questions?" title="Direct link to 🙋🏾‍♂️ Questions?">​</a></h2><p><a href="https://github.com/AzureAiDevs/Discussions/discussions/categories/28-continuing-your-azure-ai-journey%E2%9C%A8" target="_blank" rel="noopener noreferrer">Remember, you can ask a question about this post on GitHub Discussions</a></p>]]></content>
-        <author>
-            <name>Dave Glover</name>
-            <uri>https://github.com/gloveboxes</uri>
-        </author>
-        <category label="ai-april" term="ai-april"/>
-        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
-        <category label="ml-developers" term="ml-developers"/>
-        <category label="app-developers" term="app-developers"/>
-        <category label="azure-ml" term="azure-ml"/>
-        <category label="azure-open-ai" term="azure-open-ai"/>
-        <category label="azure-cognitive-services" term="azure-cognitive-services"/>
-        <category label="responsible-ai" term="responsible-ai"/>
-        <category label="azure-ai-fundamentals" term="azure-ai-fundamentals"/>
-    </entry>
 </feed>

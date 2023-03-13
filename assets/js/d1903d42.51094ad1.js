@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8492],{7929:e=>{e.exports=JSON.parse('{"permalink":"/hub/2023-aia/tags/app-developers","page":1,"postsPerPage":10,"totalPages":2,"totalCount":13,"nextPage":"/hub/2023-aia/tags/app-developers/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
