@@ -126,7 +126,7 @@ function CampaignHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/blog">
+            to="/2023-aia">
             Explore #30DaysOfAzureAI
           </Link>
         </div>

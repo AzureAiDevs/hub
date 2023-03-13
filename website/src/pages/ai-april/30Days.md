@@ -28,7 +28,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 :::info Kick Off
 
-* March 29 - [It's AI April!](/blog/2023-day1)
+* March 29 - [It's AI April!](/2023-aia/day1)
 
 :::
 
@@ -52,7 +52,7 @@ _Posts will be linked here once published._
 
 :::
 
-![Week 1](./../../../static/img/2023/30-week1.png)
+![Week 1](./../../../static/img/2023-aia/30-week1.png)
 
 ---
 
@@ -72,7 +72,7 @@ _Posts will be linked here once published._
 
 :::
 
-![Week 2](./../../../static/img/2023/30-week2.png)
+![Week 2](./../../../static/img/2023-aia/30-week2.png)
 
 ## Week 3. Azure AI for Data Scientists, AI, ML, and MLOps Engineers
 
@@ -90,7 +90,7 @@ _Posts will be linked here once published._
 
 :::
 
-![Week 3](./../../../static/img/2023/30-week3.png)
+![Week 3](./../../../static/img/2023-aia/30-week3.png)
 
 ## Week 4: Workshops
 
@@ -108,7 +108,7 @@ _Posts will be linked here once published._
 
 :::
 
-![Week 4](./../../../static/img/2023/30-week4.png)
+![Week 4](./../../../static/img/2023-aia/30-week4.png)
 
 <!-- ## Week 5: WRAP-UP
 
@@ -126,6 +126,6 @@ Thank you for staying the course with us. In the final two posts of this series 
 
 We appreciate your time and attention and we hope you found this curated tour valuable. Feedback always welcome.
 
-![Thank You](./../../../static/img/2023/30-thankyou.png)
+![Thank You](./../../../static/img/2023-aia/30-thankyou.png)
 
 From our entire team, here's wishing you **good luck your learning & career journey!** 🎉

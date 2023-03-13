@@ -88,13 +88,13 @@ const config = {
         style: 'primary',
        
         items: [
-          {to: '/ai-april', label: '#AzureAiDevs', position: 'left'},
+          {to: 'ai-april', label: '#AzureAiDevs', position: 'left'},
           // {to: 'https://aka.ms/ai-april/devplan', label: '✨ Dev Plan', position: 'left'},
           // {to: 'https://aka.ms/ai-april/vscode', label: '🧰 Extension', position: 'left'},
           // {to: 'https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi', label: '🎙 #PowerfulDevs', position: 'left'},
           // {to: 'https://aka.ms/ai-april/collection', label: 'Collection', position: 'right'},
-          {to: '/blog', label: '#30DaysOfAzureAI', position: 'left'},          
-          {to: '/newsletter', label: '#Newsletter', position: 'left'},
+          {to: '2023-aia', label: '#30DaysOfAzureAI', position: 'left'},          
+          {to: 'newsletter', label: '#Newsletters', position: 'left'},
           // {to: 'https://aka.ms/ai-april/videos', label: 'Video', position: 'right'},
           // {
           //   type: 'doc',
@@ -229,6 +229,8 @@ const config = {
         /**
          * Required for any multi-instance plugin
          */
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Newsletter',
         id: 'newsletter',
         /**
          * URL route for the blog section of your site.
@@ -239,7 +241,18 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './newsletter',
-      },
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        blogSidebarCount: 'ALL',
+        sortPosts: 'ascending',
+        blogSidebarTitle: '#30DaysOfAzureAI',
+        id: '2023-aia',
+        routeBasePath: '2023-aia',
+        path: './2023-aia',
+      }
     ],
     [
       'docusaurus-plugin-clarity',
