@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[987],{36054:a=>{a.exports=JSON.parse('{"label":"data-scientist","permalink":"/hub/2023-aia/tags/data-scientist","allTagsPath":"/hub/2023-aia/tags","count":3}')}}]);
