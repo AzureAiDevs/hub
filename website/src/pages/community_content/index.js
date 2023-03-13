@@ -53,8 +53,16 @@ function CampaignHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          Community Content Corner
+          Welcome to the Community Corner
         </h1>
+        <p>
+          <a href="https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content" target="_blank">
+            Have a content suggestion?
+            <p>
+              Let us know in the Call for Content discussion
+            </p>
+          </a>
+        </p>
       </div>
     </header>
   );
