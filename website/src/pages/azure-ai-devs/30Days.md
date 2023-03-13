@@ -49,7 +49,7 @@ _Posts will be 404 Not Found until the day of publishing._
 * [April 05 – 🏁 Build an AI receipts app with Copilot](/2023-aia/day4)
 * [April 06 – 🏁 Learn key Azure ML Concepts](/2023-aia/day5)
 * [April 07 – 🏁 The Mission of Responsible AI](/2023-aia/day6)
-* [April 08 – 🏁 Improve accessibility w/ Azure AI](/2023-aia/day7)
+* [April 08 – 🏁 Improve accessibility with Azure AI](/2023-aia/day7)
 * [April 09 – 🏁 Recap: Azure AI Fundamentals Week✨](/2023-aia/day8)
 
 :::
@@ -89,8 +89,8 @@ _Posts will be 404 Not Found until the day of publishing._
 * [April 17 – 🧑🏽‍🔬 Scaling Model Dev with Azure ML](/2023-aia/day16)
 * [April 18 – 🧑🏽‍🔬 Streamline Model Dev with Azure ML](/2023-aia/day17)
 * [April 19 – 🧑🏽‍🔬 Azure ML Managed Online Endpoints](/2023-aia/day18)
-* [April 20 – 🧑🏽‍🔬 Debug models w/ Responsible AI](/2023-aia/day19)
-* [April 21 - 🧑🏽‍🔬 Streamline Ops w/ Azure MLOps](/2023-aia/day20)
+* [April 20 – 🧑🏽‍🔬 Debug models with Responsible AI](/2023-aia/day19)
+* [April 21 - 🧑🏽‍🔬 Streamline Ops with Azure MLOps](/2023-aia/day20)
 * [April 22 – 🧑🏽‍🔬 Recap: Azure ML Week✨](/2023-aia/day21)
 
 :::
@@ -116,15 +116,6 @@ _Posts will be 404 Not Found until the day of publishing._
 :::
 
 ![Week 4](./../../../static/img/2023-aia/30-week4.png)
-
-<!-- ## Week 5: WRAP-UP
-
-:::info SUMMARY OF #30DaysOfAzureAI
-_Posts will be linked here once published._
- * Feb 27 - 🚀 Zero-To-Hero Post - API Management & Power Platform
- * Mar 1 - 🚀 Zero-To-Hero Post - Power Platform Pipelines
- * Mar 1 - Month: Recap
-::: -->
 
 Thank you for staying the course with us. In the final two posts of this series we'll do two things:
 
