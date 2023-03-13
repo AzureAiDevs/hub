@@ -9,7 +9,7 @@ title: 30 Days Of Azure AI
 ## Welcome
 
 :::tip PLANNED ROADMAP
-This is the planned roadmap for #30DaysOfAzureAI, a series of daily content posts all through #AiApril. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace!
+This is the planned roadmap for #30DaysOfAzureAI, a series of daily content posts all through #AiApril. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.
 :::
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
