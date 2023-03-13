@@ -6,16 +6,26 @@ import Link from '@docusaurus/Link';
 import styles from './../index.module.css';
 
 const CampaignFeatures = [
-  
+  {
+    title: 'Call for Content',
+    Svg: require('@site/static/img/campaign/call_for_content.svg').default,
+    link: "https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content",
+    // fillColor: "black",
+    description: (
+      <>
+        Have a content suggestion? Let us know in the Call for Content discussion!
+      </>
+    ),
+  },
   {
     title: 'Humans in AI',
     Svg: require('@site/static/img/campaign/humans-in-ai.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
     link: "/hub/humans-in-ai",
-    fillColor: "#fe6db6",
+    // fillColor: "#fe6db6",
     description: (
       <>
-      Tune in to hear from the people behind the technology, and learn how they're using AI to make a difference.
+        Tune in to hear from the people behind the technology, and learn how they're using AI to make a difference.
       </>
     ),
   },
@@ -26,13 +36,13 @@ const CampaignFeatures = [
     fillColor: "#8661C5",
     description: (
       <>
-      Learn how startups are building intelligent solutions with Azure AI.
+        Learn how startups are building intelligent solutions with Azure AI.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description, link, fillColor}) {
+function Feature({ Svg, title, description, link, fillColor }) {
   return (
     <div className={clsx('col col--4')}>
       <a href={link} target="_blank">
@@ -55,14 +65,6 @@ function CampaignHeader() {
         <h1 className="hero__title">
           Welcome to the Community Corner
         </h1>
-        <p>
-          <a href="https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content" target="_blank">
-            Have a content suggestion?
-            <p>
-              Let us know in the Call for Content discussion
-            </p>
-          </a>
-        </p>
       </div>
     </header>
   );
@@ -83,16 +85,13 @@ function FeaturesSection() {
 }
 
 
-export default function() {
+export default function () {
   return (
-    <Layout
-      title={`Welcome to Community Content Corner`}
-      description="Join us for a month-long celebration of Azure AI Development with #AIApril and #30DaysOfAzureAI />"> 
-      <CampaignHeader/>
+    <Layout>
+      <CampaignHeader />
       <main>
-        <FeaturesSection/>
+        <FeaturesSection />
       </main>
     </Layout>
-    
   );
 }
