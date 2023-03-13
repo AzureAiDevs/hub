@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1696],{79381:a=>{a.exports=JSON.parse('{"permalink":"/hub/2023-aia/tags/30-days-of-azure-ai/page/26","page":26,"postsPerPage":1,"totalPages":26,"totalCount":26,"previousPage":"/hub/2023-aia/tags/30-days-of-azure-ai/page/25","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
