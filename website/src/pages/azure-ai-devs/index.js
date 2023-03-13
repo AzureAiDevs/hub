@@ -63,6 +63,18 @@ const CampaignFeatures = [
     ),
   },
   {
+    title: 'Humans in AI',
+    Svg: require('@site/static/img/campaign/humans-in-ai.svg').default,
+    // link: "https://pnp.github.io/powerplatform-samples/",
+    link: "/hub/humans-in-ai",
+    // fillColor: "#fe6db6",
+    description: (
+      <>
+        Tune in to hear from the people behind the technology, and learn how they're using AI to make a difference.
+      </>
+    ),
+  },
+  {
     title: 'Community Corner',
     Svg: require('@site/static/img/campaign/community_content.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
