@@ -240,6 +240,7 @@ const config = {
     [
       '@docusaurus/plugin-content-blog',
       {
+        postsPerPage: 1,
         blogSidebarCount: 'ALL',
         sortPosts: 'ascending',
         blogSidebarTitle: '#30DaysOfAzureAI',
