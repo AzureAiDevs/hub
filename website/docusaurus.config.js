@@ -230,7 +230,7 @@ const config = {
          * Required for any multi-instance plugin
          */
         blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Newsletter',
+        blogSidebarTitle: 'Newsletters',
         id: 'newsletter',
         /**
          * URL route for the blog section of your site.
