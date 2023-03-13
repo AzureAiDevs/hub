@@ -19,7 +19,7 @@ export default function NotFound() {
                 <Translate
                   id="theme.NotFound.title"
                   description="The title of the 404 page">
-                  Day Not Published Yet
+                  Day Not Yet Published
                 </Translate>
               </h1>
               {/* <p>
