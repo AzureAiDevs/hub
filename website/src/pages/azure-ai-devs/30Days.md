@@ -28,7 +28,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 :::info Kick Off
 
-* March 29 - [It's AI April!](/2023-aia/day1)
+* [March 29 - 🎬 It's Azure AI April!](/2023-aia/day1)
 
 :::
 
@@ -42,13 +42,15 @@ _Welcome to the Week 1 of your learning journey into Azure AI Development._
 
 :::info Core Concepts & Developer Tools
 
-_Posts will be linked here once published._
+_Posts will be 404 Not Found until the day of publishing._
 
-* April 03 – Microsoft AI leadership talk
-* April 04 – Integrate Azure AI Services into Apps
-* April 05 – Learn about the Azure OpenAI Playground
-* April 06 – Introduction to Azure Machine Learning services
-* April 07 – Why you should care about responsible AI
+* [April 03 – 🏁 Unleash the power of Azure OpenAI](/2023-aia/day2)
+* [April 04 – 🏁 Explore the Azure OpenAI Playground](/2023-aia/day3)
+* [April 05 – 🏁 Build an AI receipts app with Copilot](/2023-aia/day4)
+* [April 06 – 🏁 Learn key Azure ML Concepts](/2023-aia/day5)
+* [April 07 – 🏁 The Mission of Responsible AI](/2023-aia/day6)
+* [April 08 – 🏁 Improve accessibility w/ Azure AI](/2023-aia/day7)
+* [April 09 – 🏁 Recap: Azure AI Fundamentals Week✨](/2023-aia/day8)
 
 :::
 
@@ -60,15 +62,17 @@ _Posts will be linked here once published._
 
 _Welcome to the Week 2 of your learning journey into Azure AI Development._
 
-:::info Serverless, Data & Azure
+:::info Azure AI for App Developers
 
-_Posts will be linked here once published._
+_Posts will be 404 Not Found until the day of publishing._
 
-* April 10 – AI power your apps with Azure OpenAI and Cog Services SDKs
-* April 11 – Extend your apps with the power of OpenAI and Cognitive Search
-* April 12 – Build cross platform apps that integrate ML models with ONNX and .NET
-* April 13 – On device inferencing in Excel with ONNX runtime and JavaScript
-* April 14 – Learn about advances in developer productivity and GitHub CoPilot
+* [April 10 – 👩‍💻 Build intelligent apps with Azure AI SDKs](/2023-aia/day9)
+* [April 11 – 👩‍💻 Inside look at Azure OpenAI for Devs](/2023-aia/day10)
+* [April 12 – 👩‍💻 Cross-Platform AI with ONNX and .NET](/2023-aia/day11)
+* [April 13 – 👩‍💻 Run BERT NLP models locally in Excel](/2023-aia/day12)
+* [April 14 – 👩‍💻 Copilot's updated AI model](/2023-aia/day13)
+* [April 15 – 👩‍💻 Blazor apps and Azure OpenAI](/2023-aia/day14)
+* [April 16 – 👩‍💻 Recap: Azure AI for App Developers Week✨](/2023-aia/day15)
 
 :::
 
@@ -78,15 +82,16 @@ _Posts will be linked here once published._
 
 _Welcome to the Week 3 of your learning journey into Azure AI Development._
 
-:::info Component Frameworks & Customization
+:::info Azure AI for Data Scientists, AI, ML, and MLOps Engineers
 
-_Posts will be linked here once published._
+_Posts will be 404 Not Found until the day of publishing._
 
-* April 17 – Learn how to train and deploy in Azure ML
-* April 18 – Learn how to train using Azure ML pipelines and components.
-* April 19 – Learn how Azure Responsible AI services helps you build fairer models.
-* April 20 – Introduction to MLOps
-* April 21 - Fast track your MLOps with the MLOps accelerator.
+* [April 17 – 🧑🏽‍🔬 Scaling Model Dev with Azure ML](/2023-aia/day16)
+* [April 18 – 🧑🏽‍🔬 Streamline Model Dev with Azure ML](/2023-aia/day17)
+* [April 19 – 🧑🏽‍🔬 Azure ML Managed Online Endpoints](/2023-aia/day18)
+* [April 20 – 🧑🏽‍🔬 Debug models w/ Responsible AI](/2023-aia/day19)
+* [April 21 - 🧑🏽‍🔬 Streamline Ops w/ Azure MLOps](/2023-aia/day20)
+* [April 22 – 🧑🏽‍🔬 Recap: Azure ML Week✨](/2023-aia/day21)
 
 :::
 
@@ -96,15 +101,17 @@ _Posts will be linked here once published._
 
 _Welcome to the Week 4 of your learning journey into Azure AI Development._
 
-:::info APP MANAGEMENT & DEVOPS
+:::info Workshops
 
-_Posts will be linked here once published._
+_Posts will be 404 Not Found until the day of publishing._
 
-* April 24 – You should care about accessibility and AI
-* April 25 – Beginners content for Data Scientists, and AI and ML Engineers.
-* April 26 - Patient registration made easy with AI services. Self-paced hands-on lab.
-* April 27 – Humans in AI- Link off to Human’s in AI on the AI April community hub
-* April 28 – Month: Recap
+* [April 24 – 🏭 MLOps Accelerator Explained](/2023-aia/day22)
+* [April 25 – 🏭 Data Science for Beginners](/2023-aia/day23)
+* [April 26 - 🏭 Machine Learning for Beginners](/2023-aia/day24)
+* [April 27 – 🏭 Build a Patient Registration App](/2023-aia/day25)
+* [April 28 – 🏭 Stable Diffusion on Azure ML](/2023-aia/day26)
+* [April 29 – 🏭 Enhance CX with Azure Personalizer](/2023-aia/day27)
+* [April 30 – 🏭 Continuing your Azure AI Journey✨](/2023-aia/day28)
 
 :::
 
