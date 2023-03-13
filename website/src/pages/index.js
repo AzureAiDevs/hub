@@ -23,7 +23,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="ai-april">
+            to="azure-ai-devs">
             Explore #AzureAiDevs
           </Link>
         </div>
