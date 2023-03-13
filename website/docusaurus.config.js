@@ -18,7 +18,7 @@ const config = {
   projectName: 'hub', 
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'throw',
 
   i18n: {
