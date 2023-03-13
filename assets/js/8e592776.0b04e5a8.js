@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8808],{21426:e=>{e.exports=JSON.parse('{"label":"azure-cognitive-services","permalink":"/hub/blog/tags/azure-cognitive-services","allTagsPath":"/hub/blog/tags","count":8}')}}]);
