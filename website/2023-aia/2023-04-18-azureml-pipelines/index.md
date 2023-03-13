@@ -1,5 +1,5 @@
 ---
-slug: day17
+slug: "day17"
 title: "17. 🧑🏽‍🔬Streamline Model Dev with Azure ML"
 authors: ['Bea']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: "/banner-day17.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day17.png"
 description: "Streamlining ML Development with Azure ML Components & Pipelines https://azureaidevs.github.io/hub/2023-aia/day17 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: day19
+slug: "day19"
 title: "19. 🧑🏽‍🔬Debug models w/ Responsible AI"
 authors: ['Ruth']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'machine-learning-debugging-tools', 'responsible-ai-tools']
 
-image: "/banner-day19.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png"
 description: "Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics"
 ---
 

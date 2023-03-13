@@ -1,5 +1,5 @@
 ---
-slug: day5
+slug: "day5"
 title: "5. 🏁Learn key Azure ML Concepts"
 authors: ['Bea']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-ml', '30-days-of-azure-ai']
 
-image: "/banner-day5.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day5.png"
 description: "Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/2023-aia/day5 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
 ---
 

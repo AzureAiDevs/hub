@@ -1,5 +1,5 @@
 ---
-slug: day28
+slug: "day28"
 title: "28. 🏭Continuing your Azure AI Journey✨"
 authors: ['Dave']
 draft: false
@@ -9,8 +9,8 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'MLOps', 'rai', 'CoPilot', 'Blazor']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals']
 
-image: "/banner-day28.png"
-description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28 #30DaysOfAzureAI #AzureAiDevs #AI "
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day28.png"
+description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  

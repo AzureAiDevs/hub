@@ -1,5 +1,5 @@
 ---
-slug: day12
+slug: "day12"
 title: "12. 🧑‍💻Run BERT NLP models locally in Excel"
 authors: ['Cassie']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['onnx', 'JavaScript', 'Excel', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
-image: "/banner-day12.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png"
 description: "Run BERT NLP models locally in Excel with ONNX and JavaScript https://azureaidevs.github.io/hub/2023-aia/day12 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX"
 ---
 

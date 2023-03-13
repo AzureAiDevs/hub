@@ -1,5 +1,5 @@
 ---
-slug: day13
+slug: "day13"
 title: "13. 🧑‍💻Copilot's updated AI model"
 authors: ['Shuyin']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Copilot', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot']
 
-image: "/banner-day13.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png"
 description: "GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/2023-aia/day13 #30DaysOfAzureAI #AzureAiDevs #AI #Copilot"
 ---
 

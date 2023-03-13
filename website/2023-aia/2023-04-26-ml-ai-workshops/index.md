@@ -1,5 +1,5 @@
 ---
-slug: day24
+slug: "day24"
 title: "24. 🏭Machine Learning for Beginners"
 authors: ['Bethany']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['ml-for-beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
-image: "/banner-day24.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day24.png"
 description: "Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/2023-aia/day24 #30DaysOfAzureAI #AzureAiDevs #AI #MachineLearning"
 ---
 

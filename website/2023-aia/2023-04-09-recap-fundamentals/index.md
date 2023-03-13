@@ -1,5 +1,5 @@
 ---
-slug: day8
+slug: "day8"
 title: "8. 🏁Recap: Azure AI Fundamentals Week✨"
 authors: ['Dave']
 draft: false
@@ -9,8 +9,8 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Azure-AI', 'Machine-Learning', 'Cognitive-Services', 'vscode', 'rai', 'Accessibility-Human-Connection']
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
-image: "/banner-day8.png"
-description: "30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8 #30DaysOfAzureAI #AzureAiDevs #AI "
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day8.png"
+description: "30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  

@@ -1,5 +1,5 @@
 ---
-slug: day20
+slug: "day20"
 title: "20. 🧑🏽‍🔬Streamline Ops w/ Azure MLOps"
 authors: ['Cassie']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers']
 
-image: "/banner-day20.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png"
 description: "Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/2023-aia/day20 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps"
 ---
 

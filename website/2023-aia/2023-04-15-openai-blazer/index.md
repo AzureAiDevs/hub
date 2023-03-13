@@ -1,5 +1,5 @@
 ---
-slug: day14
+slug: "day14"
 title: "14. 🧑‍💻Blazor apps and Azure OpenAI"
 authors: ['Michael']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Blazor', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot', 'open-ai']
 
-image: "/banner-day14.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png"
 description: "Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 

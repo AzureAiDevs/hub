@@ -1,5 +1,5 @@
 ---
-slug: day15
+slug: "day15"
 title: "15. 🧑‍💻Recap: Azure AI App Developers✨"
 authors: ['Dave']
 draft: false
@@ -9,8 +9,8 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI', 'Cognitive-Search', 'onnx', 'dotnet', 'Blazor', 'CoPilot']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'azure-open-ai', 'azure-cognitive-services']
 
-image: "/banner-day15.png"
-description: "30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15 #30DaysOfAzureAI #AzureAiDevs #AI "
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png"
+description: "30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  

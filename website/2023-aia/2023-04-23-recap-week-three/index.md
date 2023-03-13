@@ -1,5 +1,5 @@
 ---
-slug: day21
+slug: "day21"
 title: "21. 🧑🏽‍🔬Recap: Azure ML Week✨"
 authors: ['Dave']
 draft: false
@@ -9,8 +9,8 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Machine-Learning', 'MLOps', 'rai']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: "/banner-day21.png"
-description: "30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21 #30DaysOfAzureAI #AzureAiDevs #AI "
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day21.png"
+description: "30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  

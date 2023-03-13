@@ -1,5 +1,5 @@
 ---
-slug: day10
+slug: "day10"
 title: "10. 🧑‍💻Inside look at Azure OpenAI for Devs"
 authors: ['Heidi']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Search', 'Azure-AI']
 tags: ['ai-april', 'azure-open-ai', 'azure-cognitive-services', 'app-developers']
 
-image: "/banner-day10.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
 description: "Get ready to build dynamic, interactive and differentiated experiences with Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 

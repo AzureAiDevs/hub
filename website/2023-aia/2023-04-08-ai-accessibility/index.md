@@ -1,5 +1,5 @@
 ---
-slug: day7
+slug: "day7"
 title: "7. 🏁Improve accessibility w/ Azure AI"
 authors: ['Henk']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Accessibility-Employment', 'Accessibility-Modern-Life', 'Accessibility-Human-Connection']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'ai-for-accessibility']
 
-image: "/banner-day7.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png"
 description: "Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility"
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: day4
+slug: "day4"
 title: "4. 🏁Build an AI receipts app with Copilot"
 authors: ['Ruth']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'CoPilot', 'vscode', 'Azure-AI']
 tags: ['azure-ai', 'azure-cognitive-services', '30-days-of-azure-ai']
 
-image: "/banner-day4.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png"
 description: "Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices"
 ---
 

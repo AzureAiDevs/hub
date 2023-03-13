@@ -1,5 +1,5 @@
 ---
-slug: day9
+slug: "day9"
 title: "9. 🧑‍💻Build intelligent apps w/ Azure AI SDKs"
 authors: ['Arun']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
-image: "/banner-day9.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png"
 description: "Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 

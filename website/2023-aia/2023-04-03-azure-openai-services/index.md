@@ -1,5 +1,5 @@
 ---
-slug: day2
+slug: "day2"
 title: "2. 🏁Unleash the power of Azure OpenAI"
 authors: ['Meer']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
-image: "/banner-day2.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png"
 description: "Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 

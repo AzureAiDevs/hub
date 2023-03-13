@@ -1,5 +1,5 @@
 ---
-slug: day22
+slug: "day22"
 title: "22. 🏭MLOps Accelerator Explained"
 authors: ['Setu']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: "/banner-day22.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png"
 description: "Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps"
 ---
 

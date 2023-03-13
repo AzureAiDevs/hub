@@ -1,5 +1,5 @@
 ---
-slug: day1
+slug: "day1"
 title: "1. 🏁Kick Starting AI April!"
 authors: ['Dave']
 draft: false
@@ -9,8 +9,8 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'Cognitive-Search', 'dotnet', 'onnx', 'CoPilot']
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
-image: "/banner-day1.png"
-description: "Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at [AI April](https://aka.ms/ai-april) https://azureaidevs.github.io/hub/2023-aia/day1 #30DaysOfAzureAI #AzureAiDevs #AI "
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png"
+description: "Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilling and discussions at [AI April](https://aka.ms/ai-april) https://azureaidevs.github.io/hub/2023-aia/day1 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  

@@ -1,5 +1,5 @@
 ---
-slug: day3
+slug: "day3"
 title: "3. 🏁Explore the Azure OpenAI Playground"
 authors: ['Valentina']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
-image: "/banner-day3.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png"
 description: "Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 

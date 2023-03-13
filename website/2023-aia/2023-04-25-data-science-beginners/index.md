@@ -1,5 +1,5 @@
 ---
-slug: day23
+slug: "day23"
 title: "23. 🏭Data Science for Beginners"
 authors: ['Bethany']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Data_Science_Beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
-image: "/banner-day23.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png"
 description: "Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/2023-aia/day23 #30DaysOfAzureAI #AzureAiDevs #AI #DataScience"
 ---
 

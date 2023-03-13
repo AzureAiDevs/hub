@@ -24,7 +24,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="ai-april">
-            Explore #AiApril 
+            Explore #AzureAiDevs
           </Link>
         </div>
       </div>

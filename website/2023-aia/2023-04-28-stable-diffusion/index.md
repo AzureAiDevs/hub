@@ -1,5 +1,5 @@
 ---
-slug: day26
+slug: "day26"
 title: "26. 🏭Stable Diffusion on Azure ML"
 authors: ['Vlad']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'StableDiffusion']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-ml', 'ml-engineers', 'app-developers', 'workshop']
 
-image: "/banner-day26.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png"
 description: "How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26 #30DaysOfAzureAI #AzureAiDevs #AI AzureML"
 ---
 

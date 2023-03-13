@@ -1,5 +1,5 @@
 ---
-slug: day27
+slug: "day27"
 title: "27. 🏭Enhance CX with Azure Personalizer"
 authors: ['Arafat']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Personalizers', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'workshop', 'azure-cognitive-services']
 
-image: "/banner-day27.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png"
 description: "Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27 #30DaysOfAzureAI #AzureAiDevs #AI #AzurePersonalizer"
 ---
 

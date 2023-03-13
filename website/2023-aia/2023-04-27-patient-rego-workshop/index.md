@@ -1,5 +1,5 @@
 ---
-slug: day25
+slug: "day25"
 title: "25. 🏭Build a Patient Registration App"
 authors: ['Dave']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-cognitive-services', 'app-developers', 'workshop']
 
-image: "/banner-day25.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png"
 description: "Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25 #30DaysOfAzureAI #AzureAiDevs #AI #AzureFormRecognizer"
 ---
 

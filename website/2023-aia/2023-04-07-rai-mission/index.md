@@ -1,5 +1,5 @@
 ---
-slug: day6
+slug: "day6"
 title: "6. 🏁The Mission of Responsible AI"
 authors: ['Ruth']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
-image: "/banner-day6.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png"
 description: "Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: day16
+slug: "day16"
 title: "16. 🧑🏽‍🔬Scaling Model Dev with Azure ML"
 authors: ['Bea']
 draft: false
@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: "/banner-day16.png"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png"
 description: "Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
 ---
 
