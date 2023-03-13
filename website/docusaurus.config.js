@@ -95,13 +95,7 @@ const config = {
           // {to: 'https://aka.ms/ai-april/collection', label: 'Collection', position: 'right'},
           {to: '2023-aia', label: '#30DaysOfAzureAI', position: 'left'},          
           {to: 'newsletter', label: '#Newsletters', position: 'left'},
-          // {to: 'https://aka.ms/ai-april/videos', label: 'Video', position: 'right'},
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'right',
-          //   label: 'Workshops',
-          // }
+          {to: 'community_content', label: '#Community', position: 'left'},
         ],
       },
 

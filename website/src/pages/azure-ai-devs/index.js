@@ -10,24 +10,14 @@ const CampaignFeatures = [
     title: '#30DaysOfAzureAI',
     Svg: require('@site/static/img/campaign/30days.svg').default,
     fillColor: "#f25022",
-    link: "/hub/azure-ai-devs/30Days",
+    link: "azure-ai-devs/30Days",
     description: (
       <>
       Join us on a #30Day journey covering Azure OpenAI and Cognitive Services, Azure ML, MLOps, and AI App integration!
       </>
     ),
   },
-  // {
-  //   title: 'Zero To Hero',
-  //   Svg: require('@site/static/img/campaign/hero.svg').default,
-  //   fillColor: "#7fba00",
-  //   link: "/ai-april/ZeroToHero",
-  //   description: (
-  //     <>
-  //     Get the latest updates on technologies and products for Azure AI development - directly from product teams!
-  //     </>
-  //   ),
-  // },
+
   // {
   //   title: 'Video + Livestreams',
   //   Svg: require('@site/static/img/campaign/buzz.svg').default,
@@ -73,14 +63,14 @@ const CampaignFeatures = [
     ),
   },
   {
-    title: 'Humans in AI',
-    Svg: require('@site/static/img/campaign/humans-in-ai.svg').default,
+    title: 'Community Content Corner',
+    Svg: require('@site/static/img/campaign/community_content.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
-    link: "/hub/humans-in-ai",
-    fillColor: "#fe6db6",
+    link: "/hub/community_content",
+    // fillColor: "#fe6db6",
     description: (
       <>
-      Tune in to hear from the people behind the technology, and learn how they're using AI to make a difference.
+      Tune into Azure AI developer community content.
       </>
     ),
   },
