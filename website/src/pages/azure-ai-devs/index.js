@@ -63,14 +63,14 @@ const CampaignFeatures = [
     ),
   },
   {
-    title: 'Community Content Corner',
+    title: 'Community Corner',
     Svg: require('@site/static/img/campaign/community_content.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
     link: "/hub/community_content",
     // fillColor: "#fe6db6",
     description: (
       <>
-      Tune into Azure AI developer community content.
+      Check out amazing content from the Azure AI developer community.
       </>
     ),
   },
