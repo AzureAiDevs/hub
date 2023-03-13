@@ -40,7 +40,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 _Welcome to the Week 1 of your learning journey into Azure AI Development._
 
-:::info Core Concepts & Developer Tools
+:::info Azure AI for everyone
 
 _Posts will be 404 Not Found until the day of publishing._
 
