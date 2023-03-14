@@ -13,21 +13,10 @@ const CampaignFeatures = [
     link: "/hub/roadmap/30days",
     description: (
       <>
-      Join us on a #30Day journey covering Azure OpenAI and Cognitive Services, Azure ML, MLOps, and AI App integration!
+        Join us on a #30Day journey covering Azure OpenAI and Cognitive Services, Azure ML, MLOps, and AI App integration!
       </>
     ),
   },
-  // {
-  //   title: 'Cloud Skills',
-  //   Svg: require('@site/static/img/campaign/skills.svg').default,
-  //   fillColor: "#ffb900",
-  //   link: "https://aka.msai-april/challenge",
-  //   description: (
-  //     <>
-  //     Skill up on key cloud technologies with these free, self-guided learning courses - and make the leaderboard!
-  //     </>
-  //   ),
-  // },
   // {
   //   title: 'Hands-on Workshops',
   //   Svg: require('@site/static/img/campaign/hacks.svg').default,
@@ -46,7 +35,7 @@ const CampaignFeatures = [
     fillColor: "#fe6db6",
     description: (
       <>
-      Wanting to connect with other to help solve your problems? Wrote articles to help others? Share them with the community!
+        Wanting to connect with other to help solve your problems? Wrote articles to help others? Share them with the community!
       </>
     ),
   },
@@ -63,6 +52,17 @@ const CampaignFeatures = [
     ),
   },
   {
+    title: 'Cloud Skills',
+    Svg: require('@site/static/img/campaign/skills.svg').default,
+    fillColor: "#ffb900",
+    link: "https://aka.ms/30-days-of-azure-ai-challenge",
+    description: (
+      <>
+        Skill up on key Azure AI technologies, including the Azure OpenAI Service. The self-guided learning courses are free and you'll make the leaderboard!
+      </>
+    ),
+  },
+  {
     title: 'Community Corner',
     Svg: require('@site/static/img/campaign/community_content.svg').default,
     // link: "https://pnp.github.io/powerplatform-samples/",
@@ -70,7 +70,7 @@ const CampaignFeatures = [
     // fillColor: "#fe6db6",
     description: (
       <>
-      Check out amazing content from the Azure AI developer community.
+        Check out amazing content from the Azure AI developer community.
       </>
     ),
   },
@@ -81,13 +81,13 @@ const CampaignFeatures = [
     fillColor: "#8661C5",
     description: (
       <>
-      Learn how startups are building intelligent solutions with Azure AI.
+        Learn how startups are building intelligent solutions with Azure AI.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description, link, fillColor}) {
+function Feature({ Svg, title, description, link, fillColor }) {
   return (
     <div className={clsx('col col--4')}>
       <a href={link} target="_blank">
@@ -140,16 +140,16 @@ function FeaturesSection() {
 }
 
 
-export default function() {
+export default function () {
   return (
     <Layout
       title={`Welcome to #AI April`}
-      description="Join us for a month-long celebration of Azure AI Development with #AIApril and #30DaysOfAzureAI />"> 
-      <CampaignHeader/>
+      description="Join us for a month-long celebration of Azure AI Development with #AIApril and #30DaysOfAzureAI />">
+      <CampaignHeader />
       <main>
-        <FeaturesSection/>
+        <FeaturesSection />
       </main>
     </Layout>
-    
+
   );
 }
