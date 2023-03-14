@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://azureaidevs.github.io/hub/ai-update</id>
+    <title>Azure AI Developer Hub Blog</title>
+    <updated>2023-06-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://azureaidevs.github.io/hub/ai-update"/>
+    <subtitle>Azure AI Developer Hub Blog</subtitle>
+    <icon>https://azureaidevs.github.io/hub/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🗞️June 2023 AI Update]]></title>
+        <id>https://azureaidevs.github.io/hub/ai-update/2023-june</id>
+        <link href="https://azureaidevs.github.io/hub/ai-update/2023-june"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[June 2023 Azure AI Developers Update]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-update-for-azure-ai-developers">AI Update for Azure AI Developers<a href="#ai-update-for-azure-ai-developers" class="hash-link" aria-label="Direct link to AI Update for Azure AI Developers" title="Direct link to AI Update for Azure AI Developers">​</a></h2>]]></content>
+        <author>
+            <name>Dave Glover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <author>
+            <name>Henk Boelman</name>
+            <uri>https://github.com/hnky</uri>
+        </author>
+        <author>
+            <name>Beatriz Stollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <author>
+            <name>Ruth Yakubu</name>
+            <uri>https://github.com/ruyakubu</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🗞️May 2023 AI Update]]></title>
+        <id>https://azureaidevs.github.io/hub/ai-update/2023-may</id>
+        <link href="https://azureaidevs.github.io/hub/ai-update/2023-may"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[May 2023 Azure AI Developers Update]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-update-for-azure-ai-developers">AI Update for Azure AI Developers<a href="#ai-update-for-azure-ai-developers" class="hash-link" aria-label="Direct link to AI Update for Azure AI Developers" title="Direct link to AI Update for Azure AI Developers">​</a></h2>]]></content>
+        <author>
+            <name>Dave Glover</name>
+            <uri>https://github.com/gloveboxes</uri>
+        </author>
+        <author>
+            <name>Henk Boelman</name>
+            <uri>https://github.com/hnky</uri>
+        </author>
+        <author>
+            <name>Beatriz Stollnitz</name>
+            <uri>https://github.com/bstollnitz</uri>
+        </author>
+        <author>
+            <name>Ruth Yakubu</name>
+            <uri>https://github.com/ruyakubu</uri>
+        </author>
+        <category label="azure-ai" term="azure-ai"/>
+        <category label="azure-open-ai" term="azure-open-ai"/>
+        <category label="30-days-of-azure-ai" term="30-days-of-azure-ai"/>
+    </entry>
+</feed>
