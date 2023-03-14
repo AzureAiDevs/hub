@@ -17,18 +17,6 @@ const CampaignFeatures = [
       </>
     ),
   },
-
-  // {
-  //   title: 'Video + Livestreams',
-  //   Svg: require('@site/static/img/campaign/buzz.svg').default,
-  //   fillColor: "#b66dff",
-  //   link: "/ai-april/Video-Live",
-  //   description: (
-  //     <>
-  //     Join us for live online events to learn and engage with experts, or catch up with video series and replays on your own time.
-  //     </>
-  //   ),
-  // },
   // {
   //   title: 'Cloud Skills',
   //   Svg: require('@site/static/img/campaign/skills.svg').default,
