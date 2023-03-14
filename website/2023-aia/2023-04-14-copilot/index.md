@@ -19,9 +19,11 @@ description: "GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Co
 
 </head>
 
-- 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- 👓 [Read today's article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
+- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
+- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/13-copilot's-updated-ai-model)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/13-copilot's-updated-ai-model)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## 🗓️ Day _13_ of #30DaysOfAzureAI

@@ -19,9 +19,11 @@ description: "Unleashing the power of AI with Azure OpenAI: A simple guide to ge
 
 </head>
 
-- 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- 👓 [Read today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706)
+- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
+- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## 🗓️ Day _2_ of #30DaysOfAzureAI

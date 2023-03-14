@@ -19,9 +19,11 @@ description: "Building intelligent apps? Then explore the Azure AI Hub for OpenA
 
 </head>
 
-- 📧 [Sign up for the Azure AI Developer Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- 👓 [Read today's article](https://github.com/Azure-Samples/azure-ai)
+- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
+- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
-- 📌 [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ## 🗓️ Day _9_ of #30DaysOfAzureAI

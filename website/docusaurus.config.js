@@ -94,7 +94,7 @@ const config = {
           // {to: 'https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi', label: '🎙 #PowerfulDevs', position: 'left'},
           // {to: 'https://aka.ms/ai-april/collection', label: 'Collection', position: 'right'},
           {to: '2023-aia', label: '#30DaysOfAzureAI', position: 'left'},          
-          {to: 'newsletter', label: '#Newsletters', position: 'left'},
+          {to: 'ai-update', label: '#AiUpdate', position: 'left'},
           {to: 'community_content', label: '#Community', position: 'left'},
         ],
       },
@@ -224,17 +224,17 @@ const config = {
          * Required for any multi-instance plugin
          */
         blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Newsletters',
-        id: 'newsletter',
+        blogSidebarTitle: 'Monthly Updates',
+        id: 'ai-update',
         /**
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
          */
-        routeBasePath: 'newsletter',
+        routeBasePath: 'ai-update',
         /**
          * Path to data on filesystem relative to site dir.
          */
-        path: './newsletter',
+        path: './ai-update',
       }
     ],
     [
