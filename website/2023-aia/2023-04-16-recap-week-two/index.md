@@ -20,9 +20,8 @@ description: "30DaysOfAzureAI Recap for Azure AI App Developers Week https://azu
 </head>
 
 
-- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
-- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
-- 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/15-recap-azure-ai-app-developers✨)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
@@ -92,3 +91,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 ## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/15-recap-azure-ai-app-developers✨)
+
+## 📍 30 days roadmap
+
+What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)

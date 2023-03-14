@@ -20,9 +20,8 @@ description: "Guide to analyzing ML models for Responsible AI issues (Part 1) ht
 </head>
 
 - 👓 [Read today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948)
-- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
-- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
-- 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/19-debug-models-w/-responsible-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
@@ -90,3 +89,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blo
 ## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/19-debug-models-w/-responsible-ai)
+
+## 📍 30 days roadmap
+
+What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)

@@ -20,9 +20,8 @@ description: "Azure ML Managed Online Endpoints - A Quickstart https://azureaide
 </head>
 
 - 👓 [Read today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/)
-- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
-- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
-- 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/18-azure-ml-managed-online-endpoints)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
@@ -92,3 +91,7 @@ Today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 ## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/18-azure-ml-managed-online-endpoints)
+
+## 📍 30 days roadmap
+
+What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)

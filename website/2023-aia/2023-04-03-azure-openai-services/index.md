@@ -20,9 +20,8 @@ description: "Unleashing the power of AI with Azure OpenAI: A simple guide to ge
 </head>
 
 - 👓 [Read today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706)
-- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
-- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
-- 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
@@ -96,3 +95,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unl
 ## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/2-unleash-the-power-of-azure-openai)
+
+## 📍 30 days roadmap
+
+What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)

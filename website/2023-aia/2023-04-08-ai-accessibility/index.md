@@ -20,9 +20,8 @@ description: "Learn about the 6 ways to improve accessibility with Azure AI http
 </head>
 
 - 👓 [Read today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/)
-- 📍 [30 days of Azure AI roadmap](/hub/roadmap/30days/)
-- 📬 [Sign up for the AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
-- 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/7-improve-accessibility-w/-azure-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
@@ -82,7 +81,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 There are over one billion people living with disabilities, and many face barriers to employment, education, and societal inclusion.
 
-Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace)) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
+Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
 
 The initiative focuses on three priorities: developing more accessible technology, using this technology to create job opportunities for people with disabilities, and building a more inclusive workplace. 
 
@@ -94,3 +93,7 @@ Today's [article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibili
 ## 🙋🏾‍♂️ Questions?
 
 [Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/7-improve-accessibility-w/-azure-ai)
+
+## 📍 30 days roadmap
+
+What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
