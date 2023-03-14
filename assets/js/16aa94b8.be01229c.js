@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[474],{9443:e=>{e.exports=JSON.parse('{"title":"#30DaysOfAzureAI","items":[{"title":"1. \ud83c\udfc1Kick Starting AI April!","permalink":"/hub/2023-aia/day1"}]}')}}]);
