@@ -2,7 +2,7 @@
 slug: "day18"
 title: "18. 🧑🏽‍🔬Azure ML Managed Online Endpoints"
 authors: ['Vlad']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
