@@ -36,7 +36,7 @@ export default function NotFound() {
                   Refer to https://aka.ms/ai-april for more information.
                 </Translate> */}
                 <h2>
-                <a href="/hub/azure-ai-devs/30Days/">Refer to the roadmap for #30DaysOfAzureAI</a>
+                <a href="/hub/roadmap/30days">Refer to the roadmap for #30DaysOfAzureAI</a>
                 </h2>
               </p>
             </div>
