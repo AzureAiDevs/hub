@@ -58,7 +58,7 @@ const CampaignFeatures = [
     link: "https://aka.ms/30-days-of-azure-ai-challenge",
     description: (
       <>
-        Skill up on key Azure AI technologies. The self-guided learning courses are free and you'll make the leader board!
+        Skill up on key Azure AI technologies. The self-guided learning courses are free and you'll make the leaderboard!
       </>
     ),
   },
