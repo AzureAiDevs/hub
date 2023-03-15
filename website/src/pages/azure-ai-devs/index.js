@@ -52,7 +52,7 @@ const CampaignFeatures = [
     ),
   },
   {
-    title: 'Cloud Skills',
+    title: 'Azure AI Skills',
     Svg: require('@site/static/img/campaign/skills.svg').default,
     fillColor: "#ffb900",
     link: "https://aka.ms/30-days-of-azure-ai-challenge",
