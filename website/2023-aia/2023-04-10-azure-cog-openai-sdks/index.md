@@ -41,9 +41,9 @@ If you update the description, please update the description: in the frontmatter
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Last week was Azure AI fundamentals week, this week, we switch gears and focus on Azure AI App Developers. This week is for folk building intelligent apps that call Azure AI Services or incorporate AI models directly into apps. 
+Last week was Azure AI fundamentals week, this week, we switch gears and focus on Azure AI App Developers. This week is for app developers building intelligent apps calling Azure AI Services or incorporating AI models directly into apps. 
 
-So what better place to start than an introduction to the Azure AI Hub where you'll find loads of samples for using the Azure AI Services SDKs. These samples are invaluable for getting started with Azure Cognitive Services and the Azure OpenAI Service.
+So what better place to start than an introduction to the Azure AI Hub where you'll find loads of samples for using the Azure AI Services SDKs.
 
 ## 🎯 What we'll cover
 
@@ -87,9 +87,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Introducing the Azure AI Hub
 
-Read [today's article](https://github.com/Azure-Samples/azure-ai) to learn about the Azure AI Hub repository, a curated list of samples for popular end-to-end customer scenarios that use AI services from Azure. 
+Read [today's article](https://github.com/Azure-Samples/azure-ai) to learn about the Azure AI Hub repository, a curated list of samples for AI app developers looking to use Azure AI services for common end-to-end scenarios. 
 
-The repository includes a set of best practices and guidelines for developers to follow when building AI solutions. The repository is a one-stop shop for developers to find the latest Azure AI samples, and to learn best practices for building AI solutions.
+The repo includes sample code in different programming languages, as well as a forum for developers to communicate directly with Microsoft product teams and other developers using Azure AI. The sample code covers topics like OpenAI, Speech, Language, Applied AI/Decision, and more. The platform welcomes contributions, feedback, and suggestions from the developer community.
 
 ## 👓 Read today's article
 
