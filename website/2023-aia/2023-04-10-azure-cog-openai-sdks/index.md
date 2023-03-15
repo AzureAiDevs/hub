@@ -75,8 +75,8 @@ Add or update a list relevant references here. These could be links to other blo
 - [Quickstart: Get started generating text using Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/quickstart?pivots=programming-language-studio&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Learn about Azure Cognitive Services](https://learn.microsoft.com/training/browse/?products=azure-cognitive-services&WT.mc_id=aiml-89446-dglover)
-- [Case Study: Trelent powers source code documentation with OpenAI Service](https://startups.microsoft.com/blog/trelent-openai-service?WT.mc_id=aiml-89446-dglover)
-- [Case Study: Hypergrowth startup harnesses deep learning to redefine enterprise productivity](https://customers.microsoft.com/story/1376278902865681018-instabase-partner-professional-services-azure?WT.mc_id=aiml-89446-dglover)
+- [Case Study: CarMax uses car research tools powered by Azure OpenAI Service](https://customers.microsoft.com/en-us/story/1501304071775762777-carmax-retailer-azure-openai-service)
+- [Case Study: Captioning and Call Center Transcription using Speech AI](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
 
 
 <!-- README
