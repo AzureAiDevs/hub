@@ -99,4 +99,4 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-b
 
 What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
 
-[![](./../../static/img/2023-aia/rss.png) Click to subscribe](/hub/2023-aia/rss.xml)
+[![](./../../static/img/2023-aia/rss.png) Click to subscribe](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
