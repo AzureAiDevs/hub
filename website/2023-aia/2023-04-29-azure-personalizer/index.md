@@ -97,7 +97,6 @@ The [final](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-web
 
 By following the steps outlined in the workshop, developers can create a more engaging and personalized user experience that can lead to increased user satisfaction and retention.
 
-
 ## 👓 Read today's article
 
 Today's [article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1).
@@ -110,3 +109,5 @@ Today's [article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bo
 ## 📍 30 days roadmap
 
 What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
+
+[![](./../../static/img/2023-aia/rss.png) Click to subscribe](/hub/2023-aia/rss.xml)

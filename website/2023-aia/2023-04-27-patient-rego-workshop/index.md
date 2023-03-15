@@ -66,7 +66,7 @@ Add or update a list relevant references here. These could be links to other blo
 
 ## 📚 References
 
-- [Learn Module: Azure Form Recognizer Service](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-form-recognizer&WT.mc_id=aiml-89446-dglover
+- [Learn Module: Azure Form Recognizer Service](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-form-recognizer&WT.mc_id=aiml-89446-dglover)
 - [What is Azure Form Recognizer?](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/overview?view=form-recog-3.0.0&WT.mc_id=aiml-89446-dglover)
 - [Case Study: Powering Speech-to-Text AI that iterates at the speed of business](https://startups.microsoft.com/blog/powering-speech-to-text-ai?WT.mc_id=aiml-89446-dglover)
 - [Case study: Duolingo makes learning language fun with help from AI](https://startups.microsoft.com/blog/duolingo-makes-learning-language-fun-with-help-from-ai?WT.mc_id=aiml-89446-dglover)
@@ -96,3 +96,5 @@ Today's [article](https://newpatiente2e.github.io/docs/).
 ## 📍 30 days roadmap
 
 What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
+
+[![](./../../static/img/2023-aia/rss.png) Click to subscribe](/hub/2023-aia/rss.xml)

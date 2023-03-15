@@ -117,7 +117,7 @@ const config = {
 
           {
             label: `Collection`,
-            to: 'https://aka.ms/ai-april/collection'
+            to: 'https://aka.ms/30-days-of-azure-ai-challenge'
           },
           {
             label: `Azure AI`,
