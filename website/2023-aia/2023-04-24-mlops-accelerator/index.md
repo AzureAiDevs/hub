@@ -24,6 +24,8 @@ description: "Accelerating MLOps with the v2 Solution Accelerator https://azurea
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/22-mlops-accelerator-explained)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
+- 🌤️ [Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
+- 🏫 [Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 
 ## 🗓️ Day _22_ of #30DaysOfAzureAI
 
