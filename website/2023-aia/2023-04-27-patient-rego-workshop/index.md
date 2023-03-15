@@ -2,7 +2,7 @@
 slug: "day25"
 title: "25. 🏭Build a Patient Registration App"
 authors: ['Dave']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -28,7 +28,7 @@ description: "Building a Patient Registration Web App with Azure Form Recognizer
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _25_ of #30DaysOfAzureAI
+## 🗓️ Day 25 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 

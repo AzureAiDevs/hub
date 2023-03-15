@@ -2,7 +2,7 @@
 slug: "day2"
 title: "2. 🏁Unleash the power of Azure OpenAI"
 authors: ['Meer']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -28,7 +28,7 @@ description: "Unleashing the power of AI with Azure OpenAI: A simple guide to ge
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _2_ of #30DaysOfAzureAI
+## 🗓️ Day 2 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 

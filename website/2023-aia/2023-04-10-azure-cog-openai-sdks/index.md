@@ -28,7 +28,7 @@ description: "Building intelligent apps? Then explore the Azure AI Hub for OpenA
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _9_ of #30DaysOfAzureAI
+## 🗓️ Day 9 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 

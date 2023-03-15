@@ -28,7 +28,7 @@ description: "Get ready to build dynamic, interactive and differentiated experie
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _10_ of #30DaysOfAzureAI
+## 🗓️ Day 10 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 

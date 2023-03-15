@@ -2,7 +2,7 @@
 slug: "day1"
 title: "1. 🏁Kick Starting AI April!"
 authors: ['Dave']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -28,7 +28,7 @@ description: "Welcome to #AiApril! Join us for #30DaysOfAzureAI learning, skilli
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _1_ of #30DaysOfAzureAI
+## 🗓️ Day 1 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 

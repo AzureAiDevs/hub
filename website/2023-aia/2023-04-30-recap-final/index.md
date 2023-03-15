@@ -28,7 +28,7 @@ description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
-## 🗓️ Day _28_ of #30DaysOfAzureAI
+## 🗓️ Day 28 of #30DaysOfAzureAI
 
 <!-- README
 The following description is also used for the tweet. So it should be action oriented and grab attention 
