@@ -1,6 +1,6 @@
 ---
 slug: "day12"
-title: "12. 🧑‍💻Run BERT NLP models locally in Excel"
+title: "12. 🧑‍💻NLP Models in Excel w/ ONNX Runtime"
 authors: ['Cassie']
 draft: false
 hide_table_of_contents: false
@@ -24,7 +24,7 @@ description: "Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
-- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/12-run-bert-nlp-models-locally-in-excel)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/12-nlp-models-in-excel-w/-onnx-runtime)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
@@ -80,7 +80,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Build an Excel Add-in with ONNX Runtime Web for Inferencing NLP models on Device
 
-Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) about building an Excel Add-in with ONNX Runtime and JavaScript with on device inferencing. You'll learn how ONNX Runtime enables the inference of ML models cross-platform even locally in an Excel add-in! That tasks in this example will show you how to perform the natural language processing tasks of sentiment analysis and question and answering all locally within a spreadsheet.  [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
+Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) about building an Excel Add-in with ONNX Runtime and JavaScript with on device inferencing. You'll learn how ONNX Runtime enables the inference of ML models cross-platform even locally in an Excel add-in! 
+
+The tasks in this example will show you how to perform the natural language processing tasks of sentiment analysis and question and answering all locally within a spreadsheet.  [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
 
 ## 👓 Read today's article
 
@@ -89,7 +91,7 @@ Today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/12-run-bert-nlp-models-locally-in-excel)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/12-nlp-models-in-excel-w/-onnx-runtime)
 
 ## 📍 30 days roadmap
 
