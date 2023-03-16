@@ -20,7 +20,7 @@ description: "Learn about Azure Machine Learning lifecycle and open source tooli
 </head>
 
 - 👓 [View today's article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech News](https://developer.microsoft.com/en-us/Newsletter/)
+- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)

@@ -20,7 +20,7 @@ description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub
 </head>
 
 
-- 📬 [Monthly AI and Machine Learning Microsoft Tech News](https://developer.microsoft.com/en-us/Newsletter/)
+- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
