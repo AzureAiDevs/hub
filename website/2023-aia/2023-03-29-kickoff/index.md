@@ -43,7 +43,7 @@ The following is the intro to the post. It should be a short teaser for the post
 
 Welcome to the first day of AI April, a month-long celebration of AI and Azure AI. We'll be sharing a series of blog posts, videos, and other content to help you learn more about AI and Azure AI.
 
-AI has been a hot topic for years, but recently we’ve seen the technology become accessible to a broad range of users. For example, it took less than a week for OpenAI’s ChatGPT to reach a million users, and it crossed the 100 million user mark in under two months.
+AI has been a hot topic for years, but recently we’ve seen the technology become accessible to a broad range of users. For example, it took less than a week for OpenAI’s ChatGPT to reach a million users, and it crossed the 100 million user mark in under two months. It’s a great example of how AI can be used to make our lives easier and more productive.
 
 ## 🎯 What we'll cover
 
