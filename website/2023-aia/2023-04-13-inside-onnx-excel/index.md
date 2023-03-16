@@ -2,7 +2,7 @@
 slug: "day12"
 title: "12. 🧑‍💻Run BERT NLP models locally in Excel"
 authors: ['Cassie']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -10,7 +10,7 @@ keywords: ['onnx', 'JavaScript', 'Excel', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png"
-description: "Run BERT NLP models locally in Excel with ONNX and JavaScript https://azureaidevs.github.io/hub/2023-aia/day12 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX"
+description: "Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX"
 ---
 
 <head>  
@@ -35,13 +35,13 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Run BERT NLP models locally in Excel with ONNX and JavaScript**
+**Build an Excel Add-in with ONNX Runtime Web for NLP Tasks**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-Yesterday was all about building cross-platform intelligent apps with .NET MAUI and ONNX. Today is for people looking to extend Excel with BERT-JS and the ONNX Runtime. Wait, was "Excel, BERT-JS, and ONNX" used in the same sentence?😄 Yup, they were, so follow along to learn more.
+Yesterday was all about building cross-platform intelligent apps with .NET MAUI and ONNX. Today is for people looking to extend Excel with BERT NLP tasks enabled by ONNX Runtime Web in JavaScript. Wait, was "Excel, BERT, JavaScript and ONNX" used in the same sentence?😄 Yup, they were, so follow along to learn more.
 
 ## 🎯 What we'll cover
 
@@ -78,11 +78,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 -->
 
 
-## 🚌 Build an Excel Add-in with BERT-JS and ONNX runtime
+## 🚌 Build an Excel Add-in with ONNX Runtime Web for Inferencing NLP models on Device
 
-Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) about building an Excel Add-in with BERT-JS and ONNX Runtime".  You'll learn about the use of BERT-JS and ONNX Runtime enables the creation of an Excel add-in that performs natural language processing tasks within a spreadsheet. 
-
-BERT, a deep learning model developed by Google, is designed to understand the context and meaning of words in text. By using a transformer-based architecture, BERT can analyze entire sentences or paragraphs rather than processing words one by one. [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
+Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) about building an Excel Add-in with ONNX Runtime and JavaScript with on device inferencing. You'll learn how ONNX Runtime enables the inference of ML models cross-platform even locally in an Excel add-in! That tasks in this example will show you how to perform the natural language processing tasks of sentiment analysis and question and answering all locally within a spreadsheet.  [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
 
 ## 👓 Read today's article
 

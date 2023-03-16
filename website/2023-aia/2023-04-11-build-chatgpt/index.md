@@ -1,6 +1,6 @@
 ---
 slug: "day10"
-title: "10. 🧑‍💻Inside look at Azure OpenAI for Devs"
+title: "10. 🧑‍💻How to build your own ChatGPT"
 authors: ['Heidi']
 draft: false
 hide_table_of_contents: false
@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Cognitive-Search', 'Azure-AI']
 tags: ['ai-april', 'azure-open-ai', 'azure-cognitive-services', 'app-developers']
 
 image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
-description: "Get ready to build dynamic, interactive and differentiated experiences with Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
+description: "Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
 ---
 
 <head>  
@@ -24,7 +24,7 @@ description: "Get ready to build dynamic, interactive and differentiated experie
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
-- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/10-inside-look-at-azure-openai-for-devs)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/10-how-to-build-your-own-chatgpt)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 
@@ -35,13 +35,15 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Get ready to build dynamic, interactive and differentiated experiences with Azure OpenAI**
+**Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
 -->
 
-
+Yesterday was about the Azure AI Hub, a treasure trove of Azure AI SDK samples. Today, we're going to hear from 
+distinguished engineer Pablo Castro as he walks us through a progression of short examples that show us how to build 
+more dynamic, interactive, and differentiated experiences with the Azure OpenAI Service.
 
 ## 🎯 What we'll cover
 
@@ -200,7 +202,7 @@ for a walkthrough.
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/10-inside-look-at-azure-openai-for-devs)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/10-how-to-build-your-own-chatgpt)
 
 ## 📍 30 days roadmap
 
