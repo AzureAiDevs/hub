@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4547],{2034:e=>{e.exports=JSON.parse('{"title":"Monthly Updates","items":[{"title":"\ud83d\uddde\ufe0fJune 2023 AI Update","permalink":"/hub/ai-update/2023-june"},{"title":"\ud83d\uddde\ufe0fMay 2023 AI Update","permalink":"/hub/ai-update/2023-may"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8128],{72040:e=>{e.exports=JSON.parse('{"permalink":"/hub/2023-aia/tags/workshop/page/2","page":2,"postsPerPage":1,"totalPages":5,"totalCount":5,"previousPage":"/hub/2023-aia/tags/workshop","nextPage":"/hub/2023-aia/tags/workshop/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
