@@ -67,7 +67,7 @@ _Welcome to the Week 2 of your learning journey into Azure AI Development._
 _Posts will be 404 Not Found until the day of publishing._
 
 * [April 10 – 👩‍💻 Build intelligent apps with Azure AI SDKs](/2023-aia/day9)
-* [April 11 – 👩‍💻 Inside look at Azure OpenAI for Devs](/2023-aia/day10)
+* [April 11 – 👩‍💻 How to build your own ChatGPT](/2023-aia/day10)
 * [April 12 – 👩‍💻 Cross-Platform AI with ONNX and .NET](/2023-aia/day11)
 * [April 13 – 👩‍💻 Run BERT NLP models locally in Excel](/2023-aia/day12)
 * [April 14 – 👩‍💻 Copilot's updated AI model](/2023-aia/day13)
