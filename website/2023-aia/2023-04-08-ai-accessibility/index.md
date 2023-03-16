@@ -20,7 +20,7 @@ description: "Learn about the 6 ways to improve accessibility with Azure AI http
 </head>
 
 - 👓 [View today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/)
-- 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- 📬 [Sign up for the Microsoft Tech News and select AI Machine Learning](https://developer.microsoft.com/en-us/Newsletter/)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
