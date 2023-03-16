@@ -2,7 +2,7 @@
 slug: "day1"
 title: "1. 🏁Kick Starting AI April!"
 authors: ['Dave']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -66,6 +66,11 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+## 📚 References
+
+
+
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

@@ -2,7 +2,7 @@
 slug: "day16"
 title: "16. 🧑🏽‍🔬Scaling Model Dev with Azure ML"
 authors: ['Bea']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -74,6 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
 
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

@@ -2,7 +2,7 @@
 slug: "day3"
 title: "3. 🏁Explore the Azure OpenAI Playground"
 authors: ['Valentina']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -71,9 +71,11 @@ Add or update a list relevant references here. These could be links to other blo
 ## 📚 References
 
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
+- [Quickstart: Get started generating text using Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/quickstart?pivots=programming-language-studio&WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
 - [Case Study: Azure OpenAI Service powers the next generation of startups](https://startups.microsoft.com/blog/azure-openai-service-for-startups?WT.mc_id=aiml-89446-dglover)
 
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

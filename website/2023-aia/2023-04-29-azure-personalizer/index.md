@@ -2,7 +2,7 @@
 slug: "day27"
 title: "27. 🏭Enhance CX with Azure Personalizer"
 authors: ['Arafat']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -75,6 +75,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Azure Cognitive Services APIs](https://azure.microsoft.com/products/cognitive-services/#api?WT.mc_id=aiml-89446-dglover)
 - [Case Study: VideoKen is improving video discovery and engagement using AI](https://startups.microsoft.com/blog/launchwithai-videoken?WT.mc_id=aiml-89446-dglover)
 
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

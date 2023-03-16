@@ -2,7 +2,7 @@
 slug: "day23"
 title: "23. 🏭Data Science for Beginners"
 authors: ['Bethany']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -71,6 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 
 - [learn Module: Understand data science for machine learning](https://learn.microsoft.com/training/paths/understand-machine-learning?WT.mc_id=aiml-89446-dglover)
 
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

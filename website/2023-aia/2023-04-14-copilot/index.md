@@ -2,7 +2,7 @@
 slug: "day13"
 title: "13. 🧑‍💻Copilot's updated AI model"
 authors: ['Shuyin']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -72,6 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 
 - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?WT.mc_id=aiml-89446-dglover)
 
+<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
