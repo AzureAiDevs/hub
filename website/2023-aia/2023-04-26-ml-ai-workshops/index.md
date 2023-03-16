@@ -19,7 +19,7 @@ description: "Learn about the Microsoft Machine Learning for Beginners Curriculu
 
 </head>
 
-- 👓 [Read today's article](https://microsoft.github.io/ML-For-Beginners/)
+- 👓 [View today's article](https://microsoft.github.io/ML-For-Beginners/)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,11 +68,11 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Learn Module: Introduction to AI technology](https://learn.microsoft.com/training/modules/introduction-to-ai-technology?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -88,7 +88,7 @@ In this curriculum, you will learn about what is sometimes called classic machin
 
 What are you waiting for? Get started today!
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://microsoft.github.io/ML-For-Beginners/).
 

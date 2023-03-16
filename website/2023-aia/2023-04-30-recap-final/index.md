@@ -66,6 +66,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Azure Personalizer Cognitive Service](https://azure.microsoft.com/products/cognitive-services/personalizer?WT.mc_id=aiml-89446-dglover)
@@ -73,7 +74,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [Azure Cognitive Services APIs](https://azure.microsoft.com/products/cognitive-services/#api?WT.mc_id=aiml-89446-dglover)
 - [Case Study: VideoKen is improving video discovery and engagement using AI](https://startups.microsoft.com/blog/launchwithai-videoken?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.

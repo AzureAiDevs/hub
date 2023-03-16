@@ -19,7 +19,7 @@ description: "Maximizing Business Results with Azure Personalizer: A Machine Lea
 
 </head>
 
-- 👓 [Read today's article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1)
+- 👓 [View today's article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,6 +68,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Azure Personalizer Cognitive Service](https://azure.microsoft.com/products/cognitive-services/personalizer?WT.mc_id=aiml-89446-dglover)
@@ -75,7 +76,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [Azure Cognitive Services APIs](https://azure.microsoft.com/products/cognitive-services/#api?WT.mc_id=aiml-89446-dglover)
 - [Case Study: VideoKen is improving video discovery and engagement using AI](https://startups.microsoft.com/blog/launchwithai-videoken?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -101,7 +101,7 @@ The [final](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-web
 
 By following the steps outlined in the workshop, developers can create a more engaging and personalized user experience that can lead to increased user satisfaction and retention.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1).
 

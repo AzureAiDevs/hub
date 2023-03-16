@@ -19,7 +19,7 @@ description: "Accelerating MLOps with the v2 Solution Accelerator https://azurea
 
 </head>
 
-- 👓 [Read today's article](https://github.com/Azure/mlops-v2)
+- 👓 [View today's article](https://github.com/Azure/mlops-v2)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -70,13 +70,13 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Machine learning operations (MLOps)](https://azure.microsoft.com/products/machine-learning/mlops/#features?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/training/paths/introduction-machine-learn-operations?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Start the machine learning lifecycle with MLOps](https://learn.microsoft.com/training/modules/start-ml-lifecycle-mlops?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -96,7 +96,7 @@ The solution accelerator provides a modular end-to-end approach based on pattern
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5yPDkWCMmtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://github.com/Azure/mlops-v2).
 

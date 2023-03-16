@@ -19,7 +19,7 @@ description: "Why you should care about Responsible AI and Microsoft role https:
 
 </head>
 
-- 👓 [Read today's article](https://www.microsoft.com/ai/our-approach)
+- 👓 [View today's article](https://www.microsoft.com/ai/our-approach)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,12 +68,12 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Microsoft's approach to using AI responsibly](https://news.microsoft.com/source/features/ai/microsoft-approach-to-ai/#using-ai-responsibly?WT.mc_id=aiml-89446-dglover)
 - [Meeting the AI moment: advancing the future through responsible AI](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -88,7 +88,7 @@ Read [today's article](https://www.microsoft.com/ai/our-approach) to learn about
 Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://www.microsoft.com/ai/our-approach).
 

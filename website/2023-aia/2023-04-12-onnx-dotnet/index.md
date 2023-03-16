@@ -19,7 +19,7 @@ description: "Building Cross-Platform AI Solutions with ONNX and .NET https://az
 
 </head>
 
-- 👓 [Read today's article](https://youtu.be/h6HWP5jpA5s)
+- 👓 [View today's article](https://youtu.be/h6HWP5jpA5s)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -67,6 +67,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
@@ -74,7 +75,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [ONNX and Azure Machine Learning: Create and accelerate ML models](https://learn.microsoft.com/azure/machine-learning/concept-onnx?WT.mc_id=aiml-89446-dglover)
 - [Create a machine learning model for offline use on a Windows device](https://learn.microsoft.com/training/modules/add-machine-learning-to-uwp-app?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -88,7 +88,7 @@ Watch [today's video](https://youtu.be/h6HWP5jpA5s) about machine learning model
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/h6HWP5jpA5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://youtu.be/h6HWP5jpA5s).
 

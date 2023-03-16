@@ -19,7 +19,7 @@ description: "How to run Stable Diffusion Web UI on Azure ML compute instances h
 
 </head>
 
-- 👓 [Read today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/)
+- 👓 [View today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,13 +68,13 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azur
 e/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -90,7 +90,7 @@ You'll learn about the prerequisites required to run Stable Diffusion Web UI in 
 
 ![](image.jpeg)
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/).
 

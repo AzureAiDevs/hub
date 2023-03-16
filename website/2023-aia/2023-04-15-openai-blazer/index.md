@@ -19,7 +19,7 @@ description: "Build Interactive Web Applications with Microsoft Blazor and Azure
 
 </head>
 
-- 👓 [Read today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065)
+- 👓 [View today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,13 +68,13 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Build beautiful, web apps with Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -86,7 +86,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 Read [today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065) about Blazor, a new web framework for building single-page applications (SPAs) using .NET and C#. It allows developers to create client-side web applications with the same language and tools used to build server-side applications. You'll also find an extensive library of code samples and demos. These code samples will provide you with practical examples of how to use Blazor and Azure OpenAI to build real-world applications.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
 

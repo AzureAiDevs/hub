@@ -19,7 +19,7 @@ description: "Building a Patient Registration Web App with Azure Form Recognizer
 
 </head>
 
-- 👓 [Read today's article](https://newpatiente2e.github.io/docs/)
+- 👓 [View today's article](https://newpatiente2e.github.io/docs/)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -67,6 +67,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Learn Module: Azure Form Recognizer Service](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-form-recognizer&WT.mc_id=aiml-89446-dglover)
@@ -74,7 +75,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case Study: Powering Speech-to-Text AI that iterates at the speed of business](https://startups.microsoft.com/blog/powering-speech-to-text-ai?WT.mc_id=aiml-89446-dglover)
 - [Case study: Duolingo makes learning language fun with help from AI](https://startups.microsoft.com/blog/duolingo-makes-learning-language-fun-with-help-from-ai?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -88,7 +88,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ![](image.png)
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://newpatiente2e.github.io/docs/).
 

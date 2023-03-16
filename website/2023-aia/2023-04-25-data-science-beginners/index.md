@@ -19,7 +19,7 @@ description: "Foundations of Data Science: Workshops for Beginners https://azure
 
 </head>
 
-- 👓 [Read today's article](https://microsoft.github.io/Data-Science-For-Beginners)
+- 👓 [View today's article](https://microsoft.github.io/Data-Science-For-Beginners)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -67,11 +67,11 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [learn Module: Understand data science for machine learning](https://learn.microsoft.com/training/paths/understand-machine-learning?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -85,7 +85,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 The course covers basic principles of data science, including ethical concepts, data preparation, data visualization, data analysis, real-world use cases of data science, and more.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 

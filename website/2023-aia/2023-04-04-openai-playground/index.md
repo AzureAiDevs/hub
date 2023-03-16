@@ -19,7 +19,7 @@ description: "Explore Conversational AI with the Azure OpenAI Service Playground
 
 </head>
 
-- 👓 [Read today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
+- 👓 [View today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,6 +68,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service?WT.mc_id=aiml-89446-dglover)
@@ -75,7 +76,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/training/modules/explore-azure-openai?WT.mc_id=aiml-89446-dglover)
 - [Case Study: Azure OpenAI Service powers the next generation of startups](https://startups.microsoft.com/blog/azure-openai-service-for-startups?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -89,7 +89,7 @@ Read [today's article](https://medium.com/microsoftazure/azure-openai-playground
 
 Learn about the three main categories of models offered by OpenAI: GPT-3, Codex, and Embeddings, and the different models available within each category. You'll learn how to tune hyperparameters to tailor the models to specific use cases, and how to consume the models using OpenAI's APIs.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562).
 

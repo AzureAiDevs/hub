@@ -19,7 +19,7 @@ description: "Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://
 
 </head>
 
-- 👓 [Read today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html)
+- 👓 [View today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -67,11 +67,11 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -85,7 +85,7 @@ Read [today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-ber
 
 The tasks in this example will show you how to perform the natural language processing tasks of sentiment analysis and question and answering all locally within a spreadsheet.  [Today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html) provides step-by-step instructions and code examples to help readers follow along in building the add-in.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html).
 

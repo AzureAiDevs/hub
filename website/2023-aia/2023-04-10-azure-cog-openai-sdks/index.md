@@ -19,7 +19,7 @@ description: "Building intelligent apps? Then explore the Azure AI Hub for OpenA
 
 </head>
 
-- 👓 [Read today's article](https://github.com/Azure-Samples/azure-ai)
+- 👓 [View today's article](https://github.com/Azure-Samples/azure-ai)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -70,6 +70,7 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Learn Module: Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=aiml-89446-dglover)
@@ -77,7 +78,6 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case Study: CarMax uses car research tools powered by Azure OpenAI Service](https://customers.microsoft.com/en-us/story/1501304071775762777-carmax-retailer-azure-openai-service&WT.mc_id=aiml-89446-dglover)
 - [Case Study: Captioning and Call Center Transcription using Speech AI](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -91,7 +91,7 @@ Read [today's article](https://github.com/Azure-Samples/azure-ai) to learn about
 
 The repo includes sample code in different programming languages, as well as a forum for developers to communicate directly with Microsoft product teams and other developers using Azure AI. The sample code covers topics like OpenAI, Speech, Language, Applied AI/Decision, and more. The platform welcomes contributions, feedback, and suggestions from the developer community.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://github.com/Azure-Samples/azure-ai).
 

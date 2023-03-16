@@ -19,7 +19,7 @@ description: "Azure ML Managed Online Endpoints - A Quickstart https://azureaide
 
 </head>
 
-- 👓 [Read today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/)
+- 👓 [View today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/)
 - 📬 [Sign up for the Microsoft AI and Machine Learning Newsletter](https://aka.ms/azure-ai-dev-newsletter)
 <!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -68,12 +68,12 @@ Add or update a list relevant references here. These could be links to other blo
 -->
 
 
+
 ## 📚 References
 
 - [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
 
-<!--  -->
 
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
@@ -87,7 +87,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 Step-by-step instructions are provided for for deploying an online endpoint that translates API inputs to something a machine learning model can handle, invokes the model, and returns formatted results.
 
-## 👓 Read today's article
+## 👓 View today's article
 
 Today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 
