@@ -10,7 +10,7 @@ keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-L
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png"
-description: "Join us for #30DaysOfAzureAI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 #30DaysOfAzureAI #AzureAiDevs #AI"
+description: "Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
 <head>  
@@ -35,7 +35,7 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Join us for #30DaysOfAzureAI learning, skilling and discussions**
+**Join us for 30 Days Of Azure AI learning, skilling and discussions**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
