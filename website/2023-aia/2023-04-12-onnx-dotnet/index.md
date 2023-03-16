@@ -2,7 +2,7 @@
 slug: "day11"
 title: "11. 🧑‍💻Cross-Platform AI with ONNX and .NET"
 authors: ['Henk', 'Bea']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3

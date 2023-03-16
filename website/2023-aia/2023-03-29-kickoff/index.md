@@ -2,7 +2,7 @@
 slug: "day1"
 title: "1. 🏁Kick Starting AI April!"
 authors: ['Dave']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
