@@ -2,7 +2,7 @@
 slug: "day10"
 title: "10. 🧑‍💻How to build your own ChatGPT"
 authors: ['Heidi']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
