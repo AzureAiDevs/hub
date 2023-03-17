@@ -29,7 +29,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 :::info Kick Off
 
-* [March 29 - 🎬 It's Azure AI April!](/2023-aia/day1)
+* [March 17 - 🎬 It's Azure AI April!](/2023-aia/day1)
 
 :::
 
