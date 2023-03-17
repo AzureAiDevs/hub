@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png"
-description: "Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
+description: "Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI #IntelligentApps"
 ---
 
 <head>  
