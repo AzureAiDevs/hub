@@ -116,8 +116,8 @@ const config = {
         links: [
 
           {
-            label: `Collection`,
-            to: 'https://aka.ms/30-days-of-azure-ai-challenge'
+            label: `Learn Collection`,
+            to: 'https://learn.microsoft.com/en-us/users/davegloverdeveloperrelations-1111/collections/m6d1b48opzgmxe?WT.mc_id=aiml-89446-dglover'
           },
           {
             label: `Azure AI`,
@@ -192,7 +192,7 @@ const config = {
       announcementBar: {
         id: 'AI April kicks off April 3, 2023!',
         content:
-          '<b> <a href="https://aka.ms/azure-ai-dev-newsletter"> Sign up to the Azure AI Developers Newsletter! </a> | Give us <a href="https://github.com/AzureAiDevs/hub"><b> a 🌟 on GitHub</b></a> </b> ',
+          '<b> <a href="https://aka.ms/azure-ai-dev-newsletter"> Sign up for the monthly Azure AI and Machine Learning Newsletter! </a> | Give us <a href="https://github.com/AzureAiDevs/hub"><b> a 🌟 on GitHub</b></a> </b> ',
         backgroundColor: '#000000', /* '#050D20',*/
         textColor: '#ffffff', /* '#4DC7B2', */
         isCloseable: false,
