@@ -1,15 +1,15 @@
 ---
-title: 30 Days Of Azure AI
+title: 30 Days of Azure AI
+image: "https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner"
+description: "📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together! #AzureAiDevs #AzureAI"
 ---
 
-# Roadmap for #30DaysOfAzureAI
-
----
+# 30 Days Of Azure AI Roadmap
 
 ## Welcome
 
-:::tip PLANNED ROADMAP
-This is the planned roadmap for #30DaysOfAzureAI, a series of daily content posts all through #AiApril. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.
+:::tip ROADMAP
+This is the roadmap for #30DaysOfAzureAI, a series of daily content posts all through #AiApril. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.
 :::
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
@@ -33,7 +33,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 :::
 
-![Kickoff](CampaignBanner.png)
+![Kickoff](../../../static/img/2023-aia/campaign_banner.png)
 
 ---
 
