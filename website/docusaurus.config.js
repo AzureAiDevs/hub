@@ -155,7 +155,7 @@ const config = {
       },
 
       // TODO: Configure to provide default OpenGraph Metadata 
-      image: 'https://azureaidevs.github.io/hub/img/azure-ai.png',
+      // image: 'https://azureaidevs.github.io/hub/img/azure-ai.png',
       description: 'Explore Azure AI Development with #30DaysOfAzureAI',
       // metadata: [
       //   { 
