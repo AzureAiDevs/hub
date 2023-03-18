@@ -12,7 +12,7 @@ import Weibo from '@site/src/components/weibo';
 
 <Twitter 
     url="https://aka.ms/30-days-ai-roadmap"
-    quote="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics."
+    title="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics. #AzureAiDevs #AzureAI"
     hashtags="AzureAiDevs,AzureAI"
 />
 <Facebook 

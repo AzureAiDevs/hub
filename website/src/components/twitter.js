@@ -2,11 +2,11 @@ import React from 'react';
 import { TwitterShareButton, TwitterIcon } from 'react-share';
 
 
-export default function Twitter({ url, quote, hashtag }) {
+export default function Twitter({ url, title, hashtag }) {
     return (
         <TwitterShareButton
             url={url}
-            quote={quote}
+            title={title}
             hashtag={[{hashtag}]}
         >
             <TwitterIcon size={32} round />
