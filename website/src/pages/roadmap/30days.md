@@ -1,6 +1,5 @@
 ---
 title: 30 Days of Azure AI Roadmap
-image: "https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner"
 description: "📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together! #AzureAiDevs #AzureAI"
 ---
 
