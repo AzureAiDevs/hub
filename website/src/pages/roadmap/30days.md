@@ -1,7 +1,37 @@
 ---
 title: 30 Days of Azure AI Roadmap
 description: "📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together! #AzureAiDevs #AzureAI"
+image: "https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
 ---
+
+import Twitter from '@site/src/components/twitter';
+import Facebook from '@site/src/components/facebook';
+import LinkedIn from '@site/src/components/linkedin';
+import Email from '@site/src/components/email';
+import Weibo from '@site/src/components/weibo';
+
+<Twitter 
+    url="https://aka.ms/30-days-ai-roadmap"
+    quote="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics."
+    hashtags="AzureAiDevs,AzureAI"
+/>
+<Facebook 
+    url="https://aka.ms/30-days-ai-roadmap"
+    quote="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together!"
+    hashtags="AzureAiDevs,AzureAI"
+/>
+<Weibo
+    url="https://aka.ms/30-days-ai-roadmap"
+    image="https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
+/>
+<Email 
+    title="30 Days of Azure AI Roadmap"
+    description="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together!"
+/>
+<LinkedIn 
+    url="https://aka.ms/30-days-ai-roadmap"
+    title="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here https://aka.ms/30-days-ai-roadmap! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics, there's something for everyone. Let's build the future of AI together!"
+/>
 
 <head>
 
