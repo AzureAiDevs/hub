@@ -192,7 +192,7 @@ const config = {
       announcementBar: {
         id: 'AI April kicks off April 3, 2023!',
         content:
-          '<b> <a href="https://aka.ms/azure-ai-dev-newsletter" target="_blank"> Sign up for the monthly Azure AI and Machine Learning Newsletter! </a> | Give us <a href="https://github.com/AzureAiDevs/hub"><b> a 🌟 on GitHub</b></a> </b> ',
+           '<div style="font-family:Arial, Helvetica, sans-serif; font-size:16px;font-weight:bold;"> 📬 Register for the monthly <a href="https://aka.ms/azure-ai-dev-newsletter" target="_blank">Azure AI and Machine Learning</a> Newsletter 📬 | Give us a 🌟 <a href="https://github.com/AzureAiDevs/hub"> on GitHub</a> 🌟</div>',
         backgroundColor: '#000000', /* '#050D20',*/
         textColor: '#ffffff', /* '#4DC7B2', */
         isCloseable: false,

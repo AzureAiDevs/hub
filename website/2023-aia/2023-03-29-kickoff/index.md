@@ -13,17 +13,6 @@ image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png"
 description: "Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 #30DaysOfAzureAI #AzureAiDevs #AI"
 ---
 
-import Social from '@site/src/components/social';
-
-<Social
-    page_url="https://aka.ms/30-days-ai-roadmap"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
-    title="30 Days of Azure AI Roadmap"
-    description="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics."
-    hashtags="AzureAiDevs,AzureAI"
-    hashtag="#30DaysOfAzureAi"
-/>
-
 <head>  
 
   <link rel="canonical" href="https://youtu.be/D7_RN5Gc-RE"  />
