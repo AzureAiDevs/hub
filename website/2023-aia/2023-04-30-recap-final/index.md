@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'MLOps', 'rai', 'CoPilot', 'Blazor']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day28.png"
-description: "Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28 #30DaysOfAzureAI #AzureAiDevs #AI"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day28.png
+description: "🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28 AzureAiDevs,AI"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/2023-aia/day28"  />
 
 </head>
 
 
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/28-continuing-your-ai-journey✨)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day28"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day28.png"
+    title="Continuing your AI Journey✨"
+    description= "🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey"
+    hashtags="AzureAiDevs,AI"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 28 of #30DaysOfAzureAI
 

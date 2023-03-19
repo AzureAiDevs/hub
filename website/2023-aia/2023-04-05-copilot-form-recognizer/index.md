@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'CoPilot', 'vscode', 'Azure-AI']
 tags: ['azure-ai', 'azure-cognitive-services', '30-days-of-azure-ai']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png"
-description: "Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 #30DaysOfAzureAI #AzureAiDevs #AI #AzureCognitiveServices #IntelligentApps"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png
+description: "🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 AzureAiDevs,AI CognitiveServices,IntelligentApps,GitHubCopilot"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813"  />
 
 </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-a-receipts-app-with-copilot)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day4"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png"
+    title="Build a receipts app with Copilot"
+    description= "🏁Day 4 of #30DaysOfAzureAI. Today, we're diving into GitHub Copilot and Azure #FormRecognizer to build a receipts app. Learn how Copilot can increase productivity."
+    hashtags="AzureAiDevs,AI,CognitiveServices,IntelligentApps,GitHubCopilot"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 4 of #30DaysOfAzureAI
 

@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png"
-description: "Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/2023-aia/day20 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png
+description: "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/2023-aia/day20 AzureAiDevs,AI AzureMLOps"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops"  />
 
 </head>
 
 - 👓 [View today's article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/20-streamline-ops-w/-azure-mlops)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day20"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png"
+    title="Streamline Ops w/ Azure MLOps"
+    description= "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps"
+    hashtags="AzureAiDevs,AI,AzureMLOps"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 20 of #30DaysOfAzureAI
 

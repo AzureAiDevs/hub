@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png"
-description: "Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics #AIforAll"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png
+description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 AzureAiDevs,AI AIEthics,AIforAll"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://www.microsoft.com/ai/our-approach"  />
 
 </head>
 
 - 👓 [View today's article](https://www.microsoft.com/ai/our-approach)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/6-the-mission-of-responsible-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day6"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png"
+    title="The Mission of Responsible AI"
+    description= "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role"
+    hashtags="AzureAiDevs,AI,AIEthics,AIforAll"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 6 of #30DaysOfAzureAI
 

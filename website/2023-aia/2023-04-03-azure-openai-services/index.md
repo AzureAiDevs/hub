@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png"
-description: "Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png
+description: "🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 AzureAiDevs,AI OpenAI"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706"  />
 
 </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day2"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png"
+    title="Unleash the power of Azure OpenAI"
+    description= "🏁Day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI! Data Scientists, ML, MLOps Engineers, or App Developers, this for you. We'll cover large-scale generative AI models, code generation, and DALL-E 2"
+    hashtags="AzureAiDevs,AI,OpenAI"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 2 of #30DaysOfAzureAI
 

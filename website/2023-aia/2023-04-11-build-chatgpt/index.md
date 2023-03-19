@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Search', 'Azure-AI']
 tags: ['ai-april', 'azure-open-ai', 'azure-cognitive-services', 'app-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
-description: "Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png
+description: "🧑‍💻Welcome to day 10 of #30DaysOfAzureAI. Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 AzureAiDevs,AI OpenAI,ChatGPT"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087?WT.mc_id=aiml-89446-dglover)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/10-how-to-build-your-own-chatgpt)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day10"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
+    title="How to build your own ChatGPT"
+    description= "🧑‍💻Day 10 of #30DaysOfAzureAI. Build your ChatGPT with the power of Azure Cognitive Search and Azure OpenAI Service! Distinguished engineer Pablo Castro will show you how to create a ChatGPT using your own data."
+    hashtags="AzureAiDevs,AI,OpenAI,ChatGPT"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 10 of #30DaysOfAzureAI
 

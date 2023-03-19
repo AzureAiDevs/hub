@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png"
-description: "Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png
+description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 AzureAiDevs,AI OpenAI"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562"  />
 
 </head>
 
 - 👓 [View today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/3-explore-the-azure-openai-playground)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day3"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png"
+    title="Explore the Azure OpenAI Playground"
+    description= "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground"
+    hashtags="AzureAiDevs,AI,OpenAI"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 3 of #30DaysOfAzureAI
 

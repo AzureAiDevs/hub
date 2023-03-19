@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png"
-description: "Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 #30DaysOfAzureAI #AzureAiDevs #AI #OpenAI #IntelligentApps"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png
+description: "🧑‍💻Welcome to day 9 of #30DaysOfAzureAI. Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 AzureAiDevs,AI OpenAI,IntelligentApps"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://github.com/Azure-Samples/azure-ai"  />
 
 </head>
 
 - 👓 [View today's article](https://github.com/Azure-Samples/azure-ai)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day9"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png"
+    title="Build intelligent apps w/ Azure AI SDKs"
+    description= "🧑‍💻Day 9 of #30DaysOfAzureAI. AI App developers don't miss out on exploring the Azure AI Hub for OpenAI and Cognitive Services SDK samples. Build intelligent apps with Azure AI Services."
+    hashtags="AzureAiDevs,AI,OpenAI,IntelligentApps"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 9 of #30DaysOfAzureAI
 

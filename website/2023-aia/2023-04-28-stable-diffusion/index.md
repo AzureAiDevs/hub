@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'StableDiffusion']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-ml', 'ml-engineers', 'app-developers', 'workshop']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png"
-description: "How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26 #30DaysOfAzureAI #AzureAiDevs #AI AzureML"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png
+description: "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26 AzureAiDevs,AI AzureML"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"  />
 
 </head>
 
 - 👓 [View today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/26-stable-diffusion-on-azure-ml)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day26"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png"
+    title="Stable Diffusion on Azure ML"
+    description= "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances"
+    hashtags="AzureAiDevs,AI,AzureML"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 26 of #30DaysOfAzureAI
 

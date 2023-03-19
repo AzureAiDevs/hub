@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Machine-Learning', 'MLOps', 'rai']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day21.png"
-description: "30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21 #30DaysOfAzureAI #AzureAiDevs #AI"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day21.png
+description: "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21 AzureAiDevs,AI"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/2023-aia/day21"  />
 
 </head>
 
 
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/21-recap-azure-ml-week✨)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day21"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day21.png"
+    title="Recap: Azure ML Week✨"
+    description= "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week"
+    hashtags="AzureAiDevs,AI"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 21 of #30DaysOfAzureAI
 

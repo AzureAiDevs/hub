@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Personalizers', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'workshop', 'azure-cognitive-services']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png"
-description: "Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27 #30DaysOfAzureAI #AzureAiDevs #AI #AzurePersonalizer"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png
+description: "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27 AzureAiDevs,AI AzurePersonalizer"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1"  />
 
 </head>
 
 - 👓 [View today's article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/27-enhance-cx-with-azure-personalizer)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day27"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png"
+    title="Enhance CX with Azure Personalizer"
+    description= "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences"
+    hashtags="AzureAiDevs,AI,AzurePersonalizer"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 27 of #30DaysOfAzureAI
 

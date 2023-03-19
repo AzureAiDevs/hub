@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'machine-learning-debugging-tools', 'responsible-ai-tools']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png"
-description: "Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19 #30DaysOfAzureAI #AzureAiDevs #AI #AIEthics #AIforAll"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png
+description: "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19 AzureAiDevs,AI AIEthics,AIforAll"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948"  />
 
 </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/19-debug-models-w/-responsible-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day19"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png"
+    title="Debug models w/ Responsible AI"
+    description= "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)"
+    hashtags="AzureAiDevs,AI,AIEthics,AIforAll"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 19 of #30DaysOfAzureAI
 

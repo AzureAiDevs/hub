@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png"
-description: "Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png
+description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16 AzureAiDevs,AI AzureML"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-command"  />
 
 </head>
 
 - 👓 [View today's article](https://bea.stollnitz.com/blog/aml-command)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/16-scaling-model-dev-with-azure-ml)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day16"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png"
+    title="Scaling Model Dev with Azure ML"
+    description= "🧑🏽‍🔬Day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!"
+    hashtags="AzureAiDevs,AI,AzureML"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 16 of #30DaysOfAzureAI
 

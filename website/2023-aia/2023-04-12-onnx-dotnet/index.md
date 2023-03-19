@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['dotnet', 'onnx', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png"
-description: "Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png
+description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNX"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://youtu.be/h6HWP5jpA5s"  />
 
 </head>
 
 - 👓 [View today's article](https://youtu.be/h6HWP5jpA5s)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/11-cross-platform-ai-with-onnx-and-.net)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day11"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png"
+    title="Cross-Platform AI with ONNX and .NET"
+    description= "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET"
+    hashtags="AzureAiDevs,AI,ONNX"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 11 of #30DaysOfAzureAI
 

@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png"
-description: "Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22 #30DaysOfAzureAI #AzureAiDevs #AI #AzureMLOps"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png
+description: "🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22 AzureAiDevs,AI AzureMLOps,MLOps"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://github.com/Azure/mlops-v2"  />
 
 </head>
 
 - 👓 [View today's article](https://github.com/Azure/mlops-v2)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/22-mlops-accelerator-explained)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day22"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png"
+    title="MLOps Accelerator Explained"
+    description= "🏭Day 22 of #30DaysOfAzureAI. We're taking MLOps to the next level with the v2 Solution Accelerator! 🤖 Learn how to supercharge your machine learning workflows with a simplified, customizable enterprise-ready approach."
+    hashtags="AzureAiDevs,AI,AzureMLOps,MLOps"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 22 of #30DaysOfAzureAI
 

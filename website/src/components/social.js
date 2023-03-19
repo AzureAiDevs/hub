@@ -48,6 +48,7 @@ export default function Social({ page_url, image_url, title, hashtags, hashtag, 
             <EmailShareButton
                 subject={title}
                 body={description}
+                url={page_url}
             >
                 <EmailIcon size={32} round />
             </EmailShareButton>

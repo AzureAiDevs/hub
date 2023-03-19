@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Accessibility-Employment', 'Accessibility-Modern-Life', 'Accessibility-Human-Connection']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'ai-for-accessibility']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png"
-description: "Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7 #30DaysOfAzureAI #AzureAiDevs #AI #Accessibility #AIforAll"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png
+description: "🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7 AzureAiDevs,AI Accessibility,AIforAll"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/"  />
 
 </head>
 
 - 👓 [View today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/7-improve-accessibility-w/-azure-ai)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day7"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png"
+    title="Improve accessibility w/ Azure AI"
+    description= "🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI"
+    hashtags="AzureAiDevs,AI,Accessibility,AIforAll"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 7 of #30DaysOfAzureAI
 

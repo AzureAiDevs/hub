@@ -6,14 +6,7 @@ image: "https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
 
 import Social from '@site/src/components/social';
 
-<Social
-    page_url="https://aka.ms/30-days-ai-roadmap"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
-    title="30 Days of Azure AI Roadmap"
-    description="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics."
-    hashtags="AzureAiDevs,AzureAI"
-    hashtag="#30DaysOfAzureAi"
-/>
+
 
 <head>
 
@@ -33,7 +26,18 @@ import Social from '@site/src/components/social';
 
 # 30 Days Of Azure AI Roadmap
 
-## Welcome
+### Please share
+
+<Social
+    page_url="https://aka.ms/30-days-ai-roadmap"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/campaign_banner.png"
+    title="30 Days of Azure AI Roadmap"
+    description="📣 Calling all #AI developers! 🤖 Our #30DaysOfAzureAI roadmap is here! Join us for a month-long journey covering #AzureOpenAI, #AzureML, #ResponsibleAI, #IntelligentApps and more. From fundamentals to advanced topics."
+    hashtags="AzureAiDevs,AzureAI"
+    hashtag="#30DaysOfAzureAi"
+/>
+
+<br/>
 
 :::tip ROADMAP
 This is the roadmap for #30DaysOfAzureAI, a series of daily content posts all through #AiApril. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.

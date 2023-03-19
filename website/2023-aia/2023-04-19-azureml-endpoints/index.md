@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day18.png"
-description: "Azure ML Managed Online Endpoints - A Quickstart https://azureaidevs.github.io/hub/2023-aia/day18 #30DaysOfAzureAI #AzureAiDevs #AI #AzureML"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day18.png
+description: "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart https://azureaidevs.github.io/hub/2023-aia/day18 AzureAiDevs,AI AzureML"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://vladiliescu.net/aml-managed-endpoints-quickstart/"  />
 
 </head>
 
 - 👓 [View today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/18-azure-ml-managed-online-endpoints)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day18"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day18.png"
+    title="Azure ML Managed Online Endpoints"
+    description= "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart"
+    hashtags="AzureAiDevs,AI,AzureML"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 18 of #30DaysOfAzureAI
 

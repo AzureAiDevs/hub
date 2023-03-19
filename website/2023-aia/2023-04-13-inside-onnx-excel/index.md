@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['onnx', 'JavaScript', 'Excel', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png"
-description: "Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 #30DaysOfAzureAI #AzureAiDevs #AI #ONNX"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png
+description: "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 AzureAiDevs,AI ONNX"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html"  />
 
 </head>
 
 - 👓 [View today's article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/12-nlp-models-in-excel-w/-onnx-runtime)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day12"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png"
+    title="NLP Models in Excel w/ ONNX Runtime"
+    description= "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks"
+    hashtags="AzureAiDevs,AI,ONNX"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 12 of #30DaysOfAzureAI
 

@@ -9,24 +9,34 @@ toc_max_heading_level: 3
 keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-cognitive-services', 'app-developers', 'workshop']
 
-image: "https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png"
-description: "Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25 #30DaysOfAzureAI #AzureAiDevs #AI #AzureFormRecognizer"
+image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png
+description: "🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25 AzureAiDevs,AI AzureFormRecognizer"
 ---
 
-<head>  
+import Social from '@site/src/components/social';
+
+<head>
 
   <link rel="canonical" href="https://newpatiente2e.github.io/docs/"  />
 
 </head>
 
 - 👓 [View today's article](https://newpatiente2e.github.io/docs/)
-- 📬 [Monthly AI and Machine Learning Microsoft Tech Newsletter](https://developer.microsoft.com/en-us/Newsletter/)
-<!-- - 📰 [Subscribe to the #30DaysOfAzureAI RSS feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml) -->
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/25-build-a-patient-registration-app)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
+### Please share
+
+<Social
+    page_url="https://azureaidevs.github.io/hub/2023-aia/day25"
+    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png"
+    title="Build a Patient Registration App"
+    description= "🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer"
+    hashtags="AzureAiDevs,AI,AzureFormRecognizer"
+    hashtag="#30DaysOfAzureAi"
+/>
 
 ## 🗓️ Day 25 of #30DaysOfAzureAI
 
