@@ -33,87 +33,87 @@ const CampaignFeatures = [
       </>
     ),
   },
-  {
-    title: 'Humans in AI Story 4',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 5',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 6',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 7',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 8',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 9',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 10',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 11',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
-  {
-    title: 'Humans in AI Story 12',
-    link: "https://www.youtube.com/embed/Z0YANisVqsM",
-    description: (
-      <>
-        Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-      </>
-    ),
-  },
+  // {
+  //   title: 'Humans in AI Story 4',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 5',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 6',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 7',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 8',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 9',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 10',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 11',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Humans in AI Story 12',
+  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
+  //   description: (
+  //     <>
+  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
+  //     </>
+  //   ),
+  // },
 ];
 
 function Feature({ title, description, link, fillColor }) {
