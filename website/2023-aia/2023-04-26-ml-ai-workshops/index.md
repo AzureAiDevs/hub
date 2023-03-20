@@ -112,15 +112,23 @@ Classical Machine Learning includes supervised and unsupervised learning. Both r
 
 Examples of supervised learning are regression analysis and classification, while unsupervised learning an example is clustering. The different models are explained below.
 
-Regression Models: The goal of regression is predicting a continuous value given several variables. For example, if you want to predict the probable height for a person of a given age, you will use linear regression, as you are seeking a numeric value. In the regression lessons, you will build a [model to determine pumpkin prices in North America](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README).
+### Regression Models
 
-Classification Models: Classification is a form of supervised learning that bears a lot in common with regression techniques. In classification, given various variables, you try and predict which category a value belongs in. For example, if you are interested in discovering whether a type of cuisine should be considered vegan or not, you are looking for a category assignment so you would use logistic regression. In the classification lessons, given a batch of ingredients you will determine which classes different Asian and Indian cusines fall into.
+The goal of regression is predicting a continuous value given several variables. For example, if you want to predict the probable height for a person of a given age, you will use linear regression, as you are seeking a numeric value. In the regression lessons, you will build a [model to determine pumpkin prices in North America](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README).
 
-Clustering Models: Clustering models help you make sense of chaos and is part of unsupervised learning. In a professional setting, clustering can be used to determine things like market segmentation, determining what age groups buy what items, for example. Another use would be anomaly detection, to detect fraud from a dataset of credit card transactions. In this lesson, you will [group Nigerian Music based on several factors including danceability, energy, speechiness and so much more](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/README). The algorithm used here is K-Means Clustering.
+### Classification Models
 
-## Introduction to Natural Language Processing and Time Series analysis.
+Classification is a form of supervised learning that bears a lot in common with regression techniques. In classification, given various variables, you try and predict which category a value belongs in. For example, if you are interested in discovering whether a type of cuisine should be considered vegan or not, you are looking for a category assignment so you would use logistic regression. In the classification lessons, given a batch of ingredients you will determine which classes different Asian and Indian cusines fall into.
+
+### Clustering Models
+
+Clustering models help you make sense of chaos and is part of unsupervised learning. In a professional setting, clustering can be used to determine things like market segmentation, determining what age groups buy what items, for example. Another use would be anomaly detection, to detect fraud from a dataset of credit card transactions. In this lesson, you will [group Nigerian Music based on several factors including danceability, energy, speechiness and so much more](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/README). The algorithm used here is K-Means Clustering.
+
+## Introduction Time Series analysis.
 
 Time Series Forecasting: Time series forecasting is a sort of 'crystal ball': based on past performance of a variable such as price, you can predict its future potential value. Using time series, you can predict trends, understand seasons, detect outliers and many more. Time series data is a list of ordered observations, unlike data that can be analyzed by linear regression. The most common one is ARIMA (Auto Regressive Integrated Moving Average), an acronym that stands for "Autoregressive Integrated Moving Average". You can read [more on time series here](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README).
+
+## Introduction to Natural Language Processing
 
 Natural Language Processing (NLP): Natural Language processing is the ability of machines to understand human-readable text. Using NLP, you can figure out sentiments, this is how people feel about a particular topic or subject and determine whether text is spam or not. In the Natural Language processing lessons, [you will build a simple bot and do sentiment analysis on hotel reviews](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README).
 
