@@ -100,7 +100,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/21-recap-azure-ml-week✨)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/21-recap-azure-ml-week✨)
 
 ## 📍 30 days roadmap
 

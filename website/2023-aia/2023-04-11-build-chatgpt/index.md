@@ -205,7 +205,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revo
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/10-how-to-build-your-own-chatgpt)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/10-how-to-build-your-own-chatgpt)
 
 ## 📍 30 days roadmap
 

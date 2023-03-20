@@ -107,7 +107,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unl
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/2-unleash-the-power-of-azure-openai)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
 
 ## 📍 30 days roadmap
 

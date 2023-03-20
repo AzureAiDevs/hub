@@ -104,7 +104,7 @@ Today's [article](https://vladiliescu.net/aml-managed-endpoints-quickstart/).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/18-azure-ml-managed-online-endpoints)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/18-azure-ml-managed-online-endpoints)
 
 ## 📍 30 days roadmap
 

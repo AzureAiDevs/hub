@@ -102,7 +102,7 @@ Today's [article](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/12-nlp-models-in-excel-w/-onnx-runtime)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/12-nlp-models-in-excel-w-onnx-runtime)
 
 ## 📍 30 days roadmap
 

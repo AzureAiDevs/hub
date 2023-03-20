@@ -108,7 +108,7 @@ Today's [article](https://github.com/Azure-Samples/azure-ai).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/9-build-intelligent-apps-w/-azure-ai-sdks)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/9-build-intelligent-apps-w-azure-ai-sdks)
 
 ## 📍 30 days roadmap
 

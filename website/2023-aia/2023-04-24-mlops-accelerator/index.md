@@ -113,7 +113,7 @@ Today's [article](https://github.com/Azure/mlops-v2).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/22-mlops-accelerator-explained)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/22-mlops-accelerator-explained)
 
 ## 📍 30 days roadmap
 

@@ -105,7 +105,7 @@ Today's [article](https://youtu.be/h6HWP5jpA5s).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/11-cross-platform-ai-with-onnx-and-.net)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/11-cross-platform-ai-with-onnx-and-.net)
 
 ## 📍 30 days roadmap
 

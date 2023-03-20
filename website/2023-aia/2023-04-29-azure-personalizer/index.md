@@ -118,7 +118,7 @@ Today's [article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bo
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/27-enhance-cx-with-azure-personalizer)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/27-enhance-cx-with-azure-personalizer)
 
 ## 📍 30 days roadmap
 

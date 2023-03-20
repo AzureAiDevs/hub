@@ -107,7 +107,7 @@ Today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-liv
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/20-streamline-ops-w/-azure-mlops)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/20-streamline-ops-w-azure-mlops)
 
 ## 📍 30 days roadmap
 

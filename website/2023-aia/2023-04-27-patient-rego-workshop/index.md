@@ -105,7 +105,7 @@ Today's [article](https://newpatiente2e.github.io/docs/).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/25-build-a-patient-registration-app)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/25-build-a-patient-registration-app)
 
 ## 📍 30 days roadmap
 

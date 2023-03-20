@@ -105,7 +105,7 @@ Today's [article](https://www.microsoft.com/ai/our-approach).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/6-the-mission-of-responsible-ai)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/6-the-mission-of-responsible-ai)
 
 ## 📍 30 days roadmap
 

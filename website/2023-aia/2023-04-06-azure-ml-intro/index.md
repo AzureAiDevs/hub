@@ -104,7 +104,7 @@ Today's [article](https://bea.stollnitz.com/blog/aml-introduction/).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/5-learn-key-azure-ml-concepts)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/5-learn-key-azure-ml-concepts)
 
 ## 📍 30 days roadmap
 

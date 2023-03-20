@@ -107,7 +107,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-b
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/4-build-a-receipts-app-with-copilot)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/4-build-a-receipts-app-with-copilot)
 
 ## 📍 30 days roadmap
 

@@ -100,7 +100,7 @@ Today's [article](https://youtu.be/D7_RN5Gc-RE).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/1-kick-starting-ai-april-keynote)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/1-kick-starting-ai-april-keynote)
 
 ## 📍 30 days roadmap
 

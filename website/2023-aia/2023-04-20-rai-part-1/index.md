@@ -102,7 +102,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blo
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/19-debug-models-w/-responsible-ai)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/19-debug-models-w-responsible-ai)
 
 ## 📍 30 days roadmap
 

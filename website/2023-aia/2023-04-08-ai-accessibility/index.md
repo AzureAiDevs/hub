@@ -106,7 +106,7 @@ Today's [article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibili
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/7-improve-accessibility-w/-azure-ai)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/7-improve-accessibility-w-azure-ai)
 
 ## 📍 30 days roadmap
 

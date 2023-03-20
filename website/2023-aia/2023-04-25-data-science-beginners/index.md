@@ -102,7 +102,7 @@ Today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/Discussions/discussions/categories/23-data-science-for-beginners)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/23-data-science-for-beginners)
 
 ## 📍 30 days roadmap
 
