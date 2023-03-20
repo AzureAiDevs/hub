@@ -104,7 +104,7 @@ The Machine Learning for Beginners Curriculum is a gentle introduction to the wo
 
 In addition to hands-on projects, the curriculum includes quizzes and a postscript on real world application of Machine Learning. In this blog, I will cover a brief overview of the different machine learning models linking them back to specific curriculum lessons for self-study.
 
-Classic Machine Learning
+## Classic Machine Learning
 
 Machine Learning is often the foundation for an AI (artificial intelligence) system and is the way we "teach" a computer model to make predictions and draw conclusions from data. It automates the process of pattern-discovery by finding meaningful insights from real-world or generated data.
 
@@ -118,13 +118,13 @@ Classification Models: Classification is a form of supervised learning that bear
 
 Clustering Models: Clustering models help you make sense of chaos and is part of unsupervised learning. In a professional setting, clustering can be used to determine things like market segmentation, determining what age groups buy what items, for example. Another use would be anomaly detection, to detect fraud from a dataset of credit card transactions. In this lesson, you will [group Nigerian Music based on several factors including danceability, energy, speechiness and so much more](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/README). The algorithm used here is K-Means Clustering.
 
-Introduction to Natural Language Processing and Time Series analysis.
+## Introduction to Natural Language Processing and Time Series analysis.
 
 Time Series Forecasting: Time series forecasting is a sort of 'crystal ball': based on past performance of a variable such as price, you can predict its future potential value. Using time series, you can predict trends, understand seasons, detect outliers and many more. Time series data is a list of ordered observations, unlike data that can be analyzed by linear regression. The most common one is ARIMA (Auto Regressive Integrated Moving Average), an acronym that stands for "Autoregressive Integrated Moving Average". You can read [more on time series here](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README).
 
 Natural Language Processing (NLP): Natural Language processing is the ability of machines to understand human-readable text. Using NLP, you can figure out sentiments, this is how people feel about a particular topic or subject and determine whether text is spam or not. In the Natural Language processing lessons, [you will build a simple bot and do sentiment analysis on hotel reviews](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README).
 
-Conclusion
+## Conclusion
 
 For a deep dive into the different models, building projects using the scikit-learn library, head over to the [Machine Learning for Beginners curriculum](https://microsoft.github.io/ML-For-Beginners/). At the end of the lessons, you will have a portfolio of various machine learning projects. Additionally, you will understand how you can implement your
 
