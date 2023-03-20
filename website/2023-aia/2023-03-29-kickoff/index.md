@@ -62,7 +62,9 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-
+- Microsoft leadership perspectives
+- ChatGPT has sparked public imagination
+- Text, coding and image models
 
 <!-- 
 - Main point 1

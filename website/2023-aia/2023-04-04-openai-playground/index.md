@@ -61,7 +61,7 @@ The following list is the main points of the post. There should be 3-4 main poin
 
 
 - Azure OpenAI Playground.
-- Custom data sets, experiment management, and model visualization.
+- Custom datasets, experiment management, and model visualization.
 - Flexible Azure OpenAI service offerings.
 
 <!-- 

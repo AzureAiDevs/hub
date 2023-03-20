@@ -65,7 +65,6 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Azure OpenAI Service.
 - Using large-scale generative AI models.
 - Code generation and reasoning over data.
-- DALL-E 2 model.
 
 <!-- 
 - Main point 1
