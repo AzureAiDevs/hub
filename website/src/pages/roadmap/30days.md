@@ -46,7 +46,7 @@ This is the roadmap for #30DaysOfAzureAI, a series of daily content posts all th
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
 
 * **🏁 Fundamentals** of Azure OpenAI, Azure ML, AI for Accessibility, and Responsible AI. This week should be of interest to everyone
-* **👩‍💻 Build intelligent apps** with Azure AI services like OpenAI and embedded ML models. This week is for app developers wanting to build intelligent apps using models or services trained by others. 
+* **👩‍💻 Build intelligent apps** with Azure AI services like OpenAI and embedded ML models. This week is for app developers wanting to build intelligent apps using models or services trained by others.
 * **🧑🏽‍🔬 Building and managing ML models** with Azure ML, MLOps and Responsible AI. This week is for Data Scientists, ML, or MLOps Engineers who build and manage ML models.
 * **🏭 Workshop** your way through beginners content for Data Scientist, AL, ML, MLOps, and two cognitive services labs. This week is for everyone.
 
@@ -151,8 +151,27 @@ _Posts will be 404 Not Found until the day of publishing._
 
 Thank you for staying the course with us. In the final two posts of this series we'll do two things:
 
-* **Look Back** - with a quick retrospective of what was covered.
-* **Look Ahead** - with resources and suggestions for how you can skill up further!
+## Monthly Newsletter
+
+If you haven't already, then register for the [Microsoft AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter).
+
+We're also publishing an [AiMonthly](/hub/ai-update) blog with the latest Azure AI and Azure AI community news. If you want to share a project or an upcoming event, please [submit it here](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content).
+
+The news will also be available via the [AiMonthly RSS feed](https://azureaidevs.github.io/hub/ai-update/rss.xml).
+
+
+## Azure AI Skills Challenge
+
+The [skills challenge](https://aka.ms/30-days-of-azure-ai-challenge) starts March 29th and is a self-guided learning experience to help you build your skills in Azure AI.
+
+You'll learn key Azure AI technologies and earn points for completing the learning modules. You'll be able to see how you rank against other participants on the leaderboard.
+
+The challenge is open to everyone, so feel free to share it with your friends and colleagues.
+
+<!-- * **Look Back** - with a quick retrospective of what was covered.
+* **Look Ahead** - with resources and suggestions for how you can skill up further! -->
+
+## Thank you
 
 We appreciate your time and attention and we hope you found this curated tour valuable. Feedback always welcome.
 
