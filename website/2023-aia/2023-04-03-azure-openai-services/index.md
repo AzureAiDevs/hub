@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706"  />
+  <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706)
+- 👓 [View today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/2-unleash-the-power-of-azure-openai)
@@ -96,13 +96,13 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Intro to Azure OpenAI Service
 
-[Today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706) eases us into the world of the Azure OpenAI Service. The large-scale generative AI models developed by OpenAI can be used in areas such as code generation and reasoning over data, while the DALL-E 2 model can create images from a written description. The service also offers the Codex model, which is capable of generating code from natural language. 
+[Today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover) eases us into the world of the Azure OpenAI Service. The large-scale generative AI models developed by OpenAI can be used in areas such as code generation and reasoning over data, while the DALL-E 2 model can create images from a written description. The service also offers the Codex model, which is capable of generating code from natural language. 
 
 The service is available in the Azure Marketplace and can be deployed to Microsoft's Azure cloud with features such as security, compliance and regional availability. 
 
 ## 👓 View today's article
 
-Today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706).
+Today's [article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?

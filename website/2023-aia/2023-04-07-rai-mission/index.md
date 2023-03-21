@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://www.microsoft.com/ai/our-approach"  />
+  <link rel="canonical" href="https://www.microsoft.com/ai/our-approach?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://www.microsoft.com/ai/our-approach)
+- 👓 [View today's article](https://www.microsoft.com/ai/our-approach?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/6-the-mission-of-responsible-ai)
@@ -93,14 +93,14 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Why Responsible AI is so important
 
-Read [today's article](https://www.microsoft.com/ai/our-approach) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
+Read [today's article](https://www.microsoft.com/ai/our-approach?WT.mc_id=aiml-89446-dglover) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
 
 Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
 
 ## 👓 View today's article
 
-Today's [article](https://www.microsoft.com/ai/our-approach).
+Today's [article](https://www.microsoft.com/ai/our-approach?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?

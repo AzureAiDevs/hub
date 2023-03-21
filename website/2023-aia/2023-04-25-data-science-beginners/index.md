@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://microsoft.github.io/Data-Science-For-Beginners"  />
+  <link rel="canonical" href="https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://microsoft.github.io/Data-Science-For-Beginners)
+- 👓 [View today's article](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/23-data-science-for-beginners)
@@ -91,7 +91,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Introducing Data Science for Beginners
 
-[Today's article](https://microsoft.github.io/Data-Science-For-Beginners) introduces the free Microsoft Data Science for Beginners, a 10-week, 20-lesson course, which includes pre-lesson and post-lesson quizzes, written instructions to complete each lesson, a solution, and an assignment. The course is designed for beginners and assumes no prior knowledge of data science.
+[Today's article](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover) introduces the free Microsoft Data Science for Beginners, a 10-week, 20-lesson course, which includes pre-lesson and post-lesson quizzes, written instructions to complete each lesson, a solution, and an assignment. The course is designed for beginners and assumes no prior knowledge of data science.
 
 The course covers basic principles of data science, including ethical concepts, data preparation, data visualization, data analysis, real-world use cases of data science, and more.
 
@@ -123,11 +123,11 @@ After analyzing your data and you might want to share your findings with the wor
 
 ## Conclusion
 
-For a deep dive into the different Data Science concepts, building hands-on-projects, head over to the [Data Science for Beginners curriculum](https://microsoft.github.io/Data-Science-For-Beginners). At the end of the lessons, you will understand how you can clean, prepare, and visualize your data ready for modelling. In tomorrow’s article, we cover Machine Learning, which covers the next step after understanding your data.
+For a deep dive into the different Data Science concepts, building hands-on-projects, head over to the [Data Science for Beginners curriculum](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover). At the end of the lessons, you will understand how you can clean, prepare, and visualize your data ready for modelling. In tomorrow’s article, we cover Machine Learning, which covers the next step after understanding your data.
 
 ## 👓 View today's article
 
-Today's [article](https://microsoft.github.io/Data-Science-For-Beginners).
+Today's [article](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?

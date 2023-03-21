@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://microsoft.github.io/ML-For-Beginners/"  />
+  <link rel="canonical" href="https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://microsoft.github.io/ML-For-Beginners/)
+- 👓 [View today's article](https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/24-machine-learning-for-beginners)
@@ -92,7 +92,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Get started with Machine Learning for Beginners
 
-[Today's article](https://microsoft.github.io/ML-For-Beginners/) is about the Microsoft Machine Learning for Beginners curriculum, a free 12-week, 26-lesson curriculum all about Machine Learning.
+[Today's article](https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover) is about the Microsoft Machine Learning for Beginners curriculum, a free 12-week, 26-lesson curriculum all about Machine Learning.
 
 In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in the [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/) curriculum. Pair these lessons with our [Data Science for Beginners](https://microsoft.github.io/ML-For-Beginners/) curriculum, as well!
 
@@ -134,11 +134,11 @@ Natural Language Processing (NLP): Natural Language processing is the ability of
 
 ## Conclusion
 
-For a deep dive into the different models, building projects using the scikit-learn library, head over to the [Machine Learning for Beginners curriculum](https://microsoft.github.io/ML-For-Beginners/). At the end of the lessons, you will have a portfolio of various machine learning projects. Additionally, you will understand how you can implement your
+For a deep dive into the different models, building projects using the scikit-learn library, head over to the [Machine Learning for Beginners curriculum](https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover). At the end of the lessons, you will have a portfolio of various machine learning projects. Additionally, you will understand how you can implement your
 
 ## 👓 View today's article
 
-Today's [article](https://microsoft.github.io/ML-For-Beginners/).
+Today's [article](https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?

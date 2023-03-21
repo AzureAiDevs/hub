@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops"  />
+  <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops)
+- 👓 [View today's article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/20-streamline-ops-w-azure-mlops)
@@ -94,7 +94,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Learn Live MLOps to streamline the ML Lifecycle
 
-[Watch today's video](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops) about MLOps for the ML Lifecycle. The presenters, Cassie and Korey, start with an overview of MLOps, explaining that it is a set of practices and tools that help data scientists and developers work together to build and deploy machine learning models.
+[Watch today's video](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover) about MLOps for the ML Lifecycle. The presenters, Cassie and Korey, start with an overview of MLOps, explaining that it is a set of practices and tools that help data scientists and developers work together to build and deploy machine learning models.
 
 Cassie and Korey discuss the benefits of MLOps, including faster time to value, improved collaboration, and increased model quality. They also discuss the challenges of MLOps, including the need for a common language, the need for a common platform, and the need for a common process.
 
@@ -102,7 +102,7 @@ Cassie and Korey discuss the benefits of MLOps, including faster time to value, 
 
 ## 👓 View today's article
 
-Today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops).
+Today's [article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?

@@ -17,11 +17,11 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/"  />
+  <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover"  />
 
 </head>
 
-- 👓 [View today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/)
+- 👓 [View today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/7-improve-accessibility-w-azure-ai)
@@ -91,17 +91,17 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 6 ways to improve accessibility with Azure AI
 
-<!-- Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) -->
+<!-- Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover) -->
 
 There are over one billion people living with disabilities, and many face barriers to employment, education, and societal inclusion.
 
-Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/) to learn about [Microsoft's five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
+Read [today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover) to learn about [Microsoft's five-year initiative](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace) aimed at improving the accessibility of technology and creating opportunities for people with disabilities. 
 
 The initiative focuses on three priorities: developing more accessible technology, using this technology to create job opportunities for people with disabilities, and building a more inclusive workplace. 
 
 ## 👓 View today's article
 
-Today's [article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/).
+Today's [article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?
