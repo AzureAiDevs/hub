@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI', 'Cognitive
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'azure-open-ai', 'azure-cognitive-services']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png
-description: "🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15 AzureAiDevs,AI"
+description: "🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15"
 ---
 
 import Social from '@site/src/components/social';

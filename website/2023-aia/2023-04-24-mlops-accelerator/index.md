@@ -10,7 +10,7 @@ keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png
-description: "🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22 AzureAiDevs,AI AzureMLOps,MLOps"
+description: "🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22"
 ---
 
 import Social from '@site/src/components/social';

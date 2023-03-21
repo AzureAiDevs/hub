@@ -10,7 +10,7 @@ keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-cognitive-services', 'app-developers', 'workshop']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png
-description: "🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25 AzureAiDevs,AI AzureFormRecognizer"
+description: "🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25"
 ---
 
 import Social from '@site/src/components/social';

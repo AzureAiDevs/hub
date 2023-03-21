@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-ml', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day5.png
-description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/2023-aia/day5 AzureAiDevs,AI AzureML"
+description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/2023-aia/day5"
 ---
 
 import Social from '@site/src/components/social';

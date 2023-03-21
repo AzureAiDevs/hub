@@ -10,7 +10,7 @@ keywords: ['Personalizers', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'workshop', 'azure-cognitive-services']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png
-description: "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27 AzureAiDevs,AI AzurePersonalizer"
+description: "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27"
 ---
 
 import Social from '@site/src/components/social';

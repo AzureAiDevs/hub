@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI', 'rai-privacy-security', 'rai-fairness
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'machine-learning-debugging-tools', 'responsible-ai-tools']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png
-description: "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19 AzureAiDevs,AI AIEthics,AIforAll"
+description: "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19"
 ---
 
 import Social from '@site/src/components/social';

@@ -10,7 +10,7 @@ keywords: ['rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-acco
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png
-description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 AzureAiDevs,AI AIEthics,AIforAll,ResponsibleAI"
+description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6"
 ---
 
 import Social from '@site/src/components/social';

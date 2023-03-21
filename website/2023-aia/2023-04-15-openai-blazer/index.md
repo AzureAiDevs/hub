@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Blazor', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot', 'open-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png
-description: "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14 AzureAiDevs,AI AzureOpenAI,Blazor,IntelligentApps"
+description: "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14"
 ---
 
 import Social from '@site/src/components/social';

@@ -10,7 +10,7 @@ keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'CoPilot', 'vscode',
 tags: ['azure-ai', 'azure-cognitive-services', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png
-description: "🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 AzureAiDevs,AI CognitiveServices,IntelligentApps,GitHubCopilot"
+description: "🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4"
 ---
 
 import Social from '@site/src/components/social';

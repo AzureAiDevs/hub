@@ -10,7 +10,7 @@ keywords: ['Accessibility-Employment', 'Accessibility-Modern-Life', 'Accessibili
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'ai-for-accessibility']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png
-description: "🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7 AzureAiDevs,AI Accessibility,AIforAll"
+description: "🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7"
 ---
 
 import Social from '@site/src/components/social';

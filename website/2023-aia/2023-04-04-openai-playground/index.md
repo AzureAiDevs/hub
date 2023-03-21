@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png
-description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 AzureAiDevs,AI AzureOpenAI,ConversationalAI"
+description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3"
 ---
 
 import Social from '@site/src/components/social';

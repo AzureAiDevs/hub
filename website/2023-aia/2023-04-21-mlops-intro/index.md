@@ -10,7 +10,7 @@ keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png
-description: "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/2023-aia/day20 AzureAiDevs,AI AzureMLOps"
+description: "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps https://azureaidevs.github.io/hub/2023-aia/day20"
 ---
 
 import Social from '@site/src/components/social';

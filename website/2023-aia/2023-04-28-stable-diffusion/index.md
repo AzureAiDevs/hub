@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI', 'StableDiffusion']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-ml', 'ml-engineers', 'app-developers', 'workshop']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png
-description: "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26 AzureAiDevs,AI AzureML"
+description: "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26"
 ---
 
 import Social from '@site/src/components/social';

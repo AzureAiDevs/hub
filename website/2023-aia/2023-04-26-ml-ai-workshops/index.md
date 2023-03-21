@@ -10,7 +10,7 @@ keywords: ['ml-for-beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day24.png
-description: "🏭Welcome to day 24 of #30DaysOfAzureAI. Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/2023-aia/day24 AzureAiDevs,AI MachineLearning"
+description: "🏭Welcome to day 24 of #30DaysOfAzureAI. Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/2023-aia/day24"
 ---
 
 import Social from '@site/src/components/social';

@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day18.png
-description: "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart https://azureaidevs.github.io/hub/2023-aia/day18 AzureAiDevs,AI AzureML"
+description: "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart https://azureaidevs.github.io/hub/2023-aia/day18"
 ---
 
 import Social from '@site/src/components/social';

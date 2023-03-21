@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png
-description: "🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 AzureAiDevs,AI AzureOpenAI"
+description: "🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2"
 ---
 
 import Social from '@site/src/components/social';

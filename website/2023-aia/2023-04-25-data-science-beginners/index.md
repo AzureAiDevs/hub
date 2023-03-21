@@ -10,7 +10,7 @@ keywords: ['Data_Science_Beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png
-description: "🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/2023-aia/day23 AzureAiDevs,AI DataScience"
+description: "🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/2023-aia/day23"
 ---
 
 import Social from '@site/src/components/social';

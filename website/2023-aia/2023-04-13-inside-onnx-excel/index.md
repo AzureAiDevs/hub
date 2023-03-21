@@ -10,7 +10,7 @@ keywords: ['onnx', 'JavaScript', 'Excel', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png
-description: "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 AzureAiDevs,AI ONNX"
+description: "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12"
 ---
 
 import Social from '@site/src/components/social';

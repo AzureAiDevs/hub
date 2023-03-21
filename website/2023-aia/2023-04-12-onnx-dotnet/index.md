@@ -10,7 +10,7 @@ keywords: ['dotnet', 'onnx', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png
-description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNX,dotnet"
+description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11"
 ---
 
 import Social from '@site/src/components/social';

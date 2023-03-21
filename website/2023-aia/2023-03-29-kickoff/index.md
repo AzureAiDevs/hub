@@ -10,7 +10,7 @@ keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-L
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png
-description: "🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 AzureAiDevs,AI AzureOpenAI"
+description: "🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1"
 ---
 
 import Social from '@site/src/components/social';
