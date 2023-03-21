@@ -2,7 +2,7 @@
 slug: "day28"
 title: "28. 🏭Continuing your AI Journey✨"
 authors: ['Dave', 'Meer', 'Valentina', 'Ruth', 'Bea', 'Henk', 'Arun', 'Heidi', 'Cassie', 'Shuyin', 'Michael', 'Vlad', 'Setu', 'Bethany', 'Arafat']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3

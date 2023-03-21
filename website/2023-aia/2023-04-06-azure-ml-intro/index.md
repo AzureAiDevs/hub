@@ -2,7 +2,7 @@
 slug: "day5"
 title: "5. 🏁Learn key Azure ML Concepts"
 authors: ['Bea']
-draft: false
+draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
