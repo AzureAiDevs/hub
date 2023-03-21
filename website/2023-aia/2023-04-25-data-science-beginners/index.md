@@ -37,7 +37,7 @@ import Social from '@site/src/components/social';
 - 👓 [View today's article](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
-- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/23-data-science-for-beginners)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-workshop)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ### Please share
@@ -145,7 +145,7 @@ Today's [article](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_i
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/23-data-science-for-beginners)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-workshop)
 
 ## 📍 30 days roadmap
 

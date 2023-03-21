@@ -37,7 +37,7 @@ import Social from '@site/src/components/social';
 - 👓 [View today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
-- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/3-explore-the-azure-openai-playground)
+- 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
 - 💡 [Suggest a topic for a future post](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content)
 
 ### Please share
@@ -119,7 +119,7 @@ Today's [article](https://medium.com/microsoftazure/azure-openai-playground-279f
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/3-explore-the-azure-openai-playground)
+[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
 
 ## 📍 30 days roadmap
 
