@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day10" />
+  <meta name="twitter:title" content="How to build your own ChatGPT" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 10 of #30DaysOfAzureAI. Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day10" />
+  <meta property="og:title" content="Welcome to day 10 🧑‍💻How to build your own ChatGPT" />
+  <meta property="og:description" content="Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 AzureAiDevs,AI AzureOpenAI,ChatGPT" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087?WT.mc_id=aiml-89446-dglover"  />
 
 </head>

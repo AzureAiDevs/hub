@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day8" />
+  <meta name="twitter:title" content="Recap: Azure AI Fundamentals Week✨" />
+  <meta name="twitter:description" content="🏁Welcome to day 8 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap - Fundamentals" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day8.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day8" />
+  <meta property="og:title" content="Welcome to day 8 🏁Recap: Azure AI Fundamentals Week✨" />
+  <meta property="og:description" content="30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8 AzureAiDevs,AI " />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day8.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical"  href="https://azureaidevs.github.io/hub/2023-aia/day8"  />
 
 </head>

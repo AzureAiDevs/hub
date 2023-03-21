@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day24" />
+  <meta name="twitter:title" content="Machine Learning for Beginners" />
+  <meta name="twitter:description" content="🏭Welcome to day 24 of #30DaysOfAzureAI. Learn about the Microsoft Machine Learning for Beginners Curriculum" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day24.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day24" />
+  <meta property="og:title" content="Welcome to day 24 🏭Machine Learning for Beginners" />
+  <meta property="og:description" content="Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/2023-aia/day24 AzureAiDevs,AI MachineLearning" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day24.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-89446-dglover"  />
 
 </head>

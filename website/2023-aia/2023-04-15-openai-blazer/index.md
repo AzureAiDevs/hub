@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
+  <meta name="twitter:title" content="Blazor apps and Azure OpenAI" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
+  <meta property="og:title" content="Welcome to day 14 🧑‍💻Blazor apps and Azure OpenAI" />
+  <meta property="og:description" content="Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14 AzureAiDevs,AI AzureOpenAI,Blazor,IntelligentApps" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://blazorhelpwebsite.com/ViewBlogPost/2065"  />
 
 </head>

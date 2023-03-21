@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day4" />
+  <meta name="twitter:title" content="Build a receipts app with Copilot" />
+  <meta name="twitter:description" content="🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day4" />
+  <meta property="og:title" content="Welcome to day 4 🏁Build a receipts app with Copilot" />
+  <meta property="og:description" content="Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 AzureAiDevs,AI CognitiveServices,IntelligentApps,GitHubCopilot" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813?WT.mc_id=aiml-89446-dglover"  />
 
 </head>

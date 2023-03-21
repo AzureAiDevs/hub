@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
+  <meta name="twitter:title" content="NLP Models in Excel w/ ONNX Runtime" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
+  <meta property="og:title" content="Welcome to day 12 🧑‍💻NLP Models in Excel w/ ONNX Runtime" />
+  <meta property="og:description" content="Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 AzureAiDevs,AI ONNX" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html"  />
 
 </head>

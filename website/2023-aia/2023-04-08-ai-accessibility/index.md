@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day7" />
+  <meta name="twitter:title" content="Improve accessibility w/ Azure AI" />
+  <meta name="twitter:description" content="🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day7" />
+  <meta property="og:title" content="Welcome to day 7 🏁Improve accessibility w/ Azure AI" />
+  <meta property="og:description" content="Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7 AzureAiDevs,AI Accessibility,AIforAll" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover"  />
 
 </head>

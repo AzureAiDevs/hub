@@ -17,6 +17,19 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
+  <meta name="twitter:title" content="Scaling Model Dev with Azure ML" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
+  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
+  <meta property="og:title" content="Welcome to day 16 🧑🏽‍🔬Scaling Model Dev with Azure ML" />
+  <meta property="og:description" content="Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16 AzureAiDevs,AI AzureML" />
+  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Azure AI Developer" />
+
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-command"  />
 
 </head>
