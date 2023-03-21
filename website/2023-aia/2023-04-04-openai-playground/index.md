@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png
-description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 AzureAiDevs,AI OpenAI"
+description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3 AzureAiDevs,AI AzureOpenAI,ConversationalAI"
 ---
 
 import Social from '@site/src/components/social';
@@ -33,8 +33,8 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day3"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day3.png"
     title="Explore the Azure OpenAI Playground"
-    description= "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground"
-    hashtags="AzureAiDevs,AI,OpenAI"
+    description= "🏁Day 3 of #30DaysOfAzureAI. Ready to dive into the world of conversational AI? Join us today as we explore the Azure OpenAI Service Playground! From custom datasets to model visualization."
+    hashtags="AzureAiDevs,AI,AzureOpenAI,ConversationalAI"
     hashtag="#30DaysOfAzureAi"
 />
 

@@ -10,7 +10,7 @@ keywords: ['Copilot', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png
-description: "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/2023-aia/day13 AzureAiDevs,AI GitHubCopilot"
+description: "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/2023-aia/day13 AzureAiDevs,AI GitHubCopilot,IntelligentCoding,CodeSynthesis"
 ---
 
 import Social from '@site/src/components/social';
@@ -33,8 +33,8 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day13"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png"
     title="Copilot's updated AI model"
-    description= "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code"
-    hashtags="AzureAiDevs,AI,GitHubCopilot"
+    description= "🧑‍💻Day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
+    hashtags="AzureAiDevs,AI,GitHubCopilot,IntelligentCoding,CodeSynthesis"
     hashtag="#30DaysOfAzureAi"
 />
 

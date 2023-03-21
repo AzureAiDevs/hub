@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day26"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png"
     title="Stable Diffusion on Azure ML"
-    description= "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances"
+    description= "🏭Day 26 of #30DaysOfAzureAI. Ready to explore Stable Diffusion's image generative model on Azure ML? Learn how to install and configure the web UI on GPU compute instances, and improve performance and security with our tips and tricks."
     hashtags="AzureAiDevs,AI,AzureML"
     hashtag="#30DaysOfAzureAi"
 />

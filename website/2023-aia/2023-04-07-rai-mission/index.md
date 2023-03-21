@@ -10,7 +10,7 @@ keywords: ['rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-acco
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png
-description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 AzureAiDevs,AI AIEthics,AIforAll"
+description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 AzureAiDevs,AI AIEthics,AIforAll,ResponsibleAI"
 ---
 
 import Social from '@site/src/components/social';
@@ -33,8 +33,8 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day6"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png"
     title="The Mission of Responsible AI"
-    description= "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role"
-    hashtags="AzureAiDevs,AI,AIEthics,AIforAll"
+    description= "🏁Day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters and how Microsoft is leading the charge. Learn about the principles guiding Microsoft's approach to AI and how it's investing in a future that's beneficial for all."
+    hashtags="AzureAiDevs,AI,AIEthics,AIforAll,ResponsibleAI"
     hashtag="#30DaysOfAzureAi"
 />
 

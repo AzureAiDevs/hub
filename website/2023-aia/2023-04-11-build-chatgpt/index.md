@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Cognitive-Search', 'Azure-AI']
 tags: ['ai-april', 'azure-open-ai', 'azure-cognitive-services', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png
-description: "🧑‍💻Welcome to day 10 of #30DaysOfAzureAI. Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 AzureAiDevs,AI OpenAI,ChatGPT"
+description: "🧑‍💻Welcome to day 10 of #30DaysOfAzureAI. Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service https://azureaidevs.github.io/hub/2023-aia/day10 AzureAiDevs,AI AzureOpenAI,ChatGPT"
 ---
 
 import Social from '@site/src/components/social';
@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
     title="How to build your own ChatGPT"
     description= "🧑‍💻Day 10 of #30DaysOfAzureAI. Build your ChatGPT with the power of Azure Cognitive Search and Azure OpenAI Service! Distinguished engineer Pablo Castro will show you how to create a ChatGPT using your own data."
-    hashtags="AzureAiDevs,AI,OpenAI,ChatGPT"
+    hashtags="AzureAiDevs,AI,AzureOpenAI,ChatGPT"
     hashtag="#30DaysOfAzureAi"
 />
 

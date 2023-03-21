@@ -10,7 +10,7 @@ keywords: ['dotnet', 'onnx', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png
-description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNX"
+description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNX,dotnet"
 ---
 
 import Social from '@site/src/components/social';
@@ -33,8 +33,8 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day11"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png"
     title="Cross-Platform AI with ONNX and .NET"
-    description= "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET"
-    hashtags="AzureAiDevs,AI,ONNX"
+    description= "🧑‍💻Day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
+    hashtags="AzureAiDevs,AI,ONNX,dotnet"
     hashtag="#30DaysOfAzureAi"
 />
 

@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day27"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png"
     title="Enhance CX with Azure Personalizer"
-    description= "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences"
+    description= "🏭Day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior. Learn how to build and integrate this powerful tool to provide tailored content and actions to a large user base."
     hashtags="AzureAiDevs,AI,AzurePersonalizer"
     hashtag="#30DaysOfAzureAi"
 />

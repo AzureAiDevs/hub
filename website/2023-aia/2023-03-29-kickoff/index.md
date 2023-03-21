@@ -10,7 +10,7 @@ keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-L
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png
-description: "🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 AzureAiDevs,AI OpenAI"
+description: "🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 AzureAiDevs,AI AzureOpenAI"
 ---
 
 import Social from '@site/src/components/social';
@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png"
     title="Kick Starting AI April Keynote"
     description= "🏁Day 1 of #30DaysOfAzureAI. Today, we're excited to share the Global AI Dev Conf keynote featuring senior Azure AI leaders John Montgomery and Bob Breynaert. Let's get started!"
-    hashtags="AzureAiDevs,AI,OpenAI"
+    hashtags="AzureAiDevs,AI,AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
 

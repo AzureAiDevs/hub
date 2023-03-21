@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day19"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png"
     title="Debug models w/ Responsible AI"
-    description= "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)"
+    description= "🧑🏽‍🔬Day 19 of #30DaysOfAzureAI. Unlock the power of Responsible AI with the RAI Dashboard, a suite of open-source tools for model debugging, fairness assessment, and more, now available on Azure Machine Learning."
     hashtags="AzureAiDevs,AI,AIEthics,AIforAll"
     hashtag="#30DaysOfAzureAi"
 />

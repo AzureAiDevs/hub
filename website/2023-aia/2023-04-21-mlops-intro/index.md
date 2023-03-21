@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day20"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day20.png"
     title="Streamline Ops w/ Azure MLOps"
-    description= "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps"
+    description= "🧑🏽‍🔬Day 20 of #30DaysOfAzureAI. Unleash your #MachineLearning potential! Join Cassie and Korey in today's #LearnLive and discover #Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
     hashtags="AzureAiDevs,AI,AzureMLOps"
     hashtag="#30DaysOfAzureAi"
 />

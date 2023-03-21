@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png
-description: "🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 AzureAiDevs,AI OpenAI"
+description: "🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started https://azureaidevs.github.io/hub/2023-aia/day2 AzureAiDevs,AI AzureOpenAI"
 ---
 
 import Social from '@site/src/components/social';
@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day2.png"
     title="Unleash the power of Azure OpenAI"
     description= "🏁Day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI! Data Scientists, ML, MLOps Engineers, or App Developers, this for you. We'll cover large-scale generative AI models, code generation, and DALL-E 2"
-    hashtags="AzureAiDevs,AI,OpenAI"
+    hashtags="AzureAiDevs,AI,AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
 
