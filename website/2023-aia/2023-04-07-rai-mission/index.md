@@ -46,7 +46,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day6"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png"
     title="The Mission of Responsible AI"
-    description= "🏁Day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters and how Microsoft is leading the charge. Learn about the principles guiding Microsoft's approach to AI and how it's investing in a future that's beneficial for all."
+    description= "🏁Day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI."
     hashtags="AzureAiDevs,AI,AIEthics,AIforAll,ResponsibleAI"
     hashtag="#30DaysOfAzureAi"
 />
