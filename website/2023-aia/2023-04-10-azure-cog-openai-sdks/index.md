@@ -25,7 +25,7 @@ import Social from '@site/src/components/social';
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day9" />
   <meta property="og:title" content="Welcome to day 9 🧑‍💻Build intelligent apps w/ Azure AI SDKs" />
-  <meta property="og:description" content="Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 AzureAiDevs,AI AzureOpenAI,IntelligentApps" />
+  <meta property="og:description" content="Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 AzureAiDevs,AI AzureOpenAI,IntelligentApps,AzureSDK" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png"
     title="Build intelligent apps w/ Azure AI SDKs"
     description= "🧑‍💻Day 9 of #30DaysOfAzureAI. AI App developers don't miss out on exploring the Azure AI Hub for OpenAI and Cognitive Services SDK samples. Build intelligent apps with Azure AI Services."
-    hashtags="AzureAiDevs,AI,AzureOpenAI,IntelligentApps"
+    hashtags="AzureAiDevs,AI,AzureOpenAI,IntelligentApps,AzureSDK"
     hashtag="#30DaysOfAzureAi"
 />
 
