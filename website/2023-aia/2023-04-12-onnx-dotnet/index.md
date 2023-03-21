@@ -25,7 +25,7 @@ import Social from '@site/src/components/social';
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day11" />
   <meta property="og:title" content="Welcome to day 11 🧑‍💻Cross-Platform AI with ONNX and .NET" />
-  <meta property="og:description" content="Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNX,dotnet" />
+  <meta property="og:description" content="Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11 AzureAiDevs,AI ONNXRuntime,dotnet" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png"
     title="Cross-Platform AI with ONNX and .NET"
     description= "🧑‍💻Day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
-    hashtags="AzureAiDevs,AI,ONNX,dotnet"
+    hashtags="AzureAiDevs,AI,ONNXRuntime,dotnet"
     hashtag="#30DaysOfAzureAi"
 />
 

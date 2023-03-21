@@ -25,7 +25,7 @@ import Social from '@site/src/components/social';
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
   <meta property="og:title" content="Welcome to day 12 🧑‍💻NLP Models in Excel w/ ONNX Runtime" />
-  <meta property="og:description" content="Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 AzureAiDevs,AI ONNX" />
+  <meta property="og:description" content="Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12 AzureAiDevs,AI ONNXRuntime" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day12.png"
     title="NLP Models in Excel w/ ONNX Runtime"
     description= "🧑‍💻Day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime."
-    hashtags="AzureAiDevs,AI,ONNX"
+    hashtags="AzureAiDevs,AI,ONNXRuntime"
     hashtag="#30DaysOfAzureAi"
 />
 
