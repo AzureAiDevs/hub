@@ -2,7 +2,7 @@
 slug: "day24"
 title: "24. 🏭Machine Learning for Beginners"
 authors: ['Bethany']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
