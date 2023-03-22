@@ -168,8 +168,6 @@ _Posts will be 404 Not Found until the day of publishing._
 
 ![Week 4](./../../../static/img/2023-aia/30-week4.png)
 
-Thank you for staying the course with us. In the final two posts of this series we'll do two things:
-
 ## Monthly Newsletter
 
 If you haven't already, then register for the [Microsoft AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter).
