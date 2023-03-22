@@ -89,7 +89,7 @@ const config = {
        
         items: [
           {to: 'azure-ai-devs', label: '#AzureAiDevs', position: 'left'},
-          {to: '/hub/roadmap/30days', label: '#30DaysRoadmap', position: 'left'},
+          {to: '/hub/roadmap/30days', label: '#Roadmap', position: 'left'},
           // {to: 'https://aka.ms/ai-april/devplan', label: '✨ Dev Plan', position: 'left'},
           // {to: 'https://aka.ms/ai-april/vscode', label: '🧰 Extension', position: 'left'},
           // {to: 'https://learn.microsoft.com/events/learn-events/powerful-devs-2023/?WT.mc_id=javascript-82212-ninarasi', label: '🎙 #PowerfulDevs', position: 'left'},
