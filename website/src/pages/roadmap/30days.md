@@ -45,7 +45,7 @@ This is the roadmap for #30DaysOfAzureAI, a series of daily content posts all th
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
 
-* **🚀 Kick starting April AI | March 17 | Everyone** 
+* **🚀 March | Kick starting April AI | Everyone** 
 
     Learn the Microsoft perspective on the future of AI from John Montgomery, Corporate Vice President.
 
