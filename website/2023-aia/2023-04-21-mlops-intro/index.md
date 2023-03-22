@@ -84,7 +84,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 20](./../../static/img/2023-aia/banner-day20.png)
+[![Image banner for day 20](./../../static/img/2023-aia/banner-day20.png)](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

@@ -84,7 +84,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 4](./../../static/img/2023-aia/banner-day4.png)
+[![Image banner for day 4](./../../static/img/2023-aia/banner-day4.png)](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813?WT.mc_id=aiml-89446-dglover)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

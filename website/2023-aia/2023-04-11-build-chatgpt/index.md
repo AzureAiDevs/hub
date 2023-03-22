@@ -89,7 +89,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 10](./../../static/img/2023-aia/banner-day10.png)
+[![Image banner for day 10](./../../static/img/2023-aia/banner-day10.png)](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087?WT.mc_id=aiml-89446-dglover)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

@@ -84,7 +84,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 3](./../../static/img/2023-aia/banner-day3.png)
+[![Image banner for day 3](./../../static/img/2023-aia/banner-day3.png)](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

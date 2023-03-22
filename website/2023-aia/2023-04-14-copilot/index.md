@@ -84,7 +84,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 13](./../../static/img/2023-aia/banner-day13.png)
+[![Image banner for day 13](./../../static/img/2023-aia/banner-day13.png)](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

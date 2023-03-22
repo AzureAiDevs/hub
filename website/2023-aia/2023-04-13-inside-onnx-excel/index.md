@@ -83,7 +83,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 12](./../../static/img/2023-aia/banner-day12.png)
+[![Image banner for day 12](./../../static/img/2023-aia/banner-day12.png)](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.

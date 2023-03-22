@@ -83,7 +83,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-![Image banner for day 23](./../../static/img/2023-aia/banner-day23.png)
+[![Image banner for day 23](./../../static/img/2023-aia/banner-day23.png)](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover)
+
 
 <!-- README
 Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
