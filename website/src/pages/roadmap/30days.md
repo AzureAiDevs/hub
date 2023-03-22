@@ -63,7 +63,7 @@ We've organized the content into 4 themed weeks. Based on your role with the top
 
 * **🏭 April 24 | Workshops | Everyone**
     
-    The last week of April is a series of workshops and curriculum for Data Scientists, AL, ML, MLOps engineers, and AI App Developers.
+    The last week of April is a series of workshops and curricula for Data Scientists, AL, ML, MLOps engineers, and AI App Developers.
 
 ![Image showing various technologies used in low code dev](../../../static/img/azure-ai.png)
 
