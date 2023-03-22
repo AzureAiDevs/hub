@@ -73,7 +73,7 @@ We've organized the content into 4 themed weeks. Based on your role, you can cho
 
 ---
 
-## Kicking Off Azure AI Feb
+## Kicking Off Azure AI April
 
 _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wanted to share a few posts ahead of time to set the context and describe the various resources available to you!
 
