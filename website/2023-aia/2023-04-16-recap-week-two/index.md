@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day15" />
-  <meta property="og:title" content="Welcome to day 15 🧑‍💻Recap: Azure AI App Developers✨" />
-  <meta property="og:description" content="30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15 AzureAiDevs,AI " />
+  <meta property="og:title" content="Recap: Azure AI App Developers✨" />
+  <meta property="og:description" content="🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

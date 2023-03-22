@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day6" />
-  <meta property="og:title" content="Welcome to day 6 🏁The Mission of Responsible AI" />
-  <meta property="og:description" content="Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6 AzureAiDevs,AI AIEthics,AIforAll,ResponsibleAI" />
+  <meta property="og:title" content="The Mission of Responsible AI" />
+  <meta property="og:description" content="🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

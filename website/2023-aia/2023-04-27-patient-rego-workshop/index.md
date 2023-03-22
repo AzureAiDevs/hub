@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day25" />
-  <meta property="og:title" content="Welcome to day 25 🏭Build a Patient Registration App" />
-  <meta property="og:description" content="Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25 AzureAiDevs,AI AzureFormRecognizer" />
+  <meta property="og:title" content="Build a Patient Registration App" />
+  <meta property="og:description" content="🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day25.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

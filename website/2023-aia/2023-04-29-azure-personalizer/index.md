@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day27" />
-  <meta property="og:title" content="Welcome to day 27 🏭Enhance CX with Azure Personalizer" />
-  <meta property="og:description" content="Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences https://azureaidevs.github.io/hub/2023-aia/day27 AzureAiDevs,AI AzurePersonalizer" />
+  <meta property="og:title" content="Enhance CX with Azure Personalizer" />
+  <meta property="og:description" content="🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day27.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

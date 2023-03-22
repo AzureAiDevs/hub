@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day4" />
-  <meta property="og:title" content="Welcome to day 4 🏁Build a receipts app with Copilot" />
-  <meta property="og:description" content="Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day4 AzureAiDevs,AI CognitiveServices,IntelligentApps,GitHubCopilot" />
+  <meta property="og:title" content="Build a receipts app with Copilot" />
+  <meta property="og:description" content="🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

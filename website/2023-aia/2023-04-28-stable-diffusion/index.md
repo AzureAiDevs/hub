@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day26" />
-  <meta property="og:title" content="Welcome to day 26 🏭Stable Diffusion on Azure ML" />
-  <meta property="og:description" content="How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26 AzureAiDevs,AI AzureML" />
+  <meta property="og:title" content="Stable Diffusion on Azure ML" />
+  <meta property="og:description" content="🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

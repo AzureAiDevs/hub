@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day9" />
-  <meta property="og:title" content="Welcome to day 9 🧑‍💻Build intelligent apps w/ Azure AI SDKs" />
-  <meta property="og:description" content="Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples https://azureaidevs.github.io/hub/2023-aia/day9 AzureAiDevs,AI AzureOpenAI,IntelligentApps,AzureSDK" />
+  <meta property="og:title" content="Build intelligent apps w/ Azure AI SDKs" />
+  <meta property="og:description" content="🧑‍💻Welcome to day 9 of #30DaysOfAzureAI. Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day9.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />

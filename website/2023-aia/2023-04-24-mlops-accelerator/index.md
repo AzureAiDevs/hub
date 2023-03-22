@@ -24,8 +24,8 @@ import Social from '@site/src/components/social';
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day22" />
-  <meta property="og:title" content="Welcome to day 22 🏭MLOps Accelerator Explained" />
-  <meta property="og:description" content="Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22 AzureAiDevs,AI AzureMLOps,MLOps" />
+  <meta property="og:title" content="MLOps Accelerator Explained" />
+  <meta property="og:description" content="🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day22.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
