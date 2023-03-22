@@ -40,14 +40,14 @@ import Social from '@site/src/components/social';
 <br/>
 
 :::tip ROADMAP
-This is the roadmap for #30DaysOfAzureAI, a series of daily content posts throughout April. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.
+Azure AI #30DaysOfAzureAI is a series of daily posts throughout April. Hear from our experts in the product teams, cloud advocacy, community and follow along at your own pace! Where relevant, the daily posts have accompanying Open Source repositories, code samples, and other resources.
 :::
 
 :::tip CALENDAR
 Add #30DaysOfAzureAI to your calendar for all of April and follow on Twitter hashtags [#AzureAIDevs #30DaysOfAzureAI](https://twitter.com/search?q=%23AzureAIDevs%20%2330DaysOfAzureAI) and be sure to share and join the conversation.
 :::
 
-We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
+We've organized the content into 4 themed weeks. Based on your role, you can choose specific weeks or posts. If you are new to Azure AI development, we recommend you read the posts in order.
 
 * **🚀 March | Kick starting April AI | Everyone** 
 
