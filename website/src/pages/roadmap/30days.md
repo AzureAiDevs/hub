@@ -55,7 +55,7 @@ We've organized the content into 4 themed weeks. Based on your role with the top
 
 * **🏁 April 3 | Fundamentals | Everyone** 
 
-    This week explores the fundamentals of Azure AI Services like OpenAI, Azure ML, as well as AI for Accessibility, and Responsible AI.
+    This week explores the fundamentals of Azure AI Services like OpenAI, and Azure ML, as well as AI for Accessibility, and Responsible AI.
 
 * **👩‍💻 April 10 | Building intelligent apps | AI App Developers**
 
