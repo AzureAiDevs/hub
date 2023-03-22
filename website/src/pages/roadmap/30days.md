@@ -45,10 +45,25 @@ This is the roadmap for #30DaysOfAzureAI, a series of daily content posts all th
 
 We've organized the content into 4 themed weeks. Based on your role with the topic, you can choose specific weeks or posts to check out. If you are new to Azure AI development, we recommend you read the posts in order.
 
-* **🏁 Fundamentals** of Azure OpenAI, Azure ML, AI for Accessibility, and Responsible AI. This week should be of interest to everyone
-* **👩‍💻 Build intelligent apps** with Azure AI services like Azure OpenAI or with local ML models. This week is for app developers wanting to build intelligent apps using models or services trained by others.
-* **🧑🏽‍🔬 Building and managing ML models** with Azure ML, MLOps and Responsible AI. This week is for Data Scientists, ML, or MLOps Engineers who build and manage ML models.
-* **🏭 Workshop** your way through beginners content for Data Scientist, AL, ML, MLOps, and two cognitive services labs. This week is for everyone.
+* **🚀 Kick starting April AI | March 17 | Everyone** 
+
+    Learn the Microsoft perspective on the future of AI from John Montgomery, Corporate Vice President.
+
+* **🏁 Fundamentals | April 3 ~ 9 | Everyone** 
+
+    This week explores the fundamentals of Azure AI Services like OpenAI, Azure ML, as well as AI for Accessibility, and Responsible AI. This week will be of interest to everyone
+
+* **👩‍💻 Build intelligent apps | April 10 ~ 16 | AI App Developers**
+
+    This week is for developers wanting to build intelligent apps using models or services trained by others.
+
+* **🧑🏽‍🔬 Model development | April 17 ~ 23 | ML Developers** 
+
+    This week is for Data Scientists, AI, ML, or MLOps engineers building models or managing models through to production.
+
+* **🏭 Workshops | April 24 ~ 30 | Everyone.**
+    
+    The last week of April is a series of workshops and curriculum for Data Scientists, AL, ML, MLOps engineers, and AI App Developers. This week is for everyone.
 
 ![Image showing various technologies used in low code dev](../../../static/img/azure-ai.png)
 
@@ -60,7 +75,7 @@ _Welcome to our AI April kickoff!!_ The official kickoff is April 3 but we wante
 
 :::info Kick Off
 
-* [March 17 - 🎬 It's Azure AI April!](/2023-aia/day1)
+* [March 17 - 🚀 Kick starting April AI](/2023-aia/day1)
 
 :::
 

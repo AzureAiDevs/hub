@@ -1,6 +1,6 @@
 ---
 slug: "day1"
-title: "1. 🏁Kick Starting AI April Keynote"
+title: "1. 🚀Kick Starting AI April Keynote"
 authors: ['Dave']
 draft: false
 hide_table_of_contents: false
@@ -10,7 +10,7 @@ keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-L
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png
-description: "🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1"
+description: "🚀Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,12 +19,12 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day1" />
   <meta name="twitter:title" content="Kick Starting AI April Keynote" />
-  <meta name="twitter:description" content="🏁Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions" />
+  <meta name="twitter:description" content="🚀Welcome to day 1 of #30DaysOfAzureAI. Join us for 30 Days Of Azure AI learning, skilling and discussions" />
   <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day1" />
-  <meta property="og:title" content="Welcome to day 1 🏁Kick Starting AI April Keynote" />
+  <meta property="og:title" content="Welcome to day 1 🚀Kick Starting AI April Keynote" />
   <meta property="og:description" content="Join us for 30 Days Of Azure AI learning, skilling and discussions https://azureaidevs.github.io/hub/2023-aia/day1 AzureAiDevs,AI AzureOpenAI" />
   <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png" />
   <meta property="og:type" content="article" />
@@ -46,7 +46,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day1"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day1.png"
     title="Kick Starting AI April Keynote"
-    description= "🏁Day 1 of #30DaysOfAzureAI. Today, we're excited to share the Global AI Dev Conf keynote featuring senior Azure AI leaders John Montgomery and Bob Breynaert. Let's get started!"
+    description= "🚀Day 1 of #30DaysOfAzureAI. Today, we're excited to share the Global AI Dev Conf keynote featuring senior Azure AI leaders John Montgomery and Bob Breynaert. Let's get started!"
     hashtags="AzureAiDevs,AI,AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
