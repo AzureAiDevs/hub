@@ -49,21 +49,21 @@ We've organized the content into 4 themed weeks. Based on your role with the top
 
     Learn the Microsoft perspective on the future of AI from John Montgomery, Corporate Vice President.
 
-* **🏁 Week 1 | Fundamentals | Everyone** 
+* **🏁 April 3 | Fundamentals | Everyone** 
 
-    This week explores the fundamentals of Azure AI Services like OpenAI, Azure ML, as well as AI for Accessibility, and Responsible AI. This week will be of interest to everyone
+    This week explores the fundamentals of Azure AI Services like OpenAI, Azure ML, as well as AI for Accessibility, and Responsible AI.
 
-* **👩‍💻 Week 2 | Building intelligent apps | AI App Developers**
+* **👩‍💻 April 10 | Building intelligent apps | AI App Developers**
 
     This week is for developers wanting to build intelligent apps using models or services trained by others.
 
-* **🧑🏽‍🔬 Week 3 | Model development | ML Developers** 
+* **🧑🏽‍🔬 April 17 | Model development | ML Developers** 
 
     This week is for Data Scientists, AI, ML, or MLOps engineers building models or managing models through to production.
 
-* **🏭 Week 4 | Workshops | Everyone.**
+* **🏭 April 24 | Workshops | Everyone**
     
-    The last week of April is a series of workshops and curriculum for Data Scientists, AL, ML, MLOps engineers, and AI App Developers. This week is for everyone.
+    The last week of April is a series of workshops and curriculum for Data Scientists, AL, ML, MLOps engineers, and AI App Developers.
 
 ![Image showing various technologies used in low code dev](../../../static/img/azure-ai.png)
 
