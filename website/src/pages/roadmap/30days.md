@@ -184,7 +184,7 @@ The challenge is open to everyone, so feel free to share it with your friends an
 
 :::tip AZURE ACCOUNT
 
-You’ll likely need access to Azure. For students, sign up for an [Azure for Students](https://aka.ms/ai-april-azure-student-acct) free account, no credit card is required. Otherwise, create an [Azure](https://aka.ms/ai-april-azure-acct) free account.
+To complete the Azure AI Skills challenge, you’ll need access to Azure. For students, sign up for an [Azure for Students](https://aka.ms/ai-april-azure-student-acct) free account, no credit card is required. Otherwise, create an [Azure](https://aka.ms/ai-april-azure-acct) free account.
 
 :::
 
