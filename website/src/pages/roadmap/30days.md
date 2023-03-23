@@ -174,7 +174,6 @@ If you haven't already, then register for the [Microsoft AI and Machine Learning
 
 We're also publishing an [AiMonthly](/hub/ai-update) blog with the latest Azure AI and Azure AI community news. If you want to share a project or an upcoming event, please [submit it here](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content). The newsletter will also be available via the [AiMonthly RSS feed](https://azureaidevs.github.io/hub/ai-update/rss.xml).
 
-
 ## Azure AI Skills Challenge
 
 The [skills challenge](https://aka.ms/30-days-of-azure-ai-challenge) starts March 29th and is a self-guided learning experience to help you build your skills in Azure AI.
@@ -182,6 +181,12 @@ The [skills challenge](https://aka.ms/30-days-of-azure-ai-challenge) starts Marc
 You'll learn key Azure AI technologies and earn points for completing the learning modules. You'll be able to see how you rank against other participants on the leaderboard.
 
 The challenge is open to everyone, so feel free to share it with your friends and colleagues.
+
+:::tip AZURE ACCOUNT
+
+You’ll likely need access to Azure. For students, sign up for an [Azure for Students](https://aka.ms/ai-april-azure-student-acct) free account, no credit card is required. Otherwise, create an [Azure](https://aka.ms/ai-april-azure-acct) free account.
+
+:::
 
 <!-- * **Look Back** - with a quick retrospective of what was covered.
 * **Look Ahead** - with resources and suggestions for how you can skill up further! -->
