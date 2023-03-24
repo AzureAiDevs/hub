@@ -6,7 +6,7 @@ draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
-keywords: ['Accessibility-Employment', 'Accessibility-Modern-Life', 'Accessibility-Human-Connection']
+keywords: ['Accessibility-Employment', 'Accessibility-Human-Connection', 'Accessibility-Modern-Life']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'ai-for-accessibility']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png

@@ -6,7 +6,7 @@ draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
-keywords: ['rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
+keywords: ['rai-accountable', 'rai-inclusion', 'rai-transparency', 'rai-fairness', 'rai-privacy-security']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
 image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day6.png
