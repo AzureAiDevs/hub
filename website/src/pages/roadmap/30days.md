@@ -1,6 +1,6 @@
 ---
 title: 30 Days of Azure AI Roadmap
-description: "Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap"
+description: "📣 Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap"
 image: "https://azureaidevs.github.io/hub/img/2023-aia/twitter_roadmap_banner.png"
 ---
 
@@ -10,13 +10,13 @@ import Social from '@site/src/components/social';
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="30 Days of Azure AI Roadmap" />
-<meta name="twitter:description" content="Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap" />
+<meta name="twitter:description" content="📣 Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap" />
 <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/twitter_roadmap_banner.png" />
 
 
 <meta property="og:url" content="https://aka.ms/30-days-ai-roadmap" />
 <meta property="og:title" content="30 Days of Azure AI Roadmap" />
-<meta property="og:description" content="Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap" />
+<meta property="og:description" content="📣 Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level! https://aka.ms/30-days-ai-roadmap" />
 <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/twitter_roadmap_banner.png" />
 <meta property="og:type" content="article" />
 
@@ -32,7 +32,7 @@ Get ready for #30DaysOfAzureAI. Starting from today, a series of curated article
     page_url="https://aka.ms/30-days-ai-roadmap"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/twitter_roadmap_banner.png"
     title="30 Days of Azure AI Roadmap"
-    description="Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level!"
+    description="📣 Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level!"
     hashtags="AzureAI"
     hashtag="#30DaysOfAzureAi"
 />
