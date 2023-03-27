@@ -7,7 +7,7 @@ import styles from './../index.module.css';
 
 const CampaignFeatures = [
   {
-    title: 'Humans in AI Story 1',
+    title: 'Brannon Zahand',
     link: "https://www.youtube.com/embed/Z0YANisVqsM",
     description: (
       <>
@@ -16,7 +16,7 @@ const CampaignFeatures = [
     ),
   },
   {
-    title: 'Humans in AI Story 2',
+    title: 'Beatriz Stollnitz',
     link: "https://www.youtube.com/embed/2p3-Cy4OHVY",
     description: (
       <>
@@ -25,7 +25,7 @@ const CampaignFeatures = [
     ),
   },
   {
-    title: 'Humans in AI Story 3',
+    title: 'Hemant Kumar',
     link: "https://www.youtube.com/embed/3UlFEs1GX7Y",
     description: (
       <>
@@ -33,87 +33,33 @@ const CampaignFeatures = [
       </>
     ),
   },
-  // {
-  //   title: 'Humans in AI Story 4',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 5',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 6',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 7',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 8',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 9',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 10',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 11',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Humans in AI Story 12',
-  //   link: "https://www.youtube.com/embed/Z0YANisVqsM",
-  //   description: (
-  //     <>
-  //       Our guest today is Brannon Zahand, a program manager at Xbox who is using AI to create more accessible gaming experiences.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Abe Omorogbe',
+    link: "https://www.youtube.com/embed/0WON7iOIyHM",
+    description: (
+     <>
+        Our guest today is Abe Omorogbe a program manager at Microsoft working on the Azure Machine learning.
+     </>
+   ),
+  },
+  {
+    title: 'Sarah Maston',
+    link: "https://www.youtube.com/embed/aXvPtqkLiGk",
+    description: (
+     <>
+        Our guest today is Sarah Maston founder of #Project15, a project to protect wildlife using intelligent AI powered cameras.
+     </>
+   ),
+  },
+  {
+    title: 'Bala Venkataraman',
+    link: "https://www.youtube.com/embed/ZLquuAuoRbk",
+    description: (
+     <>
+        Our guest today is Bala Venkataraman a program manager at Microsoft working on the Azure Machine learning.
+     </>
+   ),
+  },  
 ];
 
 function Feature({ title, description, link, fillColor }) {
