@@ -32,7 +32,7 @@ Get ready for #30DaysOfAzureAI. Starting from today, a series of curated article
     page_url="https://aka.ms/30-days-ai-roadmap"
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/twitter_roadmap_banner.png"
     title="30 Days of Azure AI Roadmap"
-    description="Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap https://aka.ms/30-days-ai-roadmap and take your expertise to the next level!"
+    description="Calling all #AI developers! Ready to level up your skills in #AzureAI? Check out the #30DaysOfAzureAI roadmap and take your expertise to the next level!"
     hashtags="AzureAiDevs,AzureAI"
     hashtag="#30DaysOfAzureAi"
 />
