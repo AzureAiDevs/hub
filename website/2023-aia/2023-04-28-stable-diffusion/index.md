@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day26.png"
     title="Stable Diffusion on Azure ML"
     description= "🏭Day 26 of #30DaysOfAzureAI. Ready to explore Stable Diffusion's image generative model on Azure ML? Learn how to install and configure the web UI on GPU compute instances, and improve performance and security with our tips and tricks."
-    hashtags="AzureAiDevs,AI,AzureML"
+    hashtags="AI,AzureML"
     hashtag="#30DaysOfAzureAi"
 />
 

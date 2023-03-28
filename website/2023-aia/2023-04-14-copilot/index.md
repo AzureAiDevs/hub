@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png"
     title="Copilot's updated AI model"
     description= "🧑‍💻Day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
-    hashtags="AzureAiDevs,AI,GitHubCopilot,IntelligentCoding,CodeSynthesis"
+    hashtags="AI,GitHubCopilot"
     hashtag="#30DaysOfAzureAi"
 />
 

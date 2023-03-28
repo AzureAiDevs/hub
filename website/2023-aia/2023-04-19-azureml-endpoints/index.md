@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day18.png"
     title="Azure ML Managed Online Endpoints"
     description= "🧑🏽‍🔬Day 18 of #30DaysOfAzureAI. Check out Azure Machine Learning's managed online endpoints feature! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models. 🚀"
-    hashtags="AzureAiDevs,AI,AzureML"
+    hashtags="AI,AzureML"
     hashtag="#30DaysOfAzureAi"
 />
 

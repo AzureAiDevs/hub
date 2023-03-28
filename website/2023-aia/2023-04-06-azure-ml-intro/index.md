@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day5.png"
     title="Learn key Azure ML Concepts"
     description= "🏁Day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer."
-    hashtags="AzureAiDevs,AI,AzureML"
+    hashtags="AI,AzureML"
     hashtag="#30DaysOfAzureAi"
 />
 

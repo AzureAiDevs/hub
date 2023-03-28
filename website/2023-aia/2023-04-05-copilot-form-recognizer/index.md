@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day4.png"
     title="Build a receipts app with Copilot"
     description= "🏁Day 4 of #30DaysOfAzureAI. Today, we're diving into GitHub Copilot and Azure #FormRecognizer to build a receipts app. Learn how Copilot can increase productivity."
-    hashtags="AzureAiDevs,AI,CognitiveServices,IntelligentApps,GitHubCopilot"
+    hashtags="AI,IntelligentApps"
     hashtag="#30DaysOfAzureAi"
 />
 

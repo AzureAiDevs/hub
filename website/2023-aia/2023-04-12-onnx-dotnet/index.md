@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day11.png"
     title="Cross-Platform AI with ONNX and .NET"
     description= "🧑‍💻Day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
-    hashtags="AzureAiDevs,AI,ONNXRuntime,dotnet"
+    hashtags="AI,ONNXRuntime,dotnet"
     hashtag="#30DaysOfAzureAi"
 />
 

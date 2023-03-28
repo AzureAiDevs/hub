@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day7.png"
     title="Improve accessibility w/ Azure AI"
     description= "🏁Day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities."
-    hashtags="AzureAiDevs,AI,Accessibility,AIforAll"
+    hashtags="AI,Accessibility"
     hashtag="#30DaysOfAzureAi"
 />
 

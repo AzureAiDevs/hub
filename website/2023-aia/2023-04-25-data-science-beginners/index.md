@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png"
     title="Data Science for Beginners"
     description= "🏭Day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!"
-    hashtags="AzureAiDevs,AI,DataScience"
+    hashtags="AI,DataScience"
     hashtag="#30DaysOfAzureAi"
 />
 

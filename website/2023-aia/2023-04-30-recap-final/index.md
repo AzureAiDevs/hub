@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day28.png"
     title="Continuing your AI Journey✨"
     description= "🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey"
-    hashtags="AzureAiDevs,AI"
+    hashtags="AI"
     hashtag="#30DaysOfAzureAi"
 />
 

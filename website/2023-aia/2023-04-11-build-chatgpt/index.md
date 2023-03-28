@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day10.png"
     title="How to build your own ChatGPT"
     description= "🧑‍💻Day 10 of #30DaysOfAzureAI. Build your ChatGPT with the power of Azure Cognitive Search and Azure OpenAI Service! Distinguished engineer Pablo Castro will show you how to create a ChatGPT using your own data."
-    hashtags="AzureAiDevs,AI,AzureOpenAI,ChatGPT"
+    hashtags="AI,AzureOpenAI,ChatGPT"
     hashtag="#30DaysOfAzureAi"
 />
 

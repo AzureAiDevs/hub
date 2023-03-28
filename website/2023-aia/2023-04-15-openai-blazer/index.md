@@ -47,7 +47,7 @@ import Social from '@site/src/components/social';
     image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png"
     title="Blazor apps and Azure OpenAI"
     description= "🧑‍💻Day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!"
-    hashtags="AzureAiDevs,AI,AzureOpenAI,Blazor,IntelligentApps"
+    hashtags="AI,AzureOpenAI,Blazor"
     hashtag="#30DaysOfAzureAi"
 />
 
