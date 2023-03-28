@@ -30,11 +30,11 @@ import Social from '@site/src/components/social';
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
-  <link rel="canonical" href="https://youtu.be/D7_RN5Gc-RE"  />
+  <link rel="canonical"  href="https://azureaidevs.github.io/hub/2023-aia/day1"  />
 
 </head>
 
-- 👓 [View today's article](https://youtu.be/D7_RN5Gc-RE)
+
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI)
 - 🙋🏾‍♂️ [Ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
@@ -86,7 +86,8 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-[![Image banner for day 1](./../../static/img/2023-aia/banner-day1.png)](https://youtu.be/D7_RN5Gc-RE)
+
+![Image banner for day 1](./../../static/img/2023-aia/banner-day1.png)
 
 
 <!-- README
@@ -107,9 +108,6 @@ In this video, John Montgomery, Corporate Vice President of product at Microsoft
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/D7_RN5Gc-RE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 View today's article
-
-Today's [article](https://youtu.be/D7_RN5Gc-RE).
 
 
 ## 🙋🏾‍♂️ Questions?
