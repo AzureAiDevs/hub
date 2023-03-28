@@ -47,7 +47,7 @@ const CampaignFeatures = [
     link: "https://www.youtube.com/embed/aXvPtqkLiGk",
     description: (
      <>
-        Our guest today is Sarah Maston founder of #Project15, a project to protect wildlife using intelligent AI powered cameras.
+        Our guest today is Sarah Maston founder of #Project15, a project to accelerate conservation solutions that leverage devices and AI
      </>
    ),
   },
