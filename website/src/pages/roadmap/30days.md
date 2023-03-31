@@ -188,8 +188,15 @@ To complete the Azure AI Skills challenge, you’ll need access to Azure. For st
 
 :::
 
-<!-- * **Look Back** - with a quick retrospective of what was covered.
-* **Look Ahead** - with resources and suggestions for how you can skill up further! -->
+## Special thanks to the Microsoft MVPs
+
+We'd like to thank the following Microsoft MVPs for their contributions to the 30 Days of Azure AI learning journey:
+
+* [Arafat Tehsin](https://twitter.com/arafattehsin)
+* [Michael Washington](https://twitter.com/ADefWebserver)
+* [Vlad Iliescu](https://twitter.com/vladiliescu)
+
+If you are interested in becoming a Microsoft MVP, please visit the [Microsoft MVP website](https://aka.ms/ai-april-mvp-program).
 
 ## Thank you
 
