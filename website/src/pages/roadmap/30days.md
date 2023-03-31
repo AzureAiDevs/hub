@@ -196,7 +196,7 @@ We'd like to thank the following Microsoft MVPs for their contributions to the 3
 * [Michael Washington](https://twitter.com/ADefWebserver)
 * [Vlad Iliescu](https://twitter.com/vladiliescu)
 
-If you are interested in becoming a Microsoft MVP, please visit the [Microsoft MVP website](https://aka.ms/ai-april-mvp-program).
+The Microsoft MVP program recognizes exceptional community leaders who share their expertise and passion for Microsoft technologies with others. If you are interested in becoming a Microsoft MVP, please visit the [Microsoft MVP website](https://aka.ms/ai-april-mvp-program).
 
 ## Thank you
 
