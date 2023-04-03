@@ -212,4 +212,4 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revo
 
 What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
 
-[![The image is the RSS feed available icon](./../../static/img/2023-aia/rss.png) Click to subscribe](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+[![The image is the RSS feed available icon](./../../static/img/2023-aia/rss.png) Click to subscribe to the RSS XML feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
