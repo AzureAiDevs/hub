@@ -115,7 +115,7 @@ You'll learn about the prerequisites required to run Stable Diffusion Web UI in 
 
 ## Watch the Stable Diffusion session on the AI Show
 
-[![video thumbnail](how_to_draw_anything_stable_diffusion.png)](https://learn.microsoft.com/en-us/shows/ai-show/ai-show-live-how-to-draw-anything-with-azure-ai-and-stable-diffusion)
+[![video thumbnail](how_to_draw_anything_stable_diffusion.png)](https://learn.microsoft.com/en-us/shows/ai-show/ai-show-live-how-to-draw-anything-with-azure-ai-and-stable-diffusion?WT.mc_id=aiml-89446-dglover)
 
 ## 👓 View today's article
 
