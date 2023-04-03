@@ -17,16 +17,7 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day21" />
-  <meta property="og:title" content="Recap: Azure ML Week✨" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
-  <link rel="canonical"  href="https://azureaidevs.github.io/hub/2023-aia/day21"  />
-
-</head>
+  </head>
 
 
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

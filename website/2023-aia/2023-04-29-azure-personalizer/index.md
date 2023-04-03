@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day27" />
-  <meta property="og:title" content="Enhance CX with Azure Personalizer" />
-  <meta property="og:description" content="🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day27.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

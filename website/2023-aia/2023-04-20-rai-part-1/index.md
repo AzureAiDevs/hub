@@ -1,6 +1,6 @@
 ---
 slug: "day19"
-title: "19. 🧑🏽‍🔬Debug models w/ Responsible AI"
+title: "19. 🧑🏽‍🔬Debug models with Responsible AI"
 authors: ['Ruth']
 draft: true
 hide_table_of_contents: false
@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day19" />
-  <meta property="og:title" content="Debug models w/ Responsible AI" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day19.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-89446-dglover"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
@@ -40,7 +32,7 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day19"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day19.png"
-    title="Debug models w/ Responsible AI"
+    title="Debug models with Responsible AI"
     description= "🧑🏽‍🔬Day 19 of #30DaysOfAzureAI. Unlock the power of Responsible AI with the RAI Dashboard, a suite of open-source tools for model debugging, fairness assessment, and more, now available on Azure Machine Learning."
     hashtags="AI,AIforAll"
     hashtag="#30DaysOfAzureAi"

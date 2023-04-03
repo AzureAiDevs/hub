@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day2" />
-  <meta property="og:title" content="Unleash the power of Azure OpenAI" />
-  <meta property="og:description" content="🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day2.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

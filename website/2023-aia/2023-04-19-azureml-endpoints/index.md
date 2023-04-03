@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day18" />
-  <meta property="og:title" content="Azure ML Managed Online Endpoints" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day18.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://vladiliescu.net/aml-managed-endpoints-quickstart/"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://vladiliescu.net/aml-managed-endpoints-quickstart/)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

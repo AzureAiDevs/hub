@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day13" />
-  <meta property="og:title" content="Copilot's updated AI model" />
-  <meta property="og:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

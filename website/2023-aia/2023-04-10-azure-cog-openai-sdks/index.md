@@ -1,6 +1,6 @@
 ---
 slug: "day9"
-title: "9. 🧑‍💻Build intelligent apps w/ Azure AI SDKs"
+title: "9. 🧑‍💻Build intelligent apps with Azure AI SDKs"
 authors: ['Arun']
 draft: false
 hide_table_of_contents: false
@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day9" />
-  <meta property="og:title" content="Build intelligent apps w/ Azure AI SDKs" />
-  <meta property="og:description" content="🧑‍💻Welcome to day 9 of #30DaysOfAzureAI. Building intelligent apps? Then explore the Azure AI Hub for OpenAI and Cognitive Services SDK samples" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day9.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://github.com/Azure-Samples/azure-ai"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://github.com/Azure-Samples/azure-ai)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
@@ -40,9 +32,9 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day9"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day9.png"
-    title="Build intelligent apps w/ Azure AI SDKs"
+    title="Build intelligent apps with Azure AI SDKs"
     description= "🧑‍💻Day 9 of #30DaysOfAzureAI. AI App developers don't miss out on exploring the Azure AI Hub for OpenAI and Cognitive Services SDK samples. Build intelligent apps with Azure AI Services."
-    hashtags="AI,AzureOpenAI,AzureSDK"
+    hashtags="AI,AzureSDK"
     hashtag="#30DaysOfAzureAi"
 />
 

@@ -1,6 +1,6 @@
 ---
 slug: "day7"
-title: "7. 🏁Improve accessibility w/ Azure AI"
+title: "7. 🏁Improve accessibility with Azure AI"
 authors: ['Henk']
 draft: true
 hide_table_of_contents: false
@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day7" />
-  <meta property="og:title" content="Improve accessibility w/ Azure AI" />
-  <meta property="og:description" content="🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day7.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
@@ -40,7 +32,7 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day7"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day7.png"
-    title="Improve accessibility w/ Azure AI"
+    title="Improve accessibility with Azure AI"
     description= "🏁Day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities."
     hashtags="AI,Accessibility"
     hashtag="#30DaysOfAzureAi"

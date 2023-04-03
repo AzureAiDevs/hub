@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day3" />
-  <meta property="og:title" content="Explore the Azure OpenAI Playground" />
-  <meta property="og:description" content="🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

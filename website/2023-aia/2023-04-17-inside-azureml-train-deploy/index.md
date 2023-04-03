@@ -10,23 +10,15 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png
-description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16"
+description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16"
 ---
 
 import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
-  <meta property="og:title" content="Scaling Model Dev with Azure ML" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-command"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://bea.stollnitz.com/blog/aml-command)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
@@ -53,7 +45,7 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**Azure ML: Train and Deploy ML Models at Scale**
+**Train and Deploy ML Models at Scale**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.

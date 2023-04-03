@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day17" />
-  <meta property="og:title" content="Streamline Model Dev with Azure ML" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 17 of #30DaysOfAzureAI. Streamlining ML Development with Azure ML Components & Pipelines" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day17.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-pipeline/"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://bea.stollnitz.com/blog/aml-pipeline/)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

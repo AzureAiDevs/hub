@@ -1,6 +1,6 @@
 ---
 slug: "day20"
-title: "20. 🧑🏽‍🔬Streamline Ops w/ Azure MLOps"
+title: "20. 🧑🏽‍🔬Streamline Ops with Azure MLOps"
 authors: ['Cassie']
 draft: true
 hide_table_of_contents: false
@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day20" />
-  <meta property="og:title" content="Streamline Ops w/ Azure MLOps" />
-  <meta property="og:description" content="🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
@@ -40,7 +32,7 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day20"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png"
-    title="Streamline Ops w/ Azure MLOps"
+    title="Streamline Ops with Azure MLOps"
     description= "🧑🏽‍🔬Day 20 of #30DaysOfAzureAI. Unleash your #MachineLearning potential! Join Cassie and Korey in today's #LearnLive and discover #Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
     hashtags="AI,AzureMLOps"
     hashtag="#30DaysOfAzureAi"

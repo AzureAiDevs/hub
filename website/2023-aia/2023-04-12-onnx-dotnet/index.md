@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day11" />
-  <meta property="og:title" content="Cross-Platform AI with ONNX and .NET" />
-  <meta property="og:description" content="🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://youtu.be/h6HWP5jpA5s"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://youtu.be/h6HWP5jpA5s)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

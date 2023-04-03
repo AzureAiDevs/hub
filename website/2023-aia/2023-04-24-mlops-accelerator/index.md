@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day22" />
-  <meta property="og:title" content="MLOps Accelerator Explained" />
-  <meta property="og:description" content="🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://github.com/Azure/mlops-v2"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://github.com/Azure/mlops-v2)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

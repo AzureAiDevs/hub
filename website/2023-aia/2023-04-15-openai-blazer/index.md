@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
-  <meta property="og:title" content="Blazor apps and Azure OpenAI" />
-  <meta property="og:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day14.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://blazorhelpwebsite.com/ViewBlogPost/2065"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://blazorhelpwebsite.com/ViewBlogPost/2065)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)

@@ -17,16 +17,8 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day26" />
-  <meta property="og:title" content="Stable Diffusion on Azure ML" />
-  <meta property="og:description" content="🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Azure AI Developer" />
-
   <link rel="canonical" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"  />
-
-</head>
+  </head>
 
 - 👓 [View today's article](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
