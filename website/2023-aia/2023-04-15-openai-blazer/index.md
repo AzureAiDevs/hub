@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Blazor', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot', 'open-ai']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day14.png
 description: "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
   <meta name="twitter:title" content="Blazor apps and Azure OpenAI" />
   <meta name="twitter:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day14.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
   <meta property="og:title" content="Blazor apps and Azure OpenAI" />
   <meta property="og:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day14.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day14"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day14.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day14.png"
     title="Blazor apps and Azure OpenAI"
     description= "🧑‍💻Day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!"
     hashtags="AI,AzureOpenAI,Blazor"

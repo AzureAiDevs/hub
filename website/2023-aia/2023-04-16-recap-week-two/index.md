@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Cognitive-Services', 'Azure-AI', 'Cognitive-Search', 'onnx', 'dotnet', 'Blazor', 'CoPilot']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'azure-open-ai', 'azure-cognitive-services']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day15.png
 description: "🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week https://azureaidevs.github.io/hub/2023-aia/day15"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day15" />
   <meta name="twitter:title" content="Recap: Azure AI App Developers✨" />
   <meta name="twitter:description" content="🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day15.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day15" />
   <meta property="og:title" content="Recap: Azure AI App Developers✨" />
   <meta property="og:description" content="🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day15.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day15"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day15.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day15.png"
     title="Recap: Azure AI App Developers✨"
     description= "🧑‍💻Welcome to day 15 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure AI App Developers Week"
     hashtags="AI"

@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day17.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day17.png
 description: "🧑🏽‍🔬Welcome to day 17 of #30DaysOfAzureAI. Streamlining ML Development with Azure ML Components & Pipelines https://azureaidevs.github.io/hub/2023-aia/day17"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day17" />
   <meta name="twitter:title" content="Streamline Model Dev with Azure ML" />
   <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 17 of #30DaysOfAzureAI. Streamlining ML Development with Azure ML Components & Pipelines" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day17.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day17.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day17" />
   <meta property="og:title" content="Streamline Model Dev with Azure ML" />
   <meta property="og:description" content="🧑🏽‍🔬Welcome to day 17 of #30DaysOfAzureAI. Streamlining ML Development with Azure ML Components & Pipelines" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day17.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day17.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day17"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day17.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day17.png"
     title="Streamline Model Dev with Azure ML"
     description= "🧑🏽‍🔬Day 17 of #30DaysOfAzureAI. Unlock the potential of your ML projects with Azure ML Components & Pipelines. Streamline your development, boost productivity and take your hardwork to new heights. Begin with Azure ML today!"
     hashtags="AI,AzureML"

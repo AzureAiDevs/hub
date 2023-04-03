@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'rai-privacy-security', 'rai-fairness', 'rai-transparency', 'rai-accountable', 'rai-inclusion', 'rai-reliable']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'machine-learning-debugging-tools', 'responsible-ai-tools']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day19.png
 description: "🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1) https://azureaidevs.github.io/hub/2023-aia/day19"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day19" />
   <meta name="twitter:title" content="Debug models w/ Responsible AI" />
   <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day19.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day19" />
   <meta property="og:title" content="Debug models w/ Responsible AI" />
   <meta property="og:description" content="🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day19.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day19"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day19.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day19.png"
     title="Debug models w/ Responsible AI"
     description= "🧑🏽‍🔬Day 19 of #30DaysOfAzureAI. Unlock the power of Responsible AI with the RAI Dashboard, a suite of open-source tools for model debugging, fairness assessment, and more, now available on Azure Machine Learning."
     hashtags="AI,AIforAll"

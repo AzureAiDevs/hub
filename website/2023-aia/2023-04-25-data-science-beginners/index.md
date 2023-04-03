@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Data_Science_Beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day23.png
 description: "🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/2023-aia/day23"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day23" />
   <meta name="twitter:title" content="Data Science for Beginners" />
   <meta name="twitter:description" content="🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day23.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day23" />
   <meta property="og:title" content="Data Science for Beginners" />
   <meta property="og:description" content="🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day23.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day23"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day23.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day23.png"
     title="Data Science for Beginners"
     description= "🏭Day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!"
     hashtags="AI,DataScience"

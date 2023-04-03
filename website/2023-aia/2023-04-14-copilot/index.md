@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Copilot', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day13.png
 description: "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/2023-aia/day13"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day13" />
   <meta name="twitter:title" content="Copilot's updated AI model" />
   <meta name="twitter:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day13.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day13" />
   <meta property="og:title" content="Copilot's updated AI model" />
   <meta property="og:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day13.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day13"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day13.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day13.png"
     title="Copilot's updated AI model"
     description= "🧑‍💻Day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
     hashtags="AI,GitHubCopilot"

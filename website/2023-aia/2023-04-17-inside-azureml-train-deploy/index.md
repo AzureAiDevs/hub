@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
-image: https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png
+image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day16.png
 description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
   <meta name="twitter:title" content="Scaling Model Dev with Azure ML" />
   <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
-  <meta name="twitter:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png" />
+  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day16.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
   <meta property="og:title" content="Scaling Model Dev with Azure ML" />
   <meta property="og:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
-  <meta property="og:image" content="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png" />
+  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day16.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day16"
-    image_url="https://azureaidevs.github.io/hub/img/2023-aia/banner-day16.png"
+    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day16.png"
     title="Scaling Model Dev with Azure ML"
     description= "🧑🏽‍🔬Day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!"
     hashtags="AI,AzureML"
