@@ -113,7 +113,9 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 You'll learn about the prerequisites required to run Stable Diffusion Web UI in Azure ML, and get access to custom code snippets that will help you get started. You'll also find out how to configure the Web UI to run on a GPU compute instance, and how to optimize your installation for prolonged usage.
 
-![](image.jpeg)
+## Watch the Stable Diffusion session on the AI Show
+
+[![video thumbnail](how_to_draw_anything_stable_diffusion.png)](https://learn.microsoft.com/en-us/shows/ai-show/ai-show-live-how-to-draw-anything-with-azure-ai-and-stable-diffusion)
 
 ## 👓 View today's article
 
