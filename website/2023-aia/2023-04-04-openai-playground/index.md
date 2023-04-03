@@ -2,7 +2,7 @@
 slug: "day3"
 title: "3. 🏁Explore the Azure OpenAI Playground"
 authors: ['Valentina']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
