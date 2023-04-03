@@ -110,4 +110,7 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
 
-[![The image is the blog RSS feed available icon](./../../static/img/2023-aia/rss.png) Click to subscribe to the blog RSS XML feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
+## 🧲 Subscribe
+
+- 📬 [Register for the monthly Azure AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- [![The image is the blog RSS feed available icon](./../../static/img/2023-aia/rss.png) Click to subscribe to the blog RSS XML feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
