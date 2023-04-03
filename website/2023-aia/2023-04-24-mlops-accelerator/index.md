@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day22.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png
 description: "🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator https://azureaidevs.github.io/hub/2023-aia/day22"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day22" />
   <meta name="twitter:title" content="MLOps Accelerator Explained" />
   <meta name="twitter:description" content="🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day22.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day22" />
   <meta property="og:title" content="MLOps Accelerator Explained" />
   <meta property="og:description" content="🏭Welcome to day 22 of #30DaysOfAzureAI. Accelerating MLOps with the v2 Solution Accelerator" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day22.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day22"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day22.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png"
     title="MLOps Accelerator Explained"
     description= "🏭Day 22 of #30DaysOfAzureAI. We're taking MLOps to the next level with the v2 Solution Accelerator! 🤖 Learn how to supercharge your machine learning workflows with a simplified, customizable enterprise-ready approach."
     hashtags="AI,AzureMLOps"

@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['rai-accountable', 'rai-inclusion', 'rai-transparency', 'rai-fairness', 'rai-privacy-security']
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day6.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png
 description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day6" />
   <meta name="twitter:title" content="The Mission of Responsible AI" />
   <meta name="twitter:description" content="🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day6.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day6" />
   <meta property="og:title" content="The Mission of Responsible AI" />
   <meta property="og:description" content="🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day6.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day6"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day6.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png"
     title="The Mission of Responsible AI"
     description= "🏁Day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI."
     hashtags="AI,ResponsibleAI"

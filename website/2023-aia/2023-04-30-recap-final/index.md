@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'MLOps', 'rai', 'CoPilot', 'Blazor']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day28.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day28.png
 description: "🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey https://azureaidevs.github.io/hub/2023-aia/day28"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day28" />
   <meta name="twitter:title" content="Continuing your AI Journey✨" />
   <meta name="twitter:description" content="🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day28.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day28.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day28" />
   <meta property="og:title" content="Continuing your AI Journey✨" />
   <meta property="og:description" content="🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day28.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day28.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day28"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day28.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day28.png"
     title="Continuing your AI Journey✨"
     description= "🏭Welcome to day 28 of #30DaysOfAzureAI. Continuing your Azure AI Journey"
     hashtags="AI"

@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-OpenAI-Services', 'Azure-AI']
 tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day3.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png
 description: "🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground https://azureaidevs.github.io/hub/2023-aia/day3"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day3" />
   <meta name="twitter:title" content="Explore the Azure OpenAI Playground" />
   <meta name="twitter:description" content="🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day3.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day3" />
   <meta property="og:title" content="Explore the Azure OpenAI Playground" />
   <meta property="og:description" content="🏁Welcome to day 3 of #30DaysOfAzureAI. Explore Conversational AI with the Azure OpenAI Service Playground" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day3.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day3"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day3.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png"
     title="Explore the Azure OpenAI Playground"
     description= "🏁Day 3 of #30DaysOfAzureAI. Ready to dive into the world of conversational AI? Join us today as we explore the Azure OpenAI Service Playground! From custom datasets to model visualization."
     hashtags="AI,AzureOpenAI"

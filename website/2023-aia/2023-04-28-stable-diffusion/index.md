@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI', 'StableDiffusion']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-ml', 'ml-engineers', 'app-developers', 'workshop']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day26.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png
 description: "🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances https://azureaidevs.github.io/hub/2023-aia/day26"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day26" />
   <meta name="twitter:title" content="Stable Diffusion on Azure ML" />
   <meta name="twitter:description" content="🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day26.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day26" />
   <meta property="og:title" content="Stable Diffusion on Azure ML" />
   <meta property="og:description" content="🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day26.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day26"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day26.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png"
     title="Stable Diffusion on Azure ML"
     description= "🏭Day 26 of #30DaysOfAzureAI. Ready to explore Stable Diffusion's image generative model on Azure ML? Learn how to install and configure the web UI on GPU compute instances, and improve performance and security with our tips and tricks."
     hashtags="AI,AzureML"

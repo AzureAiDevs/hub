@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-ml', '30-days-of-azure-ai']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day5.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png
 description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/2023-aia/day5"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day5" />
   <meta name="twitter:title" content="Learn key Azure ML Concepts" />
   <meta name="twitter:description" content="🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day5.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day5" />
   <meta property="og:title" content="Learn key Azure ML Concepts" />
   <meta property="og:description" content="🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day5.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day5"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day5.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png"
     title="Learn key Azure ML Concepts"
     description= "🏁Day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer."
     hashtags="AI,AzureML"

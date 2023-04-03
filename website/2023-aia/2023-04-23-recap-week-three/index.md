@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 keywords: ['Azure-AI', 'Machine-Learning', 'MLOps', 'rai']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
-image: https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day21.png
+image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png
 description: "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21"
 ---
 
@@ -20,13 +20,13 @@ import Social from '@site/src/components/social';
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day21" />
   <meta name="twitter:title" content="Recap: Azure ML Week✨" />
   <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week" />
-  <meta name="twitter:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day21.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day21" />
   <meta property="og:title" content="Recap: Azure ML Week✨" />
   <meta property="og:description" content="🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week" />
-  <meta property="og:image" content="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day21.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="Azure AI Developer" />
 
@@ -45,7 +45,7 @@ import Social from '@site/src/components/social';
 
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day21"
-    image_url="https://github.com/AzureAiDevs/hub/blob/main/website/static/img/2023-aia/banner-day21.png"
+    image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png"
     title="Recap: Azure ML Week✨"
     description= "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week"
     hashtags="AI"
