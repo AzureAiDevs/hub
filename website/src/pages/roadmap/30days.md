@@ -170,7 +170,7 @@ _Posts will be 404 Not Found until the day of publishing._
 
 ## Monthly Newsletter
 
-If you haven't already, then register for the [Microsoft AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter).
+If you haven't already, then subscribe to the [Microsoft AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter).
 
 We're also publishing an [AiMonthly](/hub/ai-update) blog with the latest Azure AI and Azure AI community news. If you want to share a project or an upcoming event, please [submit it here](https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content). The newsletter will also be available via the [AiMonthly RSS feed](https://azureaidevs.github.io/hub/ai-update/rss.xml).
 
