@@ -17,12 +17,6 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
-  <meta name="twitter:title" content="NLP Models in Excel w/ ONNX Runtime" />
-  <meta name="twitter:description" content="🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks" />
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day12.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
   <meta property="og:title" content="NLP Models in Excel w/ ONNX Runtime" />
   <meta property="og:description" content="🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks" />

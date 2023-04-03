@@ -17,12 +17,6 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
-  <meta name="twitter:title" content="Scaling Model Dev with Azure ML" />
-  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-
   <meta property="og:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
   <meta property="og:title" content="Scaling Model Dev with Azure ML" />
   <meta property="og:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Azure ML: Train and Deploy ML Models at Scale" />
