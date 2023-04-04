@@ -107,7 +107,7 @@ Today's [article](https://medium.com/microsoftazure/azure-openai-playground-279f
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
 
 ## 📍 30 days roadmap
 

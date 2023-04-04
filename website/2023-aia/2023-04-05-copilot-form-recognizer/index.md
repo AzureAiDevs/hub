@@ -108,7 +108,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-cognitive-services-b
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-developers)
 
 ## 📍 30 days roadmap
 

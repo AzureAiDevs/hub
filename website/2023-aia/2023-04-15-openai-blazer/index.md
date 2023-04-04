@@ -104,7 +104,7 @@ Today's [article](https://blazorhelpwebsite.com/ViewBlogPost/2065).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
 
 ## 📍 30 days roadmap
 

@@ -106,7 +106,7 @@ Today's [article](https://bea.stollnitz.com/blog/aml-command).
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ml-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ml-developers)
 
 ## 📍 30 days roadmap
 

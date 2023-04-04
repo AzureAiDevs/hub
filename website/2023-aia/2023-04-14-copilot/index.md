@@ -104,7 +104,7 @@ Today's [article](https://github.blog/2023-02-14-github-copilot-now-has-a-better
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
 
 ## 📍 30 days roadmap
 

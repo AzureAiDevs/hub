@@ -206,7 +206,7 @@ Today's [article](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revo
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-app-developers)
 
 ## 📍 30 days roadmap
 

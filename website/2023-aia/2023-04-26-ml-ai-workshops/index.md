@@ -144,7 +144,7 @@ Today's [article](https://microsoft.github.io/ML-For-Beginners?WT.mc_id=aiml-894
 
 ## 🙋🏾‍♂️ Questions?
 
-[Remember, you can ask a question about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-workshops)
+[You can ask questions about this post on GitHub Discussions](https://github.com/AzureAiDevs/hub/discussions/categories/azure-ai-workshops)
 
 ## 📍 30 days roadmap
 
