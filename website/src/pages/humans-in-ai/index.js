@@ -60,6 +60,15 @@ const CampaignFeatures = [
      </>
    ),
   },  
+  {
+    title: 'Ram Shankar Siva Kumar',
+    link: "https://youtu.be/gU-Q1H77CjA",
+    description: (
+     <>
+        This week we talk with Ram Shankar Siva Kumar. He is part of the Azure Security Data Science team where he gets to apply Machine Learning principles to make the cloud secure.
+     </>
+   ),
+  },  
 ];
 
 function Feature({ title, description, link, fillColor }) {
