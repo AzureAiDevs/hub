@@ -97,7 +97,7 @@ _Posts will be 404 Not Found until the day of publishing._
 
 * [April 03 – 🏁 Unleash the power of Azure OpenAI](/2023-aia/day2)
 * [April 04 – 🏁 Explore the Azure OpenAI Playground](/2023-aia/day3)
-* [April 05 – 🏁 Build an AI receipts app with Copilot](/2023-aia/day4)
+* [April 05 – 🏁 Build an AI receipts app with GitHub Copilot](/2023-aia/day4)
 * [April 06 – 🏁 Learn key Azure ML Concepts](/2023-aia/day5)
 * [April 07 – 🏁 The Mission of Responsible AI](/2023-aia/day6)
 * [April 08 – 🏁 Improve accessibility with Azure AI](/2023-aia/day7)
@@ -121,7 +121,7 @@ _Posts will be 404 Not Found until the day of publishing._
 * [April 11 – 👩‍💻 How to build your own ChatGPT](/2023-aia/day10)
 * [April 12 – 👩‍💻 Cross-Platform AI with ONNX and .NET](/2023-aia/day11)
 * [April 13 – 👩‍💻 Run BERT NLP models locally in Excel](/2023-aia/day12)
-* [April 14 – 👩‍💻 Copilot's updated AI model](/2023-aia/day13)
+* [April 14 – 👩‍💻 GitHub Copilot's updated AI model](/2023-aia/day13)
 * [April 15 – 👩‍💻 Blazor apps and Azure OpenAI](/2023-aia/day14)
 * [April 16 – 👩‍💻 Recap: Azure AI for App Developers Week✨](/2023-aia/day15)
 
