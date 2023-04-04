@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day1.png"
     title="Kick Start AI April Keynote"
     description= "🚀Day 1 of #30DaysOfAzureAI. Today, we're excited to share the Global AI Dev Conf keynote featuring senior Azure AI leaders John Montgomery and Bob Breynaert discussing the future of AI."
-    hashtags="AI,AzureOpenAI"
+    hashtags="AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
 

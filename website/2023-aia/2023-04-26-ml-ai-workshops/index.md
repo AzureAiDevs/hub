@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day24.png"
     title="Machine Learning for Beginners"
     description= "🏭Day 24 of #30DaysOfAzureAI. Are you interested in starting your journey into Machine Learning? Check out the Microsoft Machine Learning for Beginners Curriculum, a free 12-week, 26-lesson course covering classic ML with Scikit-learn, NLP, and Time Series analysis. Let's dive in!"
-    hashtags="AI,MachineLearning"
+    hashtags="MachineLearning"
     hashtag="#30DaysOfAzureAi"
 />
 

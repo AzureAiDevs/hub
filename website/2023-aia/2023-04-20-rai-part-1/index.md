@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day19.png"
     title="Debug models with Responsible AI"
     description= "🧑🏽‍🔬Day 19 of #30DaysOfAzureAI. Unlock the power of Responsible AI with the RAI Dashboard, a suite of open-source tools for model debugging, fairness assessment, and more, now available on Azure Machine Learning."
-    hashtags="AI,AIforAll"
+    hashtags="AIforAll"
     hashtag="#30DaysOfAzureAi"
 />
 

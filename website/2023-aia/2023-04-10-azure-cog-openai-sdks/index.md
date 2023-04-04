@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day9.png"
     title="Build intelligent apps with Azure AI SDKs"
     description= "🧑‍💻Day 9 of #30DaysOfAzureAI. AI App developers don't miss out on exploring the Azure AI Hub for OpenAI and Cognitive Services SDK samples. Build intelligent apps with Azure AI Services."
-    hashtags="AI,AzureSDK"
+    hashtags="AzureSDK"
     hashtag="#30DaysOfAzureAi"
 />
 

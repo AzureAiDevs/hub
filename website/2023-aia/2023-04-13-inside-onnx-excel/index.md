@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day12.png"
     title="NLP Models in Excel with ONNX Runtime"
     description= "🧑‍💻Day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime."
-    hashtags="AI,ONNXRuntime"
+    hashtags="ONNXRuntime"
     hashtag="#30DaysOfAzureAi"
 />
 

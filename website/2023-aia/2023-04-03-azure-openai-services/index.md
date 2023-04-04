@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day2.png"
     title="Unleash the power of Azure OpenAI"
     description= "🏁Day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI! Data Scientists, ML, MLOps Engineers, or App Developers, this for you. We'll cover large-scale generative AI models, code generation, and DALL-E 2"
-    hashtags="AI,AzureOpenAI"
+    hashtags="AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
 

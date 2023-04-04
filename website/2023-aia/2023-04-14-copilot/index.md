@@ -1,6 +1,6 @@
 ---
 slug: "day13"
-title: "13. 🧑‍💻Copilot's updated AI model"
+title: "13. 🧑‍💻GitHub Copilot's updated AI model"
 authors: ['Shuyin']
 draft: true
 hide_table_of_contents: false
@@ -32,9 +32,9 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day13"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png"
-    title="Copilot's updated AI model"
+    title="GitHub Copilot's updated AI model"
     description= "🧑‍💻Day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
-    hashtags="AI,GitHubCopilot"
+    hashtags="GitHubCopilot"
     hashtag="#30DaysOfAzureAi"
 />
 

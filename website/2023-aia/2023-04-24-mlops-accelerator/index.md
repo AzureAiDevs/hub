@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day22.png"
     title="MLOps Accelerator Explained"
     description= "🏭Day 22 of #30DaysOfAzureAI. We're taking MLOps to the next level with the v2 Solution Accelerator! 🤖 Learn how to supercharge your machine learning workflows with a simplified, customizable enterprise-ready approach."
-    hashtags="AI,AzureMLOps"
+    hashtags="AzureMLOps"
     hashtag="#30DaysOfAzureAi"
 />
 

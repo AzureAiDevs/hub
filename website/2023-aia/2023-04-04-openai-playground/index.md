@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day3.png"
     title="Explore the Azure OpenAI Playground"
     description= "🏁Day 3 of #30DaysOfAzureAI. Ready to dive into the world of conversational AI? Join us today as we explore the Azure OpenAI Service Playground! From custom datasets to model visualization."
-    hashtags="AI,AzureOpenAI"
+    hashtags="AzureOpenAI"
     hashtag="#30DaysOfAzureAi"
 />
 

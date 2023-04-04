@@ -1,6 +1,6 @@
 ---
 slug: "day4"
-title: "4. 🏁Build a receipts app with Copilot"
+title: "4. 🏁Build a receipts app with GitHub Copilot"
 authors: ['Ruth']
 draft: false
 hide_table_of_contents: false
@@ -32,9 +32,9 @@ import Social from '@site/src/components/social';
 <Social
     page_url="https://azureaidevs.github.io/hub/2023-aia/day4"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day4.png"
-    title="Build a receipts app with Copilot"
+    title="Build a receipts app with GitHub Copilot"
     description= "🏁Day 4 of #30DaysOfAzureAI. Today, we're diving into GitHub Copilot and Azure #FormRecognizer to build a receipts app. Learn how Copilot can increase productivity."
-    hashtags="AI,IntelligentApps"
+    hashtags="IntelligentApps"
     hashtag="#30DaysOfAzureAi"
 />
 

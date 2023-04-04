@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day25.png"
     title="Build a Patient Registration App"
     description= "🏭Day 25 of #30DaysOfAzureAI. Learn how to automate patient registration using Azure Form Recognizer with our one-hour hands-on lab. Develop a custom model, integrate it with a web app, and define application roles. Say goodbye to manual form filling and hello to the power of AI."
-    hashtags="AI,AzureFormRecognizer"
+    hashtags="AzureFormRecognizer"
     hashtag="#30DaysOfAzureAi"
 />
 

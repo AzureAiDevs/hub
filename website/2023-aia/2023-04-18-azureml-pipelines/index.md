@@ -34,7 +34,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day17.png"
     title="Streamline Model Dev with Azure ML"
     description= "🧑🏽‍🔬Day 17 of #30DaysOfAzureAI. Unlock the potential of your ML projects with Azure ML Components & Pipelines. Streamline your development, boost productivity and take your hardwork to new heights. Begin with Azure ML today!"
-    hashtags="AI,AzureML"
+    hashtags="AzureML"
     hashtag="#30DaysOfAzureAi"
 />
 

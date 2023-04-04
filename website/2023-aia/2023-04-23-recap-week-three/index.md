@@ -33,7 +33,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png"
     title="Recap: Azure ML Week✨"
     description= "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week"
-    hashtags="AI"
+    hashtags=""
     hashtag="#30DaysOfAzureAi"
 />
 
