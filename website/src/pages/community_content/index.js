@@ -32,7 +32,7 @@ const CampaignFeatures = [
   {
     title: 'Launch with AI',
     Svg: require('@site/static/img/campaign/launchwithai.svg').default,
-    link: "https://startups.microsoft.com/blog/tag/launchwithai",
+    link: "https://aka.ms/ai-april-launch-with-ai",
     fillColor: "#8661C5",
     description: (
       <>
