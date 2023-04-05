@@ -40,43 +40,28 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 26 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **How to run Stable Diffusion Web UI on Azure ML compute instances**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday we learned about how to build a Patient Registration app with Azure Form Recognizer. Today's your opportunity to be "wowed" by the power of image generative models and run Stable Diffusion on Azure ML. Let's go!
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - The Azure ML resources necessary for running Stable Diffusion.
 - Installing and configuring Stable Diffusion Web UI on Azure ML GPU Compute Instances.
 - Tips and tricks for improving the performance and security of your installation.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 26](./../../static/img/2023-aia/banner-day26.png)](https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -87,10 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 e/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Get creative with Stable Diffusion on Azure ML

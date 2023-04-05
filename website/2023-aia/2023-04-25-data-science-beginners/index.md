@@ -40,42 +40,27 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 23 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Foundations of Data Science: Workshops for Beginners**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday we learned about the Azure MLOps (v2) Solution Accelerator. Today is for folk starting on their Data Science journey. Data Science for Beginners Curriculum is a 10-week, 20-lesson course, so dive in!
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Data Science for Beginners curriculum.
 - Data science principles, including ethics, preparation and visualization.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 23](./../../static/img/2023-aia/banner-day23.png)](https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -84,10 +69,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [learn Module: Understand data science for machine learning](https://learn.microsoft.com/training/paths/understand-machine-learning?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Introducing Data Science for Beginners

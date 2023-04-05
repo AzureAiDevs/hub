@@ -1,7 +1,7 @@
 ---
 slug: "day21"
 title: "21. 🧑🏽‍🔬Recap: Azure ML Week✨"
-authors: ['Dave']
+authors: ['Dave', 'Bea', 'Vlad', 'Ruth', 'Cassie']
 draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
@@ -10,7 +10,7 @@ keywords: ['Azure-AI', 'Machine-Learning', 'MLOps', 'rai']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-mlops']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png
-description: "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21"
+description: "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. Week 3 Recap - Azure Machine Learning Week https://azureaidevs.github.io/hub/2023-aia/day21"
 ---
 
 import Social from '@site/src/components/social';
@@ -32,70 +32,100 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day21"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png"
     title="Recap: Azure ML Week✨"
-    description= "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap for Azure Machine Learning Week"
+    description= "🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. Week 3 Recap - Azure Machine Learning Week"
     hashtags=""
     hashtag="#30DaysOfAzureAi"
 />
 
 ## 🗓️ Day 21 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
-**30DaysOfAzureAI Recap for Azure Machine Learning Week**
+**Week 3 Recap - Azure Machine Learning Week**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
+- Look Back: Recap Fundamentals Week
+- Azure AI Skills Challenge
+- Microsoft for Startups
+- Look Ahead: It's Intelligent App Developers Week!
 
-
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 
 ![Image banner for day 21](./../../static/img/2023-aia/banner-day21.png)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
-## 📚 References
-
-- [Learn Module: Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?WT.mc_id=aiml-89446-dglover)
-- [Learn Module: Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/training/paths/introduction-machine-learn-operations?WT.mc_id=aiml-89446-dglover)
-- [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
-- [Learn Module: Start the machine learning lifecycle with MLOps](https://learn.microsoft.com/training/modules/start-ml-lifecycle-mlops?WT.mc_id=aiml-89446-dglover)
-- [Machine learning operations (MLOps)](https://azure.microsoft.com/products/machine-learning/mlops/#features?WT.mc_id=aiml-89446-dglover)
-- [Meeting the AI moment: advancing the future through responsible AI](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence?WT.mc_id=aiml-89446-dglover)
-- [Microsoft's approach to using AI responsibly](https://news.microsoft.com/source/features/ai/microsoft-approach-to-ai/#using-ai-responsibly?WT.mc_id=aiml-89446-dglover)
+<!-- Body section -->
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+## Look Back: Week 3 Recap
+
+Week three is complete 🎉 and thank you ❤️ for joining us on this journey. We hope you've enjoyed the third week of #30DaysOfAzureAI and have learned a lot about Azure AI.
+
+![The image outlines what was covered the first week](./../../static/img/2023-aia/30-week2.png)
+
+Here are the highlights for week 3. If you're just joining us, welcome!! It's not too late to get started learning and skilling up.
 
 
+## Week 3: Azure AI for App Developers
 
+:::info Azure AI Everyone
+
+* [April 17 – 🧑🏽‍🔬 Scaling Model Dev with Azure ML](/2023-aia/day16)
+* [April 18 – 🧑🏽‍🔬 Streamline Model Dev with Azure ML](/2023-aia/day17)
+* [April 19 – 🧑🏽‍🔬 Azure ML Managed Online Endpoints](/2023-aia/day18)
+* [April 20 – 🧑🏽‍🔬 Debug models with Responsible AI](/2023-aia/day19)
+* [April 21 - 🧑🏽‍🔬 Streamline Ops with Azure MLOps](/2023-aia/day20)
+
+:::
+
+## Azure AI Skills Challenge
+
+The [skills challenge](https://aka.ms/30-days-of-azure-ai-challenge) started March 29th and is a self-guided learning experience to help you build your skills in Azure AI. Join now, and see how you rank against other participants on the leaderboard.
+
+:::tip AZURE ACCOUNT
+
+To complete the Azure AI Skills challenge, you’ll need access to Azure. For students, sign up for an [Azure for Students](https://aka.ms/ai-april-azure-student-acct) free account, no credit card is required. Otherwise, create an [Azure](https://aka.ms/ai-april-azure-acct) free account.
+
+:::
+
+## Microsoft for Startups
+
+If you are a startup, then you'll want to learn how other startups are using Azure AI to build their businesses. Visit the [Launch with AI](https://aka.ms/ai-april-launch-with-ai) case studies website to learn more.
+
+## Look Ahead: Azure AI Workshop Week!
+
+Week four is a series of workshops and curricula for Data Scientists, AL, ML, MLOps engineers, and AI App Developers. Be sure to review the [Week Four Roadmap](/hub/roadmap/30days#week-4-workshops), don't forget to bookmark the #30DaysOfAzureAI site, and come back tomorrow. 
+
+## Week 4: Azure AI Workshop Week
+
+_Welcome to the Week 4 of your learning journey into Azure AI Development._
+
+:::info Azure AI for App Developers
+
+_Posts will be available on the day of publishing._
+
+* [April 24 – 🏭 MLOps Accelerator Explained](/2023-aia/day22)
+* [April 25 – 🏭 Data Science for Beginners](/2023-aia/day23)
+* [April 26 - 🏭 Machine Learning for Beginners](/2023-aia/day24)
+* [April 27 – 🏭 Build a Patient Registration App](/2023-aia/day25)
+* [April 28 – 🏭 Stable Diffusion on Azure ML](/2023-aia/day26)
+* [April 29 – 🏭 Enhance CX with Azure Personalizer](/2023-aia/day27)
+
+:::
+
+![Week 4](./../../static/img/2023-aia/30-week4.png)
 
 
 

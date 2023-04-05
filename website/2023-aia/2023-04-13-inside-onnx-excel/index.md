@@ -40,42 +40,27 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 12 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Build an Excel Add-in with ONNX Runtime Web for NLP Tasks**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday was all about building cross-platform intelligent apps with .NET MAUI and ONNX. Today is for people looking to extend Excel with BERT NLP tasks enabled by ONNX Runtime Web in JavaScript. Wait, was "Excel, BERT, JavaScript and ONNX" used in the same sentence?😄 Yup, they were, so follow along to learn more.
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Excel Add-ins with Natural Language Processing using BERT and the ONNX Runtime.
 - Step-by-step instructions and code examples.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 12](./../../static/img/2023-aia/banner-day12.png)](https://onnxruntime.ai/docs/tutorials/web/excel-addin-bert-js.html)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -84,10 +69,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Build an Excel Add-in with ONNX Runtime Web for Inferencing NLP models on Device

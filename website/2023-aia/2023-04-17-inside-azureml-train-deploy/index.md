@@ -40,16 +40,11 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 16 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Train and Deploy ML Models at Scale**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Last week was for Azure AI App developers. This week, we switch gears and focus on Azure Machine Learning services for people building, deploying, and "productionalizing" ML models. If you're a Data Scientist, or an ML or MLOps engineer, then this week is for you. 
 
@@ -57,27 +52,17 @@ Today, learn about training and deploying machine learning models using Azure ML
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - How to train and deploy a machine learning model using Azure ML
 - The three most common methods of creating resources: Azure ML CLI, Python SDK, and Studio UI
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 16](./../../static/img/2023-aia/banner-day16.png)](https://bea.stollnitz.com/blog/aml-command)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -87,10 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [What is Azure Machine Learning?](https://learn.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 How to train and deploy in Azure ML

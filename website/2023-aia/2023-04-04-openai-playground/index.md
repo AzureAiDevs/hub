@@ -40,43 +40,28 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 3 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Explore Conversational AI with the Azure OpenAI Service Playground**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday was an introduction to the Azure OpenAI Service. Today, we'll dig deeper into the Azure OpenAI Service Playground, so come along, it'll be fun.
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Azure OpenAI Playground.
 - Custom datasets, experiment management, and model visualization.
 - Flexible Azure OpenAI service offerings.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 3](./../../static/img/2023-aia/banner-day3.png)](https://medium.com/microsoftazure/azure-openai-playground-279f1f3da562)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -89,10 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case Study: Azure OpenAI Service powers the next generation of startups](https://startups.microsoft.com/blog/azure-openai-service-for-startups?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Getting started with the Azure OpenAI Playground

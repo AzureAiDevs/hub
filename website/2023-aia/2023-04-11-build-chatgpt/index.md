@@ -40,16 +40,11 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 10 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Build your own ChatGPT with Azure Cognitive Search + Azure OpenAI Service**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday was about the Azure AI Hub, a treasure trove of Azure AI SDK samples. 
 Today, hear from distinguished engineer Pablo Castro about how to build your own ChatGPT with Azure OpenAI and 
@@ -60,28 +55,18 @@ more dynamic, interactive, and differentiated experiences with the Azure OpenAI 
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - How to build your own ChatGPT.
 - How to integrate Azure OpenAI Service into your apps.
 - How to sign up to Azure OpenAI Service.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 10](./../../static/img/2023-aia/banner-day10.png)](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -92,10 +77,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Learn Module: Azure Cognitive Search](https://learn.microsoft.com/training/browse/?expanded=azure&roles=ai-engineer&products=azure-cognitive-search&WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Introduction

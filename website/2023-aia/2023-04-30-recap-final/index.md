@@ -1,12 +1,12 @@
 ---
 slug: "day28"
 title: "28. 🏭Continuing your AI Journey✨"
-authors: ['Dave']
+authors: ['Dave', 'Bea', 'Vlad', 'Ruth', 'Cassie', 'Meer', 'Valentina', 'Arun', 'Heidi', 'Henk', 'Shuyin', 'Michael', 'Bethany', 'Arafat']
 draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
-keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'MLOps', 'rai', 'CoPilot', 'Blazor']
+keywords: ['Azure-AI', 'Azure-OpenAI-Services', 'Cognitive-Services', 'Machine-Learning', 'MLOps', 'rai', 'CoPilot', 'Blazor', 'Setu']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day28.png
@@ -39,42 +39,27 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 28 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Continuing your Azure AI Journey**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 
 ![Image banner for day 28](./../../static/img/2023-aia/banner-day28.png)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -86,10 +71,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case Study: VideoKen is improving video discovery and engagement using AI](https://startups.microsoft.com/blog/launchwithai-videoken?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 

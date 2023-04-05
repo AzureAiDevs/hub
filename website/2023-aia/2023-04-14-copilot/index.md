@@ -40,43 +40,28 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 13 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday was all about creating intelligent Excel Add-ins. Today is a look at GitHub Copilot advances to boast productivity, and build better, smarter, safer intelligent apps.
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Copilot's improved suggestions and the new Fill-In-the-Middle paradigm.
 - VS Code extension with a lightweight model and improved acceptance rate.
 - AI-based vulnerability prevention system to provide alternative suggestions. 
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 13](./../../static/img/2023-aia/banner-day13.png)](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -85,10 +70,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Advances in GitHub's Copilot code generative models

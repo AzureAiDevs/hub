@@ -39,16 +39,11 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 1 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Join us for 30 Days Of Azure AI learning, skilling and discussions**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Welcome to the first day of AI April, a month-long celebration of AI and Azure AI. We'll be sharing a series of blog posts, videos, and other content to help you learn more about AI and Azure AI.
 
@@ -56,36 +51,23 @@ AI has been a hot topic for years, but recently we’ve seen the technology beco
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Microsoft leadership perspectives
 - ChatGPT has sparked public imagination
 - Text, coding and image models
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 
 ![Image banner for day 1](./../../static/img/2023-aia/banner-day1.png)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## Watch the Global AI Dev Conf Keynote

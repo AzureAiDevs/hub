@@ -40,16 +40,11 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 2 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Unleashing the power of AI with Azure OpenAI: A simple guide to get started**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Welcome to the first day of the Azure AI fundamentals week. This week is for everyone; you might be an AI app Developer, a Data Scientist, or an ML or MLOps Engineer. 
 
@@ -57,28 +52,18 @@ The talk of the town is ChatGPT and Generative AI, so what better place to start
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Azure OpenAI Service.
 - Using large-scale generative AI models.
 - Code generation and reasoning over data.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 2](./../../static/img/2023-aia/banner-day2.png)](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -89,10 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case Study: Making generative AI training simple and cost-efficient with PeriFlow and Azure](https://startups.microsoft.com/blog/making-generative-ai-training-simple?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 Intro to Azure OpenAI Service

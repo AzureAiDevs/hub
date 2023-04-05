@@ -40,42 +40,27 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 25 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Building a Patient Registration Web App with Azure Form Recognizer**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Yesterday we learned about the Machine Learning for Beginners Curriculum. Today is for AI app Developers and introduces the New Patient Registration workshop. It's a one-hour hands-on lab, and you'll learn how to build an Azure Static Web App that uses the Azure Form Recognizer service.
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - Automated form filling with Azure Form Recognizer
 - Integrating Azure Form Recognizer with an Azure Static Web App.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 25](./../../static/img/2023-aia/banner-day25.png)](https://newpatiente2e.github.io/docs/)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -87,10 +72,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Case study: Duolingo makes learning language fun with help from AI](https://startups.microsoft.com/blog/duolingo-makes-learning-language-fun-with-help-from-ai?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 New Patient Registration workshop

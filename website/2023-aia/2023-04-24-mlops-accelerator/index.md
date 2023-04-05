@@ -40,16 +40,11 @@ import Social from '@site/src/components/social';
 
 ## 🗓️ Day 22 of #30DaysOfAzureAI
 
-<!-- README
-The following description is also used for the tweet. So it should be action oriented and grab attention 
-If you update the description, please update the description: in the frontmatter as well.
--->
+<!-- Short description section -->
 
 **Accelerating MLOps with the v2 Solution Accelerator**
 
-<!-- README
-The following is the intro to the post. It should be a short teaser for the post.
--->
+<!-- Intro section -->
 
 Last week was for Azure ML developers. This week is "Workshop" week; the content is for everyone. You might be a student starting your AI or Data Science journey, wanting to learn more about MLOps, or an AI app Developer wanting to work through practical examples.
 
@@ -57,28 +52,18 @@ Today, we look at the Azure MLOps (v2) Solution Accelerator and learn how it can
 
 ## 🎯 What we'll cover
 
-<!-- README
-The following list is the main points of the post. There should be 3-4 main points.
- -->
+<!-- What we'll cover section -->
 
 
 - The Azure ML MLOps Solution Accelerator.
 - Simplified, end-to-end, and modular approach to MLOps.
 - Template-based approach to data science.
 
-<!-- 
-- Main point 1
-- Main point 2
-- Main point 3 
-- Main point 4
--->
 
 [![Image banner for day 22](./../../static/img/2023-aia/banner-day22.png)](https://github.com/Azure/mlops-v2)
 
 
-<!-- README
-Add or update a list relevant references here. These could be links to other blog posts, Microsoft Learn Module, videos, or other resources.
--->
+<!-- Reference section -->
 
 
 
@@ -89,10 +74,7 @@ Add or update a list relevant references here. These could be links to other blo
 - [Learn Module: Start the machine learning lifecycle with MLOps](https://learn.microsoft.com/training/modules/start-ml-lifecycle-mlops?WT.mc_id=aiml-89446-dglover)
 
 
-<!-- README
-The following is the body of the post. It should be an overview of the post that you are referencing.
-See the Learn More section, if you supplied a canonical link, then will be displayed here.
--->
+<!-- Body section -->
 
 
 ## 🚌 The Azure MLOps (v2) Solution Accelerator
