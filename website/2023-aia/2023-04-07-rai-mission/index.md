@@ -17,10 +17,10 @@ import Social from '@site/src/components/social';
 
 <head>
 
-  <link rel="canonical" href="https://medium.com/@ruyakubu/mission-of-responsible-ai-8b4f3cc4aaf6"  />
+  <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover"  />
   </head>
 
-- 👓 [View today's article](https://medium.com/@ruyakubu/mission-of-responsible-ai-8b4f3cc4aaf6)
+- 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://aka.ms/ai-april-tech-community)
@@ -71,7 +71,7 @@ The following list is the main points of the post. There should be 3-4 main poin
 - Main point 4
 -->
 
-[![Image banner for day 6](./../../static/img/2023-aia/banner-day6.png)](https://medium.com/@ruyakubu/mission-of-responsible-ai-8b4f3cc4aaf6)
+[![Image banner for day 6](./../../static/img/2023-aia/banner-day6.png)](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover)
 
 
 <!-- README
@@ -94,14 +94,14 @@ See the Learn More section, if you supplied a canonical link, then will be displ
 
 ## 🚌 Why Responsible AI is so important
 
-Read [today's article](https://medium.com/@ruyakubu/mission-of-responsible-ai-8b4f3cc4aaf6) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
+Read [today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover) to learn about Microsoft's mission to advance AI for everyone, and to understand the principles that guide Microsoft's approach to AI.
 
 Microsoft is investing heavily in AI because it believes that it can benefit everyone at every level of every organization. However, Microsoft acknowledges the need for responsible AI by design, guided by a set of principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
 
 ## 👓 View today's article
 
-Today's [article](https://medium.com/@ruyakubu/mission-of-responsible-ai-8b4f3cc4aaf6).
+Today's [article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover).
 
 
 ## 🙋🏾‍♂️ Questions?
