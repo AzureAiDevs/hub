@@ -22,6 +22,7 @@ import Social from '@site/src/components/social';
 
 - 👓 [View today's article](https://bea.stollnitz.com/blog/aml-introduction/)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
+- 🧬 [Connect with Humans in AI](/hub/humans-in-ai)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://aka.ms/ai-april-tech-community)
 - ❤️ [Learn about the Microsoft MVP Program](https://aka.ms/ai-april-mvp-program)
