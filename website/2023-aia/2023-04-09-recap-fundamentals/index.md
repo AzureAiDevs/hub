@@ -1,7 +1,7 @@
 ---
 slug: "day8"
 title: "8. 🏁Recap: Azure AI Fundamentals Week✨"
-authors: ['Dave']
+authors: ['Dave', 'Meer', 'Valentina', 'Ruth', 'Bea', 'Henk']
 draft: true
 hide_table_of_contents: false
 toc_min_heading_level: 2
@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Azure-AI', 'Machine-Learning', 'Cognitive-S
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png
-description: "🏁Welcome to day 8 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8"
+description: "🏁Welcome to day 8 of #30DaysOfAzureAI. Week 1 Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8"
 ---
 
 import Social from '@site/src/components/social';
@@ -32,7 +32,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day8"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png"
     title="Recap: Azure AI Fundamentals Week✨"
-    description= "🏁Welcome to day 8 of #30DaysOfAzureAI. 30DaysOfAzureAI Recap - Fundamentals"
+    description= "🏁Welcome to day 8 of #30DaysOfAzureAI. Week 1 Recap - Fundamentals"
     hashtags=""
     hashtag="#30DaysOfAzureAi"
 />
@@ -44,7 +44,7 @@ The following description is also used for the tweet. So it should be action ori
 If you update the description, please update the description: in the frontmatter as well.
 -->
 
-**30DaysOfAzureAI Recap - Fundamentals**
+**Week 1 Recap - Fundamentals**
 
 <!-- README
 The following is the intro to the post. It should be a short teaser for the post.
@@ -59,7 +59,10 @@ The following list is the main points of the post. There should be 3-4 main poin
  -->
 
 
-
+- Look Back: Recap Fundamentals Week
+- Azure AI Skills Challenge
+- Microsoft for Startups
+- Look Ahead: It's Intelligent App Developers Week!
 
 <!-- 
 - Main point 1
@@ -78,18 +81,70 @@ Add or update a list relevant references here. These could be links to other blo
 
 
 
-## 📚 References
-
-
-
-
 <!-- README
 The following is the body of the post. It should be an overview of the post that you are referencing.
 See the Learn More section, if you supplied a canonical link, then will be displayed here.
 -->
 
 
+## Look Back: Week 1 Recap
 
+Week one is done 🎉 and thank you ❤️ for joining us on this journey. We hope you've enjoyed the first week of #30DaysOfAzureAI and have learned a lot about Azure AI.
+
+![The image outlines what was covered the first week](./../../static/img/2023-aia/30-week1.png)
+
+Here are the highlights for week 1. If you're just joining us, welcome!! It's not too late to get started learning and skilling up.
+
+
+## Week 1: Fundamentals
+
+:::info Azure AI Everyone
+
+* [April 03 – 🏁 Unleash the power of Azure OpenAI](/2023-aia/day2)
+* [April 04 – 🏁 Explore the Azure OpenAI Playground](/2023-aia/day3)
+* [April 05 – 🏁 Build an AI receipts app with GitHub Copilot](/2023-aia/day4)
+* [April 06 – 🏁 Learn key Azure ML Concepts](/2023-aia/day5)
+* [April 07 – 🏁 The Mission of Responsible AI](/2023-aia/day6)
+* [April 08 – 🏁 Improve accessibility with Azure AI](/2023-aia/day7)
+
+:::
+
+## Azure AI Skills Challenge
+
+The [skills challenge](https://aka.ms/30-days-of-azure-ai-challenge) started March 29th and is a self-guided learning experience to help you build your skills in Azure AI. Join now, and see how you rank against other participants on the leaderboard.
+
+:::tip AZURE ACCOUNT
+
+To complete the Azure AI Skills challenge, you’ll need access to Azure. For students, sign up for an [Azure for Students](https://aka.ms/ai-april-azure-student-acct) free account, no credit card is required. Otherwise, create an [Azure](https://aka.ms/ai-april-azure-acct) free account.
+
+:::
+
+## Microsoft for Startups
+
+If you are a startup, then you'll want to learn how other startups are using Azure AI to build their businesses. Visit the [Launch with AI](https://aka.ms/ai-april-launch-with-ai) case studies website to learn more.
+
+## Look Ahead: It's Intelligent App Developers Week!
+
+Week two is for app developers building intelligent apps calling Azure AI Services or incorporating AI models directly into apps. Be sure to review the [Week Two Roadmap](https://aka.ms/30-days-ai-roadmap#week-2-azure-ai-for-app-developers), don't forget to bookmark the #30DaysOfAzureAI site, and come back tomorrow. 
+
+## Week 2: Azure AI for App Developers
+
+_Welcome to the Week 2 of your learning journey into Azure AI Development._
+
+:::info Azure AI for App Developers
+
+_Posts will be available on the day of publishing._
+
+* [April 10 – 👩‍💻 Build intelligent apps with Azure AI SDKs](/2023-aia/day9)
+* [April 11 – 👩‍💻 How to build your own ChatGPT](/2023-aia/day10)
+* [April 12 – 👩‍💻 Cross-Platform AI with ONNX and .NET](/2023-aia/day11)
+* [April 13 – 👩‍💻 Run BERT NLP models locally in Excel](/2023-aia/day12)
+* [April 14 – 👩‍💻 GitHub Copilot's updated AI model](/2023-aia/day13)
+* [April 15 – 👩‍💻 Blazor apps and Azure OpenAI](/2023-aia/day14)
+
+:::
+
+![Week 2](./../../static/img/2023-aia/30-week2.png)
 
 
 
