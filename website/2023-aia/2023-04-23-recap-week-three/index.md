@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day21" />
+  <meta name="twitter:title" content="Recap: Azure ML Week✨" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 21 of #30DaysOfAzureAI. Week 3 Recap - Azure Machine Learning Week" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day21.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   </head>
 
 

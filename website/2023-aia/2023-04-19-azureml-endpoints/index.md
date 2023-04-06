@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day18" />
+  <meta name="twitter:title" content="Azure ML Managed Online Endpoints" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Azure ML Managed Online Endpoints - A Quickstart" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day18.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://vladiliescu.net/aml-managed-endpoints-quickstart/"  />
   </head>
 

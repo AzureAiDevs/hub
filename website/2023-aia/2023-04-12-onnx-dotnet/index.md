@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day11" />
+  <meta name="twitter:title" content="Cross-Platform AI with ONNX and .NET" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://youtu.be/h6HWP5jpA5s"  />
   </head>
 

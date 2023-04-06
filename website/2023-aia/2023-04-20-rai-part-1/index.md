@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day19" />
+  <meta name="twitter:title" content="Debug models with Responsible AI" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 19 of #30DaysOfAzureAI. Guide to analyzing ML models for Responsible AI issues (Part 1)" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day19.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-89446-dglover"  />
   </head>
 

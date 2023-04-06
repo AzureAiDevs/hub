@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day13" />
+  <meta name="twitter:title" content="GitHub Copilot's updated AI model" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/"  />
   </head>
 

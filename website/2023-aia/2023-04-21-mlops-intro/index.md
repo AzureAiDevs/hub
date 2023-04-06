@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day20" />
+  <meta name="twitter:title" content="Streamline Ops with Azure MLOps" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Learn about Azure Machine Learning lifecycle and open source tooling to start building MLOps" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://learn.microsoft.com/events/ignite-2022/cll99-learn-live-start-machine-learning-lifecycle-with-mlops?WT.mc_id=aiml-89446-dglover"  />
   </head>
 

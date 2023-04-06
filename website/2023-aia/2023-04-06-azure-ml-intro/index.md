@@ -2,7 +2,7 @@
 slug: "day5"
 title: "5. 🏁Learn key Azure ML Concepts"
 authors: ['Bea']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
@@ -16,6 +16,12 @@ description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Conce
 import Social from '@site/src/components/social';
 
 <head>
+
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day5" />
+  <meta name="twitter:title" content="Learn key Azure ML Concepts" />
+  <meta name="twitter:description" content="🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png" />
+  <meta name="twitter:card" content="summary_large_image" />
 
   <link rel="canonical" href="https://bea.stollnitz.com/blog/aml-introduction/"  />
   </head>

@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day26" />
+  <meta name="twitter:title" content="Stable Diffusion on Azure ML" />
+  <meta name="twitter:description" content="🏭Welcome to day 26 of #30DaysOfAzureAI. How to run Stable Diffusion Web UI on Azure ML compute instances" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day26.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://vladiliescu.net/stable-diffusion-web-ui-on-azure-ml/"  />
   </head>
 

@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day4" />
+  <meta name="twitter:title" content="Build a receipts app with GitHub Copilot" />
+  <meta name="twitter:description" content="🏁Welcome to day 4 of #30DaysOfAzureAI. Learn how to use Copilot to build an intelligent receipts app powered by Azure Form Recognizer" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day4.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-copilot-helps-developers-generate-code-for-a-form-recognizer/ba-p/3753813?WT.mc_id=aiml-89446-dglover"  />
   </head>
 

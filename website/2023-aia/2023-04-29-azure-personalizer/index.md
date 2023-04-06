@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day27" />
+  <meta name="twitter:title" content="Enhance CX with Azure Personalizer" />
+  <meta name="twitter:description" content="🏭Welcome to day 27 of #30DaysOfAzureAI. Maximizing Business Results with Azure Personalizer: A Machine Learning-Based Service for Personalized Customer Experiences" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day27.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://www.arafattehsin.com/reinforcement-learning-in-apps-bots-websites-with-azure-personalizer-part-1"  />
   </head>
 

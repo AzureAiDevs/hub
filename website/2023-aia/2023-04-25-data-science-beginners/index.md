@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day23" />
+  <meta name="twitter:title" content="Data Science for Beginners" />
+  <meta name="twitter:description" content="🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day23.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://microsoft.github.io/Data-Science-For-Beginners?WT.mc_id=aiml-89446-dglover"  />
   </head>
 

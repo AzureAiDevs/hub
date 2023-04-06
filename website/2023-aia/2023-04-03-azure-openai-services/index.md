@@ -17,6 +17,12 @@ import Social from '@site/src/components/social';
 
 <head>
 
+  <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day2" />
+  <meta name="twitter:title" content="Unleash the power of Azure OpenAI" />
+  <meta name="twitter:description" content="🏁Welcome to day 2 of #30DaysOfAzureAI. Unleashing the power of AI with Azure OpenAI: A simple guide to get started" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day2.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
   <link rel="canonical" href="https://techcommunity.microsoft.com/t5/fasttrack-for-azure/unleashing-the-power-of-ai-with-azure-openai-a-simple-guide-to/ba-p/3725706?WT.mc_id=aiml-89446-dglover"  />
   </head>
 
