@@ -53,7 +53,7 @@ import Social from '@site/src/components/social';
 
 <!-- Intro section -->
 
-Yesterday was an introduction to the Azure Machine Learning. Today is all about understanding why Microsoft is committed to Responsible AI, and why you should be as well. So, come along, you'll be happy you did.
+Yesterday was an introduction to Azure Machine Learning. Today is all about understanding why Microsoft is committed to Responsible AI, and why you should be as well. So, come along, you'll be happy you did.
 
 ## 🎯 What we'll cover
 
