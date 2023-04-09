@@ -39,7 +39,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day8"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png"
     title="Recap: Azure AI Fundamentals Week✨"
-    description= "🏁Welcome to day 8 of #30DaysOfAzureAI. Week 1 Recap - Fundamentals"
+    description= "🏁Day 8 of #30DaysOfAzureAI. Today we recap week 1 of Azure AI Fundamentals. We covered Generative AI with the Azure OpenAI Service, an introduction to Azure ML, plus Responsible AI, and AI for Accessibility."
     hashtags=""
     hashtag="#30DaysOfAzureAi"
 />
