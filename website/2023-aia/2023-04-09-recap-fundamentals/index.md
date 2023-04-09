@@ -2,7 +2,7 @@
 slug: "day8"
 title: "8. 🏁Recap: Azure AI Fundamentals Week✨"
 authors: ['Dave', 'Meer', 'Valentina', 'Ruth', 'Bea', 'Henk']
-draft: true
+draft: false
 hide_table_of_contents: false
 toc_min_heading_level: 2
 toc_max_heading_level: 3
