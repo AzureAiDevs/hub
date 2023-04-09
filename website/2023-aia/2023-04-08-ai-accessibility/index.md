@@ -10,7 +10,7 @@ keywords: ['Accessibility-Employment', 'Accessibility-Human-Connection', 'Access
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'app-developers', 'ai-for-accessibility']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day7.png
-description: "🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI https://azureaidevs.github.io/hub/2023-aia/day7"
+description: "🏁Welcome to day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day7" />
   <meta name="twitter:title" content="Improve accessibility with Azure AI" />
-  <meta name="twitter:description" content="🏁Welcome to day 7 of #30DaysOfAzureAI. Learn about the 6 ways to improve accessibility with Azure AI" />
+  <meta name="twitter:description" content="🏁Welcome to day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day7.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day7"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day7.png"
     title="Improve accessibility with Azure AI"
-    description= "🏁Day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities."
+    description= "🏁Welcome to day 7 of #30DaysOfAzureAI. Join Microsoft's mission to break down barriers! Learn about the 6 ways to improve accessibility with Azure AI and empower the 1 billion ppl living with disabilities."
     hashtags="Accessibility"
     hashtag="#30DaysOfAzureAi"
 />

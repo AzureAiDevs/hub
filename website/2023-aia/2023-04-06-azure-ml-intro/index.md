@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['azure-ai', 'azure-ml', '30-days-of-azure-ai']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png
-description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer https://azureaidevs.github.io/hub/2023-aia/day5"
+description: "🏁Welcome to day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day5" />
   <meta name="twitter:title" content="Learn key Azure ML Concepts" />
-  <meta name="twitter:description" content="🏁Welcome to day 5 of #30DaysOfAzureAI. Learn key Azure ML Concepts with this primer" />
+  <meta name="twitter:description" content="🏁Welcome to day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day5"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day5.png"
     title="Learn key Azure ML Concepts"
-    description= "🏁Day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer."
+    description= "🏁Welcome to day 5 of #30DaysOfAzureAI. Unlock the power of machine learning with Azure ML! Learn about the benefits of cloud computing for ML projects and explore key Azure ML concepts with our primer."
     hashtags="AzureML"
     hashtag="#30DaysOfAzureAi"
 />

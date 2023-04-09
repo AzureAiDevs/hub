@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png
-description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Train and Deploy ML Models at Scale https://azureaidevs.github.io/hub/2023-aia/day16"
+description: "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day16" />
   <meta name="twitter:title" content="Scaling Model Dev with Azure ML" />
-  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Train and Deploy ML Models at Scale" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day16"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day16.png"
     title="Scaling Model Dev with Azure ML"
-    description= "🧑🏽‍🔬Day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!"
+    description= "🧑🏽‍🔬Welcome to day 16 of #30DaysOfAzureAI. Today we're diving into Azure ML and learning how to train and deploy ML models at scale. If you're a DS, ML, or MLOps engineer, this one's for you!"
     hashtags="AzureML"
     hashtag="#30DaysOfAzureAi"
 />

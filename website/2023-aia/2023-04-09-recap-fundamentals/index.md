@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Azure-AI', 'Machine-Learning', 'Cognitive-S
 tags: ['azure-ai', 'azure-ml', 'azure-open-ai', 'azure-cognitive-services', 'responsible-ai', 'azure-ai-fundamentals', '30-days-of-azure-ai']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png
-description: "🏁Welcome to day 8 of #30DaysOfAzureAI. Week 1 Recap - Fundamentals https://azureaidevs.github.io/hub/2023-aia/day8"
+description: "🏁Welcome to day 8 of #30DaysOfAzureAI. Today we recap week 1 of Azure AI Fundamentals. We covered Generative AI with the Azure OpenAI Service, an introduction to Azure ML, plus Responsible AI, and AI for Accessibility."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day8" />
   <meta name="twitter:title" content="Recap: Azure AI Fundamentals Week✨" />
-  <meta name="twitter:description" content="🏁Welcome to day 8 of #30DaysOfAzureAI. Week 1 Recap - Fundamentals" />
+  <meta name="twitter:description" content="🏁Welcome to day 8 of #30DaysOfAzureAI. Today we recap week 1 of Azure AI Fundamentals. We covered Generative AI with the Azure OpenAI Service, an introduction to Azure ML, plus Responsible AI, and AI for Accessibility." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -39,7 +39,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day8"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day8.png"
     title="Recap: Azure AI Fundamentals Week✨"
-    description= "🏁Day 8 of #30DaysOfAzureAI. Today we recap week 1 of Azure AI Fundamentals. We covered Generative AI with the Azure OpenAI Service, an introduction to Azure ML, plus Responsible AI, and AI for Accessibility."
+    description= "🏁Welcome to day 8 of #30DaysOfAzureAI. Today we recap week 1 of Azure AI Fundamentals. We covered Generative AI with the Azure OpenAI Service, an introduction to Azure ML, plus Responsible AI, and AI for Accessibility."
     hashtags=""
     hashtag="#30DaysOfAzureAi"
 />

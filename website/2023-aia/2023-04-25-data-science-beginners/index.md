@@ -10,7 +10,7 @@ keywords: ['Data_Science_Beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day23.png
-description: "🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners https://azureaidevs.github.io/hub/2023-aia/day23"
+description: "🏭Welcome to day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day23" />
   <meta name="twitter:title" content="Data Science for Beginners" />
-  <meta name="twitter:description" content="🏭Welcome to day 23 of #30DaysOfAzureAI. Foundations of Data Science: Workshops for Beginners" />
+  <meta name="twitter:description" content="🏭Welcome to day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day23.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day23"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day23.png"
     title="Data Science for Beginners"
-    description= "🏭Day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!"
+    description= "🏭Welcome to day 23 of #30DaysOfAzureAI. Just starting your #DataScience journey? Check out Microsoft's free 10-week, 20-lesson course for beginners! Learn about ethics, preparation, visualization, and more. Dive in and extract insights from data today!"
     hashtags="DataScience"
     hashtag="#30DaysOfAzureAi"
 />

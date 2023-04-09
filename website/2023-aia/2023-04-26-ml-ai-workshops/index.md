@@ -10,7 +10,7 @@ keywords: ['ml-for-beginners']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'workshop']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day24.png
-description: "🏭Welcome to day 24 of #30DaysOfAzureAI. Learn about the Microsoft Machine Learning for Beginners Curriculum https://azureaidevs.github.io/hub/2023-aia/day24"
+description: "🏭Welcome to day 24 of #30DaysOfAzureAI. Are you interested in starting your journey into Machine Learning? Check out the Microsoft Machine Learning for Beginners Curriculum, a free 12-week, 26-lesson course covering classic ML with Scikit-learn, NLP, and Time Series analysis. Let's dive in!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day24" />
   <meta name="twitter:title" content="Machine Learning for Beginners" />
-  <meta name="twitter:description" content="🏭Welcome to day 24 of #30DaysOfAzureAI. Learn about the Microsoft Machine Learning for Beginners Curriculum" />
+  <meta name="twitter:description" content="🏭Welcome to day 24 of #30DaysOfAzureAI. Are you interested in starting your journey into Machine Learning? Check out the Microsoft Machine Learning for Beginners Curriculum, a free 12-week, 26-lesson course covering classic ML with Scikit-learn, NLP, and Time Series analysis. Let's dive in!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day24.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day24"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day24.png"
     title="Machine Learning for Beginners"
-    description= "🏭Day 24 of #30DaysOfAzureAI. Are you interested in starting your journey into Machine Learning? Check out the Microsoft Machine Learning for Beginners Curriculum, a free 12-week, 26-lesson course covering classic ML with Scikit-learn, NLP, and Time Series analysis. Let's dive in!"
+    description= "🏭Welcome to day 24 of #30DaysOfAzureAI. Are you interested in starting your journey into Machine Learning? Check out the Microsoft Machine Learning for Beginners Curriculum, a free 12-week, 26-lesson course covering classic ML with Scikit-learn, NLP, and Time Series analysis. Let's dive in!"
     hashtags="MachineLearning"
     hashtag="#30DaysOfAzureAi"
 />

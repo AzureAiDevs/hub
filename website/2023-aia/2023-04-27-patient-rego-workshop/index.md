@@ -10,7 +10,7 @@ keywords: ['Form-Recognizers', 'Azure-Applied-AI-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'azure-cognitive-services', 'app-developers', 'workshop']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day25.png
-description: "🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer https://azureaidevs.github.io/hub/2023-aia/day25"
+description: "🏭Welcome to day 25 of #30DaysOfAzureAI. Learn how to automate patient registration using Azure Form Recognizer with our one-hour hands-on lab. Develop a custom model, integrate it with a web app, and define application roles. Say goodbye to manual form filling and hello to the power of AI."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day25" />
   <meta name="twitter:title" content="Build a Patient Registration App" />
-  <meta name="twitter:description" content="🏭Welcome to day 25 of #30DaysOfAzureAI. Building a Patient Registration Web App with Azure Form Recognizer" />
+  <meta name="twitter:description" content="🏭Welcome to day 25 of #30DaysOfAzureAI. Learn how to automate patient registration using Azure Form Recognizer with our one-hour hands-on lab. Develop a custom model, integrate it with a web app, and define application roles. Say goodbye to manual form filling and hello to the power of AI." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day25.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day25"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day25.png"
     title="Build a Patient Registration App"
-    description= "🏭Day 25 of #30DaysOfAzureAI. Learn how to automate patient registration using Azure Form Recognizer with our one-hour hands-on lab. Develop a custom model, integrate it with a web app, and define application roles. Say goodbye to manual form filling and hello to the power of AI."
+    description= "🏭Welcome to day 25 of #30DaysOfAzureAI. Learn how to automate patient registration using Azure Form Recognizer with our one-hour hands-on lab. Develop a custom model, integrate it with a web app, and define application roles. Say goodbye to manual form filling and hello to the power of AI."
     hashtags="AzureFormRecognizer"
     hashtag="#30DaysOfAzureAi"
 />

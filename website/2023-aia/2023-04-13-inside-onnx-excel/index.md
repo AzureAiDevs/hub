@@ -10,7 +10,7 @@ keywords: ['onnx', 'JavaScript', 'Excel', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day12.png
-description: "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks https://azureaidevs.github.io/hub/2023-aia/day12"
+description: "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day12" />
   <meta name="twitter:title" content="NLP Models in Excel with ONNX Runtime" />
-  <meta name="twitter:description" content="🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Build an Excel Add-in with ONNX Runtime Web for NLP Tasks" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day12.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day12"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day12.png"
     title="NLP Models in Excel with ONNX Runtime"
-    description= "🧑‍💻Day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime."
+    description= "🧑‍💻Welcome to day 12 of #30DaysOfAzureAI. Excel + NLP + ONNX = 🔥! Get ready to build a powerful Excel add-in with BERT NLP using the ONNX Runtime."
     hashtags="ONNXRuntime"
     hashtag="#30DaysOfAzureAi"
 />

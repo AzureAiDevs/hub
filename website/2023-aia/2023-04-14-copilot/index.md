@@ -10,7 +10,7 @@ keywords: ['Copilot', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png
-description: "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code https://azureaidevs.github.io/hub/2023-aia/day13"
+description: "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day13" />
   <meta name="twitter:title" content="GitHub Copilot's updated AI model" />
-  <meta name="twitter:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. GitHub Copilot Upgraded: Faster, More Accurate, and More Secure Code" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day13"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day13.png"
     title="GitHub Copilot's updated AI model"
-    description= "🧑‍💻Day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
+    description= "🧑‍💻Welcome to day 13 of #30DaysOfAzureAI. Unlock the full potential of your code with GitHub Copilot's latest updates: faster, more accurate, and secure suggestions to boost productivity and build smarter, safer apps."
     hashtags="GitHubCopilot"
     hashtag="#30DaysOfAzureAi"
 />

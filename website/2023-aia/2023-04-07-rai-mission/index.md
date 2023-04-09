@@ -10,7 +10,7 @@ keywords: ['rai-accountable', 'rai-inclusion', 'rai-transparency', 'rai-fairness
 tags: ['azure-ai', 'responsible-ai', '30-days-of-azure-ai', 'ml-developers', 'app-developers']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png
-description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role https://azureaidevs.github.io/hub/2023-aia/day6"
+description: "🏁Welcome to day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day6" />
   <meta name="twitter:title" content="The Mission of Responsible AI" />
-  <meta name="twitter:description" content="🏁Welcome to day 6 of #30DaysOfAzureAI. Why you should care about Responsible AI and Microsoft role" />
+  <meta name="twitter:description" content="🏁Welcome to day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day6"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day6.png"
     title="The Mission of Responsible AI"
-    description= "🏁Day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI."
+    description= "🏁Welcome to day 6 of #30DaysOfAzureAI. Discover why Responsible AI matters, how Microsoft is leading the charge, and the principles guiding Microsoft's approach to AI."
     hashtags="ResponsibleAI"
     hashtag="#30DaysOfAzureAi"
 />

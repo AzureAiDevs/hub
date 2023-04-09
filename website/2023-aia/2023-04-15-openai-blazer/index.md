@@ -10,7 +10,7 @@ keywords: ['Azure-OpenAI-Services', 'Blazor', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'copilot', 'open-ai']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day14.png
-description: "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI https://azureaidevs.github.io/hub/2023-aia/day14"
+description: "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day14" />
   <meta name="twitter:title" content="Blazor apps and Azure OpenAI" />
-  <meta name="twitter:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Build Interactive Web Applications with Microsoft Blazor and Azure OpenAI" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day14.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day14"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day14.png"
     title="Blazor apps and Azure OpenAI"
-    description= "🧑‍💻Day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!"
+    description= "🧑‍💻Welcome to day 14 of #30DaysOfAzureAI. Learn how to build interactive web apps with Microsoft Blazor and Azure OpenAI. Create intelligent intuitive experiences. Take your web development to the next level!"
     hashtags="AzureOpenAI,Blazor"
     hashtag="#30DaysOfAzureAi"
 />

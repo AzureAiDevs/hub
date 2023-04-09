@@ -10,7 +10,7 @@ keywords: ['dotnet', 'onnx', 'vscode', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png
-description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET https://azureaidevs.github.io/hub/2023-aia/day11"
+description: "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day11" />
   <meta name="twitter:title" content="Cross-Platform AI with ONNX and .NET" />
-  <meta name="twitter:description" content="🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Building Cross-Platform AI Solutions with ONNX and .NET" />
+  <meta name="twitter:description" content="🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day11"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png"
     title="Cross-Platform AI with ONNX and .NET"
-    description= "🧑‍💻Day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
+    description= "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Cross-platform AI support is here! Build intelligent apps with ONNX and .NET. Learn how AI integrates with traditional programming in today's video!"
     hashtags="ONNXRuntime,dotnet"
     hashtag="#30DaysOfAzureAi"
 />
