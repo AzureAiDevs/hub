@@ -9,11 +9,11 @@ const CampaignFeatures = [
   {
     title: 'Call for Content',
     Svg: require('@site/static/img/campaign/call_for_content.svg').default,
-    link: "https://github.com/AzureAiDevs/hub/discussions/categories/call-for-content",
+    link: "https://forms.office.com/r/GhtwgHVP9L",
     // fillColor: "black",
     description: (
       <>
-        Have a content suggestion? Let us know in the Call for Content discussion!
+        Have a content suggestion? Let us know using the content form!
       </>
     ),
   },
