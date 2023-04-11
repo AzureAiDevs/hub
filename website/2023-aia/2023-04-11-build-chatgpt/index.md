@@ -105,7 +105,11 @@ and ChatGPT’s impressive capability for interacting in natural language to ans
 
 ![The image shows the architecture](architecture.png)
 
-## Integrating Azure OpenAI Service into my apps
+### View the companion video on YouTube
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/tW2EA4aZ_YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## How to integrate Azure OpenAI Services into my apps
 
 ### Scenario One: Converse with Minecraft
 
