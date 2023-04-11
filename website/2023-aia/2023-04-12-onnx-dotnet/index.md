@@ -53,7 +53,7 @@ import Social from '@site/src/components/social';
 
 <!-- Intro section -->
 
-Yesterday was all about the power of OpenAI to create intelligent dynamic apps. Today is for people looking to build cross-platform intelligent apps with .NET MAUI and ONNX.
+Yesterday was all about the power of OpenAI to create intelligent dynamic apps. Today is for people looking to build cross-platform intelligent apps with .NET MAUI and the ONNX Runtime.
 
 ## 🎯 What we'll cover
 
