@@ -23,10 +23,9 @@ import Social from '@site/src/components/social';
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  <link rel="canonical" href="https://youtu.be/h6HWP5jpA5s"  />
   </head>
 
-- 👓 [View today's article](https://youtu.be/h6HWP5jpA5s)
+
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
 - 🧬 [Connect with Humans in AI](/hub/humans-in-ai)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
@@ -64,7 +63,8 @@ Yesterday was all about the power of OpenAI to create intelligent dynamic apps. 
 - How AI is related to traditional programming.
 
 
-[![Image banner for day 11](./../../static/img/2023-aia/banner-day11.png)](https://youtu.be/h6HWP5jpA5s)
+
+![Image banner for day 11](./../../static/img/2023-aia/banner-day11.png)
 
 
 <!-- Reference section -->
@@ -84,13 +84,14 @@ Yesterday was all about the power of OpenAI to create intelligent dynamic apps. 
 
 ## 🚌 Build cross-platform intelligent apps with ONNX and .NET
 
-Watch [today's video](https://youtu.be/h6HWP5jpA5s) about machine learning models using ONNX and .NET. The presenters, Bea and Henk, start with an overview of AI and machine learning, explaining that machine learning is a subset of AI that involves creating a model that can learn from data and make predictions without being explicitly programmed. They discuss deep learning, a subset of machine learning that uses artificial neural network and is well-suited to big data.
+Learn how to build an intelligent cross platform .NET MAUI app running a local ML model on the ONNX runtime. The presenters, Bea and Henk, overview AI and machine learning, how to create models that learn from data to makes predictions, and how to integrate a model into a .NET MAUI app.
+
+## Accompanying source code
+
+You'll find the accompanying source code on [GitHub](https://github.com/hnky/dotnet-maui-onnx-runtime). 
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/h6HWP5jpA5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 👓 View today's article
-
-Today's [article](https://youtu.be/h6HWP5jpA5s).
 
 
 ## 🙋🏾‍♂️ Questions?
