@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day11.png"
     title="Cross-Platform AI with ONNX and .NET"
     description= "🧑‍💻Welcome to day 11 of #30DaysOfAzureAI. Learn how to create ML models and embed them into intelligent cross platform apps with the ONNX runtime and .NET MAUI."
-    hashtags="ONNXRuntime,dotnet"
+    hashtags="ONNXRuntime"
     hashtag="#30DaysOfAzureAi"
 />
 
@@ -84,7 +84,7 @@ Yesterday was all about the power of OpenAI to create intelligent dynamic apps. 
 
 ## 🚌 Build cross-platform intelligent apps with ONNX and .NET
 
-Learn how to build an intelligent cross platform .NET MAUI app running a local ML model on the ONNX runtime. The presenters, Bea and Henk, overview AI and machine learning, how to create models that learn from data to makes predictions, and how to integrate a model into a .NET MAUI app.
+Learn how to build an intelligent cross platform .NET MAUI app running a local ML model on the ONNX runtime. The presenters, Bea and Henk, overview AI and machine learning, how to create models that learn from data to makes predictions, and how to integrate a model into a cross platform .NET MAUI app.
 
 ## Accompanying source code
 
