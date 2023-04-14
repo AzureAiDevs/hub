@@ -75,6 +75,7 @@ Yesterday was all about the power of OpenAI to create intelligent dynamic apps. 
 
 - [Open Neural Network Exchange (ONNX) Open Standard](https://onnx.ai/index.html)
 - [.NET Multi-platform App UI](https://dotnet.microsoft.com/apps/maui?WT.mc_id=aiml-89446-dglover)
+- [Announcing the Azure OpenAI .NET SDK](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet?WT.mc_id=aiml-89446-dglover)
 - [ONNX and Azure Machine Learning: Create and accelerate ML models](https://learn.microsoft.com/azure/machine-learning/concept-onnx?WT.mc_id=aiml-89446-dglover)
 - [Create a machine learning model for offline use on a Windows device](https://learn.microsoft.com/training/modules/add-machine-learning-to-uwp-app?WT.mc_id=aiml-89446-dglover)
 
