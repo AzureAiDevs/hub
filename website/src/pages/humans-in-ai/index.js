@@ -69,6 +69,24 @@ const CampaignFeatures = [
      </>
    ),
   },  
+  {
+    title: 'Emre Kiciman',
+    link: "https://www.youtube.com/embed/YF80ij-ywpQ",
+    description: (
+     <>
+        This week we talk with Emre Kiciman a principal researcher at Microsoft.
+     </>
+   ),
+  }, 
+  {
+    title: 'Derek Legenzoff',
+    link: "https://www.youtube.com/embed/lF9rsFjq3Ms",
+    description: (
+     <>
+        This week we talk with Derek Legenzoff a program manager at Microsoft working on the Azure OpenAI service.
+     </>
+   ),
+  }, 
 ];
 
 function Feature({ title, description, link, fillColor }) {
