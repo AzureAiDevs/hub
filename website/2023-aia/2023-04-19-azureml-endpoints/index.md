@@ -10,7 +10,7 @@ keywords: ['Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers', 'azure-ml', 'data-scientist']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day18.png
-description: "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Check out Azure Machine Learning's managed online endpoints feature! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models. 🚀"
+description: "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Learn about Azure Machine Learning's managed online endpoints! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day18" />
   <meta name="twitter:title" content="Azure ML Managed Online Endpoints" />
-  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Check out Azure Machine Learning's managed online endpoints feature! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models. 🚀" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Learn about Azure Machine Learning's managed online endpoints! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day18.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day18"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day18.png"
     title="Azure ML Managed Online Endpoints"
-    description= "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Check out Azure Machine Learning's managed online endpoints feature! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models. 🚀"
+    description= "🧑🏽‍🔬Welcome to day 18 of #30DaysOfAzureAI. Learn about Azure Machine Learning's managed online endpoints! With built-in security, blue/green deployments, and auto-scaling, it's the perfect way to deploy and scale your models."
     hashtags="AzureML"
     hashtag="#30DaysOfAzureAi"
 />
