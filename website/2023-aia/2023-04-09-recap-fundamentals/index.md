@@ -30,7 +30,7 @@ import Social from '@site/src/components/social';
 - 🧬 [Connect with Humans in AI](/hub/humans-in-ai)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://aka.ms/ai-april-tech-community)
-- ❤️ [Learn about the Microsoft MVP Program](https://aka.ms/ai-april-mvp-program)
+- 🌏 [Join the Global AI Community](https://www.meetup.com/pro/the-global-ai-community)
 - 💡 [Suggest a topic for a future post](https://forms.office.com/r/GhtwgHVP9L)
 
 ### Please share
