@@ -10,7 +10,7 @@ keywords: ['MLOps', 'Machine-Learning', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'ml-developers']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png
-description: "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your #MachineLearning potential! Join Cassie and Korey in today's #LearnLive and discover #Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
+description: "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your MachineLearning potential! Join Cassie and Korey in today's LearnLive and discover Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day20" />
   <meta name="twitter:title" content="Streamline Ops with Azure MLOps" />
-  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your #MachineLearning potential! Join Cassie and Korey in today's #LearnLive and discover #Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!" />
+  <meta name="twitter:description" content="🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your MachineLearning potential! Join Cassie and Korey in today's LearnLive and discover Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!" />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day20"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day20.png"
     title="Streamline Ops with Azure MLOps"
-    description= "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your #MachineLearning potential! Join Cassie and Korey in today's #LearnLive and discover #Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
+    description= "🧑🏽‍🔬Welcome to day 20 of #30DaysOfAzureAI. Unleash your MachineLearning potential! Join Cassie and Korey in today's LearnLive and discover Azure MLOps. Streamline your ML lifecycle with open source tooling, and take your models to the next level!"
     hashtags="AzureMLOps"
     hashtag="#30DaysOfAzureAi"
 />
