@@ -10,7 +10,7 @@ keywords: ['Personalizers', 'Cognitive-Services', 'Azure-AI']
 tags: ['ai-april', '30-days-of-azure-ai', 'app-developers', 'workshop', 'azure-cognitive-services']
 
 image: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day27.png
-description: "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior. Learn how to build and integrate this powerful tool to provide tailored content and actions to a large user base."
+description: "🏭Welcome to day 27 of #30DaysOfAzureAI. 🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior."
 ---
 
 import Social from '@site/src/components/social';
@@ -19,7 +19,7 @@ import Social from '@site/src/components/social';
 
   <meta name="twitter:url" content="https://azureaidevs.github.io/hub/2023-aia/day27" />
   <meta name="twitter:title" content="Enhance CX with Azure Personalizer" />
-  <meta name="twitter:description" content="🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior. Learn how to build and integrate this powerful tool to provide tailored content and actions to a large user base." />
+  <meta name="twitter:description" content="🏭Welcome to day 27 of #30DaysOfAzureAI. 🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day27.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -40,7 +40,7 @@ import Social from '@site/src/components/social';
     page_url="https://azureaidevs.github.io/hub/2023-aia/day27"
     image_url="https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/banner-day27.png"
     title="Enhance CX with Azure Personalizer"
-    description= "🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior. Learn how to build and integrate this powerful tool to provide tailored content and actions to a large user base."
+    description= "🏭Welcome to day 27 of #30DaysOfAzureAI. 🏭Welcome to day 27 of #30DaysOfAzureAI. Maximize your business results with Azure Personalizer - a machine learning-based service that creates personalized experiences for your customers based on their preferences and behavior."
     hashtags="AzurePersonalizer"
     hashtag="#30DaysOfAzureAi"
 />
