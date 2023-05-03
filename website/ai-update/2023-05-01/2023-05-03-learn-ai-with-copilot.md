@@ -10,9 +10,9 @@ tags: ['azure-ai', 'azure-open-ai', 'openai']
 
 Join Carlotta and Gustavo as they kick-off the Learning AI with GitHub Copilot series, designed for machine learning beginners wishing to get started with Python with the help of a special AI assistant.
 
-## 👓 The article
+## 👓 Learn more
 
-[The article](https://www.youtube.com/watch?v=KDUlSTrl_yc&list=PLlrxD0HtieHiATMDpZkxxQL0YTTiMbcR9)
+[👓 Learn more](https://www.youtube.com/watch?v=KDUlSTrl_yc&list=PLlrxD0HtieHiATMDpZkxxQL0YTTiMbcR9)
 
 ## 🧲 Subscribe
 

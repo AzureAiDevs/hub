@@ -10,9 +10,9 @@ tags: ['azure-ai', 'azure-open-ai', '30-days-of-azure-ai']
 
 Learn about OpenAI and the types of problems you can solve using models like GPT. The samples included provide a good starting point to begin using OpenAI in .NET with the Azure OpenAI .NET SDK.
 
-## 👓 The article
+## 👓 Learn more
 
-[The article](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet?WT.mc_id=aiml-89446-dglover)
+[Learn more](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet?WT.mc_id=aiml-89446-dglover)
 
 [![](../imgs/ai-generated-developer-image-3.jpg)](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet?WT.mc_id=aiml-89446-dglover)
 

@@ -10,9 +10,9 @@ tags: ['azure-ai', 'azure-open-ai', 'openai']
 
 This post explains the basics of how GPT models work. My goal is for it to be accessible to everyone, even for those of you without a machine learning background. 
 
-## 👓 The article
+## 👓 Learn more
 
-[The article](https://bea.stollnitz.com/blog/how-gpt-works/)
+[Learn more](https://bea.stollnitz.com/blog/how-gpt-works/)
 
 ## 🧲 Subscribe
 
