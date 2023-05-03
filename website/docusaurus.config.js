@@ -236,6 +236,9 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './ai-update',
+        include: ['**/*.{md,mdx}'],
+        blogTitle: 'Azure AI Developer Monthly Update',
+        postsPerPage: 1
       }
     ],
     [
