@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8904],{93025:e=>{e.exports=JSON.parse('{"permalink":"/hub/ai-update/tags/azure-open-ai/page/3","page":3,"postsPerPage":1,"totalPages":3,"totalCount":3,"previousPage":"/hub/ai-update/tags/azure-open-ai/page/2","blogDescription":"Blog","blogTitle":"Azure AI Developer Monthly Update"}')}}]);

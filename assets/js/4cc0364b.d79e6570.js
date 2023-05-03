@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7292],{82455:e=>{e.exports=JSON.parse('{"permalink":"/hub/ai-update/tags/30-days-of-azure-ai","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

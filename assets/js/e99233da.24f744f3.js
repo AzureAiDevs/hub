@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4529],{60211:e=>{e.exports=JSON.parse('{"permalink":"/hub/ai-update/page/2","page":2,"postsPerPage":1,"totalPages":3,"totalCount":3,"previousPage":"/hub/ai-update","nextPage":"/hub/ai-update/page/3","blogDescription":"Blog","blogTitle":"Azure AI Developer Monthly Update"}')}}]);
