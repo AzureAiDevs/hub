@@ -1,138 +1,85 @@
 Dave:
   name: Dave Glover
   title: Principal Cloud Advocate
-  url: https://github.com/gloveboxes
   image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Dave.png
-  source_image_url: https://github.com/gloveboxes.png
-  tag: "@dglover"
-
-
+  url: https://github.com/gloveboxes
 Meer:
   name: Meer Alam
   title: Principal Customer Engineer
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Meer.png
   url: https://github.com/msdpalam
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Meer.png
-  source_image_url: https://github.com/msdpalam.png
-  tag: "@AlamMeer"
-
-
 Bethany:
-  name: "Bethany Jepchumba"
+  name: Bethany Jepchumba
   title: Cloud Advocate
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Bethany.png
   url: https://github.com/BethanyJep
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Bethany.png
-  source_image_url: https://github.com/BethanyJep.png
-  tag: "@bethanyjep"
-
-
 Valentina:
   name: Valentina Alto
   title: Data&AI Azure Specialist at Microsoft
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Valentina.png
   url: https://github.com/Valentina-Alto
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Valentina.png
-  source_image_url: https://github.com/Valentina-Alto.png
-  tag: "@altovalentina"
-
 Bea:
   name: Beatriz Stollnitz
   title: Principal Cloud Advocate AI/ML
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Bea.png
   url: https://github.com/bstollnitz
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Bea.png
-  source_image_url: https://github.com/bstollnitz.png
-  tag: "@beastollnitz"
-
 Ruth:
   name: Ruth Yakubu
   title: Principal Cloud Advocate
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Ruth.png
   url: https://github.com/ruyakubu
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Ruth.png
-  source_image_url: https://github.com/ruyakubu.png
-  tag: "@ruthieyakubu"
-
 Heidi:
   name: Heidi Steen
   title: Senior Content Developer
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Heidi.png
   url: https://github.com/HeidiSteen
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Heidi.png
-  source_image_url: https://github.com/HeidiSteen.png
-  tag: "@HeidiSteen"
-
 Cassie:
   name: Cassie Breviu
   title: Senior Program Manager
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Cassie.png
   url: https://github.com/cassiebreviu
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Cassie.png
-  source_image_url: https://github.com/cassiebreviu/bio/blob/master/cassieb.png?raw=true
-  tag: "@CassieBreviu"
-
 Arun:
   name: Arun Chandrasekhar
   title: Principal Product Manager
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Arun.png
   url: https://github.com/achandmsft
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Arun.png
-  source_image_url: https://github.com/achandmsft.png
-  tag: "@rcarunmsft"
-
 Henk:
   name: Henk Boelman
   title: Senior Cloud Advocate
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Henk.png
   url: https://github.com/hnky
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Henk.png
-  source_image_url: https://github.com/hnky.png
-  tag: "@hboelman"
-
 Setu:
   name: Setu Chokshi
   title: Senior Cloud Solution Architect
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Setu.png
   url: https://github.com/setuc
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Setu.png
-  source_image_url: https://github.com/setuc.png
-  tag: "@setuc"
-
 Shuyin:
   name: Shuyin Zhao
   title: Senior Director Of Product Management
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Shuyin.png
   url: https://github.com/shuyinzjk
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Shuyin.png
-  source_image_url: https://github.com/shuyinzjk.png
-  tag: "@newmomrules"
-
 Gabriela:
   name: Gabriela de Queiroz
   title: Principal Cloud Advocate Mgr
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Gabriela.png
   url: https://github.com/gdequeiroz
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Gabriela.png
-  source_image_url: https://github.com/gdequeiroz.png
-  tag: "@gdequeiroz"
-
 nitya:
   name: Nitya Narasimhan
   title: Sr. Cloud Advocate, Illustrator
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/nitya.png
   url: https://github.com/nitya
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/nitya.png
-  source_image_url: https://github.com/nitya.png
-  tag: "@nitya"
-
 Vlad:
   name: Vlad Iliescu
   title: Head of AI at Strongbytes and Microsoft MVP
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Vlad.png
   url: https://github.com/vladiliescu
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Vlad.png
-  source_image_url: https://github.com/vladiliescu.png
-  tag : "@vladiliescu"
-
 Michael:
   name: Michael Washington
-  title:  Founder of BlazorHelpWebsite.com and Microsoft MVP
+  title: Founder of BlazorHelpWebsite.com and Microsoft MVP
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Michael.png
   url: https://github.com/ADefWebserver
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Michael.png
-  source_image_url: https://github.com/ADefWebserver.png
-  tag: "@ADefWebserver"
-
 Arafat:
   name: Arafat Tehsin
-  title:  Engineering Manager & Microsoft MVP (AI)
+  title: Engineering Manager & Microsoft MVP (AI)
+  image_url: https://raw.githubusercontent.com/AzureAiDevs/hub/main/website/static/img/2023-aia/authors/Arafat.png
   url: https://github.com/arafattehsin
-  image_url: https://raw.githubusercontent.com/AzureAiDevs/30_days_blog_generator/main/assets/authors/Arafat.png
-  source_image_url: https://github.com/arafattehsin.png
-  tag: "@arafattehsin"
