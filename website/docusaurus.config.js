@@ -225,7 +225,7 @@ const config = {
          * Required for any multi-instance plugin
          */
         blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Monthly Updates',
+        blogSidebarTitle: 'AiMonthly Updates',
         id: 'ai-update',
         /**
          * URL route for the blog section of your site.

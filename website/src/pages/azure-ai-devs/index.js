@@ -29,13 +29,13 @@ const CampaignFeatures = [
   //   ),
   // },
   {
-    title: 'Join the conversation',
-    Svg: require('@site/static/img/campaign/ama.svg').default,
-    link: "https://github.com/AzureAiDevs/hub/discussions",
+    title: 'AiUpdate Monthly Newsletter',
+    Svg: require('@site/static/img/campaign/newsletter.svg').default,
+    link: "https://azureaidevs.github.io/hub/ai-update",
     fillColor: "#fe6db6",
     description: (
       <>
-        Wanting to connect with other to help solve your problems? Wrote articles to help others? Share them with the community!
+        Stay up to date with the latest Azure AI news, events, and developer content.
       </>
     ),
   },
