@@ -28,7 +28,8 @@ import Social from '@site/src/components/social';
 
 - 👓 [View today's article](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mission-of-responsible-ai/ba-p/3787728?WT.mc_id=aiml-89446-dglover)
 - 🍿 [Tune into the AI Show](https://aka.ms/ai-april-ai-show)
-- 🧬 [Connect with Humans in AI](/hub/humans-in-ai)
+<!-- - 🧬 [Connect with Humans in AI](/hub/humans-in-ai) -->
+- 🗞️ [AiMonthly Newsletter](/hub/ai-update)
 - 🌤️ [Continue the Azure AI Cloud Skills Challenge](https://aka.ms/30-days-of-azure-ai-challenge)
 - 🏫 [Bookmark the Azure AI Technical Community](https://aka.ms/ai-april-tech-community)
 - 🌏 [Join the Global AI Community](https://www.meetup.com/pro/the-global-ai-community)
@@ -103,5 +104,5 @@ What's next? View the [#30DaysOfAzureAI Roadmap](/hub/roadmap/30days)
 
 ## 🧲 Subscribe
 
-- 📬 [Subscribe to the monthly Azure AI and Machine Learning Tech Newsletter](https://aka.ms/azure-ai-dev-newsletter)
+- [![](./../../static/img/2023-aia/rss.png) Subscribe to the AiMonthly RSS XML feed](https://azureaidevs.github.io/hub/ai-update/rss.xml)
 - [![The image is the blog RSS feed available icon](./../../static/img/2023-aia/rss.png) Subscribe to the blog RSS XML feed](https://azureaidevs.github.io/hub/2023-aia/rss.xml)
